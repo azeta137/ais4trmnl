@@ -17,11 +17,9 @@ import time
 
 import websockets
 
-# --- TEST DIAGNOSTICO TEMPORANEO ---
-# Area allargata a tutto il globo per capire se il problema e' l'area
-# geografica scelta oppure qualcos'altro a monte. Ripristineremo un'area
-# piu' piccola una volta confermato che i dati arrivano.
-BBOX = [[-90, -180], [90, 180]]
+# Bounding box: [[lat_min, lon_min], [lat_max, lon_max]]
+# Area: da Nizza a Genova (comprende Monaco).
+BBOX = [[43.30, 6.90], [44.20, 9.00]]
 
 LISTEN_SECONDS = 60
 OUTPUT_PATH = os.path.join("data", "vessels.json")
@@ -37,7 +35,7 @@ async def collect() -> dict:
 
     async with websockets.connect("wss://stream.aisstream.io/v0/stream") as ws:
         subscribe_message = {
-            "Apikey": api_key,
+            "APIKey": api_key,
             "BoundingBoxes": [BBOX],
             "FilterMessageTypes": ["PositionReport", "ShipStaticData"],
         }
