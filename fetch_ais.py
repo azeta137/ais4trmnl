@@ -26,7 +26,11 @@ OUTPUT_PATH = os.path.join("data", "vessels.json")
 
 
 async def collect() -> dict:
-    api_key = os.environ["AISSTREAM_API_KEY"]
+    api_key = os.environ.get("AISSTREAM_API_KEY", "")
+    print(f"DEBUG: lunghezza API key letta dal secret = {len(api_key)} caratteri")
+    if not api_key:
+        raise SystemExit("ERRORE: il secret AISSTREAM_API_KEY e' vuoto o non impostato.")
+
     vessels: dict[str, dict] = {}
 
     async with websockets.connect("wss://stream.aisstream.io/v0/stream") as ws:
@@ -38,6 +42,7 @@ async def collect() -> dict:
         await ws.send(json.dumps(subscribe_message))
 
         deadline = time.monotonic() + LISTEN_SECONDS
+        messages_received = 0
         while time.monotonic() < deadline:
             timeout = deadline - time.monotonic()
             if timeout <= 0:
@@ -46,8 +51,22 @@ async def collect() -> dict:
                 raw = await asyncio.wait_for(ws.recv(), timeout=timeout)
             except asyncio.TimeoutError:
                 break
+            except websockets.exceptions.ConnectionClosed as e:
+                print(
+                    f"DEBUG: connessione chiusa da aisstream.io - "
+                    f"code={e.code} reason={e.reason!r} "
+                    f"(messaggi ricevuti prima della chiusura: {messages_received})"
+                )
+                break
 
+            messages_received += 1
             msg = json.loads(raw)
+
+            # Il primo messaggio dopo un errore di sottoscrizione e' spesso
+            # un messaggio di errore testuale, non un AIS message valido.
+            if "error" in msg:
+                print(f"DEBUG: aisstream.io ha risposto con un errore: {msg}")
+                break
             mmsi = str(msg.get("MetaData", {}).get("MMSI", ""))
             if not mmsi:
                 continue
