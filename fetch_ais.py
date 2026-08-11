@@ -18,10 +18,11 @@ import time
 import websockets
 
 # Bounding box: [[lat_min, lon_min], [lat_max, lon_max]]
-# Default: area costiera intorno a Monaco / Costa Azzurra.
-BBOX = [[43.60, 7.20], [43.85, 7.60]]
+# Area piu' ampia: da Nizza a Genova, per aumentare le probabilita' di
+# intercettare traffico anche con copertura di ricevitori non densissima.
+BBOX = [[43.30, 6.90], [44.20, 9.00]]
 
-LISTEN_SECONDS = 45
+LISTEN_SECONDS = 120
 OUTPUT_PATH = os.path.join("data", "vessels.json")
 
 
@@ -88,6 +89,7 @@ async def collect() -> dict:
                 entry["ship_type"] = sd.get("Type")
                 entry["destination"] = sd.get("Destination", "").strip()
 
+    print(f"DEBUG: messaggi AIS totali ricevuti in questa sessione: {messages_received}")
     return vessels
 
 
