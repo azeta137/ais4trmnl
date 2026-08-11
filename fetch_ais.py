@@ -17,17 +17,18 @@ import time
 
 import websockets
 
-# Bounding box: [[lat_min, lon_min], [lat_max, lon_max]]
-# Area piu' ampia: da Nizza a Genova, per aumentare le probabilita' di
-# intercettare traffico anche con copertura di ricevitori non densissima.
-BBOX = [[43.30, 6.90], [44.20, 9.00]]
+# --- TEST DIAGNOSTICO TEMPORANEO ---
+# Area allargata a tutto il globo per capire se il problema e' l'area
+# geografica scelta oppure qualcos'altro a monte. Ripristineremo un'area
+# piu' piccola una volta confermato che i dati arrivano.
+BBOX = [[-90, -180], [90, 180]]
 
-LISTEN_SECONDS = 120
+LISTEN_SECONDS = 60
 OUTPUT_PATH = os.path.join("data", "vessels.json")
 
 
 async def collect() -> dict:
-    api_key = os.environ.get("AISSTREAM_API_KEY", "")
+    api_key = os.environ.get("AISSTREAM_API_KEY", "").strip()
     print(f"DEBUG: lunghezza API key letta dal secret = {len(api_key)} caratteri")
     if not api_key:
         raise SystemExit("ERRORE: il secret AISSTREAM_API_KEY e' vuoto o non impostato.")
@@ -61,6 +62,8 @@ async def collect() -> dict:
                 break
 
             messages_received += 1
+            if messages_received == 1:
+                print(f"DEBUG: primo messaggio grezzo ricevuto: {raw[:500]}")
             msg = json.loads(raw)
 
             # Il primo messaggio dopo un errore di sottoscrizione e' spesso
