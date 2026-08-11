@@ -17,9 +17,10 @@ import time
 
 import websockets
 
-# Bounding box: [[lat_min, lon_min], [lat_max, lon_max]]
-# Area: da Nizza a Genova (comprende Monaco).
-BBOX = [[43.30, 6.90], [44.20, 9.00]]
+# --- TEST DIAGNOSTICO TEMPORANEO #2 ---
+# Verifichiamo se con il campo "APIKey" (corretto) arrivano dati usando
+# tutto il mondo come area, prima di tornare a un'area piccola.
+BBOX = [[-90, -180], [90, 180]]
 
 LISTEN_SECONDS = 60
 OUTPUT_PATH = os.path.join("data", "vessels.json")
@@ -39,6 +40,9 @@ async def collect() -> dict:
             "BoundingBoxes": [BBOX],
             "FilterMessageTypes": ["PositionReport", "ShipStaticData"],
         }
+        debug_copy = dict(subscribe_message)
+        debug_copy["APIKey"] = api_key[:4] + "..." + api_key[-4:]
+        print(f"DEBUG: messaggio di sottoscrizione inviato: {json.dumps(debug_copy)}")
         await ws.send(json.dumps(subscribe_message))
 
         deadline = time.monotonic() + LISTEN_SECONDS
