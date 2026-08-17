@@ -1,5 +1,206 @@
 {
-  "updated_at": "2026-08-17T05:24:13Z",
-  "count": 0,
-  "vessels": []
+  "updated_at": "2026-08-17T08:05:57Z",
+  "count": 3747,
+  "vessels": [
+    {
+      "mmsi": "245382000",
+      "name": "",
+      "lat": 51.6218,
+      "lon": 3.6878,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-17 08:05:03.621954885 +0000 UTC"
+    },
+    {
+      "mmsi": "246445000",
+      "name": "KNRM-ALIES EN EVERT",
+      "lat": 53.1739,
+      "lon": 4.8692,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-17 08:05:16.990368566 +0000 UTC"
+    },
+    {
+      "mmsi": "227211000",
+      "name": "NOS NORDET",
+      "lat": 49.4476,
+      "lon": -0.472,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-08-17 08:05:18.568288518 +0000 UTC"
+    },
+    {
+      "mmsi": "235080649",
+      "name": "ONWARD N107",
+      "lat": 54.4565,
+      "lon": -5.4395,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-08-17 08:05:21.792027349 +0000 UTC"
+    },
+    {
+      "mmsi": "261007705",
+      "name": "FAIRPLAY-83",
+      "lat": 55.2121,
+      "lon": 12.6771,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 3,
+      "last_update": "2026-08-17 08:05:43.230099304 +0000 UTC"
+    },
+    {
+      "mmsi": "367131000",
+      "name": "ALASKA",
+      "lat": 29.7187,
+      "lon": -93.8632,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-17 08:05:23.794783375 +0000 UTC"
+    },
+    {
+      "mmsi": "368392620",
+      "name": "JACKIE ROBINSON",
+      "lat": 40.7712,
+      "lon": -74.0113,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-17 08:05:27.983724695 +0000 UTC"
+    },
+    {
+      "mmsi": "258320500",
+      "name": "FOSNA VICTORIA",
+      "lat": 65.6793,
+      "lon": -23.5511,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-17 08:05:31.725295767 +0000 UTC"
+    },
+    {
+      "mmsi": "319276200",
+      "name": "KASIF",
+      "lat": 36.8452,
+      "lon": 28.2693,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-17 08:05:38.675360041 +0000 UTC"
+    },
+    {
+      "mmsi": "368173000",
+      "name": "FISHING CREEK",
+      "lat": 37.7739,
+      "lon": -122.2415,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-17 08:05:44.275595256 +0000 UTC"
+    },
+    {
+      "mmsi": "228296900",
+      "name": "CAPT. LOUIS THOMAS",
+      "lat": 49.4592,
+      "lon": 0.5508,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-17 08:05:49.940351471 +0000 UTC"
+    },
+    {
+      "mmsi": "374782000",
+      "name": "KMTC NAGOYA",
+      "lat": 13.6757,
+      "lon": 100.6217,
+      "sog": 102.2,
+      "cog": 23.8,
+      "nav_status": 5,
+      "last_update": "2026-08-17 08:05:32.490043971 +0000 UTC"
+    },
+    {
+      "mmsi": "255916591",
+      "name": "ESPERANCE",
+      "lat": 56.0285,
+      "lon": 20.2697,
+      "sog": 54.7,
+      "cog": 231,
+      "nav_status": 0,
+      "last_update": "2026-08-17 08:05:19.986169676 +0000 UTC"
+    },
+    {
+      "mmsi": "219018172",
+      "name": "EXPRESS 2",
+      "lat": 56.018,
+      "lon": 10.8508,
+      "sog": 36.4,
+      "cog": 280.7,
+      "nav_status": 0,
+      "last_update": "2026-08-17 08:05:02.432817057 +0000 UTC"
+    },
+    {
+      "mmsi": "241881000",
+      "name": "SUPEREXPRESS",
+      "lat": 37.3035,
+      "lon": 25.3101,
+      "sog": 35.5,
+      "cog": 167.3,
+      "nav_status": 0,
+      "last_update": "2026-08-17 08:05:41.985439135 +0000 UTC"
+    },
+    {
+      "mmsi": "413492390",
+      "name": "XIN HAI WEI",
+      "lat": 22.2927,
+      "lon": 114.1294,
+      "sog": 33.6,
+      "cog": 72.6,
+      "nav_status": 0,
+      "last_update": "2026-08-17 08:04:57.304787879 +0000 UTC"
+    },
+    {
+      "mmsi": "265048050",
+      "name": "RESCUE LENAH",
+      "lat": 57.5491,
+      "lon": 11.698,
+      "sog": 33.3,
+      "cog": 180.8,
+      "nav_status": 0,
+      "last_update": "2026-08-17 08:05:15.667440851 +0000 UTC"
+    },
+    {
+      "mmsi": "244615779",
+      "name": "TIGER",
+      "lat": 53.1835,
+      "lon": 5.3664,
+      "sog": 32.8,
+      "cog": 110.4,
+      "nav_status": 0,
+      "last_update": "2026-08-17 08:05:15.186909678 +0000 UTC"
+    },
+    {
+      "mmsi": "224388000",
+      "name": "BANADEROS EXPRESS",
+      "lat": 28.1289,
+      "lon": -15.7742,
+      "sog": 31.6,
+      "cog": 130.2,
+      "nav_status": 0,
+      "last_update": "2026-08-17 08:05:00.241660552 +0000 UTC"
+    },
+    {
+      "mmsi": "240508300",
+      "name": "GOLDEN PRINCESS",
+      "lat": 37.2115,
+      "lon": 25.1845,
+      "sog": 31,
+      "cog": 207.7,
+      "nav_status": 0,
+      "last_update": "2026-08-17 08:05:01.303835301 +0000 UTC"
+    }
+  ]
 }
