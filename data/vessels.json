@@ -1,38 +1,46 @@
 {
-  "updated_at": "2026-08-17T14:59:06Z",
-  "count": 3697,
+  "updated_at": "2026-08-17T15:55:46Z",
+  "count": 3724,
   "vessels": [
     {
-      "mmsi": "235034368",
-      "name": "MULTI-SURVEY 4",
-      "lat": 52.9549,
-      "lon": 4.7791,
+      "mmsi": "235086068",
+      "name": "WINDCAT 27",
+      "lat": 51.6358,
+      "lon": 1.5502,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-17 14:58:06.008690353 +0000 UTC",
-      "ship_type": 33,
-      "destination": "SURVEY"
+      "last_update": "2026-08-17 15:54:49.074415762 +0000 UTC"
     },
     {
-      "mmsi": "227211000",
-      "name": "NOS NORDET",
-      "lat": 49.4372,
-      "lon": -0.5312,
+      "mmsi": "428067000",
+      "name": "BAT GALIM",
+      "lat": 32.8202,
+      "lon": 35.0073,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-08-17 14:58:18.136916041 +0000 UTC"
+      "nav_status": 5,
+      "last_update": "2026-08-17 15:54:49.705330932 +0000 UTC"
     },
     {
-      "mmsi": "244045000",
-      "name": "HEBO-CAT 15",
-      "lat": 53.1875,
-      "lon": 5.4319,
+      "mmsi": "244120000",
+      "name": "ANTEOS",
+      "lat": 52.1866,
+      "lon": 4.2161,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-17 14:58:21.163785956 +0000 UTC"
+      "last_update": "2026-08-17 15:55:00.730138464 +0000 UTC"
+    },
+    {
+      "mmsi": "257820700",
+      "name": "VIKNAVAERINGEN",
+      "lat": 64.9027,
+      "lon": 11.2563,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-17 15:55:16.071517853 +0000 UTC"
     },
     {
       "mmsi": "210588000",
@@ -42,169 +50,159 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 8,
-      "last_update": "2026-08-17 14:58:27.757052212 +0000 UTC"
+      "last_update": "2026-08-17 15:55:17.112899192 +0000 UTC"
     },
     {
-      "mmsi": "240796900",
-      "name": "SEALINK VII",
-      "lat": 37.8626,
-      "lon": 23.744,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-08-17 14:58:38.537524741 +0000 UTC"
-    },
-    {
-      "mmsi": "244780802",
-      "name": "WL4 HENDERIKA",
-      "lat": 53.3348,
-      "lon": 6.3042,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 7,
-      "last_update": "2026-08-17 14:58:47.495453407 +0000 UTC"
-    },
-    {
-      "mmsi": "244710626",
-      "name": "BENCKES",
-      "lat": 51.8809,
-      "lon": 4.4355,
+      "mmsi": "319276200",
+      "name": "KASIF",
+      "lat": 36.845,
+      "lon": 28.2697,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-17 14:58:53.346614131 +0000 UTC"
+      "last_update": "2026-08-17 15:55:41.229987297 +0000 UTC"
     },
     {
-      "mmsi": "316052438",
-      "name": "STHUQI",
-      "lat": 49.2887,
-      "lon": -123.4344,
-      "sog": 33.7,
-      "cog": 76.7,
-      "nav_status": 9,
-      "last_update": "2026-08-17 14:59:02.504634537 +0000 UTC"
+      "mmsi": "257863000",
+      "name": "ROSESUND",
+      "lat": 60.5311,
+      "lon": 4.8787,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-17 15:55:32.279023145 +0000 UTC"
+    },
+    {
+      "mmsi": "244045000",
+      "name": "HEBO-CAT 15",
+      "lat": 53.1875,
+      "lon": 5.4319,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-17 15:55:41.511986622 +0000 UTC"
+    },
+    {
+      "mmsi": "620800420",
+      "name": "AVALON M",
+      "lat": 42.8928,
+      "lon": 28.4089,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 1,
+      "last_update": "2026-08-17 15:55:41.534032665 +0000 UTC"
+    },
+    {
+      "mmsi": "257135500",
+      "name": "LEON OLAI",
+      "lat": 63.7998,
+      "lon": 8.6794,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-17 15:55:41.84430219 +0000 UTC"
+    },
+    {
+      "mmsi": "512004996",
+      "name": "PILOTVESSEL WAKATERE",
+      "lat": -36.8341,
+      "lon": 174.8201,
+      "sog": 37.3,
+      "cog": 221.2,
+      "nav_status": 0,
+      "last_update": "2026-08-17 15:55:19.088261569 +0000 UTC"
+    },
+    {
+      "mmsi": "368395270",
+      "name": "KARL",
+      "lat": 37.7821,
+      "lon": -122.3477,
+      "sog": 35,
+      "cog": 296.3,
+      "nav_status": 0,
+      "last_update": "2026-08-17 15:54:53.626252917 +0000 UTC"
     },
     {
       "mmsi": "224781000",
       "name": "VOLCAN DE TAGORO",
-      "lat": 28.1731,
-      "lon": -15.3854,
-      "sog": 32.9,
-      "cog": 349.4,
+      "lat": 28.3577,
+      "lon": -15.964,
+      "sog": 33.9,
+      "cog": 293.7,
       "nav_status": 9,
-      "last_update": "2026-08-17 14:58:08.962505262 +0000 UTC"
+      "last_update": "2026-08-17 15:55:24.205836078 +0000 UTC"
     },
     {
-      "mmsi": "237247600",
-      "name": "F/D ATHINA",
-      "lat": 37.9379,
-      "lon": 23.6179,
-      "sog": 32.7,
-      "cog": 94.7,
+      "mmsi": "219236000",
+      "name": "FJORD FSTR",
+      "lat": 57.9974,
+      "lon": 8.3783,
+      "sog": 33.6,
+      "cog": 112.8,
       "nav_status": 0,
-      "last_update": "2026-08-17 14:59:00.766919213 +0000 UTC"
+      "last_update": "2026-08-17 15:55:22.632919663 +0000 UTC"
     },
     {
-      "mmsi": "368317740",
-      "name": "BEAVER",
-      "lat": 45.7543,
-      "lon": -122.7642,
-      "sog": 30.7,
-      "cog": 176.8,
+      "mmsi": "258352500",
+      "name": "ADMIRALEN",
+      "lat": 59.7724,
+      "lon": 5.3503,
+      "sog": 33.3,
+      "cog": 131.4,
       "nav_status": 0,
-      "last_update": "2026-08-17 14:58:47.262727021 +0000 UTC"
+      "last_update": "2026-08-17 15:54:58.408197601 +0000 UTC"
     },
     {
-      "mmsi": "235070199",
-      "name": "MANANNAN",
+      "mmsi": "224131000",
+      "name": "BAJAMAR EXPRESS",
+      "lat": 28.4108,
+      "lon": -16.1254,
+      "sog": 33.2,
+      "cog": 301.3,
+      "nav_status": 0,
+      "last_update": "2026-08-17 15:55:30.698106241 +0000 UTC"
+    },
+    {
+      "mmsi": "367145870",
+      "name": "IYANOUGH",
+      "lat": 41.3131,
+      "lon": -70.1026,
+      "sog": 33,
+      "cog": 160.1,
+      "nav_status": 0,
+      "last_update": "2026-08-17 15:55:24.648109053 +0000 UTC"
+    },
+    {
+      "mmsi": "258999000",
+      "name": "FJORDBRIS",
+      "lat": 60.0223,
+      "lon": 5.1927,
+      "sog": 32.8,
+      "cog": 329.1,
+      "nav_status": 0,
+      "last_update": "2026-08-17 15:54:58.691208343 +0000 UTC"
+    },
+    {
+      "mmsi": "546021800",
+      "name": "AREMITI 6",
+      "lat": -17.5228,
+      "lon": -149.7683,
+      "sog": 32.5,
+      "cog": 280,
+      "nav_status": 0,
+      "last_update": "2026-08-17 15:55:03.395894963 +0000 UTC",
       "ship_type": 40,
-      "destination": "LIVERPOOL",
-      "lat": 53.9902,
-      "lon": -4.1653,
-      "sog": 30.2,
-      "cog": 133.5,
-      "nav_status": 0,
-      "last_update": "2026-08-17 14:58:39.641379951 +0000 UTC"
+      "destination": "PAPEETE"
     },
     {
-      "mmsi": "241804000",
-      "name": "AERO 3 HIGHSPEED",
-      "lat": 37.7668,
-      "lon": 23.4155,
-      "sog": 30.2,
-      "cog": 30.7,
+      "mmsi": "368151810",
+      "name": "ENETAI",
+      "lat": 47.6005,
+      "lon": -122.3629,
+      "sog": 31.7,
+      "cog": 84,
       "nav_status": 0,
-      "last_update": "2026-08-17 14:58:44.108524526 +0000 UTC"
-    },
-    {
-      "mmsi": "237176400",
-      "name": "DODEKANISOS EXPRESS",
-      "lat": 36.6319,
-      "lon": 27.8644,
-      "sog": 29.4,
-      "cog": 64.1,
-      "nav_status": 0,
-      "last_update": "2026-08-17 14:58:53.863235956 +0000 UTC"
-    },
-    {
-      "mmsi": "210658000",
-      "name": "MAGIC 5",
-      "lat": 37.8319,
-      "lon": 23.516,
-      "sog": 28.6,
-      "cog": 40.4,
-      "nav_status": 0,
-      "last_update": "2026-08-17 14:58:13.528176576 +0000 UTC"
-    },
-    {
-      "mmsi": "368087510",
-      "name": "JULIA LEIGH",
-      "lat": 41.4378,
-      "lon": -70.7983,
-      "sog": 28.6,
-      "cog": 75.5,
-      "nav_status": 0,
-      "last_update": "2026-08-17 14:58:32.670437664 +0000 UTC"
-    },
-    {
-      "mmsi": "210746000",
-      "name": "AERO 5 HIGHSPEED",
-      "lat": 37.7879,
-      "lon": 23.5724,
-      "sog": 28.5,
-      "cog": 184.6,
-      "nav_status": 0,
-      "last_update": "2026-08-17 14:58:21.123130099 +0000 UTC"
-    },
-    {
-      "mmsi": "367782940",
-      "name": "GLORY",
-      "lat": 42.3364,
-      "lon": -71.0025,
-      "sog": 27.3,
-      "cog": 328.4,
-      "nav_status": 0,
-      "last_update": "2026-08-17 14:58:54.201361879 +0000 UTC"
-    },
-    {
-      "mmsi": "247058700",
-      "name": "SNAV ALCIONE",
-      "lat": 40.8078,
-      "lon": 14.2557,
-      "sog": 27.2,
-      "cog": 236.7,
-      "nav_status": 0,
-      "last_update": "2026-08-17 14:59:02.033591292 +0000 UTC"
-    },
-    {
-      "mmsi": "255915767",
-      "name": "NORDLICHT",
-      "lat": 53.3317,
-      "lon": 7.1165,
-      "sog": 26.5,
-      "cog": 264.4,
-      "nav_status": 0,
-      "last_update": "2026-08-17 14:58:09.829868289 +0000 UTC"
+      "last_update": "2026-08-17 15:54:51.270016933 +0000 UTC"
     }
   ]
 }
