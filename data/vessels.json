@@ -1,27 +1,7 @@
 {
-  "updated_at": "2026-08-17T17:02:34Z",
-  "count": 3430,
+  "updated_at": "2026-08-17T19:16:03Z",
+  "count": 3236,
   "vessels": [
-    {
-      "mmsi": "210920000",
-      "name": "VTS PENTADAKTYLOS",
-      "lat": 34.7185,
-      "lon": 33.3178,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-17 17:01:26.044582188 +0000 UTC"
-    },
-    {
-      "mmsi": "352002481",
-      "name": "BARU SIERRA NEVADA",
-      "lat": -22.8488,
-      "lon": -43.1304,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-08-17 17:02:04.616057227 +0000 UTC"
-    },
     {
       "mmsi": "235104009",
       "name": "SALTHOLME",
@@ -30,181 +10,201 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-17 17:02:05.210241764 +0000 UTC"
+      "last_update": "2026-08-17 19:14:55.080813688 +0000 UTC",
+      "ship_type": 40,
+      "destination": "TEES PILOTAGE"
     },
     {
-      "mmsi": "259028270",
-      "name": "MAROSUND",
-      "lat": 70.898,
-      "lon": 27.2273,
+      "mmsi": "261007705",
+      "name": "FAIRPLAY-83",
+      "lat": 56.0943,
+      "lon": 12.5922,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 3,
+      "last_update": "2026-08-17 19:15:04.526209317 +0000 UTC"
+    },
+    {
+      "mmsi": "244120000",
+      "name": "ANTEOS",
+      "lat": 52.0991,
+      "lon": 4.2624,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-17 17:02:14.206054567 +0000 UTC"
+      "last_update": "2026-08-17 19:15:10.281529008 +0000 UTC"
     },
     {
-      "mmsi": "240796900",
-      "name": "SEALINK VII",
-      "lat": 37.8626,
-      "lon": 23.744,
+      "mmsi": "244374235",
+      "name": "NT 11 WATERTRAPPER",
+      "lat": 52.3995,
+      "lon": 4.8998,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-17 19:15:14.892056943 +0000 UTC"
+    },
+    {
+      "mmsi": "224081150",
+      "name": "MARIA DOS ANXOS",
+      "lat": 43.3609,
+      "lon": -8.4026,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 7,
+      "last_update": "2026-08-17 19:15:23.975390852 +0000 UTC"
+    },
+    {
+      "mmsi": "235034368",
+      "name": "MULTI-SURVEY 4",
+      "lat": 52.9549,
+      "lon": 4.7791,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-17 19:15:24.499311272 +0000 UTC"
+    },
+    {
+      "mmsi": "244780802",
+      "name": "WL4 HENDERIKA",
+      "lat": 53.3348,
+      "lon": 6.3042,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 7,
+      "last_update": "2026-08-17 19:15:28.108556439 +0000 UTC"
+    },
+    {
+      "mmsi": "249698000",
+      "name": "INS LAND",
+      "lat": 38.2259,
+      "lon": 15.2443,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-17 19:15:30.888610156 +0000 UTC"
+    },
+    {
+      "mmsi": "258062500",
+      "name": "PERLEN",
+      "lat": 68.697,
+      "lon": 15.4211,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-08-17 19:15:36.152926904 +0000 UTC"
+    },
+    {
+      "mmsi": "352002481",
+      "name": "BARU SIERRA NEVADA",
+      "lat": -22.8487,
+      "lon": -43.1303,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 1,
-      "last_update": "2026-08-17 17:02:18.86119076 +0000 UTC"
+      "last_update": "2026-08-17 19:15:45.878273085 +0000 UTC"
     },
     {
-      "mmsi": "367707490",
-      "name": "ROBIN MARIE",
-      "lat": 27.9397,
-      "lon": -82.4411,
+      "mmsi": "247130800",
+      "name": "SVEZIA",
+      "lat": 44.4112,
+      "lon": 8.9201,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-08-17 17:02:19.089826831 +0000 UTC"
+      "last_update": "2026-08-17 19:15:50.664319909 +0000 UTC"
     },
     {
-      "mmsi": "255916591",
-      "name": "ESPERANCE",
-      "ship_type": 79,
-      "destination": "HAMBURG",
-      "lat": 56.0285,
-      "lon": 20.2697,
-      "sog": 54.8,
-      "cog": 230.9,
+      "mmsi": "770576272",
+      "name": "FRANCISCO",
+      "lat": -34.5989,
+      "lon": -58.2851,
+      "sog": 44.1,
+      "cog": 101.1,
       "nav_status": 0,
-      "last_update": "2026-08-17 17:01:47.670214672 +0000 UTC"
+      "last_update": "2026-08-17 19:15:05.501089807 +0000 UTC"
     },
     {
-      "mmsi": "241881000",
-      "name": "SUPEREXPRESS",
-      "lat": 37.3852,
-      "lon": 25.2885,
-      "sog": 35.6,
-      "cog": 169.4,
-      "nav_status": 0,
-      "last_update": "2026-08-17 17:01:27.932137197 +0000 UTC"
+      "mmsi": "219705000",
+      "name": "EXPRESS 4",
+      "lat": 56.0163,
+      "lon": 10.8148,
+      "sog": 37.6,
+      "cog": 283.5,
+      "nav_status": 9,
+      "last_update": "2026-08-17 19:15:28.986710087 +0000 UTC"
     },
     {
-      "mmsi": "368395270",
-      "name": "KARL",
-      "lat": 37.7776,
-      "lon": -122.3629,
-      "sog": 35.1,
-      "cog": 139.9,
-      "nav_status": 0,
-      "last_update": "2026-08-17 17:01:53.830642606 +0000 UTC"
-    },
-    {
-      "mmsi": "368067090",
-      "name": "RELIANCE",
-      "ship_type": 40,
-      "destination": "USPWT>USSEA>USPWT",
-      "lat": 47.5866,
-      "lon": -122.4361,
-      "sog": 33.6,
-      "cog": 247,
-      "nav_status": 0,
-      "last_update": "2026-08-17 17:02:20.681621534 +0000 UTC"
-    },
-    {
-      "mmsi": "265832560",
-      "name": "RESCUE ANNA SOFIA",
-      "lat": 59.6604,
-      "lon": 18.949,
-      "sog": 32.8,
-      "cog": 220,
-      "nav_status": 0,
-      "last_update": "2026-08-17 17:02:03.440661086 +0000 UTC"
-    },
-    {
-      "mmsi": "235117772",
-      "name": "ISLAND FLYER",
-      "lat": 50.7445,
-      "lon": -1.1512,
-      "sog": 31.4,
-      "cog": 25.2,
-      "nav_status": 0,
-      "last_update": "2026-08-17 17:01:25.902673274 +0000 UTC"
-    },
-    {
-      "mmsi": "237023800",
-      "name": "FLYING DOLPHIN XIX",
-      "lat": 37.7131,
-      "lon": 23.3809,
-      "sog": 31,
-      "cog": 246.5,
-      "nav_status": 5,
-      "last_update": "2026-08-17 17:01:29.487489866 +0000 UTC"
+      "mmsi": "316052439",
+      "name": "SPUHELS",
+      "lat": 49.2671,
+      "lon": -123.5419,
+      "sog": 32.6,
+      "cog": 257,
+      "nav_status": 9,
+      "last_update": "2026-08-17 19:15:27.185832027 +0000 UTC"
     },
     {
       "mmsi": "210049000",
       "name": "ELEANOR ROOSEVELT",
-      "lat": 38.8601,
-      "lon": 1.4482,
-      "sog": 29.4,
-      "cog": 19,
+      "lat": 39.245,
+      "lon": 2.167,
+      "sog": 31.9,
+      "cog": 60.4,
       "nav_status": 0,
-      "last_update": "2026-08-17 17:01:30.701907806 +0000 UTC"
+      "last_update": "2026-08-17 19:15:20.523555355 +0000 UTC"
     },
     {
-      "mmsi": "224247000",
-      "name": "RAMON LLULL",
-      "lat": 38.8117,
-      "lon": 0.7593,
-      "sog": 28.5,
-      "cog": 95.7,
+      "mmsi": "367582110",
+      "name": "PROVINCETOWN IV",
+      "lat": 42.031,
+      "lon": -70.2413,
+      "sog": 31.3,
+      "cog": 302.4,
       "nav_status": 0,
-      "last_update": "2026-08-17 17:01:40.157150947 +0000 UTC"
+      "last_update": "2026-08-17 19:15:40.507782925 +0000 UTC"
     },
     {
-      "mmsi": "563086090",
-      "name": "PILOT 16",
-      "lat": 1.2494,
-      "lon": 103.8565,
-      "sog": 26.2,
-      "cog": 308.8,
+      "mmsi": "265553750",
+      "name": "KBV 453",
+      "lat": 57.6926,
+      "lon": 11.7019,
+      "sog": 31.2,
+      "cog": 98.6,
+      "nav_status": 5,
+      "last_update": "2026-08-17 19:15:10.708213275 +0000 UTC"
+    },
+    {
+      "mmsi": "368396226",
+      "name": "NANTUCKET_EXPRESS",
+      "lat": 41.4231,
+      "lon": -70.2551,
+      "sog": 30,
+      "cog": 101.2,
       "nav_status": 15,
-      "last_update": "2026-08-17 17:01:37.003302004 +0000 UTC"
+      "last_update": "2026-08-17 19:15:05.497346445 +0000 UTC"
     },
     {
-      "mmsi": "503079250",
-      "name": "PV GOONANGA",
-      "lat": -23.8638,
-      "lon": 151.4151,
-      "sog": 25.3,
-      "cog": 270.5,
-      "nav_status": 9,
-      "last_update": "2026-08-17 17:01:44.702955542 +0000 UTC"
-    },
-    {
-      "mmsi": "212561000",
-      "name": "CEUTA JET",
-      "lat": 36.0753,
-      "lon": -5.3783,
-      "sog": 25.2,
-      "cog": 346.9,
+      "mmsi": "235056993",
+      "name": "CYCLONE CLIPPER",
+      "lat": 51.5002,
+      "lon": 0.0139,
+      "sog": 29.1,
+      "cog": 130.1,
       "nav_status": 0,
-      "last_update": "2026-08-17 17:01:49.874274348 +0000 UTC"
+      "last_update": "2026-08-17 19:15:36.036280597 +0000 UTC"
     },
     {
-      "mmsi": "225985592",
-      "name": "ESPALMADOR JET",
-      "lat": 38.7793,
-      "lon": 1.409,
-      "sog": 24.9,
-      "cog": 5.9,
-      "nav_status": 0,
-      "last_update": "2026-08-17 17:01:32.175350883 +0000 UTC"
-    },
-    {
-      "mmsi": "239737000",
-      "name": "BLUE STAR 2",
-      "lat": 37.5199,
-      "lon": 24.2177,
-      "sog": 24.9,
-      "cog": 110.7,
-      "nav_status": 0,
-      "last_update": "2026-08-17 17:02:01.383108741 +0000 UTC"
+      "mmsi": "367199310",
+      "name": "CATALINA JET",
+      "ship_type": 40,
+      "destination": "LONG BEACH; AVALON",
+      "lat": 33.4877,
+      "lon": -118.2528,
+      "sog": 28.5,
+      "cog": 22.1,
+      "nav_status": 15,
+      "last_update": "2026-08-17 19:15:30.540381163 +0000 UTC"
     }
   ]
 }
