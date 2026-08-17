@@ -1,116 +1,76 @@
 {
-  "updated_at": "2026-08-17T10:08:06Z",
-  "count": 3847,
+  "updated_at": "2026-08-17T11:45:03Z",
+  "count": 3639,
   "vessels": [
     {
-      "mmsi": "235104009",
-      "name": "SALTHOLME",
-      "lat": 54.5843,
-      "lon": -1.2305,
+      "mmsi": "257952800",
+      "name": "LAKSEN",
+      "lat": 67.202,
+      "lon": 15.2783,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-17 10:07:05.810813924 +0000 UTC"
-    },
-    {
-      "mmsi": "224069950",
-      "name": "SALVAMAR MIRACH",
-      "lat": 42.2596,
-      "lon": -8.785,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-17 10:07:12.186391725 +0000 UTC"
-    },
-    {
-      "mmsi": "245382000",
-      "name": "",
-      "lat": 51.6217,
-      "lon": 3.6879,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-17 10:07:15.520514804 +0000 UTC"
-    },
-    {
-      "mmsi": "258062500",
-      "name": "PERLEN",
-      "lat": 68.697,
-      "lon": 15.4212,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-08-17 10:07:15.983446789 +0000 UTC"
-    },
-    {
-      "mmsi": "257135500",
-      "name": "",
-      "lat": 63.7998,
-      "lon": 8.6793,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-17 10:07:21.164572221 +0000 UTC"
-    },
-    {
-      "mmsi": "244710626",
-      "name": "BENCKES",
-      "lat": 51.8815,
-      "lon": 4.4012,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-17 10:07:22.707225213 +0000 UTC"
+      "last_update": "2026-08-17 11:44:06.8948332 +0000 UTC"
     },
     {
       "mmsi": "246445000",
       "name": "KNRM-ALIES EN EVERT",
-      "lat": 53.174,
-      "lon": 4.8691,
+      "lat": 53.1739,
+      "lon": 4.8693,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-17 10:07:26.536288029 +0000 UTC"
-    },
-    {
-      "mmsi": "257863000",
-      "name": "ROSESUND",
-      "lat": 60.5311,
-      "lon": 4.8787,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-17 10:07:34.72636446 +0000 UTC"
+      "last_update": "2026-08-17 11:44:07.638810282 +0000 UTC"
     },
     {
       "mmsi": "227211000",
       "name": "NOS NORDET",
-      "lat": 49.4419,
-      "lon": -0.4602,
+      "lat": 49.4477,
+      "lon": -0.488,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-08-17 10:07:38.400459313 +0000 UTC"
+      "last_update": "2026-08-17 11:44:07.704800779 +0000 UTC"
     },
     {
-      "mmsi": "620800420",
-      "name": "AVALON M",
-      "lat": 42.8929,
-      "lon": 28.4086,
+      "mmsi": "210588000",
+      "name": "LEDRA PRIDE",
+      "lat": 34.6452,
+      "lon": 33.018,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-08-17 10:07:42.040285043 +0000 UTC"
+      "nav_status": 8,
+      "last_update": "2026-08-17 11:44:18.181549573 +0000 UTC"
     },
     {
-      "mmsi": "259046050",
-      "name": "FREMAD",
-      "lat": 66.3527,
-      "lon": 12.4739,
+      "mmsi": "518903000",
+      "name": "ANNABEL II",
+      "lat": 38.3282,
+      "lon": 21.7815,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-08-17 11:44:21.615292966 +0000 UTC"
+    },
+    {
+      "mmsi": "428009093",
+      "name": "NIR N",
+      "lat": 32.5171,
+      "lon": 34.7764,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-17 10:07:45.596134467 +0000 UTC"
+      "last_update": "2026-08-17 11:44:25.513141153 +0000 UTC"
+    },
+    {
+      "mmsi": "319414500",
+      "name": "ASOLARE",
+      "lat": 39.1052,
+      "lon": 1.4956,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-17 11:44:29.1927358 +0000 UTC"
     },
     {
       "mmsi": "368392620",
@@ -120,87 +80,127 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-17 10:07:48.61366686 +0000 UTC"
+      "last_update": "2026-08-17 11:44:37.843444255 +0000 UTC"
     },
     {
-      "mmsi": "258320500",
-      "name": "FOSNA VICTORIA",
-      "lat": 65.6756,
-      "lon": -23.5422,
+      "mmsi": "235080649",
+      "name": "ONWARD N107",
+      "lat": 54.4565,
+      "lon": -5.4396,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-17 10:07:52.114744213 +0000 UTC"
+      "nav_status": 15,
+      "last_update": "2026-08-17 11:44:42.15935498 +0000 UTC"
     },
     {
-      "mmsi": "244045000",
-      "name": "HEBO-CAT 15",
-      "lat": 53.1867,
-      "lon": 5.1682,
+      "mmsi": "620800420",
+      "name": "AVALON M",
+      "lat": 42.8929,
+      "lon": 28.4086,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 1,
+      "last_update": "2026-08-17 11:44:51.596102859 +0000 UTC"
+    },
+    {
+      "mmsi": "235034368",
+      "name": "MULTI-SURVEY 4",
+      "lat": 53.0068,
+      "lon": 4.7939,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-17 10:08:01.282850146 +0000 UTC"
+      "last_update": "2026-08-17 11:44:55.723495329 +0000 UTC"
     },
     {
-      "mmsi": "212859000",
-      "name": "MERCEDES PINTO",
-      "lat": 28.1071,
-      "lon": -15.1222,
-      "sog": 35,
-      "cog": 277.1,
+      "mmsi": "241881000",
+      "name": "SUPEREXPRESS",
+      "lat": 37.853,
+      "lon": 24.4347,
+      "sog": 32.9,
+      "cog": 293,
       "nav_status": 0,
-      "last_update": "2026-08-17 10:07:36.981261729 +0000 UTC"
+      "last_update": "2026-08-17 11:44:20.001062858 +0000 UTC"
     },
     {
-      "mmsi": "235117926",
-      "name": "RED JET 6",
-      "lat": 50.8468,
-      "lon": -1.3312,
-      "sog": 33.2,
-      "cog": 315.2,
+      "mmsi": "368612000",
+      "name": "RICH PASSAGE 1",
+      "lat": 47.5679,
+      "lon": -122.5986,
+      "sog": 32.6,
+      "cog": 41.7,
       "nav_status": 0,
-      "last_update": "2026-08-17 10:08:00.93908965 +0000 UTC"
+      "last_update": "2026-08-17 11:44:30.54114353 +0000 UTC"
+    },
+    {
+      "mmsi": "210753000",
+      "name": "PEPITA CASTELLVI",
+      "lat": 28.0036,
+      "lon": -16.7866,
+      "sog": 31.6,
+      "cog": 236.1,
+      "nav_status": 0,
+      "last_update": "2026-08-17 11:44:09.774918928 +0000 UTC"
+    },
+    {
+      "mmsi": "367347130",
+      "name": "SEASTREAK NEW YORK",
+      "lat": 40.5622,
+      "lon": -74.0622,
+      "sog": 31.4,
+      "cog": 3.9,
+      "nav_status": 15,
+      "last_update": "2026-08-17 11:44:50.041935196 +0000 UTC"
     },
     {
       "mmsi": "240931000",
       "name": "SUPERRUNNER JET",
-      "lat": 37.9594,
-      "lon": 24.3256,
-      "sog": 31.5,
-      "cog": 279.9,
+      "lat": 38.0094,
+      "lon": 24.0806,
+      "sog": 30.7,
+      "cog": 108,
       "nav_status": 0,
-      "last_update": "2026-08-17 10:07:05.549480546 +0000 UTC"
+      "last_update": "2026-08-17 11:44:52.260640687 +0000 UTC"
     },
     {
-      "mmsi": "368013770",
-      "name": "COMMODORE",
-      "lat": 40.519,
-      "lon": -74.0304,
-      "sog": 30.9,
-      "cog": 354.5,
+      "mmsi": "235070199",
+      "name": "MANANNAN",
+      "lat": 53.7761,
+      "lon": -3.7639,
+      "sog": 28.5,
+      "cog": 313.1,
       "nav_status": 0,
-      "last_update": "2026-08-17 10:07:12.235854496 +0000 UTC"
+      "last_update": "2026-08-17 11:44:16.932717701 +0000 UTC"
     },
     {
-      "mmsi": "257151900",
-      "name": "VINGTOR",
-      "lat": 61.1973,
-      "lon": 6.6072,
-      "sog": 30.5,
-      "cog": 104.1,
-      "nav_status": 9,
-      "last_update": "2026-08-17 10:07:22.119696327 +0000 UTC"
+      "mmsi": "247415700",
+      "name": "GABRIELE M",
+      "lat": 38.2243,
+      "lon": 15.2621,
+      "sog": 28.1,
+      "cog": 24.9,
+      "nav_status": 0,
+      "last_update": "2026-08-17 11:44:22.740369922 +0000 UTC"
     },
     {
-      "mmsi": "241803000",
-      "name": "AERO 2 HIGHSPEED",
-      "lat": 37.7564,
-      "lon": 23.4157,
-      "sog": 30.4,
-      "cog": 168.4,
+      "mmsi": "366851680",
+      "name": "SEN FRANK LAUTENBERG",
+      "lat": 40.7021,
+      "lon": -74.0237,
+      "sog": 27.4,
+      "cog": 186.4,
       "nav_status": 0,
-      "last_update": "2026-08-17 10:07:50.812422535 +0000 UTC"
+      "last_update": "2026-08-17 11:44:52.27844178 +0000 UTC"
+    },
+    {
+      "mmsi": "247058700",
+      "name": "SNAV ALCIONE",
+      "lat": 40.7722,
+      "lon": 14.0692,
+      "sog": 26.4,
+      "cog": 92.6,
+      "nav_status": 0,
+      "last_update": "2026-08-17 11:44:29.3129385 +0000 UTC"
     }
   ]
 }
