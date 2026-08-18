@@ -1,56 +1,16 @@
 {
-  "updated_at": "2026-08-18T17:04:28Z",
-  "count": 3817,
+  "updated_at": "2026-08-18T19:10:55Z",
+  "count": 3646,
   "vessels": [
     {
       "mmsi": "319276200",
       "name": "KASIF",
-      "lat": 36.8453,
+      "lat": 36.8455,
       "lon": 28.2701,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-18 17:03:26.518374405 +0000 UTC"
-    },
-    {
-      "mmsi": "244060365",
-      "name": "KNRM ARBOR VITAE",
-      "lat": 53.4088,
-      "lon": 6.1974,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-18 17:03:30.92943825 +0000 UTC"
-    },
-    {
-      "mmsi": "235034368",
-      "name": "MULTI-SURVEY 4",
-      "lat": 51.9774,
-      "lon": 4.1219,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-18 17:03:32.314806837 +0000 UTC"
-    },
-    {
-      "mmsi": "244045000",
-      "name": "HEBO-CAT 15",
-      "lat": 53.1875,
-      "lon": 5.4319,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-18 17:03:41.344248633 +0000 UTC"
-    },
-    {
-      "mmsi": "246445000",
-      "name": "KNRM-ALIES EN EVERT",
-      "lat": 53.1739,
-      "lon": 4.8692,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-18 17:03:51.723454534 +0000 UTC"
+      "last_update": "2026-08-18 19:09:53.429334457 +0000 UTC"
     },
     {
       "mmsi": "259046050",
@@ -60,17 +20,77 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-18 17:03:56.181355546 +0000 UTC"
+      "last_update": "2026-08-18 19:10:05.859639676 +0000 UTC"
     },
     {
-      "mmsi": "428067000",
-      "name": "BAT GALIM",
-      "lat": 32.8202,
-      "lon": 35.0073,
+      "mmsi": "244060365",
+      "name": "KNRM ARBOR VITAE",
+      "lat": 53.4088,
+      "lon": 6.1974,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-18 19:10:09.652286876 +0000 UTC"
+    },
+    {
+      "mmsi": "244660203",
+      "name": "EIGER",
+      "lat": 51.88,
+      "lon": 4.24,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-08-18 17:03:56.89497524 +0000 UTC"
+      "last_update": "2026-08-18 19:10:15.08353717 +0000 UTC"
+    },
+    {
+      "mmsi": "601126900",
+      "name": "SEA EXPRESS",
+      "lat": -29.8681,
+      "lon": 31.0141,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-08-18 19:10:16.112266176 +0000 UTC"
+    },
+    {
+      "mmsi": "247273700",
+      "name": "LISCA NERA M",
+      "lat": 51.9181,
+      "lon": 4.2103,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-18 19:10:18.983431487 +0000 UTC"
+    },
+    {
+      "mmsi": "246445000",
+      "name": "KNRM-ALIES EN EVERT",
+      "lat": 53.1739,
+      "lon": 4.8692,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-18 19:10:21.259431352 +0000 UTC"
+    },
+    {
+      "mmsi": "219013538",
+      "name": "CARPE DIEM",
+      "lat": 57.268,
+      "lon": 11.4033,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 7,
+      "last_update": "2026-08-18 19:10:31.035089486 +0000 UTC"
+    },
+    {
+      "mmsi": "247130800",
+      "name": "SVEZIA",
+      "lat": 44.4112,
+      "lon": 8.9201,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-18 19:10:31.184012639 +0000 UTC"
     },
     {
       "mmsi": "210588000",
@@ -80,129 +100,107 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 8,
-      "last_update": "2026-08-18 17:04:04.371439456 +0000 UTC"
+      "last_update": "2026-08-18 19:10:31.709619401 +0000 UTC"
     },
     {
-      "mmsi": "261007705",
-      "name": "FAIRPLAY-83",
-      "lat": 57.5924,
-      "lon": 11.3162,
+      "mmsi": "310862000",
+      "name": "URIEL",
+      "lat": 39.8904,
+      "lon": 4.2771,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 3,
-      "last_update": "2026-08-18 17:04:04.494468546 +0000 UTC"
+      "nav_status": 5,
+      "last_update": "2026-08-18 19:10:33.491361741 +0000 UTC"
     },
     {
-      "mmsi": "219385000",
-      "name": "BJOERNSHOLM",
-      "lat": 55.6793,
-      "lon": 12.593,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-18 17:04:06.421613805 +0000 UTC"
-    },
-    {
-      "mmsi": "525104007",
-      "name": "TRANSKO JALAK",
-      "lat": -6.9478,
-      "lon": 110.4203,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-08-18 17:04:14.140218036 +0000 UTC"
-    },
-    {
-      "mmsi": "244660203",
-      "name": "EIGER",
-      "lat": 51.9511,
-      "lon": 4.0828,
+      "mmsi": "235034368",
+      "name": "MULTI-SURVEY 4",
+      "lat": 51.9774,
+      "lon": 4.1219,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-18 17:04:16.151936479 +0000 UTC"
+      "last_update": "2026-08-18 19:10:41.132629061 +0000 UTC"
     },
     {
-      "mmsi": "577073000",
-      "name": "HIMALAYA",
-      "lat": -12.0303,
-      "lon": -77.0497,
-      "sog": 99.9,
-      "cog": 74,
+      "mmsi": "244045000",
+      "name": "HEBO-CAT 15",
+      "lat": 53.1875,
+      "lon": 5.4319,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-18 17:03:27.964534826 +0000 UTC",
-      "ship_type": 79,
-      "destination": "CYFMG"
+      "last_update": "2026-08-18 19:10:41.319440783 +0000 UTC"
     },
     {
-      "mmsi": "316023273",
-      "name": "MU21",
-      "lat": 43.6206,
-      "lon": -79.3484,
-      "sog": 42.2,
-      "cog": 174.1,
+      "mmsi": "255916591",
+      "name": "ESPERANCE",
+      "lat": 56.0285,
+      "lon": 20.2697,
+      "sog": 54.7,
+      "cog": 231,
+      "nav_status": 0,
+      "last_update": "2026-08-18 19:10:13.687692341 +0000 UTC"
+    },
+    {
+      "mmsi": "770576272",
+      "name": "FRANCISCO",
+      "lat": -34.595,
+      "lon": -58.3347,
+      "sog": 40.9,
+      "cog": 82.2,
+      "nav_status": 0,
+      "last_update": "2026-08-18 19:09:51.187651808 +0000 UTC"
+    },
+    {
+      "mmsi": "316023274",
+      "name": "MU22",
+      "lat": 43.6277,
+      "lon": -79.3195,
+      "sog": 40.9,
+      "cog": 196.2,
       "nav_status": 15,
-      "last_update": "2026-08-18 17:03:46.840333738 +0000 UTC"
+      "last_update": "2026-08-18 19:10:17.757884556 +0000 UTC"
     },
     {
-      "mmsi": "367301110",
-      "name": "CODZILLA",
-      "lat": 42.3532,
-      "lon": -71.0303,
-      "sog": 35.6,
-      "cog": 314.3,
+      "mmsi": "368396226",
+      "name": "NANTUCKET_EXPRESS",
+      "lat": 41.4361,
+      "lon": -70.3246,
+      "sog": 34.1,
+      "cog": 101.4,
+      "nav_status": 15,
+      "last_update": "2026-08-18 19:09:47.090657526 +0000 UTC"
+    },
+    {
+      "mmsi": "368023510",
+      "name": "SARATOGA",
+      "lat": 48.1389,
+      "lon": -122.541,
+      "sog": 33.6,
+      "cog": 330.1,
       "nav_status": 0,
-      "last_update": "2026-08-18 17:04:07.856191094 +0000 UTC"
+      "last_update": "2026-08-18 19:10:13.967732909 +0000 UTC"
     },
     {
-      "mmsi": "235117926",
-      "name": "RED JET 6",
-      "lat": 50.8664,
-      "lon": -1.3748,
-      "sog": 35.3,
-      "cog": 129,
-      "nav_status": 0,
-      "last_update": "2026-08-18 17:03:49.818778068 +0000 UTC"
-    },
-    {
-      "mmsi": "368088610",
-      "name": "LYRA",
-      "lat": 37.9386,
-      "lon": -122.4287,
-      "sog": 33.3,
-      "cog": 167.9,
-      "nav_status": 0,
-      "last_update": "2026-08-18 17:04:08.96049289 +0000 UTC"
-    },
-    {
-      "mmsi": "367101920",
-      "name": "GREY LADY",
-      "lat": 41.3165,
-      "lon": -70.1048,
-      "sog": 33,
-      "cog": 338.7,
-      "nav_status": 0,
-      "last_update": "2026-08-18 17:03:52.118871876 +0000 UTC"
-    },
-    {
-      "mmsi": "258088000",
-      "name": "BRAGE",
-      "lat": 69.9281,
-      "lon": 20.0152,
+      "mmsi": "368013770",
+      "name": "COMMODORE",
+      "lat": 40.6351,
+      "lon": -74.0525,
       "sog": 32.5,
-      "cog": 235.4,
-      "nav_status": 9,
-      "last_update": "2026-08-18 17:04:12.788656441 +0000 UTC"
+      "cog": 171.2,
+      "nav_status": 0,
+      "last_update": "2026-08-18 19:10:05.69572637 +0000 UTC"
     },
     {
-      "mmsi": "368612000",
-      "name": "RICH PASSAGE 1",
-      "lat": 47.5668,
-      "lon": -122.5069,
-      "sog": 32.1,
-      "cog": 88,
-      "nav_status": 0,
-      "last_update": "2026-08-18 17:03:29.101264016 +0000 UTC"
+      "mmsi": "367350620",
+      "name": "SEADOG V",
+      "lat": 41.8864,
+      "lon": -87.5788,
+      "sog": 30.8,
+      "cog": 2.5,
+      "nav_status": 5,
+      "last_update": "2026-08-18 19:10:27.955219713 +0000 UTC"
     }
   ]
 }
