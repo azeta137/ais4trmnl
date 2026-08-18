@@ -1,210 +1,208 @@
 {
-  "updated_at": "2026-08-18T19:58:13Z",
-  "count": 3901,
+  "updated_at": "2026-08-18T20:56:23Z",
+  "count": 3768,
   "vessels": [
     {
-      "mmsi": "368273770",
-      "name": "MONHEGAN",
-      "lat": 41.7409,
-      "lon": -70.6582,
+      "mmsi": "259028270",
+      "name": "MAROSUND",
+      "lat": 70.898,
+      "lon": 27.2273,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-18 19:57:16.862119541 +0000 UTC"
+      "last_update": "2026-08-18 20:55:23.813663642 +0000 UTC"
     },
     {
-      "mmsi": "244236641",
-      "name": "SAILING HOME",
-      "lat": 53.2356,
-      "lon": 6.6464,
+      "mmsi": "219385000",
+      "name": "BJOERNSHOLM",
+      "lat": 55.6793,
+      "lon": 12.593,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-18 19:57:17.055364133 +0000 UTC"
+      "last_update": "2026-08-18 20:55:36.825884745 +0000 UTC"
     },
     {
-      "mmsi": "367036190",
-      "name": "MARTHA'S VINEYARD EX",
-      "lat": 41.6183,
-      "lon": -70.9019,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-18 19:57:17.570923027 +0000 UTC"
-    },
-    {
-      "mmsi": "244780802",
-      "name": "WL4 HENDERIKA",
-      "lat": 53.3348,
-      "lon": 6.3042,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 7,
-      "last_update": "2026-08-18 19:57:18.915654339 +0000 UTC"
-    },
-    {
-      "mmsi": "368156510",
-      "name": "EMERALD LADY",
-      "lat": 41.8842,
-      "lon": -87.6382,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-18 19:57:35.754289621 +0000 UTC"
-    },
-    {
-      "mmsi": "367377380",
-      "name": "FREEDOM",
-      "lat": 42.3559,
-      "lon": -71.0437,
+      "mmsi": "310862000",
+      "name": "URIEL",
+      "lat": 39.8904,
+      "lon": 4.277,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-08-18 19:57:39.29778005 +0000 UTC"
+      "last_update": "2026-08-18 20:55:37.141549527 +0000 UTC"
     },
     {
-      "mmsi": "235070403",
-      "name": "WINDCAT 14",
-      "lat": 57.1435,
-      "lon": -2.0902,
+      "mmsi": "256404000",
+      "name": "EMERALD SUN",
+      "lat": 48.1395,
+      "lon": 17.1147,
       "sog": 102.3,
       "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-18 20:55:38.915825825 +0000 UTC"
+    },
+    {
+      "mmsi": "257863000",
+      "name": "ROSESUND",
+      "lat": 60.5311,
+      "lon": 4.8787,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-18 20:55:41.38938562 +0000 UTC"
+    },
+    {
+      "mmsi": "259046050",
+      "name": "FREMAD",
+      "lat": 66.3729,
+      "lon": 12.361,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-18 20:55:46.86620982 +0000 UTC"
+    },
+    {
+      "mmsi": "244710626",
+      "name": "BENCKES",
+      "lat": 53.1833,
+      "lon": 5.8024,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-18 20:55:54.67547198 +0000 UTC"
+    },
+    {
+      "mmsi": "316014014",
+      "name": "TAKAYA",
+      "lat": 49.2863,
+      "lon": -123.1005,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-08-18 20:55:56.738472917 +0000 UTC"
+    },
+    {
+      "mmsi": "211652800",
+      "name": "LAUENBURG",
+      "lat": 53.37,
+      "lon": 10.5541,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-18 20:55:58.627378574 +0000 UTC"
+    },
+    {
+      "mmsi": "257135500",
+      "name": "LEON OLAI",
+      "lat": 63.7998,
+      "lon": 8.6793,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-18 20:56:03.462012045 +0000 UTC"
+    },
+    {
+      "mmsi": "261007705",
+      "name": "FAIRPLAY-83",
+      "lat": 57.8366,
+      "lon": 10.8506,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 3,
+      "last_update": "2026-08-18 20:56:04.653572586 +0000 UTC"
+    },
+    {
+      "mmsi": "369713000",
+      "name": "TRIBUTE",
+      "lat": 0,
+      "lon": 0,
+      "sog": 102.2,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-18 20:55:25.629949402 +0000 UTC"
+    },
+    {
+      "mmsi": "368067090",
+      "name": "RELIANCE",
+      "lat": 47.5675,
+      "lon": -122.5965,
+      "sog": 33.6,
+      "cog": 31.9,
+      "nav_status": 0,
+      "last_update": "2026-08-18 20:55:53.979945397 +0000 UTC"
+    },
+    {
+      "mmsi": "232015629",
+      "name": "RED JET 7",
+      "lat": 50.8538,
+      "lon": -1.3464,
+      "sog": 32.4,
+      "cog": 307.5,
+      "nav_status": 0,
+      "last_update": "2026-08-18 20:55:40.854625302 +0000 UTC"
+    },
+    {
+      "mmsi": "316052438",
+      "name": "STHUQI",
+      "lat": 49.3128,
+      "lon": -123.1989,
+      "sog": 31.9,
+      "cog": 263,
       "nav_status": 9,
-      "last_update": "2026-08-18 19:57:39.52120629 +0000 UTC"
-    },
-    {
-      "mmsi": "246445000",
-      "name": "KNRM-ALIES EN EVERT",
-      "lat": 53.174,
-      "lon": 4.8692,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-18 19:57:41.921784845 +0000 UTC"
-    },
-    {
-      "mmsi": "219013538",
-      "name": "CARPE DIEM",
-      "lat": 57.1991,
-      "lon": 11.5546,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 7,
-      "last_update": "2026-08-18 19:57:42.860417882 +0000 UTC"
-    },
-    {
-      "mmsi": "368173000",
-      "name": "FISHING CREEK",
-      "lat": 37.7749,
-      "lon": -122.2426,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 12,
-      "last_update": "2026-08-18 19:57:51.688790629 +0000 UTC"
-    },
-    {
-      "mmsi": "225997876",
-      "name": "DAEDALUS",
-      "lat": 39.4551,
-      "lon": -0.3073,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-18 19:58:06.235111965 +0000 UTC"
-    },
-    {
-      "mmsi": "255916591",
-      "name": "ESPERANCE",
-      "lat": 56.0285,
-      "lon": 20.2697,
-      "sog": 54.7,
-      "cog": 231,
-      "nav_status": 0,
-      "last_update": "2026-08-18 19:57:19.829905802 +0000 UTC",
-      "ship_type": 79,
-      "destination": "HAMBURG"
-    },
-    {
-      "mmsi": "368457860",
-      "name": "EMERALD CLIPPER",
-      "lat": 47.6179,
-      "lon": -122.3997,
-      "sog": 36.4,
-      "cog": 130,
-      "nav_status": 0,
-      "last_update": "2026-08-18 19:57:23.225611924 +0000 UTC"
-    },
-    {
-      "mmsi": "224984000",
-      "name": "VOLCAN DE TAIDIA",
+      "last_update": "2026-08-18 20:55:43.290129074 +0000 UTC",
       "ship_type": 40,
-      "destination": "LPA-TCI-LPA-MOJ",
-      "lat": 28.4672,
-      "lon": -16.2027,
-      "sog": 35.2,
-      "cog": 112.3,
-      "nav_status": 0,
-      "last_update": "2026-08-18 19:57:37.317797979 +0000 UTC"
+      "destination": "NNO<=>VAN"
     },
     {
-      "mmsi": "367447520",
-      "name": "SALACIA",
-      "lat": 42.0145,
-      "lon": -70.1943,
-      "sog": 33,
-      "cog": 92.7,
+      "mmsi": "368053730",
+      "name": "PYXIS",
+      "lat": 37.9158,
+      "lon": -122.4476,
+      "sog": 31.8,
+      "cog": 183.5,
       "nav_status": 0,
-      "last_update": "2026-08-18 19:58:01.538798262 +0000 UTC"
+      "last_update": "2026-08-18 20:55:36.504491771 +0000 UTC"
     },
     {
-      "mmsi": "367145870",
-      "name": "IYANOUGH",
-      "lat": 41.4251,
-      "lon": -70.166,
+      "mmsi": "512000742",
+      "name": "CLIPPER 2",
+      "lat": -36.8388,
+      "lon": 174.8651,
+      "sog": 31.4,
+      "cog": 97.3,
+      "nav_status": 0,
+      "last_update": "2026-08-18 20:55:12.407444582 +0000 UTC"
+    },
+    {
+      "mmsi": "367101920",
+      "name": "GREY LADY",
+      "lat": 41.564,
+      "lon": -70.2581,
       "sog": 31.2,
-      "cog": 330.7,
+      "cog": 329.7,
       "nav_status": 0,
-      "last_update": "2026-08-18 19:57:40.941171799 +0000 UTC"
+      "last_update": "2026-08-18 20:55:48.012149278 +0000 UTC"
     },
     {
-      "mmsi": "258999000",
-      "name": "FJORDBRIS",
-      "lat": 59.7717,
-      "lon": 5.3525,
-      "sog": 30.9,
-      "cog": 133.1,
-      "nav_status": 0,
-      "last_update": "2026-08-18 19:57:30.196370409 +0000 UTC"
+      "mmsi": "770576009",
+      "name": "",
+      "lat": -34.5791,
+      "lon": -58.2449,
+      "sog": 29.6,
+      "cog": 260.4,
+      "nav_status": 5,
+      "last_update": "2026-08-18 20:55:21.440141028 +0000 UTC"
     },
     {
-      "mmsi": "210049000",
-      "name": "ELEANOR ROOSEVELT",
-      "lat": 39.5127,
-      "lon": 2.6117,
-      "sog": 30.4,
-      "cog": 37,
-      "nav_status": 0,
-      "last_update": "2026-08-18 19:57:28.134906994 +0000 UTC"
-    },
-    {
-      "mmsi": "512008121",
-      "name": "IKA KAKAHI",
-      "lat": -36.8381,
-      "lon": 174.8107,
+      "mmsi": "366896000",
+      "name": "REEL WHEELS II",
+      "lat": 38.3683,
+      "lon": -74.7599,
       "sog": 26.8,
-      "cog": 248.3,
+      "cog": 263.3,
       "nav_status": 0,
-      "last_update": "2026-08-18 19:57:35.684676266 +0000 UTC"
-    },
-    {
-      "mmsi": "235056987",
-      "name": "AURORA CLIPPER",
-      "lat": 51.5054,
-      "lon": -0.0026,
-      "sog": 25.6,
-      "cog": 226.7,
-      "nav_status": 0,
-      "last_update": "2026-08-18 19:57:26.041943448 +0000 UTC"
+      "last_update": "2026-08-18 20:55:57.630664793 +0000 UTC"
     }
   ]
 }
