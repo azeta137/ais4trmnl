@@ -1,210 +1,206 @@
 {
-  "updated_at": "2026-08-19T03:14:59Z",
-  "count": 3823,
+  "updated_at": "2026-08-19T05:06:08Z",
+  "count": 3676,
   "vessels": [
     {
-      "mmsi": "232028036",
-      "name": "GARRION OWL",
-      "lat": 55.8907,
-      "lon": -4.3942,
+      "mmsi": "211270850",
+      "name": "PIONIER",
+      "lat": 53.6767,
+      "lon": 7.5738,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-19 03:13:59.009045781 +0000 UTC",
-      "ship_type": 52,
-      "destination": "CLYDEBANK"
+      "last_update": "2026-08-19 05:05:14.530825995 +0000 UTC"
     },
     {
-      "mmsi": "257135500",
-      "name": "LEON OLAI",
-      "lat": 63.7998,
-      "lon": 8.6794,
+      "mmsi": "245382000",
+      "name": "KNRM-FRED",
+      "lat": 51.6217,
+      "lon": 3.6879,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-19 03:14:01.209846225 +0000 UTC"
-    },
-    {
-      "mmsi": "235087611",
-      "name": "ARGYLL FLYER",
-      "lat": 55.9445,
-      "lon": -4.7322,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-19 03:14:03.45332225 +0000 UTC"
-    },
-    {
-      "mmsi": "235070403",
-      "name": "WINDCAT 14",
-      "lat": 57.1435,
-      "lon": -2.0902,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 9,
-      "last_update": "2026-08-19 03:14:09.410844206 +0000 UTC"
-    },
-    {
-      "mmsi": "211652800",
-      "name": "LAUENBURG",
-      "lat": 53.37,
-      "lon": 10.5541,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-19 03:14:17.535598786 +0000 UTC"
-    },
-    {
-      "mmsi": "244780802",
-      "name": "WL4 HENDERIKA",
-      "lat": 53.3348,
-      "lon": 6.3041,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 7,
-      "last_update": "2026-08-19 03:14:19.016129406 +0000 UTC"
-    },
-    {
-      "mmsi": "240796900",
-      "name": "SEALINK VII",
-      "lat": 37.8626,
-      "lon": 23.744,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-08-19 03:14:28.648280267 +0000 UTC"
-    },
-    {
-      "mmsi": "235034368",
-      "name": "MULTI-SURVEY 4",
-      "lat": 51.9774,
-      "lon": 4.1219,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-19 03:14:32.054249897 +0000 UTC"
-    },
-    {
-      "mmsi": "235104009",
-      "name": "SALTHOLME",
-      "lat": 54.5843,
-      "lon": -1.2305,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-19 03:14:34.173089967 +0000 UTC"
+      "last_update": "2026-08-19 05:05:15.425623488 +0000 UTC"
     },
     {
       "mmsi": "601126900",
       "name": "SEA EXPRESS",
       "lat": -29.8682,
-      "lon": 31.0142,
+      "lon": 31.0141,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 8,
-      "last_update": "2026-08-19 03:14:37.677574303 +0000 UTC"
-    },
-    {
-      "mmsi": "244374235",
-      "name": "NT 11 WATERTRAPPER",
-      "lat": 52.3996,
-      "lon": 4.8999,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-19 03:14:43.012664765 +0000 UTC"
+      "last_update": "2026-08-19 05:05:16.637205403 +0000 UTC"
     },
     {
       "mmsi": "210588000",
       "name": "LEDRA PRIDE",
       "lat": 34.6452,
-      "lon": 33.0179,
+      "lon": 33.018,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 8,
-      "last_update": "2026-08-19 03:14:52.691355759 +0000 UTC"
+      "last_update": "2026-08-19 05:05:22.435917982 +0000 UTC"
     },
     {
-      "mmsi": "245382000",
-      "name": "KNRM-FRED",
-      "lat": 51.6218,
-      "lon": 3.6879,
+      "mmsi": "244660203",
+      "name": "EIGER",
+      "lat": 51.8799,
+      "lon": 4.4012,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-19 03:14:55.777267908 +0000 UTC"
+      "nav_status": 5,
+      "last_update": "2026-08-19 05:05:25.616460536 +0000 UTC"
     },
     {
-      "mmsi": "255916591",
-      "name": "ESPERANCE",
-      "lat": 56.0285,
-      "lon": 20.2697,
-      "sog": 54.8,
-      "cog": 230.9,
-      "nav_status": 0,
-      "last_update": "2026-08-19 03:14:13.601827742 +0000 UTC"
+      "mmsi": "247130800",
+      "name": "SVEZIA",
+      "lat": 44.4112,
+      "lon": 8.9201,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-19 05:05:31.862683602 +0000 UTC"
     },
     {
-      "mmsi": "366970020",
-      "name": "MENDOCINO",
-      "lat": 37.8982,
-      "lon": -122.441,
-      "sog": 33.4,
-      "cog": 319.5,
-      "nav_status": 0,
-      "last_update": "2026-08-19 03:14:31.624454868 +0000 UTC"
+      "mmsi": "367131000",
+      "name": "ALASKA",
+      "lat": 29.7187,
+      "lon": -93.8631,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-19 05:05:34.068218067 +0000 UTC"
     },
     {
-      "mmsi": "244013210",
-      "name": "LUCIDA (PILOTS)",
-      "lat": 51.4539,
-      "lon": 3.5255,
+      "mmsi": "316014014",
+      "name": "TAKAYA",
+      "lat": 49.2863,
+      "lon": -123.1006,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-08-19 05:05:35.808406487 +0000 UTC"
+    },
+    {
+      "mmsi": "229360000",
+      "name": "ERMIS2",
+      "lat": 37.911,
+      "lon": 23.7046,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-19 05:05:50.14481643 +0000 UTC"
+    },
+    {
+      "mmsi": "369713000",
+      "name": "TRIBUTE",
+      "lat": 0,
+      "lon": 0,
+      "sog": 102.2,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-19 05:05:15.363931062 +0000 UTC"
+    },
+    {
+      "mmsi": "239658000",
+      "name": "HYPERSPEED JET 4",
+      "lat": 37.8229,
+      "lon": 23.6232,
+      "sog": 35.2,
+      "cog": 165,
+      "nav_status": 0,
+      "last_update": "2026-08-19 05:05:30.410319139 +0000 UTC"
+    },
+    {
+      "mmsi": "257605000",
+      "name": "FROYA",
+      "lat": 61.9717,
+      "lon": 5.1547,
+      "sog": 32.7,
+      "cog": 178.2,
+      "nav_status": 9,
+      "last_update": "2026-08-19 05:05:33.891050003 +0000 UTC"
+    },
+    {
+      "mmsi": "248984000",
+      "name": "SAN GIORGIO",
+      "lat": 36.2138,
+      "lon": 14.495,
+      "sog": 30.7,
+      "cog": 359.1,
+      "nav_status": 0,
+      "last_update": "2026-08-19 05:05:47.935056616 +0000 UTC"
+    },
+    {
+      "mmsi": "259257000",
+      "name": "GODOEY",
+      "lat": 62.4376,
+      "lon": 6.0451,
+      "sog": 29.1,
+      "cog": 190,
+      "nav_status": 0,
+      "last_update": "2026-08-19 05:04:58.798913058 +0000 UTC"
+    },
+    {
+      "mmsi": "247058800",
+      "name": "SNAV ALTAIR",
+      "lat": 40.6371,
+      "lon": 14.2611,
       "sog": 28.3,
-      "cog": 145.1,
+      "cog": 9,
       "nav_status": 0,
-      "last_update": "2026-08-19 03:14:56.286036495 +0000 UTC"
+      "last_update": "2026-08-19 05:05:15.364529379 +0000 UTC"
     },
     {
-      "mmsi": "247243600",
-      "name": "CRUISE BARCELONA",
-      "lat": 41.2459,
-      "lon": 5.3468,
-      "sog": 25.6,
-      "cog": 90.6,
+      "mmsi": "244730125",
+      "name": "KRVE 62",
+      "lat": 51.9706,
+      "lon": 4.0429,
+      "sog": 26.4,
+      "cog": 288.4,
       "nav_status": 0,
-      "last_update": "2026-08-19 03:14:26.216158918 +0000 UTC"
+      "last_update": "2026-08-19 05:05:18.0170231 +0000 UTC"
     },
     {
-      "mmsi": "367192940",
-      "name": "AVALON EXPRESS",
-      "lat": 33.641,
-      "lon": -118.2453,
-      "sog": 25.4,
-      "cog": 15.8,
+      "mmsi": "247087600",
+      "name": "FEDERICA M",
+      "lat": 37.9378,
+      "lon": 12.3232,
+      "sog": 25.8,
+      "cog": 184.7,
       "nav_status": 0,
-      "last_update": "2026-08-19 03:14:03.51059667 +0000 UTC"
+      "last_update": "2026-08-19 05:05:42.237336157 +0000 UTC"
     },
     {
-      "mmsi": "367425520",
-      "name": "SCORPIO",
-      "ship_type": 60,
-      "destination": "SF BAY FERRY",
-      "lat": 37.7916,
-      "lon": -122.3759,
-      "sog": 25.4,
-      "cog": 105.5,
+      "mmsi": "257055660",
+      "name": "LOS 134",
+      "lat": 59.1322,
+      "lon": 5.4971,
+      "sog": 24.9,
+      "cog": 50.7,
       "nav_status": 0,
-      "last_update": "2026-08-19 03:14:52.283739005 +0000 UTC"
+      "last_update": "2026-08-19 05:05:14.529972753 +0000 UTC"
     },
     {
-      "mmsi": "503106710",
-      "name": "ETHEL TURNER",
-      "lat": -33.8218,
-      "lon": 151.0918,
-      "sog": 21.4,
-      "cog": 111.4,
+      "mmsi": "232026644",
+      "name": "WINDCAT 46",
+      "lat": 51.2998,
+      "lon": 2.8882,
+      "sog": 24.3,
+      "cog": 355,
       "nav_status": 0,
-      "last_update": "2026-08-19 03:14:40.625174053 +0000 UTC"
+      "last_update": "2026-08-19 05:05:27.965814133 +0000 UTC"
+    },
+    {
+      "mmsi": "239737000",
+      "name": "BLUE STAR 2",
+      "lat": 37.8238,
+      "lon": 23.6755,
+      "sog": 24.2,
+      "cog": 335.8,
+      "nav_status": 0,
+      "last_update": "2026-08-19 05:05:56.853708292 +0000 UTC"
     }
   ]
 }
