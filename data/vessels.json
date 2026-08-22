@@ -1,29 +1,7 @@
 {
-  "updated_at": "2026-08-22T20:54:56Z",
-  "count": 5359,
+  "updated_at": "2026-08-22T21:49:46Z",
+  "count": 5352,
   "vessels": [
-    {
-      "mmsi": "205545000",
-      "name": "VB PANDA",
-      "lat": 51.33,
-      "lon": 3.1971,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-22 20:53:45.182313527 +0000 UTC"
-    },
-    {
-      "mmsi": "210588000",
-      "name": "LEDRA PRIDE",
-      "ship_type": 52,
-      "destination": "CYLIM",
-      "lat": 34.6452,
-      "lon": 33.018,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-08-22 20:54:02.50147643 +0000 UTC"
-    },
     {
       "mmsi": "211337780",
       "name": "ATALANTA",
@@ -32,99 +10,49 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-22 20:53:57.644188693 +0000 UTC"
+      "last_update": "2026-08-22 21:48:37.611645255 +0000 UTC"
     },
     {
-      "mmsi": "367131000",
-      "name": "ALASKA",
-      "lat": 29.7187,
-      "lon": -93.8631,
+      "mmsi": "261011633",
+      "name": "HYDROCAT MURRAY",
+      "lat": 54.3461,
+      "lon": 18.7893,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-08-22 20:53:57.706554881 +0000 UTC"
+      "last_update": "2026-08-22 21:48:37.937037289 +0000 UTC"
     },
     {
-      "mmsi": "244870700",
-      "name": "METTE MARIA",
-      "lat": 53.5918,
-      "lon": 8.1759,
+      "mmsi": "247130800",
+      "name": "SVEZIA",
+      "lat": 44.4113,
+      "lon": 8.9202,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-08-22 20:53:58.82712823 +0000 UTC"
+      "nav_status": 5,
+      "last_update": "2026-08-22 21:49:22.545810294 +0000 UTC",
+      "ship_type": 52,
+      "destination": ""
     },
     {
-      "mmsi": "244120000",
-      "name": "ANTEOS",
-      "lat": 52.0991,
-      "lon": 4.2627,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-22 20:54:00.057295132 +0000 UTC"
-    },
-    {
-      "mmsi": "273393560",
-      "name": "",
-      "lat": 40.9618,
-      "lon": 28.7633,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-08-22 20:54:05.344769187 +0000 UTC"
-    },
-    {
-      "mmsi": "244108000",
-      "name": "ZK46 ZEEMEEUW",
-      "lat": 53.4098,
-      "lon": 6.2068,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-22 20:54:07.520749952 +0000 UTC"
-    },
-    {
-      "mmsi": "525104007",
-      "name": "TRANSKO JALAK",
-      "lat": -6.8305,
-      "lon": 110.4283,
+      "mmsi": "601126900",
+      "name": "SEA EXPRESS",
+      "lat": -29.8682,
+      "lon": 31.0142,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 8,
-      "last_update": "2026-08-22 20:54:11.142016544 +0000 UTC",
-      "ship_type": 52,
-      "destination": "SEMARANG"
+      "last_update": "2026-08-22 21:48:42.239228765 +0000 UTC"
     },
     {
-      "mmsi": "235113676",
-      "name": "NSL EXCALIBUR",
-      "lat": 53.3222,
-      "lon": -3.262,
+      "mmsi": "244045000",
+      "name": "HEBO-CAT 15",
+      "lat": 53.1875,
+      "lon": 5.4319,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-22 20:54:15.148188464 +0000 UTC"
-    },
-    {
-      "mmsi": "245382000",
-      "name": "",
-      "lat": 51.6217,
-      "lon": 3.6877,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-22 20:54:22.503637644 +0000 UTC"
-    },
-    {
-      "mmsi": "244374235",
-      "name": "NT 11 WATERTRAPPER",
-      "lat": 52.3996,
-      "lon": 4.8999,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-22 20:54:23.396378302 +0000 UTC"
+      "last_update": "2026-08-22 21:48:45.426590207 +0000 UTC"
     },
     {
       "mmsi": "232028036",
@@ -134,17 +62,7 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-22 20:54:30.84019141 +0000 UTC"
-    },
-    {
-      "mmsi": "219013538",
-      "name": "CARPE DIEM",
-      "lat": 58.1166,
-      "lon": 10.5837,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 7,
-      "last_update": "2026-08-22 20:54:30.94935218 +0000 UTC"
+      "last_update": "2026-08-22 21:48:50.318013321 +0000 UTC"
     },
     {
       "mmsi": "246445000",
@@ -154,7 +72,49 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-22 20:54:31.021585627 +0000 UTC"
+      "last_update": "2026-08-22 21:48:51.158362686 +0000 UTC"
+    },
+    {
+      "mmsi": "210588000",
+      "name": "LEDRA PRIDE",
+      "lat": 34.6452,
+      "lon": 33.018,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-08-22 21:48:52.63620694 +0000 UTC"
+    },
+    {
+      "mmsi": "366941780",
+      "name": "PROVIDER",
+      "lat": 47.6674,
+      "lon": -122.3905,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-08-22 21:49:24.334792114 +0000 UTC"
+    },
+    {
+      "mmsi": "244374235",
+      "name": "NT 11 WATERTRAPPER",
+      "lat": 52.3996,
+      "lon": 4.8999,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-22 21:48:54.93657186 +0000 UTC",
+      "ship_type": 99,
+      "destination": "AMSTERDAM"
+    },
+    {
+      "mmsi": "235034368",
+      "name": "MULTI-SURVEY 4",
+      "lat": 51.9773,
+      "lon": 4.1219,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-22 21:48:59.795386337 +0000 UTC"
     },
     {
       "mmsi": "211272580",
@@ -164,49 +124,87 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-08-22 20:54:32.291980995 +0000 UTC"
+      "last_update": "2026-08-22 21:49:32.367807966 +0000 UTC"
     },
     {
-      "mmsi": "235070403",
-      "name": "WINDCAT 14",
-      "lat": 57.1435,
-      "lon": -2.0902,
+      "mmsi": "245382000",
+      "name": "",
+      "lat": 51.6218,
+      "lon": 3.6877,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-22 21:49:13.026089535 +0000 UTC"
+    },
+    {
+      "mmsi": "258230000",
+      "name": "FROEYTRANS",
+      "lat": 63.6385,
+      "lon": 8.8043,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-22 21:49:15.736354721 +0000 UTC"
+    },
+    {
+      "mmsi": "503000080",
+      "name": "MANNING",
+      "lat": -33.8683,
+      "lon": 151.222,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-22 21:49:22.824402723 +0000 UTC"
+    },
+    {
+      "mmsi": "247091500",
+      "name": "GRANDE SAN PAOLO",
+      "lat": 51.2786,
+      "lon": 4.2184,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-08-22 20:54:36.724446804 +0000 UTC"
+      "last_update": "2026-08-22 21:49:23.510513708 +0000 UTC"
     },
     {
-      "mmsi": "620010000",
-      "name": "BR_BROTHER",
-      "lat": 34.9024,
-      "lon": 35.8731,
+      "mmsi": "316014014",
+      "name": "TAKAYA",
+      "lat": 49.2863,
+      "lon": -123.1004,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-22 20:54:37.663289715 +0000 UTC"
+      "nav_status": 15,
+      "last_update": "2026-08-22 21:49:27.650572381 +0000 UTC"
+    },
+    {
+      "mmsi": "219385000",
+      "name": "BJOERNSHOLM",
+      "lat": 55.6793,
+      "lon": 12.593,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-22 21:49:28.226354584 +0000 UTC"
+    },
+    {
+      "mmsi": "244780802",
+      "name": "WL4 HENDERIKA",
+      "lat": 53.3348,
+      "lon": 6.3042,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 7,
+      "last_update": "2026-08-22 21:49:29.436575573 +0000 UTC"
     },
     {
       "mmsi": "244710626",
       "name": "BENCKES",
-      "lat": 52.0138,
-      "lon": 5.1091,
+      "lat": 52.0228,
+      "lon": 5.1132,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-22 20:54:39.6875877 +0000 UTC"
-    },
-    {
-      "mmsi": "520226000",
-      "name": "VUNILAGI",
-      "ship_type": 60,
-      "destination": "SUVA",
-      "lat": 0,
-      "lon": 0,
-      "sog": 102.2,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-22 20:54:16.729000663 +0000 UTC"
+      "last_update": "2026-08-22 21:49:29.447686815 +0000 UTC"
     }
   ]
 }
