@@ -1,5 +1,212 @@
 {
-  "updated_at": "2026-08-22T13:44:55Z",
-  "count": 0,
-  "vessels": []
+  "updated_at": "2026-08-22T14:53:16Z",
+  "count": 4235,
+  "vessels": [
+    {
+      "mmsi": "244690418",
+      "name": "WUTA",
+      "lat": 52.9355,
+      "lon": 5.0378,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-08-22 14:52:18.280693567 +0000 UTC"
+    },
+    {
+      "mmsi": "211270850",
+      "name": "",
+      "lat": 53.677,
+      "lon": 7.5736,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-22 14:52:25.496458585 +0000 UTC"
+    },
+    {
+      "mmsi": "229707000",
+      "name": "",
+      "lat": 40.5405,
+      "lon": 14.2416,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 1,
+      "last_update": "2026-08-22 14:52:27.441204975 +0000 UTC"
+    },
+    {
+      "mmsi": "246445000",
+      "name": "KNRM-ALIES EN EVERT",
+      "lat": 53.174,
+      "lon": 4.8692,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-22 14:52:30.8236277 +0000 UTC",
+      "ship_type": 51,
+      "destination": ""
+    },
+    {
+      "mmsi": "601126900",
+      "name": "SEA EXPRESS",
+      "lat": -29.8681,
+      "lon": 31.0141,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-08-22 14:52:33.888018579 +0000 UTC",
+      "ship_type": 52,
+      "destination": ""
+    },
+    {
+      "mmsi": "244108000",
+      "name": "",
+      "lat": 53.4098,
+      "lon": 6.2068,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-22 14:52:46.103572687 +0000 UTC"
+    },
+    {
+      "mmsi": "338854000",
+      "name": "WESTERN TITAN",
+      "lat": 49.1654,
+      "lon": -123.5175,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 11,
+      "last_update": "2026-08-22 14:52:48.229376542 +0000 UTC"
+    },
+    {
+      "mmsi": "316009063",
+      "name": "R/V ACHIEVER",
+      "lat": 50.5918,
+      "lon": -127.091,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-22 14:52:50.550736325 +0000 UTC"
+    },
+    {
+      "mmsi": "244710626",
+      "name": "BENCKES",
+      "lat": 51.9313,
+      "lon": 4.0379,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-22 14:53:06.814808503 +0000 UTC"
+    },
+    {
+      "mmsi": "305014400",
+      "name": "",
+      "lat": 60.1162,
+      "lon": 31.3934,
+      "sog": 66.9,
+      "cog": 257.6,
+      "nav_status": 0,
+      "last_update": "2026-08-22 14:52:24.975920613 +0000 UTC"
+    },
+    {
+      "mmsi": "209653000",
+      "name": "CHAMPION JET 3",
+      "lat": 37.7845,
+      "lon": 24.1142,
+      "sog": 36.9,
+      "cog": 175.8,
+      "nav_status": 0,
+      "last_update": "2026-08-22 14:52:19.147864389 +0000 UTC"
+    },
+    {
+      "mmsi": "210967000",
+      "name": "CHAMPIONSLEAGUE JET1",
+      "lat": 37.556,
+      "lon": 23.9679,
+      "sog": 36.4,
+      "cog": 310.2,
+      "nav_status": 0,
+      "last_update": "2026-08-22 14:52:19.055382787 +0000 UTC"
+    },
+    {
+      "mmsi": "240317000",
+      "name": "",
+      "lat": 37.3265,
+      "lon": 24.3111,
+      "sog": 35.9,
+      "cog": 309.8,
+      "nav_status": 0,
+      "last_update": "2026-08-22 14:52:50.867828409 +0000 UTC"
+    },
+    {
+      "mmsi": "210052000",
+      "name": "",
+      "lat": 37.5141,
+      "lon": 24.2988,
+      "sog": 35.7,
+      "cog": 272.7,
+      "nav_status": 0,
+      "last_update": "2026-08-22 14:52:29.435620079 +0000 UTC"
+    },
+    {
+      "mmsi": "212769000",
+      "name": "MAGIC 3",
+      "lat": 37.9087,
+      "lon": 23.6061,
+      "sog": 32,
+      "cog": 13.6,
+      "nav_status": 0,
+      "last_update": "2026-08-22 14:52:17.737110904 +0000 UTC"
+    },
+    {
+      "mmsi": "273610080",
+      "name": "IRTYSH",
+      "lat": 40.7746,
+      "lon": 28.973,
+      "sog": 31.4,
+      "cog": 219.9,
+      "nav_status": 0,
+      "last_update": "2026-08-22 14:53:06.908047867 +0000 UTC"
+    },
+    {
+      "mmsi": "366965960",
+      "name": "",
+      "lat": 41.3016,
+      "lon": -71.9664,
+      "sog": 31.3,
+      "cog": 272,
+      "nav_status": 0,
+      "last_update": "2026-08-22 14:52:40.309384422 +0000 UTC"
+    },
+    {
+      "mmsi": "257089390",
+      "name": "FJORDPRINSEN",
+      "lat": 69.2735,
+      "lon": 17.9731,
+      "sog": 30.7,
+      "cog": 1.5,
+      "nav_status": 0,
+      "last_update": "2026-08-22 14:52:42.626196243 +0000 UTC"
+    },
+    {
+      "mmsi": "235115154",
+      "name": "ELIMINATOR",
+      "lat": 51.5073,
+      "lon": -0.0319,
+      "sog": 29.1,
+      "cog": 320.3,
+      "nav_status": 15,
+      "last_update": "2026-08-22 14:52:17.648458138 +0000 UTC",
+      "ship_type": 0,
+      "destination": ""
+    },
+    {
+      "mmsi": "244850452",
+      "name": "",
+      "lat": 52.3758,
+      "lon": 0.5671,
+      "sog": 29,
+      "cog": 123.1,
+      "nav_status": 8,
+      "last_update": "2026-08-22 14:52:54.537322925 +0000 UTC"
+    }
+  ]
 }
