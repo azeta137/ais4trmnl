@@ -1,212 +1,208 @@
 {
-  "updated_at": "2026-08-22T14:53:16Z",
-  "count": 4235,
+  "updated_at": "2026-08-22T15:49:49Z",
+  "count": 4289,
   "vessels": [
     {
-      "mmsi": "244690418",
-      "name": "WUTA",
-      "lat": 52.9355,
-      "lon": 5.0378,
+      "mmsi": "257135500",
+      "name": "LEON  OLAI",
+      "lat": 63.7998,
+      "lon": 8.6793,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-22 15:48:52.133770699 +0000 UTC"
+    },
+    {
+      "mmsi": "263701380",
+      "name": "FERNANDO NAMORA",
+      "lat": 38.6526,
+      "lon": -9.0811,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 8,
-      "last_update": "2026-08-22 14:52:18.280693567 +0000 UTC"
+      "last_update": "2026-08-22 15:49:01.395367852 +0000 UTC"
     },
     {
-      "mmsi": "211270850",
+      "mmsi": "244180555",
+      "name": "JAN VAN DER HEIJDEN",
+      "lat": 52.3751,
+      "lon": 4.9063,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-22 15:49:01.933795429 +0000 UTC"
+    },
+    {
+      "mmsi": "245382000",
       "name": "",
-      "lat": 53.677,
-      "lon": 7.5736,
+      "lat": 51.6217,
+      "lon": 3.6878,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-22 15:49:02.627158091 +0000 UTC"
+    },
+    {
+      "mmsi": "235080649",
+      "name": "ONWARD N107",
+      "lat": 54.4569,
+      "lon": -5.4374,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-08-22 15:49:08.092001478 +0000 UTC"
+    },
+    {
+      "mmsi": "247130800",
+      "name": "SVEZIA",
+      "lat": 44.4114,
+      "lon": 8.9202,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-08-22 14:52:25.496458585 +0000 UTC"
+      "last_update": "2026-08-22 15:49:12.740979764 +0000 UTC"
     },
     {
-      "mmsi": "229707000",
-      "name": "",
-      "lat": 40.5405,
-      "lon": 14.2416,
+      "mmsi": "316014014",
+      "name": "TAKAYA",
+      "lat": 49.2863,
+      "lon": -123.1004,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-08-22 14:52:27.441204975 +0000 UTC"
+      "nav_status": 15,
+      "last_update": "2026-08-22 15:49:17.849641236 +0000 UTC"
     },
     {
-      "mmsi": "246445000",
-      "name": "KNRM-ALIES EN EVERT",
-      "lat": 53.174,
-      "lon": 4.8692,
+      "mmsi": "261007705",
+      "name": "FAIRPLAY-83",
+      "lat": 51.9105,
+      "lon": 4.2517,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-22 14:52:30.8236277 +0000 UTC",
-      "ship_type": 51,
-      "destination": ""
+      "nav_status": 3,
+      "last_update": "2026-08-22 15:49:25.138959109 +0000 UTC"
     },
     {
-      "mmsi": "601126900",
-      "name": "SEA EXPRESS",
-      "lat": -29.8681,
-      "lon": 31.0141,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-08-22 14:52:33.888018579 +0000 UTC",
-      "ship_type": 52,
-      "destination": ""
-    },
-    {
-      "mmsi": "244108000",
-      "name": "",
-      "lat": 53.4098,
-      "lon": 6.2068,
+      "mmsi": "210920000",
+      "name": "VTS PENTADAKTYLOS",
+      "lat": 34.7122,
+      "lon": 33.3234,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-22 14:52:46.103572687 +0000 UTC"
+      "last_update": "2026-08-22 15:49:32.53675819 +0000 UTC"
     },
     {
-      "mmsi": "338854000",
-      "name": "WESTERN TITAN",
-      "lat": 49.1654,
-      "lon": -123.5175,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 11,
-      "last_update": "2026-08-22 14:52:48.229376542 +0000 UTC"
-    },
-    {
-      "mmsi": "316009063",
-      "name": "R/V ACHIEVER",
-      "lat": 50.5918,
-      "lon": -127.091,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-22 14:52:50.550736325 +0000 UTC"
-    },
-    {
-      "mmsi": "244710626",
-      "name": "BENCKES",
-      "lat": 51.9313,
-      "lon": 4.0379,
+      "mmsi": "367482250",
+      "name": "JERSEY",
+      "lat": 40.7716,
+      "lon": -74.0112,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-22 14:53:06.814808503 +0000 UTC"
+      "last_update": "2026-08-22 15:49:42.768647323 +0000 UTC"
     },
     {
       "mmsi": "305014400",
-      "name": "",
-      "lat": 60.1162,
-      "lon": 31.3934,
-      "sog": 66.9,
-      "cog": 257.6,
+      "name": "AURUM",
+      "lat": 60.114,
+      "lon": 31.3755,
+      "sog": 56.4,
+      "cog": 238.4,
       "nav_status": 0,
-      "last_update": "2026-08-22 14:52:24.975920613 +0000 UTC"
+      "last_update": "2026-08-22 15:49:21.250353495 +0000 UTC"
     },
     {
-      "mmsi": "209653000",
-      "name": "CHAMPION JET 3",
-      "lat": 37.7845,
-      "lon": 24.1142,
-      "sog": 36.9,
-      "cog": 175.8,
+      "mmsi": "255916591",
+      "name": "ESPERANCE",
+      "lat": 56.0285,
+      "lon": 20.2697,
+      "sog": 54.8,
+      "cog": 230.9,
       "nav_status": 0,
-      "last_update": "2026-08-22 14:52:19.147864389 +0000 UTC"
+      "last_update": "2026-08-22 15:49:20.012730663 +0000 UTC"
     },
     {
-      "mmsi": "210967000",
-      "name": "CHAMPIONSLEAGUE JET1",
-      "lat": 37.556,
-      "lon": 23.9679,
-      "sog": 36.4,
-      "cog": 310.2,
+      "mmsi": "224984000",
+      "name": "VOLCAN DE TAIDIA",
+      "lat": 28.0966,
+      "lon": -14.9766,
+      "sog": 33.8,
+      "cog": 279.9,
       "nav_status": 0,
-      "last_update": "2026-08-22 14:52:19.055382787 +0000 UTC"
+      "last_update": "2026-08-22 15:49:16.036941896 +0000 UTC"
     },
     {
-      "mmsi": "240317000",
-      "name": "",
-      "lat": 37.3265,
-      "lon": 24.3111,
-      "sog": 35.9,
-      "cog": 309.8,
+      "mmsi": "212859000",
+      "name": "MERCEDES PINTO",
+      "lat": 28.2907,
+      "lon": -15.6908,
+      "sog": 33.1,
+      "cog": 107.4,
       "nav_status": 0,
-      "last_update": "2026-08-22 14:52:50.867828409 +0000 UTC"
+      "last_update": "2026-08-22 15:49:16.040142668 +0000 UTC"
     },
     {
-      "mmsi": "210052000",
-      "name": "",
-      "lat": 37.5141,
-      "lon": 24.2988,
-      "sog": 35.7,
-      "cog": 272.7,
+      "mmsi": "259604000",
+      "name": "FJORDPRINSESSEN",
+      "lat": 63.2077,
+      "lon": 7.9665,
+      "sog": 32.4,
+      "cog": 197.2,
       "nav_status": 0,
-      "last_update": "2026-08-22 14:52:29.435620079 +0000 UTC"
+      "last_update": "2026-08-22 15:49:23.637079669 +0000 UTC"
     },
     {
-      "mmsi": "212769000",
-      "name": "MAGIC 3",
-      "lat": 37.9087,
-      "lon": 23.6061,
-      "sog": 32,
-      "cog": 13.6,
+      "mmsi": "210977000",
+      "name": "TERA JET 2",
+      "lat": 37.9263,
+      "lon": 24.4056,
+      "sog": 31.8,
+      "cog": 286.1,
       "nav_status": 0,
-      "last_update": "2026-08-22 14:52:17.737110904 +0000 UTC"
+      "last_update": "2026-08-22 15:48:53.98689692 +0000 UTC"
     },
     {
-      "mmsi": "273610080",
-      "name": "IRTYSH",
-      "lat": 40.7746,
-      "lon": 28.973,
-      "sog": 31.4,
-      "cog": 219.9,
+      "mmsi": "235070199",
+      "name": "MANANNAN",
+      "ship_type": 40,
+      "destination": "LIVERPOOL",
+      "lat": 54.0162,
+      "lon": -4.2139,
+      "sog": 31.8,
+      "cog": 133.1,
       "nav_status": 0,
-      "last_update": "2026-08-22 14:53:06.908047867 +0000 UTC"
+      "last_update": "2026-08-22 15:48:56.816607027 +0000 UTC"
     },
     {
-      "mmsi": "366965960",
-      "name": "",
-      "lat": 41.3016,
-      "lon": -71.9664,
+      "mmsi": "367720690",
+      "name": "GREY LADY IV",
+      "lat": 41.5031,
+      "lon": -70.2108,
       "sog": 31.3,
-      "cog": 272,
+      "cog": 324.8,
       "nav_status": 0,
-      "last_update": "2026-08-22 14:52:40.309384422 +0000 UTC"
+      "last_update": "2026-08-22 15:49:28.742338303 +0000 UTC"
+    },
+    {
+      "mmsi": "211536840",
+      "name": "FRESENA",
+      "lat": 53.5512,
+      "lon": 6.7096,
+      "sog": 30.6,
+      "cog": 80.6,
+      "nav_status": 0,
+      "last_update": "2026-08-22 15:49:03.364704888 +0000 UTC"
     },
     {
       "mmsi": "257089390",
       "name": "FJORDPRINSEN",
-      "lat": 69.2735,
-      "lon": 17.9731,
-      "sog": 30.7,
-      "cog": 1.5,
+      "lat": 69.5915,
+      "lon": 18.8555,
+      "sog": 30.5,
+      "cog": 38.3,
       "nav_status": 0,
-      "last_update": "2026-08-22 14:52:42.626196243 +0000 UTC"
-    },
-    {
-      "mmsi": "235115154",
-      "name": "ELIMINATOR",
-      "lat": 51.5073,
-      "lon": -0.0319,
-      "sog": 29.1,
-      "cog": 320.3,
-      "nav_status": 15,
-      "last_update": "2026-08-22 14:52:17.648458138 +0000 UTC",
-      "ship_type": 0,
-      "destination": ""
-    },
-    {
-      "mmsi": "244850452",
-      "name": "",
-      "lat": 52.3758,
-      "lon": 0.5671,
-      "sog": 29,
-      "cog": 123.1,
-      "nav_status": 8,
-      "last_update": "2026-08-22 14:52:54.537322925 +0000 UTC"
+      "last_update": "2026-08-22 15:48:54.651990762 +0000 UTC"
     }
   ]
 }
