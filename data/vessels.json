@@ -1,108 +1,46 @@
 {
-  "updated_at": "2026-08-23T14:56:29Z",
-  "count": 5099,
+  "updated_at": "2026-08-23T15:50:47Z",
+  "count": 5096,
   "vessels": [
     {
-      "mmsi": "246445000",
-      "name": "KNRM-ALIES EN EVERT",
-      "lat": 53.174,
-      "lon": 4.8693,
+      "mmsi": "246281000",
+      "name": "KNRM-FRANS HOGEWIND",
+      "lat": 53.3989,
+      "lon": 5.2492,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-23 14:55:30.749516838 +0000 UTC"
+      "last_update": "2026-08-23 15:49:54.582996148 +0000 UTC"
     },
     {
-      "mmsi": "205545000",
-      "name": "VB PANDA",
-      "lat": 51.3301,
-      "lon": 3.197,
+      "mmsi": "261007705",
+      "name": "FAIRPLAY-83",
+      "lat": 53.0769,
+      "lon": 4.4433,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-23 14:55:23.448574929 +0000 UTC"
+      "last_update": "2026-08-23 15:49:54.959871403 +0000 UTC"
     },
     {
-      "mmsi": "211270850",
-      "name": "PIONIER",
-      "lat": 53.677,
-      "lon": 7.5736,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-23 14:55:33.35121964 +0000 UTC"
-    },
-    {
-      "mmsi": "247130800",
-      "name": "SVEZIA",
-      "ship_type": 52,
-      "destination": "",
-      "lat": 44.4114,
-      "lon": 8.9202,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-23 14:56:12.076672895 +0000 UTC"
-    },
-    {
-      "mmsi": "245382000",
-      "name": "KNRM-FRED",
-      "lat": 51.6217,
-      "lon": 3.6881,
+      "mmsi": "219385000",
+      "name": "BJOERNSHOLM",
+      "lat": 55.6793,
+      "lon": 12.593,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-23 14:55:40.97287496 +0000 UTC"
+      "last_update": "2026-08-23 15:49:57.378195276 +0000 UTC"
     },
     {
-      "mmsi": "533130499",
-      "name": "NAUTICA TG PUTERI28",
-      "lat": 6.0115,
-      "lon": 116.0939,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-08-23 14:55:41.80383108 +0000 UTC"
-    },
-    {
-      "mmsi": "993161091",
-      "name": "",
-      "lat": 49.1327,
-      "lon": -123.2346,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-08-23 14:55:42.31061282 +0000 UTC"
-    },
-    {
-      "mmsi": "993161092",
-      "name": "",
-      "lat": 49.1361,
-      "lon": -123.2264,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-08-23 14:55:44.987570261 +0000 UTC"
-    },
-    {
-      "mmsi": "247091500",
-      "name": "GRANDE SAN PAOLO",
-      "lat": 51.2785,
-      "lon": 4.2184,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-23 14:55:52.002861704 +0000 UTC"
-    },
-    {
-      "mmsi": "319720000",
-      "name": "STARDUST",
-      "lat": 32.7101,
-      "lon": -117.2336,
+      "mmsi": "273441710",
+      "name": "FRIO LARIMAR",
+      "lat": 46.3907,
+      "lon": 142.696,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-23 14:56:07.822315957 +0000 UTC"
+      "last_update": "2026-08-23 15:49:58.396157846 +0000 UTC"
     },
     {
       "mmsi": "235080649",
@@ -112,97 +50,157 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-08-23 14:56:08.645512377 +0000 UTC"
+      "last_update": "2026-08-23 15:49:59.385727881 +0000 UTC"
     },
     {
-      "mmsi": "369713000",
-      "name": "TRIBUTE",
-      "lat": 0,
-      "lon": 0,
-      "sog": 102.2,
+      "mmsi": "246445000",
+      "name": "KNRM-ALIES EN EVERT",
+      "lat": 53.174,
+      "lon": 4.8692,
+      "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-23 14:55:27.159823031 +0000 UTC"
+      "last_update": "2026-08-23 15:50:00.053345437 +0000 UTC"
     },
     {
-      "mmsi": "255916591",
-      "name": "ESPERANCE",
-      "lat": 56.0285,
-      "lon": 20.2697,
-      "sog": 54.8,
-      "cog": 230.9,
+      "mmsi": "601126900",
+      "name": "SEA EXPRESS",
+      "lat": -29.8682,
+      "lon": 31.0142,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-08-23 15:50:03.531632172 +0000 UTC"
+    },
+    {
+      "mmsi": "249698000",
+      "name": "",
+      "lat": 40.6226,
+      "lon": 14.4965,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 1,
+      "last_update": "2026-08-23 15:50:08.475749292 +0000 UTC"
+    },
+    {
+      "mmsi": "211272580",
+      "name": "VIKING HAKI",
+      "lat": 54.1606,
+      "lon": 12.0941,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-23 15:50:11.77974983 +0000 UTC"
+    },
+    {
+      "mmsi": "244045000",
+      "name": "HEBO-CAT 15",
+      "lat": 53.1875,
+      "lon": 5.4319,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-23 14:55:22.080463716 +0000 UTC"
+      "last_update": "2026-08-23 15:50:15.180974837 +0000 UTC"
     },
     {
-      "mmsi": "212912000",
-      "name": "EUROCHAMPION JET",
-      "lat": 37.4587,
-      "lon": 25.115,
-      "sog": 36.3,
-      "cog": 80.1,
+      "mmsi": "257863000",
+      "name": "ROSESUND",
+      "lat": 60.5311,
+      "lon": 4.8787,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-23 15:50:15.505852781 +0000 UTC"
+    },
+    {
+      "mmsi": "366941780",
+      "name": "PROVIDER",
+      "lat": 47.6674,
+      "lon": -122.3905,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-08-23 15:50:23.385837718 +0000 UTC"
+    },
+    {
+      "mmsi": "245382000",
+      "name": "KNRM-FRED",
+      "lat": 51.6218,
+      "lon": 3.6877,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-23 14:55:28.315747042 +0000 UTC"
+      "last_update": "2026-08-23 15:50:30.610381191 +0000 UTC"
     },
     {
-      "mmsi": "271053066",
-      "name": "NAIM TUGAY",
-      "lat": 36.5735,
-      "lon": 28.278,
-      "sog": 36.1,
-      "cog": 191,
+      "mmsi": "257070800",
+      "name": "ALEA OF LOFOTEN",
+      "lat": 68.2418,
+      "lon": 14.586,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-23 14:56:17.509418661 +0000 UTC"
+      "last_update": "2026-08-23 15:50:36.058302123 +0000 UTC"
     },
     {
-      "mmsi": "219018172",
-      "name": "EXPRESS 2",
-      "lat": 56.0841,
-      "lon": 10.4789,
-      "sog": 35.7,
-      "cog": 118.2,
+      "mmsi": "259046050",
+      "name": "FREMAD",
+      "lat": 66.3729,
+      "lon": 12.361,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-23 14:55:32.224931389 +0000 UTC"
+      "last_update": "2026-08-23 15:50:37.301452807 +0000 UTC"
     },
     {
-      "mmsi": "212859000",
-      "name": "MERCEDES PINTO",
-      "lat": 28.4709,
-      "lon": -16.2054,
-      "sog": 33.5,
-      "cog": 109.5,
+      "mmsi": "265606160",
+      "name": "KBV 478",
+      "lat": 59.3946,
+      "lon": 18.1088,
+      "sog": 37.8,
+      "cog": 265.6,
+      "nav_status": 5,
+      "last_update": "2026-08-23 15:50:39.692120442 +0000 UTC"
+    },
+    {
+      "mmsi": "210052000",
+      "name": "EUROCHAMPION JET 2",
+      "lat": 37.8204,
+      "lon": 23.6753,
+      "sog": 35.8,
+      "cog": 332.9,
       "nav_status": 0,
-      "last_update": "2026-08-23 14:56:04.046922403 +0000 UTC"
+      "last_update": "2026-08-23 15:50:31.109360952 +0000 UTC"
     },
     {
-      "mmsi": "319038600",
-      "name": "GLOW",
-      "lat": 42.6982,
-      "lon": 7.7538,
-      "sog": 32.8,
-      "cog": 326.5,
-      "nav_status": 0,
-      "last_update": "2026-08-23 14:55:44.246591371 +0000 UTC"
-    },
-    {
-      "mmsi": "244615779",
-      "name": "TIGER",
-      "lat": 53.2315,
-      "lon": 5.251,
-      "sog": 32.2,
-      "cog": 87.6,
-      "nav_status": 0,
-      "last_update": "2026-08-23 14:55:42.019194951 +0000 UTC"
-    },
-    {
-      "mmsi": "316052439",
-      "name": "SPUHELS",
-      "lat": 49.2626,
-      "lon": -123.4954,
-      "sog": 31.3,
-      "cog": 82.3,
+      "mmsi": "219705000",
+      "name": "EXPRESS 4",
+      "lat": 55.9818,
+      "lon": 11.1346,
+      "sog": 35.4,
+      "cog": 278.5,
       "nav_status": 9,
-      "last_update": "2026-08-23 14:56:12.712802457 +0000 UTC"
+      "last_update": "2026-08-23 15:50:39.476670961 +0000 UTC"
+    },
+    {
+      "mmsi": "219022903",
+      "name": "EXPRESS 3",
+      "lat": 56.1464,
+      "lon": 10.309,
+      "sog": 34,
+      "cog": 120.9,
+      "nav_status": 9,
+      "last_update": "2026-08-23 15:50:05.521903725 +0000 UTC"
+    },
+    {
+      "mmsi": "224131000",
+      "name": "BAJAMAR EXPRESS",
+      "lat": 28.3912,
+      "lon": -16.095,
+      "sog": 34,
+      "cog": 310.8,
+      "nav_status": 0,
+      "last_update": "2026-08-23 15:50:29.670347841 +0000 UTC"
     }
   ]
 }
