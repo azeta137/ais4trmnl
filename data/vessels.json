@@ -1,77 +1,7 @@
 {
-  "updated_at": "2026-08-23T09:01:48Z",
-  "count": 5101,
+  "updated_at": "2026-08-23T10:01:59Z",
+  "count": 4885,
   "vessels": [
-    {
-      "mmsi": "316046329",
-      "name": "PITT KNIGHT",
-      "lat": 49.2314,
-      "lon": -122.7708,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-23 09:00:37.566351349 +0000 UTC"
-    },
-    {
-      "mmsi": "244780802",
-      "name": "WL4 HENDERIKA",
-      "lat": 53.3348,
-      "lon": 6.3042,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 7,
-      "last_update": "2026-08-23 09:00:39.073883821 +0000 UTC"
-    },
-    {
-      "mmsi": "244374235",
-      "name": "NT 11 WATERTRAPPER",
-      "lat": 52.3996,
-      "lon": 4.8999,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-23 09:00:42.542976187 +0000 UTC"
-    },
-    {
-      "mmsi": "319720000",
-      "name": "STARDUST",
-      "lat": 32.71,
-      "lon": -117.2336,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-23 09:00:47.751864808 +0000 UTC"
-    },
-    {
-      "mmsi": "247091500",
-      "name": "GRANDE SAN PAOLO",
-      "lat": 51.2786,
-      "lon": 4.2184,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-23 09:00:51.260722644 +0000 UTC"
-    },
-    {
-      "mmsi": "257052800",
-      "name": "TORNEROSE",
-      "lat": 59.833,
-      "lon": 5.7218,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-23 09:00:52.720178116 +0000 UTC"
-    },
-    {
-      "mmsi": "257045380",
-      "name": "KB TYFON",
-      "lat": 64.0933,
-      "lon": 9.9023,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-23 09:00:55.493337431 +0000 UTC"
-    },
     {
       "mmsi": "235080649",
       "name": "ONWARD N107",
@@ -80,27 +10,37 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-08-23 09:00:57.481386971 +0000 UTC"
+      "last_update": "2026-08-23 10:00:48.004046157 +0000 UTC"
     },
     {
-      "mmsi": "235104009",
-      "name": "SALTHOLME",
-      "lat": 54.5843,
-      "lon": -1.2305,
+      "mmsi": "993161092",
+      "name": "",
+      "lat": 49.1361,
+      "lon": -123.2264,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-23 09:01:06.077745382 +0000 UTC"
+      "nav_status": 15,
+      "last_update": "2026-08-23 10:00:49.024390782 +0000 UTC"
     },
     {
-      "mmsi": "210588000",
-      "name": "LEDRA PRIDE",
-      "lat": 34.6452,
-      "lon": 33.018,
+      "mmsi": "244780802",
+      "name": "WL4 HENDERIKA",
+      "lat": 53.3458,
+      "lon": 6.2715,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 7,
+      "last_update": "2026-08-23 10:01:12.992337766 +0000 UTC"
+    },
+    {
+      "mmsi": "601126900",
+      "name": "SEA EXPRESS",
+      "lat": -29.8681,
+      "lon": 31.0141,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 8,
-      "last_update": "2026-08-23 09:01:06.464356455 +0000 UTC"
+      "last_update": "2026-08-23 10:01:13.55509089 +0000 UTC"
     },
     {
       "mmsi": "622120121",
@@ -110,97 +50,159 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 3,
-      "last_update": "2026-08-23 09:01:15.262295513 +0000 UTC"
+      "last_update": "2026-08-23 10:01:18.241254555 +0000 UTC"
     },
     {
-      "mmsi": "247177600",
-      "name": "CITTA DI CAMOGLI",
-      "lat": 44.3514,
-      "lon": 9.1515,
+      "mmsi": "257135500",
+      "name": "LEON  OLAI",
+      "lat": 63.7998,
+      "lon": 8.6794,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-23 09:01:19.012171061 +0000 UTC"
+      "last_update": "2026-08-23 10:01:21.740321926 +0000 UTC"
     },
     {
-      "mmsi": "247130800",
-      "name": "SVEZIA",
-      "lat": 44.4114,
-      "lon": 8.9202,
+      "mmsi": "261011633",
+      "name": "HYDROCAT MURRAY",
+      "lat": 54.3461,
+      "lon": 18.7893,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-08-23 09:01:21.697120801 +0000 UTC"
+      "last_update": "2026-08-23 10:01:29.265563645 +0000 UTC"
     },
     {
-      "mmsi": "258230000",
-      "name": "FROEYTRANS",
-      "lat": 63.6385,
-      "lon": 8.8043,
+      "mmsi": "211270850",
+      "name": "PIONIER",
+      "ship_type": 70,
+      "destination": "BENSERSIEL",
+      "lat": 53.677,
+      "lon": 7.5736,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-23 10:01:30.41708355 +0000 UTC"
+    },
+    {
+      "mmsi": "247091500",
+      "name": "GRANDE SAN PAOLO",
+      "lat": 51.2786,
+      "lon": 4.2184,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-23 10:01:32.578059652 +0000 UTC"
+    },
+    {
+      "mmsi": "210588000",
+      "name": "LEDRA PRIDE",
+      "lat": 34.6452,
+      "lon": 33.018,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-08-23 10:01:32.958312632 +0000 UTC"
+    },
+    {
+      "mmsi": "244730564",
+      "name": "WADDENZEE II",
+      "lat": 53.1744,
+      "lon": 5.4509,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-23 10:01:40.824537391 +0000 UTC"
+    },
+    {
+      "mmsi": "244374235",
+      "name": "NT 11 WATERTRAPPER",
+      "lat": 52.3996,
+      "lon": 4.8999,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-23 10:01:43.54142854 +0000 UTC"
+    },
+    {
+      "mmsi": "316046329",
+      "name": "PITT KNIGHT",
+      "lat": 49.2313,
+      "lon": -122.7707,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-23 09:01:25.439565535 +0000 UTC"
+      "last_update": "2026-08-23 10:01:46.825229397 +0000 UTC"
     },
     {
-      "mmsi": "246445000",
-      "name": "KNRM-ALIES EN EVERT",
-      "lat": 53.174,
-      "lon": 4.8692,
-      "sog": 102.3,
-      "cog": 360,
+      "mmsi": "244881974",
+      "name": "",
+      "lat": -54.3567,
+      "lon": 83.3946,
+      "sog": 77.6,
+      "cog": 196.7,
       "nav_status": 0,
-      "last_update": "2026-08-23 09:01:29.948995467 +0000 UTC"
+      "last_update": "2026-08-23 10:00:57.611724162 +0000 UTC"
     },
     {
-      "mmsi": "235034368",
-      "name": "MULTI-SURVEY 4",
-      "lat": 51.9773,
-      "lon": 4.1218,
-      "sog": 102.3,
-      "cog": 360,
+      "mmsi": "255916591",
+      "name": "ESPERANCE",
+      "lat": 56.0285,
+      "lon": 20.2697,
+      "sog": 54.7,
+      "cog": 231,
       "nav_status": 0,
-      "last_update": "2026-08-23 09:01:30.4723692 +0000 UTC"
+      "last_update": "2026-08-23 10:01:36.504346863 +0000 UTC"
     },
     {
-      "mmsi": "265522730",
-      "name": "RESCUE ULLA KARIN",
-      "lat": 55.995,
-      "lon": 12.7271,
-      "sog": 102.3,
-      "cog": 360,
+      "mmsi": "224781000",
+      "name": "VOLCAN DE TAGORO",
+      "lat": 28.4087,
+      "lon": -16.0634,
+      "sog": 36.8,
+      "cog": 295.1,
+      "nav_status": 9,
+      "last_update": "2026-08-23 10:00:48.162564968 +0000 UTC"
+    },
+    {
+      "mmsi": "257795700",
+      "name": "RESCUE EINAR STAFFSR",
+      "lat": 59.8369,
+      "lon": 10.5269,
+      "sog": 35.8,
+      "cog": 169.3,
       "nav_status": 0,
-      "last_update": "2026-08-23 09:01:33.69046043 +0000 UTC"
+      "last_update": "2026-08-23 10:01:10.759941396 +0000 UTC"
     },
     {
-      "mmsi": "366941780",
-      "name": "PROVIDER",
-      "lat": 47.6674,
-      "lon": -122.3904,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-08-23 09:01:34.543076708 +0000 UTC"
+      "mmsi": "477525000",
+      "name": "UNIVERSAL MK2007",
+      "lat": 22.2909,
+      "lon": 114.1291,
+      "sog": 35.3,
+      "cog": 81.7,
+      "nav_status": 9,
+      "last_update": "2026-08-23 10:01:35.344074416 +0000 UTC"
     },
     {
-      "mmsi": "244045000",
-      "name": "HEBO-CAT 15",
-      "lat": 53.1875,
-      "lon": 5.4319,
-      "sog": 102.3,
-      "cog": 360,
+      "mmsi": "258235500",
+      "name": "RESCUE HORN FLYER",
+      "lat": 63.406,
+      "lon": 9.175,
+      "sog": 33.4,
+      "cog": 175,
       "nav_status": 0,
-      "last_update": "2026-08-23 09:01:35.051192438 +0000 UTC"
+      "last_update": "2026-08-23 10:00:57.019747794 +0000 UTC"
     },
     {
-      "mmsi": "311001001",
-      "name": "DEEP ORIENT",
-      "lat": 33.231,
-      "lon": 34.3092,
-      "sog": 56.3,
-      "cog": 109.6,
-      "nav_status": 3,
-      "last_update": "2026-08-23 09:01:27.556183313 +0000 UTC"
+      "mmsi": "224388000",
+      "name": "BANADEROS EXPRESS",
+      "lat": 28.3363,
+      "lon": -16.0555,
+      "sog": 32.4,
+      "cog": 135,
+      "nav_status": 0,
+      "last_update": "2026-08-23 10:01:07.14636264 +0000 UTC"
     }
   ]
 }
