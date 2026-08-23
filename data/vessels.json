@@ -1,7 +1,27 @@
 {
-  "updated_at": "2026-08-22T23:46:30Z",
-  "count": 5359,
+  "updated_at": "2026-08-23T03:31:50Z",
+  "count": 5489,
   "vessels": [
+    {
+      "mmsi": "229707000",
+      "name": "M/Y HOSHI",
+      "lat": 40.5616,
+      "lon": 14.2363,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 1,
+      "last_update": "2026-08-23 03:30:38.940476914 +0000 UTC"
+    },
+    {
+      "mmsi": "244374235",
+      "name": "NT 11 WATERTRAPPER",
+      "lat": 52.3996,
+      "lon": 4.8999,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-23 03:30:53.873705371 +0000 UTC"
+    },
     {
       "mmsi": "235080649",
       "name": "ONWARD N107",
@@ -10,27 +30,29 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-08-22 23:45:19.683901131 +0000 UTC"
+      "last_update": "2026-08-23 03:30:49.084972599 +0000 UTC"
     },
     {
-      "mmsi": "503000080",
-      "name": "MANNING",
-      "lat": -33.8683,
-      "lon": 151.222,
+      "mmsi": "235087611",
+      "name": "ARGYLL FLYER",
+      "ship_type": 69,
+      "destination": "GOUROCK/DUNOON",
+      "lat": 55.9445,
+      "lon": -4.7321,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-23 03:31:30.563697794 +0000 UTC"
+    },
+    {
+      "mmsi": "246445000",
+      "name": "KNRM-ALIES EN EVERT",
+      "lat": 53.1739,
+      "lon": 4.8693,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-22 23:45:52.295970846 +0000 UTC"
-    },
-    {
-      "mmsi": "205545000",
-      "name": "VB PANDA",
-      "lat": 51.3301,
-      "lon": 3.1971,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-22 23:45:24.188719593 +0000 UTC"
+      "last_update": "2026-08-23 03:30:51.17660241 +0000 UTC"
     },
     {
       "mmsi": "211337780",
@@ -40,169 +62,147 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-22 23:45:27.322681856 +0000 UTC"
+      "last_update": "2026-08-23 03:31:08.538294526 +0000 UTC"
+    },
+    {
+      "mmsi": "244120000",
+      "name": "ANTEOS",
+      "lat": 52.0991,
+      "lon": 4.2627,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-23 03:31:10.677609228 +0000 UTC"
+    },
+    {
+      "mmsi": "211272580",
+      "name": "VIKING HAKI",
+      "lat": 54.1606,
+      "lon": 12.0941,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-23 03:31:13.127643529 +0000 UTC"
+    },
+    {
+      "mmsi": "244730564",
+      "name": "WADDENZEE II",
+      "lat": 53.1744,
+      "lon": 5.4509,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-23 03:31:19.160076487 +0000 UTC"
     },
     {
       "mmsi": "319720000",
       "name": "STARDUST",
-      "lat": 32.7165,
-      "lon": -117.2339,
+      "lat": 32.71,
+      "lon": -117.2336,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-22 23:45:27.564930923 +0000 UTC"
+      "last_update": "2026-08-23 03:31:19.441165636 +0000 UTC"
     },
     {
-      "mmsi": "246445000",
-      "name": "KNRM-ALIES EN EVERT",
-      "lat": 53.1739,
-      "lon": 4.8694,
+      "mmsi": "235034368",
+      "name": "MULTI-SURVEY 4",
+      "lat": 51.9774,
+      "lon": 4.1219,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-22 23:45:30.664913831 +0000 UTC"
+      "last_update": "2026-08-23 03:31:21.805827262 +0000 UTC"
     },
     {
-      "mmsi": "244060365",
-      "name": "KNRM ARBOR VITAE",
-      "lat": 53.4088,
-      "lon": 6.1974,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-22 23:45:31.062863954 +0000 UTC"
-    },
-    {
-      "mmsi": "620010000",
-      "name": "BR_BROTHER",
-      "lat": 34.9024,
-      "lon": 35.8731,
+      "mmsi": "247130800",
+      "name": "SVEZIA",
+      "lat": 44.4114,
+      "lon": 8.9202,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-08-22 23:45:32.11932007 +0000 UTC"
-    },
-    {
-      "mmsi": "993161090",
-      "name": "",
-      "lat": 49.0877,
-      "lon": -123.3103,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-08-22 23:45:43.539023038 +0000 UTC"
-    },
-    {
-      "mmsi": "993161091",
-      "name": "",
-      "lat": 49.1327,
-      "lon": -123.2346,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-08-22 23:45:43.656454555 +0000 UTC"
-    },
-    {
-      "mmsi": "244780802",
-      "name": "WL4 HENDERIKA",
-      "lat": 53.3348,
-      "lon": 6.3042,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 7,
-      "last_update": "2026-08-22 23:45:49.187243451 +0000 UTC"
-    },
-    {
-      "mmsi": "219013538",
-      "name": "CARPE DIEM",
-      "lat": 58.1299,
-      "lon": 10.3773,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 7,
-      "last_update": "2026-08-22 23:45:49.759873432 +0000 UTC"
-    },
-    {
-      "mmsi": "263701380",
-      "name": "FERNANDO NAMORA",
-      "lat": 38.6526,
-      "lon": -9.0811,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-08-22 23:45:49.940440728 +0000 UTC"
-    },
-    {
-      "mmsi": "341896001",
-      "name": "IBRAHIM B",
-      "lat": 42.2284,
-      "lon": 32.3792,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-22 23:45:54.209727233 +0000 UTC"
-    },
-    {
-      "mmsi": "244045000",
-      "name": "HEBO-CAT 15",
-      "lat": 53.1875,
-      "lon": 5.4319,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-22 23:45:56.146402507 +0000 UTC"
+      "last_update": "2026-08-23 03:31:22.31884999 +0000 UTC"
     },
     {
       "mmsi": "245382000",
       "name": "",
       "lat": 51.6218,
-      "lon": 3.6879,
+      "lon": 3.6878,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-22 23:45:59.917042141 +0000 UTC"
+      "last_update": "2026-08-23 03:31:32.225478724 +0000 UTC"
     },
     {
-      "mmsi": "257052800",
-      "name": "TORNEROSE",
-      "lat": 59.833,
-      "lon": 5.7218,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-22 23:46:00.14638832 +0000 UTC"
-    },
-    {
-      "mmsi": "525104007",
-      "name": "TRANSKO JALAK",
-      "lat": -6.8314,
-      "lon": 110.428,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-08-22 23:46:05.196778568 +0000 UTC",
-      "ship_type": 52,
-      "destination": "SEMARANG"
-    },
-    {
-      "mmsi": "244710626",
-      "name": "BENCKES",
-      "lat": 52.0227,
-      "lon": 5.1132,
+      "mmsi": "210920000",
+      "name": "VTS PENTADAKTYLOS",
+      "lat": 34.7185,
+      "lon": 33.3178,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-22 23:46:05.821311295 +0000 UTC"
+      "last_update": "2026-08-23 03:31:35.123317761 +0000 UTC"
     },
     {
-      "mmsi": "219385000",
-      "name": "BJOERNSHOLM",
-      "lat": 55.6793,
-      "lon": 12.593,
-      "sog": 102.3,
-      "cog": 360,
+      "mmsi": "538009102",
+      "name": "ENERGEAN STAR",
+      "lat": 33.1821,
+      "lon": 34.3882,
+      "sog": 97.1,
+      "cog": 192.5,
+      "nav_status": 3,
+      "last_update": "2026-08-23 03:31:14.375367166 +0000 UTC"
+    },
+    {
+      "mmsi": "255916591",
+      "name": "ESPERANCE",
+      "lat": 56.0285,
+      "lon": 20.2697,
+      "sog": 54.8,
+      "cog": 230.9,
       "nav_status": 0,
-      "last_update": "2026-08-22 23:46:07.163129901 +0000 UTC"
+      "last_update": "2026-08-23 03:31:27.422750043 +0000 UTC"
+    },
+    {
+      "mmsi": "368612000",
+      "name": "RICH PASSAGE 1",
+      "lat": 47.5852,
+      "lon": -122.4339,
+      "sog": 34,
+      "cog": 68.7,
+      "nav_status": 0,
+      "last_update": "2026-08-23 03:30:56.301260608 +0000 UTC"
+    },
+    {
+      "mmsi": "311001249",
+      "name": "VICTORIA CLIPPER V",
+      "lat": 47.6325,
+      "lon": -122.4478,
+      "sog": 29.1,
+      "cog": 118,
+      "nav_status": 0,
+      "last_update": "2026-08-23 03:30:50.550102027 +0000 UTC"
+    },
+    {
+      "mmsi": "367331730",
+      "name": "COLUMBIA",
+      "lat": 46.2089,
+      "lon": -123.9405,
+      "sog": 28.1,
+      "cog": 124.7,
+      "nav_status": 0,
+      "last_update": "2026-08-23 03:31:38.072290526 +0000 UTC"
+    },
+    {
+      "mmsi": "431015964",
+      "name": "HAMAYU",
+      "lat": 33.6784,
+      "lon": 136.592,
+      "sog": 27.1,
+      "cog": 63.2,
+      "nav_status": 0,
+      "last_update": "2026-08-23 03:30:52.379068643 +0000 UTC"
     }
   ]
 }
