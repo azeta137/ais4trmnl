@@ -1,57 +1,7 @@
 {
-  "updated_at": "2026-08-23T20:54:34Z",
-  "count": 5297,
+  "updated_at": "2026-08-23T21:48:09Z",
+  "count": 5103,
   "vessels": [
-    {
-      "mmsi": "525110616",
-      "name": "BMU 001",
-      "lat": -2.0656,
-      "lon": 104.9844,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-08-23 20:53:23.346995318 +0000 UTC"
-    },
-    {
-      "mmsi": "210588000",
-      "name": "LEDRA PRIDE",
-      "lat": 34.6452,
-      "lon": 33.0179,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-08-23 20:53:23.603244709 +0000 UTC"
-    },
-    {
-      "mmsi": "244710626",
-      "name": "BENCKES",
-      "lat": 53.1833,
-      "lon": 5.8024,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-23 20:53:29.990305705 +0000 UTC"
-    },
-    {
-      "mmsi": "246445000",
-      "name": "KNRM-ALIES EN EVERT",
-      "lat": 53.1739,
-      "lon": 4.8693,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-23 20:53:39.180050116 +0000 UTC"
-    },
-    {
-      "mmsi": "244045000",
-      "name": "HEBO-CAT 15",
-      "lat": 53.1875,
-      "lon": 5.4319,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-23 20:53:45.424877759 +0000 UTC"
-    },
     {
       "mmsi": "235113676",
       "name": "NSL EXCALIBUR",
@@ -60,27 +10,57 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-23 20:53:48.324423356 +0000 UTC"
+      "last_update": "2026-08-23 21:47:07.368418774 +0000 UTC"
     },
     {
-      "mmsi": "601126900",
-      "name": "SEA EXPRESS",
-      "lat": -29.8682,
-      "lon": 31.0142,
+      "mmsi": "219013538",
+      "name": "CARPE DIEM",
+      "lat": 57.9,
+      "lon": 9.9014,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 7,
+      "last_update": "2026-08-23 21:47:09.375636637 +0000 UTC"
+    },
+    {
+      "mmsi": "257863000",
+      "name": "ROSESUND",
+      "lat": 60.5311,
+      "lon": 4.8787,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-23 21:47:12.511507326 +0000 UTC"
+    },
+    {
+      "mmsi": "210588000",
+      "name": "LEDRA PRIDE",
+      "lat": 34.6452,
+      "lon": 33.018,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 8,
-      "last_update": "2026-08-23 20:53:50.031435666 +0000 UTC"
+      "last_update": "2026-08-23 21:47:13.065885173 +0000 UTC"
     },
     {
-      "mmsi": "235034368",
-      "name": "MULTI-SURVEY 4",
-      "lat": 51.9774,
-      "lon": 4.1218,
+      "mmsi": "210920000",
+      "name": "VTS PENTADAKTYLOS",
+      "lat": 34.7185,
+      "lon": 33.3178,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-23 20:53:50.040781117 +0000 UTC"
+      "last_update": "2026-08-23 21:47:13.069051845 +0000 UTC"
+    },
+    {
+      "mmsi": "244108000",
+      "name": "ZK46 ZEEMEEUW",
+      "lat": 53.4098,
+      "lon": 6.2068,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-23 21:47:17.585325627 +0000 UTC"
     },
     {
       "mmsi": "232028036",
@@ -90,67 +70,47 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-23 20:53:50.5950973 +0000 UTC"
+      "last_update": "2026-08-23 21:47:21.481127375 +0000 UTC"
     },
     {
-      "mmsi": "503000080",
-      "name": "MANNING",
-      "lat": -33.8683,
-      "lon": 151.222,
+      "mmsi": "620010000",
+      "name": "BR_BROTHER",
+      "lat": 34.9016,
+      "lon": 35.8655,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-23 21:47:23.948165561 +0000 UTC"
+    },
+    {
+      "mmsi": "261007705",
+      "name": "FAIRPLAY-83",
+      "lat": 53.5852,
+      "lon": 5.5583,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-23 20:53:53.71472491 +0000 UTC"
+      "last_update": "2026-08-23 21:47:25.871499121 +0000 UTC"
     },
     {
-      "mmsi": "352002481",
-      "name": "BARU SIERRA NEVADA",
-      "lat": -22.8485,
-      "lon": -43.1299,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-08-23 20:53:56.631482307 +0000 UTC"
-    },
-    {
-      "mmsi": "219013538",
-      "name": "CARPE DIEM",
-      "lat": 57.8697,
-      "lon": 9.9526,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 7,
-      "last_update": "2026-08-23 20:53:59.341456669 +0000 UTC"
-    },
-    {
-      "mmsi": "249698000",
-      "name": "",
-      "lat": 40.6224,
-      "lon": 14.4964,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-08-23 20:53:59.820203626 +0000 UTC"
-    },
-    {
-      "mmsi": "518903000",
-      "name": "ANNABEL II",
-      "lat": 36.7367,
-      "lon": 26.9731,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-08-23 20:54:01.500894275 +0000 UTC"
-    },
-    {
-      "mmsi": "244108000",
-      "name": "ZK46 ZEEMEEUW",
-      "lat": 53.4098,
-      "lon": 6.2069,
+      "mmsi": "219032670",
+      "name": "FRB-23",
+      "lat": 57.3323,
+      "lon": 10.5335,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-23 20:54:06.081105354 +0000 UTC"
+      "last_update": "2026-08-23 21:47:33.314320191 +0000 UTC"
+    },
+    {
+      "mmsi": "219033720",
+      "name": "DBB IDEFIX",
+      "lat": 55.2987,
+      "lon": 10.8102,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 12,
+      "last_update": "2026-08-23 21:47:38.26564848 +0000 UTC"
     },
     {
       "mmsi": "259046050",
@@ -160,47 +120,89 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-23 20:54:07.238052911 +0000 UTC"
+      "last_update": "2026-08-23 21:47:47.380298889 +0000 UTC"
     },
     {
-      "mmsi": "316046329",
-      "name": "PITT KNIGHT",
-      "lat": 49.2314,
-      "lon": -122.7707,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-23 20:54:07.459426697 +0000 UTC"
-    },
-    {
-      "mmsi": "246812000",
-      "name": "SC FALCON",
-      "lat": 54.6384,
-      "lon": 11.3735,
+      "mmsi": "211337780",
+      "name": "ATALANTA",
+      "lat": 53.8993,
+      "lon": 11.4569,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-08-23 20:54:12.126818941 +0000 UTC"
+      "last_update": "2026-08-23 21:47:52.894966919 +0000 UTC"
     },
     {
-      "mmsi": "273354450",
-      "name": "POSEIDON S",
-      "lat": 35.9795,
-      "lon": 28.3917,
+      "mmsi": "235080649",
+      "name": "ONWARD N107",
+      "lat": 54.4569,
+      "lon": -5.4374,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-08-23 21:47:54.954640753 +0000 UTC"
+    },
+    {
+      "mmsi": "244045000",
+      "name": "HEBO-CAT 15",
+      "lat": 53.1875,
+      "lon": 5.4319,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-23 20:54:13.978204782 +0000 UTC"
+      "last_update": "2026-08-23 21:47:56.811293493 +0000 UTC"
     },
     {
-      "mmsi": "261011633",
-      "name": "HYDROCAT MURRAY",
-      "lat": 54.3461,
-      "lon": 18.7893,
-      "sog": 102.3,
-      "cog": 360,
+      "mmsi": "271052150",
+      "name": "GAZI UMUR BEY",
+      "lat": 41.2366,
+      "lon": 28.8237,
+      "sog": 102.2,
+      "cog": 170.3,
       "nav_status": 5,
-      "last_update": "2026-08-23 20:54:16.833657678 +0000 UTC"
+      "last_update": "2026-08-23 21:48:04.374198751 +0000 UTC"
+    },
+    {
+      "mmsi": "305007000",
+      "name": "SATURN A",
+      "lat": -12.0445,
+      "lon": -77.0367,
+      "sog": 97.4,
+      "cog": 183,
+      "nav_status": 0,
+      "last_update": "2026-08-23 21:47:10.081596116 +0000 UTC"
+    },
+    {
+      "mmsi": "353023000",
+      "name": "RHONE RIVER",
+      "lat": -12.0335,
+      "lon": -77.0566,
+      "sog": 95,
+      "cog": 20.1,
+      "nav_status": 0,
+      "last_update": "2026-08-23 21:48:05.472800306 +0000 UTC"
+    },
+    {
+      "mmsi": "311001001",
+      "name": "DEEP ORIENT",
+      "ship_type": 99,
+      "destination": "TANIN FIELD",
+      "lat": 33.2027,
+      "lon": 34.3557,
+      "sog": 92.6,
+      "cog": 137.3,
+      "nav_status": 3,
+      "last_update": "2026-08-23 21:48:05.057059678 +0000 UTC"
+    },
+    {
+      "mmsi": "244078764",
+      "name": "FLAGSHIP",
+      "lat": 52.3754,
+      "lon": 4.9057,
+      "sog": 77,
+      "cog": 123.5,
+      "nav_status": 0,
+      "last_update": "2026-08-23 21:47:54.611118002 +0000 UTC"
     }
   ]
 }
