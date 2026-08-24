@@ -1,126 +1,76 @@
 {
-  "updated_at": "2026-08-23T23:48:39Z",
-  "count": 5352,
+  "updated_at": "2026-08-24T03:34:28Z",
+  "count": 5126,
   "vessels": [
     {
-      "mmsi": "319720000",
-      "name": "STARDUST",
-      "lat": 32.7101,
-      "lon": -117.2336,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-23 23:47:29.358132168 +0000 UTC"
-    },
-    {
-      "mmsi": "368119660",
-      "name": "CHARLESTON",
-      "lat": 40.5227,
-      "lon": -74.2495,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 12,
-      "last_update": "2026-08-23 23:47:32.705349641 +0000 UTC"
-    },
-    {
-      "mmsi": "261007705",
-      "name": "FAIRPLAY-83",
-      "lat": 53.6692,
-      "lon": 6.0476,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-23 23:47:35.901929448 +0000 UTC"
-    },
-    {
-      "mmsi": "366941780",
-      "name": "PROVIDER",
-      "lat": 47.6674,
-      "lon": -122.3905,
+      "mmsi": "316014014",
+      "name": "TAKAYA",
+      "lat": 49.2863,
+      "lon": -123.1005,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-08-23 23:47:36.047320065 +0000 UTC"
+      "last_update": "2026-08-24 03:33:17.47301717 +0000 UTC"
     },
     {
-      "mmsi": "246445000",
-      "name": "KNRM-ALIES EN EVERT",
-      "lat": 53.1739,
-      "lon": 4.8693,
+      "mmsi": "261004170",
+      "name": "MARS",
+      "lat": 54.3995,
+      "lon": 18.695,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-23 23:47:41.73215197 +0000 UTC"
+      "last_update": "2026-08-24 03:33:17.845830225 +0000 UTC"
     },
     {
-      "mmsi": "247130800",
-      "name": "SVEZIA",
-      "lat": 44.4114,
-      "lon": 8.9202,
+      "mmsi": "601126900",
+      "name": "SEA EXPRESS",
+      "lat": -29.8682,
+      "lon": 31.0142,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-23 23:47:43.243546163 +0000 UTC"
+      "nav_status": 8,
+      "last_update": "2026-08-24 03:33:20.059070894 +0000 UTC"
     },
     {
-      "mmsi": "257070800",
-      "name": "ALEA OF LOFOTEN",
-      "lat": 68.2418,
-      "lon": 14.586,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-23 23:47:48.84187594 +0000 UTC"
-    },
-    {
-      "mmsi": "235113676",
-      "name": "NSL EXCALIBUR",
-      "lat": 53.3222,
-      "lon": -3.262,
+      "mmsi": "205545000",
+      "name": "VB PANDA",
+      "lat": 51.3301,
+      "lon": 3.1971,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-23 23:47:49.540850393 +0000 UTC"
+      "last_update": "2026-08-24 03:33:25.873285928 +0000 UTC"
     },
     {
-      "mmsi": "211272580",
-      "name": "VIKING HAKI",
-      "lat": 54.1606,
-      "lon": 12.0941,
+      "mmsi": "244108000",
+      "name": "ZK46 ZEEMEEUW",
+      "lat": 53.6156,
+      "lon": 6.5808,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-23 23:47:52.173927352 +0000 UTC"
-    },
-    {
-      "mmsi": "367377380",
-      "name": "FREEDOM",
-      "lat": 42.3463,
-      "lon": -71.0209,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-23 23:47:53.03396138 +0000 UTC"
-    },
-    {
-      "mmsi": "244730564",
-      "name": "WADDENZEE II",
-      "lat": 53.1744,
-      "lon": 5.4509,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-23 23:47:57.453470877 +0000 UTC"
+      "nav_status": 0,
+      "last_update": "2026-08-24 03:33:27.501554574 +0000 UTC"
     },
     {
       "mmsi": "219013538",
       "name": "CARPE DIEM",
-      "lat": 58.0517,
-      "lon": 9.8603,
+      "lat": 58.1333,
+      "lon": 10.1293,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 7,
-      "last_update": "2026-08-23 23:47:58.770906524 +0000 UTC"
+      "last_update": "2026-08-24 03:33:29.204293121 +0000 UTC"
+    },
+    {
+      "mmsi": "229707000",
+      "name": "M/Y HOSHI",
+      "lat": 40.6396,
+      "lon": 14.4012,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-24 03:33:30.147631773 +0000 UTC"
     },
     {
       "mmsi": "518903000",
@@ -130,7 +80,7 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 8,
-      "last_update": "2026-08-23 23:48:01.656696497 +0000 UTC"
+      "last_update": "2026-08-24 03:33:31.890063208 +0000 UTC"
     },
     {
       "mmsi": "503000080",
@@ -140,37 +90,71 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-23 23:48:02.925507415 +0000 UTC"
+      "last_update": "2026-08-24 03:33:32.805729278 +0000 UTC"
     },
     {
-      "mmsi": "367131000",
-      "name": "ALASKA",
-      "lat": 29.7187,
-      "lon": -93.8632,
+      "mmsi": "563070140",
+      "name": "PSA TAURUS YS52",
+      "lat": 1.2549,
+      "lon": 103.7689,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-23 23:48:03.727754974 +0000 UTC"
+      "nav_status": 0,
+      "last_update": "2026-08-24 03:33:37.479954346 +0000 UTC"
     },
     {
-      "mmsi": "246812000",
-      "name": "SC FALCON",
-      "lat": 54.6384,
-      "lon": 11.3735,
+      "mmsi": "257070800",
+      "name": "ALEA OF LOFOTEN",
+      "lat": 68.2418,
+      "lon": 14.5859,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-23 23:48:11.870039269 +0000 UTC"
+      "nav_status": 0,
+      "last_update": "2026-08-24 03:33:39.248153483 +0000 UTC"
     },
     {
       "mmsi": "273354450",
       "name": "POSEIDON S",
-      "lat": 35.9535,
-      "lon": 28.3721,
+      "lat": 35.9962,
+      "lon": 28.4625,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-23 23:48:14.738585088 +0000 UTC"
+      "last_update": "2026-08-24 03:33:44.553825474 +0000 UTC"
+    },
+    {
+      "mmsi": "257052800",
+      "name": "TORNEROSE",
+      "lat": 59.833,
+      "lon": 5.7218,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-24 03:33:51.569643845 +0000 UTC",
+      "ship_type": 60,
+      "destination": "HERNAR"
+    },
+    {
+      "mmsi": "563147700",
+      "name": "PSA VISION (NN27)",
+      "lat": 1.2644,
+      "lon": 103.8525,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-24 03:33:54.666964351 +0000 UTC",
+      "ship_type": 52,
+      "destination": "SINGAPORE"
+    },
+    {
+      "mmsi": "244374235",
+      "name": "NT 11 WATERTRAPPER",
+      "lat": 52.3996,
+      "lon": 4.8999,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-24 03:34:04.113755864 +0000 UTC"
     },
     {
       "mmsi": "244045000",
@@ -180,29 +164,49 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-23 23:48:26.832414729 +0000 UTC"
+      "last_update": "2026-08-24 03:34:06.738428349 +0000 UTC"
     },
     {
-      "mmsi": "338519000",
-      "name": "SWIFTSURE",
-      "lat": 48.0898,
-      "lon": -122.7526,
-      "sog": 34.3,
-      "cog": 41,
+      "mmsi": "261011633",
+      "name": "HYDROCAT MURRAY",
+      "lat": 54.3461,
+      "lon": 18.7893,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-24 03:34:12.746448869 +0000 UTC"
+    },
+    {
+      "mmsi": "366989380",
+      "name": "MARE ISLAND",
+      "lat": 38.0605,
+      "lon": -122.2821,
+      "sog": 34.4,
+      "cog": 59.7,
       "nav_status": 0,
-      "last_update": "2026-08-23 23:47:39.615567044 +0000 UTC"
+      "last_update": "2026-08-24 03:33:50.196444639 +0000 UTC"
     },
     {
-      "mmsi": "368473450",
-      "name": "CALCASIEU PILOT",
-      "ship_type": 0,
-      "destination": "",
-      "lat": 29.7662,
-      "lon": -93.3449,
-      "sog": 29.5,
-      "cog": 171.8,
-      "nav_status": 15,
-      "last_update": "2026-08-23 23:47:36.67670054 +0000 UTC"
+      "mmsi": "258352500",
+      "name": "ADMIRALEN",
+      "lat": 59.7884,
+      "lon": 5.813,
+      "sog": 32.8,
+      "cog": 307.5,
+      "nav_status": 9,
+      "last_update": "2026-08-24 03:33:33.515677677 +0000 UTC"
+    },
+    {
+      "mmsi": "257304900",
+      "name": "TRONDHEIMSFJORD 1",
+      "lat": 59.7282,
+      "lon": 5.6292,
+      "sog": 32.5,
+      "cog": 9.5,
+      "nav_status": 0,
+      "last_update": "2026-08-24 03:33:23.183656893 +0000 UTC",
+      "ship_type": 40,
+      "destination": "SUNNHORDALAND"
     }
   ]
 }
