@@ -1,26 +1,16 @@
 {
-  "updated_at": "2026-08-24T19:45:58Z",
-  "count": 5094,
+  "updated_at": "2026-08-24T21:05:56Z",
+  "count": 5107,
   "vessels": [
     {
-      "mmsi": "601126900",
-      "name": "SEA EXPRESS",
-      "lat": -29.8682,
-      "lon": 31.0142,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-08-24 19:44:47.341954213 +0000 UTC"
-    },
-    {
-      "mmsi": "245382000",
-      "name": "KNRM-FRED",
-      "lat": 51.6217,
-      "lon": 3.688,
+      "mmsi": "367705050",
+      "name": "C E",
+      "lat": 47.5871,
+      "lon": -122.3433,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-24 19:44:51.869500474 +0000 UTC"
+      "last_update": "2026-08-24 21:05:03.764859582 +0000 UTC"
     },
     {
       "mmsi": "244710626",
@@ -30,109 +20,7 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-24 19:44:54.566584743 +0000 UTC"
-    },
-    {
-      "mmsi": "235104009",
-      "name": "SALTHOLME",
-      "lat": 54.5843,
-      "lon": -1.2305,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-24 19:45:35.159586115 +0000 UTC"
-    },
-    {
-      "mmsi": "367482250",
-      "name": "JERSEY",
-      "lat": 40.7139,
-      "lon": -74.0319,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-24 19:44:58.702616951 +0000 UTC"
-    },
-    {
-      "mmsi": "259046050",
-      "name": "FREMAD",
-      "lat": 66.3729,
-      "lon": 12.361,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-24 19:45:06.438250276 +0000 UTC"
-    },
-    {
-      "mmsi": "563070140",
-      "name": "PSA TAURUS YS52",
-      "lat": 1.2785,
-      "lon": 103.777,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-24 19:45:06.45027565 +0000 UTC",
-      "ship_type": 52,
-      "destination": "WCB_SGP"
-    },
-    {
-      "mmsi": "319720000",
-      "name": "STARDUST",
-      "lat": 32.7101,
-      "lon": -117.2336,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-24 19:45:17.477645975 +0000 UTC"
-    },
-    {
-      "mmsi": "620010000",
-      "name": "BR_BROTHER",
-      "lat": 34.9026,
-      "lon": 35.8658,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-24 19:45:11.398021597 +0000 UTC"
-    },
-    {
-      "mmsi": "235034368",
-      "name": "MULTI-SURVEY 4",
-      "lat": 51.9774,
-      "lon": 4.1219,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-24 19:45:12.360619466 +0000 UTC"
-    },
-    {
-      "mmsi": "247091500",
-      "name": "GRANDE SAN PAOLO",
-      "lat": 51.2785,
-      "lon": 4.2184,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-24 19:45:13.698470148 +0000 UTC"
-    },
-    {
-      "mmsi": "352002481",
-      "name": "BARU SIERRA NEVADA",
-      "lat": -22.848,
-      "lon": -43.1301,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-08-24 19:45:15.41606387 +0000 UTC"
-    },
-    {
-      "mmsi": "316046329",
-      "name": "PITT KNIGHT",
-      "lat": 49.2314,
-      "lon": -122.7707,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-24 19:45:17.639132359 +0000 UTC"
+      "last_update": "2026-08-24 21:04:54.920752086 +0000 UTC"
     },
     {
       "mmsi": "210920000",
@@ -142,7 +30,117 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-24 19:45:22.191990325 +0000 UTC"
+      "last_update": "2026-08-24 21:05:03.335333223 +0000 UTC"
+    },
+    {
+      "mmsi": "235104009",
+      "name": "SALTHOLME",
+      "lat": 54.5843,
+      "lon": -1.2305,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-24 21:05:03.852720444 +0000 UTC"
+    },
+    {
+      "mmsi": "316046329",
+      "name": "PITT KNIGHT",
+      "lat": 49.2327,
+      "lon": -122.7652,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-24 21:05:16.165006142 +0000 UTC"
+    },
+    {
+      "mmsi": "273376280",
+      "name": "VLADIVOSTOK",
+      "lat": 59.8761,
+      "lon": 30.2011,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-24 21:05:17.040935261 +0000 UTC"
+    },
+    {
+      "mmsi": "232028036",
+      "name": "GARRION OWL",
+      "lat": 55.8907,
+      "lon": -4.3942,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-24 21:05:20.970843668 +0000 UTC"
+    },
+    {
+      "mmsi": "261007705",
+      "name": "FAIRPLAY-83",
+      "lat": 54.4014,
+      "lon": 10.2057,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-24 21:05:23.490923939 +0000 UTC"
+    },
+    {
+      "mmsi": "210588000",
+      "name": "LEDRA PRIDE",
+      "lat": 34.6452,
+      "lon": 33.0181,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-08-24 21:05:24.266318427 +0000 UTC"
+    },
+    {
+      "mmsi": "319720000",
+      "name": "STARDUST",
+      "lat": 32.7101,
+      "lon": -117.2336,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-24 21:05:26.842256851 +0000 UTC"
+    },
+    {
+      "mmsi": "219385000",
+      "name": "BJOERNSHOLM",
+      "lat": 55.6793,
+      "lon": 12.593,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-24 21:05:27.149032283 +0000 UTC"
+    },
+    {
+      "mmsi": "245382000",
+      "name": "KNRM-FRED",
+      "lat": 51.6217,
+      "lon": 3.6878,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-24 21:05:31.702706418 +0000 UTC"
+    },
+    {
+      "mmsi": "235034368",
+      "name": "MULTI-SURVEY 4",
+      "lat": 51.9773,
+      "lon": 4.1219,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-24 21:05:32.228057205 +0000 UTC"
+    },
+    {
+      "mmsi": "338449112",
+      "name": "BAYWATCH 21",
+      "lat": 33.9712,
+      "lon": -118.4467,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-08-24 21:05:36.135746557 +0000 UTC"
     },
     {
       "mmsi": "244045000",
@@ -152,57 +150,59 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-08-24 19:45:26.498301782 +0000 UTC"
+      "last_update": "2026-08-24 21:05:37.136540902 +0000 UTC"
     },
     {
-      "mmsi": "244060365",
-      "name": "KNRM ARBOR VITAE",
-      "lat": 53.4087,
-      "lon": 6.1974,
+      "mmsi": "265604290",
+      "name": "DONALDA",
+      "lat": 58.6885,
+      "lon": 11.2564,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-24 19:45:39.169487396 +0000 UTC"
+      "last_update": "2026-08-24 21:05:52.017183643 +0000 UTC"
     },
     {
-      "mmsi": "235086068",
-      "name": "WINDCAT 27",
-      "lat": 52.5993,
-      "lon": 1.7255,
+      "mmsi": "246445000",
+      "name": "KNRM-ALIES EN EVERT",
+      "lat": 53.1739,
+      "lon": 4.8693,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-24 19:45:46.389163257 +0000 UTC"
+      "last_update": "2026-08-24 21:05:54.161109511 +0000 UTC"
     },
     {
-      "mmsi": "255916591",
-      "name": "ESPERANCE",
-      "lat": 56.0285,
-      "lon": 20.2697,
-      "sog": 54.8,
-      "cog": 230.9,
+      "mmsi": "636022898",
+      "name": "MARETA",
+      "lat": -12.0484,
+      "lon": -77.0494,
+      "sog": 77.5,
+      "cog": 239.1,
       "nav_status": 0,
-      "last_update": "2026-08-24 19:45:35.739705073 +0000 UTC"
+      "last_update": "2026-08-24 21:05:22.276148272 +0000 UTC"
     },
     {
-      "mmsi": "215284000",
-      "name": "DENSA FLAMINGO",
-      "lat": 43.132,
-      "lon": 28.2857,
-      "sog": 51.1,
-      "cog": 212.4,
-      "nav_status": 1,
-      "last_update": "2026-08-24 19:44:48.198849978 +0000 UTC"
+      "mmsi": "316052438",
+      "name": "STHUQI",
+      "lat": 49.2999,
+      "lon": -123.2863,
+      "sog": 34.9,
+      "cog": 257.7,
+      "nav_status": 9,
+      "last_update": "2026-08-24 21:05:48.138676645 +0000 UTC"
     },
     {
-      "mmsi": "368023510",
-      "name": "SARATOGA",
-      "lat": 48.1561,
-      "lon": -123.3983,
-      "sog": 35.9,
-      "cog": 172.1,
+      "mmsi": "368224850",
+      "name": "COURAGEOUS",
+      "lat": 40.5148,
+      "lon": -74.0312,
+      "sog": 34.1,
+      "cog": 174,
       "nav_status": 0,
-      "last_update": "2026-08-24 19:44:51.908564406 +0000 UTC"
+      "last_update": "2026-08-24 21:05:00.524858268 +0000 UTC",
+      "ship_type": 65,
+      "destination": "XX XXX>?? ???"
     }
   ]
 }
