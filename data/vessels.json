@@ -1,48 +1,86 @@
 {
-  "updated_at": "2026-08-26T03:34:29Z",
-  "count": 4735,
+  "updated_at": "2026-08-26T05:19:06Z",
+  "count": 4741,
   "vessels": [
     {
-      "mmsi": "219032675",
-      "name": "FRB28",
-      "lat": 56.9588,
-      "lon": 8.3649,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-08-26 03:33:19.324503558 +0000 UTC",
-      "ship_type": 51,
-      "destination": ""
-    },
-    {
-      "mmsi": "319720000",
-      "name": "STARDUST",
-      "lat": 32.7101,
-      "lon": -117.2336,
+      "mmsi": "257820700",
+      "name": "VIKNAVAERINGEN",
+      "lat": 64.9027,
+      "lon": 11.2562,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-26 03:33:28.837639528 +0000 UTC"
+      "last_update": "2026-08-26 05:17:57.015859034 +0000 UTC"
     },
     {
-      "mmsi": "525104007",
-      "name": "TRANSKO JALAK",
-      "lat": -6.9477,
-      "lon": 110.4204,
+      "mmsi": "352002481",
+      "name": "BARU SIERRA NEVADA",
+      "lat": -22.8481,
+      "lon": -43.1299,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 1,
+      "last_update": "2026-08-26 05:17:58.672480981 +0000 UTC"
+    },
+    {
+      "mmsi": "319067100",
+      "name": "WINWIN",
+      "lat": 39.4887,
+      "lon": 2.4768,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 8,
-      "last_update": "2026-08-26 03:33:31.554917853 +0000 UTC"
+      "last_update": "2026-08-26 05:18:01.393125549 +0000 UTC"
     },
     {
-      "mmsi": "244374235",
-      "name": "NT 11 WATERTRAPPER",
-      "lat": 52.3996,
-      "lon": 4.8999,
+      "mmsi": "257070800",
+      "name": "ALEA OF LOFOTEN",
+      "lat": 68.2418,
+      "lon": 14.586,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-26 03:33:32.261108406 +0000 UTC"
+      "last_update": "2026-08-26 05:18:06.255740252 +0000 UTC"
+    },
+    {
+      "mmsi": "235089224",
+      "name": "WINDCAT 29",
+      "lat": 51.3273,
+      "lon": 1.4161,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-26 05:18:07.573790924 +0000 UTC"
+    },
+    {
+      "mmsi": "244045000",
+      "name": "HEBO-CAT 15",
+      "lat": 53.1875,
+      "lon": 5.4319,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-26 05:18:15.580642661 +0000 UTC"
+    },
+    {
+      "mmsi": "255802940",
+      "name": "CGAS MATE",
+      "lat": 56.4714,
+      "lon": 12.3086,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-26 05:18:16.770852602 +0000 UTC"
+    },
+    {
+      "mmsi": "235113676",
+      "name": "NSL EXCALIBUR",
+      "lat": 53.3222,
+      "lon": -3.262,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-26 05:18:24.084856623 +0000 UTC"
     },
     {
       "mmsi": "263701380",
@@ -52,161 +90,117 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 8,
-      "last_update": "2026-08-26 03:33:41.56899577 +0000 UTC"
-    },
-    {
-      "mmsi": "338449112",
-      "name": "BAYWATCH 21",
-      "lat": 33.9712,
-      "lon": -118.4467,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-08-26 03:33:42.103193722 +0000 UTC"
-    },
-    {
-      "mmsi": "244710626",
-      "name": "BENCKES",
-      "lat": 51.8802,
-      "lon": 4.4402,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-26 03:33:44.282923623 +0000 UTC"
-    },
-    {
-      "mmsi": "210588000",
-      "name": "LEDRA PRIDE",
-      "lat": 34.6452,
-      "lon": 33.018,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-08-26 03:33:51.537699111 +0000 UTC"
-    },
-    {
-      "mmsi": "565235000",
-      "name": "KST PRIDE",
-      "lat": 1.2962,
-      "lon": 103.7,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-26 03:33:53.716330709 +0000 UTC"
-    },
-    {
-      "mmsi": "259046050",
-      "name": "FREMAD",
-      "lat": 66.3729,
-      "lon": 12.361,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-26 03:33:56.613881645 +0000 UTC"
-    },
-    {
-      "mmsi": "563147700",
-      "name": "PSA VISION (NN27)",
-      "lat": 1.2901,
-      "lon": 103.7609,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-26 03:34:02.078470845 +0000 UTC"
+      "last_update": "2026-08-26 05:18:40.280770753 +0000 UTC"
     },
     {
       "mmsi": "245382000",
       "name": "KNRM-FRED",
       "lat": 51.6218,
-      "lon": 3.6879,
+      "lon": 3.6878,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-26 03:34:02.237959387 +0000 UTC"
+      "last_update": "2026-08-26 05:18:40.697830833 +0000 UTC"
     },
     {
-      "mmsi": "235104009",
-      "name": "SALTHOLME",
-      "lat": 54.5843,
-      "lon": -1.2305,
+      "mmsi": "244710626",
+      "name": "BENCKES",
+      "lat": 51.8816,
+      "lon": 4.4362,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-26 03:34:06.094157442 +0000 UTC"
+      "last_update": "2026-08-26 05:18:41.108187445 +0000 UTC"
     },
     {
-      "mmsi": "258062500",
-      "name": "PERLEN",
-      "lat": 68.5669,
-      "lon": 14.9146,
+      "mmsi": "235070403",
+      "name": "WINDCAT 14",
+      "lat": 57.1434,
+      "lon": -2.0902,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-08-26 03:34:09.543301362 +0000 UTC"
+      "last_update": "2026-08-26 05:18:44.7460317 +0000 UTC"
     },
     {
-      "mmsi": "225997876",
-      "name": "DAEDALUS",
-      "lat": 39.4552,
-      "lon": -0.3074,
+      "mmsi": "601126900",
+      "name": "SEA EXPRESS",
+      "lat": -29.8681,
+      "lon": 31.0141,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-26 03:34:13.46949109 +0000 UTC"
+      "nav_status": 8,
+      "last_update": "2026-08-26 05:18:46.674466427 +0000 UTC"
     },
     {
-      "mmsi": "563070140",
-      "name": "PSA TAURUS YS52",
-      "lat": 1.2803,
-      "lon": 103.7504,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-26 03:34:15.317604231 +0000 UTC"
-    },
-    {
-      "mmsi": "255916591",
-      "name": "ESPERANCE",
-      "ship_type": 79,
-      "destination": "HAMBURG",
-      "lat": 56.0285,
-      "lon": 20.2697,
-      "sog": 54.7,
-      "cog": 231,
-      "nav_status": 0,
-      "last_update": "2026-08-26 03:33:27.59832012 +0000 UTC"
-    },
-    {
-      "mmsi": "258352500",
-      "name": "ADMIRALEN",
-      "lat": 59.7803,
-      "lon": 5.8314,
-      "sog": 32.7,
-      "cog": 310.3,
+      "mmsi": "219705000",
+      "name": "EXPRESS 4",
+      "lat": 56.0314,
+      "lon": 10.7341,
+      "sog": 37.8,
+      "cog": 102.2,
       "nav_status": 9,
-      "last_update": "2026-08-26 03:33:40.212250343 +0000 UTC"
+      "last_update": "2026-08-26 05:18:07.200397569 +0000 UTC"
     },
     {
-      "mmsi": "368612000",
-      "name": "RICH PASSAGE 1",
-      "lat": 47.5752,
-      "lon": -122.4914,
-      "sog": 31.7,
-      "cog": 241,
-      "nav_status": 0,
-      "last_update": "2026-08-26 03:34:04.773996856 +0000 UTC"
+      "mmsi": "219022903",
+      "name": "EXPRESS 3",
+      "lat": 55.9787,
+      "lon": 11.1776,
+      "sog": 36.7,
+      "cog": 281.8,
+      "nav_status": 9,
+      "last_update": "2026-08-26 05:18:26.981159407 +0000 UTC"
     },
     {
-      "mmsi": "239737000",
-      "name": "BLUE STAR 2",
-      "lat": 37.5213,
-      "lon": 24.6148,
-      "sog": 25.1,
-      "cog": 266.1,
+      "mmsi": "257086180",
+      "name": "FJORDDRONNINGEN",
+      "lat": 68.8768,
+      "lon": 16.8768,
+      "sog": 32.5,
+      "cog": 56.6,
       "nav_status": 0,
-      "last_update": "2026-08-26 03:33:17.438633284 +0000 UTC",
-      "ship_type": 60,
-      "destination": "RH SY KO LE PA SI PI"
+      "last_update": "2026-08-26 05:18:10.765479797 +0000 UTC"
+    },
+    {
+      "mmsi": "224388000",
+      "name": "BANADEROS EXPRESS",
+      "lat": 28.1868,
+      "lon": -15.8413,
+      "sog": 32.4,
+      "cog": 305.4,
+      "nav_status": 0,
+      "last_update": "2026-08-26 05:18:20.99919428 +0000 UTC"
+    },
+    {
+      "mmsi": "257304900",
+      "name": "TRONDHEIMSFJORD 1",
+      "lat": 59.7302,
+      "lon": 5.7234,
+      "sog": 31.8,
+      "cog": 64.2,
+      "nav_status": 0,
+      "last_update": "2026-08-26 05:18:29.191917936 +0000 UTC"
+    },
+    {
+      "mmsi": "248984000",
+      "name": "SAN GIORGIO",
+      "lat": 36.3235,
+      "lon": 14.5459,
+      "sog": 31.3,
+      "cog": 1.7,
+      "nav_status": 0,
+      "last_update": "2026-08-26 05:17:56.121278455 +0000 UTC"
+    },
+    {
+      "mmsi": "247050100",
+      "name": "ACAPULCO JET",
+      "lat": 40.7775,
+      "lon": 14.0967,
+      "sog": 30.4,
+      "cog": 213.1,
+      "nav_status": 0,
+      "last_update": "2026-08-26 05:18:16.89077001 +0000 UTC"
     }
   ]
 }
