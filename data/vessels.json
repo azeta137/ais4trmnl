@@ -1,48 +1,16 @@
 {
-  "updated_at": "2026-08-28T01:00:12Z",
-  "count": 4205,
+  "updated_at": "2026-08-28T21:54:19Z",
+  "count": 3817,
   "vessels": [
     {
-      "mmsi": "235087611",
-      "name": "ARGYLL FLYER",
-      "lat": 55.9445,
-      "lon": -4.7322,
+      "mmsi": "503000080",
+      "name": "MANNING",
+      "lat": -33.8683,
+      "lon": 151.222,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-08-28 00:59:13.091682388 +0000 UTC"
-    },
-    {
-      "mmsi": "235070403",
-      "name": "WINDCAT 14",
-      "lat": 57.1435,
-      "lon": -2.0902,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-28 00:59:13.99486184 +0000 UTC",
-      "ship_type": 48,
-      "destination": "ABZ/KOWF/ABZ"
-    },
-    {
-      "mmsi": "240451900",
-      "name": "WHITECAPS",
-      "lat": 38.3861,
-      "lon": 20.7221,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-28 00:59:17.749479297 +0000 UTC"
-    },
-    {
-      "mmsi": "273393560",
-      "name": "TAMARA",
-      "lat": 40.9614,
-      "lon": 28.7642,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-08-28 00:59:19.926335829 +0000 UTC"
+      "last_update": "2026-08-28 21:53:10.316896741 +0000 UTC"
     },
     {
       "mmsi": "244108000",
@@ -52,69 +20,69 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-28 00:59:21.400243457 +0000 UTC"
+      "last_update": "2026-08-28 21:53:11.625968546 +0000 UTC"
     },
     {
-      "mmsi": "246445000",
-      "name": "KNRM-ALIES EN EVERT",
-      "lat": 53.1739,
-      "lon": 4.8692,
+      "mmsi": "244710626",
+      "name": "BENCKES",
+      "ship_type": 90,
+      "destination": "LEEUWARDEN  ZWETTEHA",
+      "lat": 53.188,
+      "lon": 5.7638,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-28 00:59:24.58861893 +0000 UTC"
+      "last_update": "2026-08-28 21:53:20.11686953 +0000 UTC"
     },
     {
-      "mmsi": "244120000",
-      "name": "ANTEOS",
-      "lat": 52.0991,
-      "lon": 4.2626,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-28 00:59:28.821059974 +0000 UTC"
-    },
-    {
-      "mmsi": "367361620",
-      "name": "CELESTIAL",
-      "lat": 40.719,
-      "lon": -74.0215,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-28 00:59:36.123484279 +0000 UTC"
-    },
-    {
-      "mmsi": "241926000",
-      "name": "LYBOUSSAKIS ATLAS",
-      "lat": 37.9574,
-      "lon": 23.6103,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-28 00:59:38.047410576 +0000 UTC"
-    },
-    {
-      "mmsi": "273130400",
-      "name": "YURIY ARSHENEVSKIY",
-      "ship_type": 70,
-      "destination": "TO ORDER",
-      "lat": 54.7448,
-      "lon": 10.883,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-28 01:00:05.437237741 +0000 UTC"
-    },
-    {
-      "mmsi": "477997158",
-      "name": "PORT WORKS 5",
-      "lat": 22.3235,
-      "lon": 114.1415,
+      "mmsi": "993692249",
+      "name": "",
+      "lat": 48.3297,
+      "lon": -122.9772,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-08-28 00:59:44.614322994 +0000 UTC"
+      "last_update": "2026-08-28 21:53:20.09185036 +0000 UTC"
+    },
+    {
+      "mmsi": "259046050",
+      "name": "FREMAD",
+      "lat": 66.3729,
+      "lon": 12.361,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-28 21:53:26.483000848 +0000 UTC"
+    },
+    {
+      "mmsi": "211652800",
+      "name": "LAUENBURG",
+      "lat": 53.3702,
+      "lon": 10.5566,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-28 21:53:27.527051255 +0000 UTC"
+    },
+    {
+      "mmsi": "316014014",
+      "name": "TAKAYA",
+      "lat": 49.2863,
+      "lon": -123.1005,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-08-28 21:53:31.258045246 +0000 UTC"
+    },
+    {
+      "mmsi": "235113676",
+      "name": "NSL EXCALIBUR",
+      "lat": 53.3222,
+      "lon": -3.262,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-28 21:53:35.272492525 +0000 UTC"
     },
     {
       "mmsi": "210920000",
@@ -124,7 +92,47 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-28 00:59:53.483476672 +0000 UTC"
+      "last_update": "2026-08-28 21:53:36.862500855 +0000 UTC"
+    },
+    {
+      "mmsi": "205545000",
+      "name": "VB PANDA",
+      "lat": 51.3301,
+      "lon": 3.1971,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-28 21:53:38.015123741 +0000 UTC"
+    },
+    {
+      "mmsi": "244060365",
+      "name": "KNRM ARBOR VITAE",
+      "lat": 53.4088,
+      "lon": 6.1974,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-28 21:53:40.129912057 +0000 UTC"
+    },
+    {
+      "mmsi": "993692574",
+      "name": "",
+      "lat": 48.569,
+      "lon": -122.8446,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-08-28 21:53:43.398194417 +0000 UTC"
+    },
+    {
+      "mmsi": "244810627",
+      "name": "WR40 ANNA CAROLA",
+      "lat": 53.4446,
+      "lon": 6.8271,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 7,
+      "last_update": "2026-08-28 21:53:44.230671959 +0000 UTC"
     },
     {
       "mmsi": "261007705",
@@ -134,79 +142,67 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-08-28 00:59:55.507844534 +0000 UTC"
+      "last_update": "2026-08-28 21:54:03.734766659 +0000 UTC"
     },
     {
-      "mmsi": "613169507",
-      "name": "LDR ALEYNA",
-      "lat": 55.795,
-      "lon": 16.7735,
+      "mmsi": "312166000",
+      "name": "QUEEN GHAIDAA",
+      "lat": 60.076,
+      "lon": 27.4224,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-28 01:00:05.282399282 +0000 UTC"
+      "last_update": "2026-08-28 21:54:02.771988521 +0000 UTC"
     },
     {
-      "mmsi": "273115700",
-      "name": "MEKHANIK MAKARIN",
-      "lat": 54.8836,
-      "lon": 20.0405,
+      "mmsi": "993692248",
+      "name": "",
+      "lat": 48.3671,
+      "lon": -123.0365,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-08-28 21:54:03.669331363 +0000 UTC"
+    },
+    {
+      "mmsi": "246445000",
+      "name": "KNRM-ALIES EN EVERT",
+      "lat": 53.174,
+      "lon": 4.8692,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-28 01:00:08.931902978 +0000 UTC"
+      "last_update": "2026-08-28 21:54:05.089962314 +0000 UTC"
     },
     {
-      "mmsi": "259102000",
-      "name": "BIRGERSON",
-      "lat": 70.9803,
-      "lon": 25.9716,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 7,
-      "last_update": "2026-08-28 01:00:09.625656043 +0000 UTC"
-    },
-    {
-      "mmsi": "255916591",
-      "name": "ESPERANCE",
-      "lat": 56.0285,
-      "lon": 20.2697,
-      "sog": 54.7,
-      "cog": 231,
+      "mmsi": "368224850",
+      "name": "COURAGEOUS",
+      "lat": 40.4522,
+      "lon": -74.0304,
+      "sog": 36.2,
+      "cog": 355,
       "nav_status": 0,
-      "last_update": "2026-08-28 00:59:47.823548147 +0000 UTC"
+      "last_update": "2026-08-28 21:53:47.958039756 +0000 UTC"
     },
     {
-      "mmsi": "368612000",
-      "name": "RICH PASSAGE 1",
-      "lat": 47.5736,
-      "lon": -122.5343,
-      "sog": 35.8,
-      "cog": 311.2,
+      "mmsi": "366989380",
+      "name": "MARE ISLAND",
+      "lat": 37.857,
+      "lon": -122.3986,
+      "sog": 35,
+      "cog": 338,
       "nav_status": 0,
-      "last_update": "2026-08-28 00:59:28.849506456 +0000 UTC",
-      "ship_type": 40,
-      "destination": "BREM-SEA-BREM"
+      "last_update": "2026-08-28 21:53:39.823457025 +0000 UTC"
     },
     {
-      "mmsi": "368457860",
-      "name": "EMERALD CLIPPER",
-      "lat": 47.809,
-      "lon": -122.4093,
+      "mmsi": "368053730",
+      "name": "PYXIS",
+      "lat": 37.9842,
+      "lon": -122.4259,
       "sog": 32.1,
-      "cog": 199,
+      "cog": 212.8,
       "nav_status": 0,
-      "last_update": "2026-08-28 00:59:25.338425038 +0000 UTC"
-    },
-    {
-      "mmsi": "368088610",
-      "name": "LYRA",
-      "lat": 38.054,
-      "lon": -122.3029,
-      "sog": 30.9,
-      "cog": 63.5,
-      "nav_status": 0,
-      "last_update": "2026-08-28 00:59:17.30838722 +0000 UTC"
+      "last_update": "2026-08-28 21:53:43.156355679 +0000 UTC"
     }
   ]
 }
