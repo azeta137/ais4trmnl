@@ -1,208 +1,206 @@
 {
-  "updated_at": "2026-08-28T22:27:46Z",
-  "count": 3867,
+  "updated_at": "2026-08-28T22:47:41Z",
+  "count": 3929,
   "vessels": [
     {
-      "mmsi": "205088000",
-      "name": "J. BREYDEL SURVEY",
-      "lat": 51.2226,
-      "lon": 2.9363,
+      "mmsi": "244108000",
+      "name": "ZK46 ZEEMEEUW",
+      "lat": 53.4099,
+      "lon": 6.207,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-28 22:26:34.761253416 +0000 UTC"
+      "last_update": "2026-08-28 22:46:31.876274326 +0000 UTC"
     },
     {
-      "mmsi": "211652800",
-      "name": "LAUENBURG",
-      "lat": 53.3702,
-      "lon": 10.5566,
+      "mmsi": "245382000",
+      "name": "KNRM-FRED",
+      "lat": 51.6218,
+      "lon": 3.6878,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-28 22:26:38.792860092 +0000 UTC"
-    },
-    {
-      "mmsi": "261007705",
-      "name": "FAIRPLAY-83",
-      "lat": 53.9073,
-      "lon": 14.2599,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-28 22:26:44.423900911 +0000 UTC"
-    },
-    {
-      "mmsi": "368273770",
-      "name": "MONHEGAN",
-      "lat": 41.7409,
-      "lon": -70.6582,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-28 22:26:50.609949789 +0000 UTC"
-    },
-    {
-      "mmsi": "259046050",
-      "name": "FREMAD",
-      "lat": 66.3729,
-      "lon": 12.361,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-28 22:26:57.29181042 +0000 UTC"
-    },
-    {
-      "mmsi": "428067000",
-      "name": "BAT GALIM",
-      "lat": 32.8203,
-      "lon": 35.0073,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-28 22:27:15.7152356 +0000 UTC"
-    },
-    {
-      "mmsi": "993692574",
-      "name": "",
-      "lat": 48.569,
-      "lon": -122.8446,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-08-28 22:27:19.618253274 +0000 UTC"
-    },
-    {
-      "mmsi": "227008170",
-      "name": "MOLENEZ",
-      "lat": 48.3816,
-      "lon": -4.4861,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-28 22:27:23.48816448 +0000 UTC"
-    },
-    {
-      "mmsi": "235113676",
-      "name": "NSL EXCALIBUR",
-      "lat": 53.3222,
-      "lon": -3.262,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-28 22:27:25.133693097 +0000 UTC"
+      "last_update": "2026-08-28 22:46:50.930953987 +0000 UTC"
     },
     {
       "mmsi": "210920000",
       "name": "VTS PENTADAKTYLOS",
       "lat": 34.7185,
-      "lon": 33.3178,
+      "lon": 33.3179,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-28 22:27:26.013502302 +0000 UTC"
+      "last_update": "2026-08-28 22:47:07.976971258 +0000 UTC"
     },
     {
-      "mmsi": "316040291",
-      "name": "SONIC",
-      "lat": 48.6971,
-      "lon": -123.3239,
-      "sog": 33.9,
-      "cog": 263.3,
-      "nav_status": 15,
-      "last_update": "2026-08-28 22:26:42.989921402 +0000 UTC",
-      "ship_type": 37,
-      "destination": ""
+      "mmsi": "244045000",
+      "name": "HEBO-CAT 15",
+      "lat": 53.1875,
+      "lon": 5.4319,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-28 22:47:08.128671096 +0000 UTC"
     },
     {
-      "mmsi": "368206330",
-      "name": "SOLANO",
-      "lat": 47.6145,
-      "lon": -122.3968,
-      "sog": 33.7,
-      "cog": 298,
+      "mmsi": "352002481",
+      "name": "BARU SIERRA NEVADA",
+      "lat": -22.8483,
+      "lon": -43.1302,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 1,
+      "last_update": "2026-08-28 22:47:09.576091069 +0000 UTC"
+    },
+    {
+      "mmsi": "235104009",
+      "name": "SALTHOLME",
+      "lat": 54.5843,
+      "lon": -1.2305,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-28 22:27:06.256863139 +0000 UTC"
+      "last_update": "2026-08-28 22:47:16.842599409 +0000 UTC"
     },
     {
-      "mmsi": "368341690",
-      "name": "DELPHINUS",
-      "lat": 37.8015,
-      "lon": -122.341,
-      "sog": 32.9,
-      "cog": 286.3,
-      "nav_status": 0,
-      "last_update": "2026-08-28 22:27:04.619496305 +0000 UTC"
+      "mmsi": "235070403",
+      "name": "WINDCAT 14",
+      "lat": 57.1435,
+      "lon": -2.0901,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-28 22:47:20.956564742 +0000 UTC"
     },
     {
-      "mmsi": "368067090",
-      "name": "RELIANCE",
-      "lat": 47.5859,
-      "lon": -122.4458,
-      "sog": 32.9,
-      "cog": 66.7,
-      "nav_status": 0,
-      "last_update": "2026-08-28 22:27:07.470295634 +0000 UTC"
+      "mmsi": "311054900",
+      "name": "ATLANTIC ACANTHUS",
+      "lat": 54.4093,
+      "lon": 18.6587,
+      "sog": 102.2,
+      "cog": 8.2,
+      "nav_status": 5,
+      "last_update": "2026-08-28 22:46:49.523973843 +0000 UTC"
     },
     {
-      "mmsi": "367101920",
-      "name": "GREY LADY",
-      "lat": 41.4012,
-      "lon": -70.168,
-      "sog": 32.5,
-      "cog": 150.1,
+      "mmsi": "431009153",
+      "name": "SEVENISLAND TOMO",
+      "lat": 35.4952,
+      "lon": 139.8146,
+      "sog": 40.7,
+      "cog": 198.4,
       "nav_status": 0,
-      "last_update": "2026-08-28 22:26:41.657022742 +0000 UTC"
+      "last_update": "2026-08-28 22:46:42.155517036 +0000 UTC"
     },
     {
       "mmsi": "368396216",
       "name": "SEASTREAK NEW JERSEY",
-      "lat": 40.7089,
-      "lon": -74.0207,
-      "sog": 31.9,
-      "cog": 195.2,
+      "lat": 40.63,
+      "lon": -74.0537,
+      "sog": 33.8,
+      "cog": 161,
       "nav_status": 15,
-      "last_update": "2026-08-28 22:27:25.118111993 +0000 UTC"
+      "last_update": "2026-08-28 22:46:53.386975497 +0000 UTC"
     },
     {
-      "mmsi": "235057012",
-      "name": "TORNADO CLIPPER",
-      "lat": 51.5014,
-      "lon": 0.0777,
-      "sog": 29.7,
-      "cog": 211.8,
+      "mmsi": "367425520",
+      "name": "SCORPIO",
+      "lat": 37.7509,
+      "lon": -122.3527,
+      "sog": 28.2,
+      "cog": 350.7,
       "nav_status": 0,
-      "last_update": "2026-08-28 22:26:58.70312222 +0000 UTC"
+      "last_update": "2026-08-28 22:47:26.326624254 +0000 UTC"
     },
     {
-      "mmsi": "368151810",
-      "name": "ENETAI",
-      "lat": 47.5521,
-      "lon": -122.4508,
-      "sog": 29.6,
-      "cog": 34.7,
-      "nav_status": 0,
-      "last_update": "2026-08-28 22:26:58.065697765 +0000 UTC"
-    },
-    {
-      "mmsi": "512008121",
-      "name": "IKA KAKAHI",
-      "lat": -36.8404,
-      "lon": 174.7993,
-      "sog": 27.7,
-      "cog": 283.9,
-      "nav_status": 0,
-      "last_update": "2026-08-28 22:26:41.952492457 +0000 UTC"
-    },
-    {
-      "mmsi": "431015964",
-      "name": "HAMAYU",
-      "lat": 33.647,
-      "lon": 136.5418,
+      "mmsi": "316042213",
+      "name": "SALISH SEA FREEDOM",
+      "lat": 49.2901,
+      "lon": -123.2216,
       "sog": 27.4,
+      "cog": 274.4,
+      "nav_status": 0,
+      "last_update": "2026-08-28 22:47:23.693939405 +0000 UTC"
+    },
+    {
+      "mmsi": "477995040",
+      "name": "DISCOVERY BAY3",
+      "lat": 22.2922,
+      "lon": 114.12,
+      "sog": 26.8,
+      "cog": 87,
+      "nav_status": 0,
+      "last_update": "2026-08-28 22:46:46.141808647 +0000 UTC"
+    },
+    {
+      "mmsi": "367782940",
+      "name": "GLORY",
+      "lat": 42.2693,
+      "lon": -70.9319,
+      "sog": 25.9,
+      "cog": 192.2,
+      "nav_status": 0,
+      "last_update": "2026-08-28 22:46:51.197080305 +0000 UTC"
+    },
+    {
+      "mmsi": "366943940",
+      "name": "SUPER EXPRESS",
+      "lat": 33.6771,
+      "lon": -118.2521,
+      "sog": 25.5,
+      "cog": 184.8,
+      "nav_status": 0,
+      "last_update": "2026-08-28 22:47:22.712515059 +0000 UTC"
+    },
+    {
+      "mmsi": "247243600",
+      "name": "CRUISE BARCELONA",
+      "lat": 41.8303,
+      "lon": 10.8247,
+      "sog": 25,
+      "cog": 247.3,
+      "nav_status": 0,
+      "last_update": "2026-08-28 22:46:37.952394272 +0000 UTC"
+    },
+    {
+      "mmsi": "366457328",
+      "name": "",
+      "lat": 33.6806,
+      "lon": -118.2517,
+      "sog": 24.8,
+      "cog": 183.9,
+      "nav_status": 0,
+      "last_update": "2026-08-28 22:46:53.062809194 +0000 UTC"
+    },
+    {
+      "mmsi": "366902570",
+      "name": "TAMPA",
+      "lat": 27.6786,
+      "lon": -82.7388,
+      "sog": 23.3,
       "cog": 246.3,
       "nav_status": 0,
-      "last_update": "2026-08-28 22:26:36.487427299 +0000 UTC"
+      "last_update": "2026-08-28 22:46:31.374660715 +0000 UTC"
+    },
+    {
+      "mmsi": "247083700",
+      "name": "LA SUPREMA",
+      "lat": 39.4848,
+      "lon": 10.1894,
+      "sog": 22.8,
+      "cog": 176.6,
+      "nav_status": 0,
+      "last_update": "2026-08-28 22:46:45.261446141 +0000 UTC"
+    },
+    {
+      "mmsi": "367798430",
+      "name": "STARLIGHT",
+      "lat": 40.7363,
+      "lon": -73.9677,
+      "sog": 22.8,
+      "cog": 344.1,
+      "nav_status": 0,
+      "last_update": "2026-08-28 22:46:50.272347437 +0000 UTC"
     }
   ]
 }
