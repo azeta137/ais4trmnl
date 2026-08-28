@@ -1,48 +1,86 @@
 {
-  "updated_at": "2026-08-28T22:07:54Z",
-  "count": 3872,
+  "updated_at": "2026-08-28T22:27:46Z",
+  "count": 3867,
   "vessels": [
     {
-      "mmsi": "246445000",
-      "name": "KNRM-ALIES EN EVERT",
-      "lat": 53.1739,
-      "lon": 4.8692,
+      "mmsi": "205088000",
+      "name": "J. BREYDEL SURVEY",
+      "lat": 51.2226,
+      "lon": 2.9363,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-28 22:06:44.274782771 +0000 UTC"
+      "last_update": "2026-08-28 22:26:34.761253416 +0000 UTC"
     },
     {
-      "mmsi": "235104009",
-      "name": "SALTHOLME",
-      "lat": 54.5843,
-      "lon": -1.2305,
+      "mmsi": "211652800",
+      "name": "LAUENBURG",
+      "lat": 53.3702,
+      "lon": 10.5566,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-28 22:06:56.98195069 +0000 UTC"
+      "last_update": "2026-08-28 22:26:38.792860092 +0000 UTC"
     },
     {
-      "mmsi": "249929000",
-      "name": "BIANCA II",
-      "ship_type": 36,
-      "destination": "MARINA MOLO VECCHIO",
-      "lat": 44.4091,
-      "lon": 8.9234,
+      "mmsi": "261007705",
+      "name": "FAIRPLAY-83",
+      "lat": 53.9073,
+      "lon": 14.2599,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-08-28 22:07:08.513739749 +0000 UTC"
+      "last_update": "2026-08-28 22:26:44.423900911 +0000 UTC"
     },
     {
-      "mmsi": "241926000",
-      "name": "LYBOUSSAKIS ATLAS",
-      "lat": 37.9574,
-      "lon": 23.6103,
+      "mmsi": "368273770",
+      "name": "MONHEGAN",
+      "lat": 41.7409,
+      "lon": -70.6582,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-28 22:07:07.55235198 +0000 UTC"
+      "last_update": "2026-08-28 22:26:50.609949789 +0000 UTC"
+    },
+    {
+      "mmsi": "259046050",
+      "name": "FREMAD",
+      "lat": 66.3729,
+      "lon": 12.361,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-28 22:26:57.29181042 +0000 UTC"
+    },
+    {
+      "mmsi": "428067000",
+      "name": "BAT GALIM",
+      "lat": 32.8203,
+      "lon": 35.0073,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-28 22:27:15.7152356 +0000 UTC"
+    },
+    {
+      "mmsi": "993692574",
+      "name": "",
+      "lat": 48.569,
+      "lon": -122.8446,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-08-28 22:27:19.618253274 +0000 UTC"
+    },
+    {
+      "mmsi": "227008170",
+      "name": "MOLENEZ",
+      "lat": 48.3816,
+      "lon": -4.4861,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-28 22:27:23.48816448 +0000 UTC"
     },
     {
       "mmsi": "235113676",
@@ -52,161 +90,119 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-28 22:07:15.199596582 +0000 UTC"
+      "last_update": "2026-08-28 22:27:25.133693097 +0000 UTC"
     },
     {
-      "mmsi": "316046329",
-      "name": "PITT KNIGHT",
-      "lat": 49.2226,
-      "lon": -122.8423,
+      "mmsi": "210920000",
+      "name": "VTS PENTADAKTYLOS",
+      "lat": 34.7185,
+      "lon": 33.3178,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-28 22:07:17.715900187 +0000 UTC"
+      "last_update": "2026-08-28 22:27:26.013502302 +0000 UTC"
     },
     {
-      "mmsi": "244374235",
-      "name": "NT 11 WATERTRAPPER",
-      "lat": 52.3996,
-      "lon": 4.8999,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-08-28 22:07:24.821105504 +0000 UTC"
-    },
-    {
-      "mmsi": "338046826",
-      "name": "SEATOW RESCUE 2",
-      "lat": 42.3142,
-      "lon": -70.9846,
-      "sog": 34.4,
-      "cog": 322.3,
-      "nav_status": 0,
-      "last_update": "2026-08-28 22:07:06.600556437 +0000 UTC",
-      "ship_type": 99,
+      "mmsi": "316040291",
+      "name": "SONIC",
+      "lat": 48.6971,
+      "lon": -123.3239,
+      "sog": 33.9,
+      "cog": 263.3,
+      "nav_status": 15,
+      "last_update": "2026-08-28 22:26:42.989921402 +0000 UTC",
+      "ship_type": 37,
       "destination": ""
     },
     {
-      "mmsi": "366989380",
-      "name": "MARE ISLAND",
-      "lat": 37.9733,
-      "lon": -122.4265,
-      "sog": 34.4,
-      "cog": 27.5,
+      "mmsi": "368206330",
+      "name": "SOLANO",
+      "lat": 47.6145,
+      "lon": -122.3968,
+      "sog": 33.7,
+      "cog": 298,
       "nav_status": 0,
-      "last_update": "2026-08-28 22:07:08.010324031 +0000 UTC"
+      "last_update": "2026-08-28 22:27:06.256863139 +0000 UTC"
     },
     {
-      "mmsi": "368053730",
-      "name": "PYXIS",
-      "lat": 37.8696,
-      "lon": -122.4183,
-      "sog": 31.7,
-      "cog": 151.2,
+      "mmsi": "368341690",
+      "name": "DELPHINUS",
+      "lat": 37.8015,
+      "lon": -122.341,
+      "sog": 32.9,
+      "cog": 286.3,
       "nav_status": 0,
-      "last_update": "2026-08-28 22:07:25.322689459 +0000 UTC"
+      "last_update": "2026-08-28 22:27:04.619496305 +0000 UTC"
     },
     {
-      "mmsi": "368248520",
-      "name": "DORADO",
-      "lat": 37.8284,
-      "lon": -122.3909,
-      "sog": 31.7,
-      "cog": 355.2,
+      "mmsi": "368067090",
+      "name": "RELIANCE",
+      "lat": 47.5859,
+      "lon": -122.4458,
+      "sog": 32.9,
+      "cog": 66.7,
       "nav_status": 0,
-      "last_update": "2026-08-28 22:07:37.189614888 +0000 UTC"
+      "last_update": "2026-08-28 22:27:07.470295634 +0000 UTC"
     },
     {
-      "mmsi": "367677670",
-      "name": "SANCTUARY",
-      "lat": 42.1291,
-      "lon": -70.4507,
-      "sog": 31.3,
-      "cog": 305.4,
+      "mmsi": "367101920",
+      "name": "GREY LADY",
+      "lat": 41.4012,
+      "lon": -70.168,
+      "sog": 32.5,
+      "cog": 150.1,
       "nav_status": 0,
-      "last_update": "2026-08-28 22:07:13.231608869 +0000 UTC"
+      "last_update": "2026-08-28 22:26:41.657022742 +0000 UTC"
     },
     {
-      "mmsi": "368457860",
-      "name": "EMERALD CLIPPER",
-      "lat": 47.8108,
-      "lon": -122.4091,
-      "sog": 31,
-      "cog": 14,
-      "nav_status": 0,
-      "last_update": "2026-08-28 22:07:37.48734386 +0000 UTC"
+      "mmsi": "368396216",
+      "name": "SEASTREAK NEW JERSEY",
+      "lat": 40.7089,
+      "lon": -74.0207,
+      "sog": 31.9,
+      "cog": 195.2,
+      "nav_status": 15,
+      "last_update": "2026-08-28 22:27:25.118111993 +0000 UTC"
     },
     {
-      "mmsi": "369990421",
-      "name": "CG29421",
-      "lat": 42.7829,
-      "lon": -82.4718,
-      "sog": 30.9,
-      "cog": 166.6,
+      "mmsi": "235057012",
+      "name": "TORNADO CLIPPER",
+      "lat": 51.5014,
+      "lon": 0.0777,
+      "sog": 29.7,
+      "cog": 211.8,
       "nav_status": 0,
-      "last_update": "2026-08-28 22:06:59.838268782 +0000 UTC"
+      "last_update": "2026-08-28 22:26:58.70312222 +0000 UTC"
     },
     {
-      "mmsi": "316032858",
-      "name": "SALISH SEA DREAM",
-      "lat": 49.2862,
-      "lon": -123.1599,
-      "sog": 29,
-      "cog": 276.2,
+      "mmsi": "368151810",
+      "name": "ENETAI",
+      "lat": 47.5521,
+      "lon": -122.4508,
+      "sog": 29.6,
+      "cog": 34.7,
       "nav_status": 0,
-      "last_update": "2026-08-28 22:06:52.368481999 +0000 UTC",
-      "ship_type": 60,
-      "destination": ""
+      "last_update": "2026-08-28 22:26:58.065697765 +0000 UTC"
+    },
+    {
+      "mmsi": "512008121",
+      "name": "IKA KAKAHI",
+      "lat": -36.8404,
+      "lon": 174.7993,
+      "sog": 27.7,
+      "cog": 283.9,
+      "nav_status": 0,
+      "last_update": "2026-08-28 22:26:41.952492457 +0000 UTC"
     },
     {
       "mmsi": "431015964",
       "name": "HAMAYU",
-      "lat": 33.7097,
-      "lon": 136.707,
-      "sog": 27.3,
-      "cog": 245.2,
+      "lat": 33.647,
+      "lon": 136.5418,
+      "sog": 27.4,
+      "cog": 246.3,
       "nav_status": 0,
-      "last_update": "2026-08-28 22:06:44.460049719 +0000 UTC"
-    },
-    {
-      "mmsi": "338224000",
-      "name": "DOC MAYNARD",
-      "lat": 47.601,
-      "lon": -122.365,
-      "sog": 26.6,
-      "cog": 277,
-      "nav_status": 0,
-      "last_update": "2026-08-28 22:07:17.288573176 +0000 UTC"
-    },
-    {
-      "mmsi": "366868360",
-      "name": "HOBOKEN",
-      "lat": 40.5068,
-      "lon": -74.1565,
-      "sog": 25.7,
-      "cog": 249.7,
-      "nav_status": 0,
-      "last_update": "2026-08-28 22:07:00.265106432 +0000 UTC"
-    },
-    {
-      "mmsi": "316039686",
-      "name": "SALISH SEA ECLIPSE",
-      "lat": 48.3864,
-      "lon": -123.174,
-      "sog": 24.9,
-      "cog": 111.2,
-      "nav_status": 0,
-      "last_update": "2026-08-28 22:07:25.427408035 +0000 UTC"
-    },
-    {
-      "mmsi": "240389000",
-      "name": "BLUE STAR MYCONOS",
-      "lat": 37.7626,
-      "lon": 23.7086,
-      "sog": 24.1,
-      "cog": 335.9,
-      "nav_status": 0,
-      "last_update": "2026-08-28 22:07:00.272399988 +0000 UTC"
+      "last_update": "2026-08-28 22:26:36.487427299 +0000 UTC"
     }
   ]
 }
