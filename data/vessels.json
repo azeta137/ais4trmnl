@@ -1,96 +1,16 @@
 {
-  "updated_at": "2026-08-26T14:28:18Z",
-  "count": 4108,
+  "updated_at": "2026-08-28T01:00:12Z",
+  "count": 4205,
   "vessels": [
     {
-      "mmsi": "245382000",
-      "name": "KNRM-FRED",
-      "lat": 51.6218,
-      "lon": 3.6879,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-26 14:27:12.208107519 +0000 UTC"
-    },
-    {
-      "mmsi": "210920000",
-      "name": "VTS PENTADAKTYLOS",
-      "lat": 34.7186,
-      "lon": 33.3178,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-26 14:27:12.593585605 +0000 UTC"
-    },
-    {
-      "mmsi": "428067000",
-      "name": "BAT GALIM",
-      "lat": 32.8202,
-      "lon": 35.0073,
+      "mmsi": "235087611",
+      "name": "ARGYLL FLYER",
+      "lat": 55.9445,
+      "lon": -4.7322,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-08-26 14:27:16.922077526 +0000 UTC"
-    },
-    {
-      "mmsi": "319720000",
-      "name": "STARDUST",
-      "lat": 32.71,
-      "lon": -117.2336,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-26 14:27:18.170868691 +0000 UTC"
-    },
-    {
-      "mmsi": "244870700",
-      "name": "METTE MARIA",
-      "lat": 53.8162,
-      "lon": 7.9371,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 3,
-      "last_update": "2026-08-26 14:27:18.767392023 +0000 UTC"
-    },
-    {
-      "mmsi": "271044493",
-      "name": "MIP- 3",
-      "lat": 36.7919,
-      "lon": 34.636,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-26 14:27:19.522120746 +0000 UTC"
-    },
-    {
-      "mmsi": "367131000",
-      "name": "ALASKA",
-      "lat": 29.7187,
-      "lon": -93.8631,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-26 14:27:21.880844827 +0000 UTC"
-    },
-    {
-      "mmsi": "244374235",
-      "name": "NT 11 WATERTRAPPER",
-      "lat": 52.3996,
-      "lon": 4.8999,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-26 14:27:22.189260303 +0000 UTC"
-    },
-    {
-      "mmsi": "244045000",
-      "name": "HEBO-CAT 15",
-      "lat": 53.1875,
-      "lon": 5.4319,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-26 14:27:45.801017758 +0000 UTC"
+      "last_update": "2026-08-28 00:59:13.091682388 +0000 UTC"
     },
     {
       "mmsi": "235070403",
@@ -99,110 +19,194 @@
       "lon": -2.0902,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 9,
-      "last_update": "2026-08-26 14:27:38.314133988 +0000 UTC"
-    },
-    {
-      "mmsi": "368368350",
-      "name": "BREEZY DAY",
-      "lat": 26.0928,
-      "lon": -80.1745,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-26 14:27:55.93583939 +0000 UTC"
-    },
-    {
-      "mmsi": "244670478",
-      "name": "RUMARDO",
-      "lat": 52.0609,
-      "lon": 5.0969,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-26 14:27:56.558270634 +0000 UTC"
-    },
-    {
-      "mmsi": "211337780",
-      "name": "ATALANTA",
-      "lat": 53.8992,
-      "lon": 11.4571,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-26 14:27:59.850715829 +0000 UTC"
-    },
-    {
-      "mmsi": "304496000",
-      "name": "TITAN",
-      "lat": 19.1265,
-      "lon": 35.3302,
-      "sog": 38.8,
-      "cog": 259.9,
-      "nav_status": 1,
-      "last_update": "2026-08-26 14:27:25.797889367 +0000 UTC"
-    },
-    {
-      "mmsi": "210052000",
-      "name": "EUROCHAMPION JET 2",
-      "lat": 37.5211,
-      "lon": 24.815,
-      "sog": 36.7,
-      "cog": 270.8,
-      "nav_status": 0,
-      "last_update": "2026-08-26 14:27:59.945341154 +0000 UTC"
-    },
-    {
-      "mmsi": "366771550",
-      "name": "NAPA",
-      "lat": 37.8769,
-      "lon": -122.4168,
-      "sog": 36.1,
-      "cog": 326.8,
-      "nav_status": 0,
-      "last_update": "2026-08-26 14:27:34.740035911 +0000 UTC"
-    },
-    {
-      "mmsi": "366989360",
-      "name": "INTINTOLI",
-      "lat": 37.9735,
-      "lon": -122.4282,
-      "sog": 34.6,
-      "cog": 25.2,
-      "nav_status": 0,
-      "last_update": "2026-08-26 14:27:55.815551245 +0000 UTC",
-      "ship_type": 60,
-      "destination": "US^0V0P>0V0P"
-    },
-    {
-      "mmsi": "366970020",
-      "name": "MENDOCINO",
-      "lat": 37.9261,
-      "lon": -122.4659,
-      "sog": 34.2,
-      "cog": 126.3,
-      "nav_status": 0,
-      "last_update": "2026-08-26 14:27:07.083246872 +0000 UTC"
-    },
-    {
-      "mmsi": "265811680",
-      "name": "RESCUE MAI RASSY",
-      "lat": 58.016,
-      "lon": 11.4356,
-      "sog": 32.2,
-      "cog": 336.9,
       "nav_status": 5,
-      "last_update": "2026-08-26 14:27:52.886928584 +0000 UTC"
+      "last_update": "2026-08-28 00:59:13.99486184 +0000 UTC",
+      "ship_type": 48,
+      "destination": "ABZ/KOWF/ABZ"
     },
     {
-      "mmsi": "257304900",
-      "name": "TRONDHEIMSFJORD 1",
-      "lat": 59.7366,
-      "lon": 5.8611,
-      "sog": 32,
-      "cog": 252.3,
+      "mmsi": "240451900",
+      "name": "WHITECAPS",
+      "lat": 38.3861,
+      "lon": 20.7221,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-26 14:27:13.740905494 +0000 UTC"
+      "last_update": "2026-08-28 00:59:17.749479297 +0000 UTC"
+    },
+    {
+      "mmsi": "273393560",
+      "name": "TAMARA",
+      "lat": 40.9614,
+      "lon": 28.7642,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 1,
+      "last_update": "2026-08-28 00:59:19.926335829 +0000 UTC"
+    },
+    {
+      "mmsi": "244108000",
+      "name": "ZK46 ZEEMEEUW",
+      "lat": 53.4099,
+      "lon": 6.2069,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-28 00:59:21.400243457 +0000 UTC"
+    },
+    {
+      "mmsi": "246445000",
+      "name": "KNRM-ALIES EN EVERT",
+      "lat": 53.1739,
+      "lon": 4.8692,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-28 00:59:24.58861893 +0000 UTC"
+    },
+    {
+      "mmsi": "244120000",
+      "name": "ANTEOS",
+      "lat": 52.0991,
+      "lon": 4.2626,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-28 00:59:28.821059974 +0000 UTC"
+    },
+    {
+      "mmsi": "367361620",
+      "name": "CELESTIAL",
+      "lat": 40.719,
+      "lon": -74.0215,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-28 00:59:36.123484279 +0000 UTC"
+    },
+    {
+      "mmsi": "241926000",
+      "name": "LYBOUSSAKIS ATLAS",
+      "lat": 37.9574,
+      "lon": 23.6103,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-28 00:59:38.047410576 +0000 UTC"
+    },
+    {
+      "mmsi": "273130400",
+      "name": "YURIY ARSHENEVSKIY",
+      "ship_type": 70,
+      "destination": "TO ORDER",
+      "lat": 54.7448,
+      "lon": 10.883,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-28 01:00:05.437237741 +0000 UTC"
+    },
+    {
+      "mmsi": "477997158",
+      "name": "PORT WORKS 5",
+      "lat": 22.3235,
+      "lon": 114.1415,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-08-28 00:59:44.614322994 +0000 UTC"
+    },
+    {
+      "mmsi": "210920000",
+      "name": "VTS PENTADAKTYLOS",
+      "lat": 34.7185,
+      "lon": 33.3178,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-28 00:59:53.483476672 +0000 UTC"
+    },
+    {
+      "mmsi": "261007705",
+      "name": "FAIRPLAY-83",
+      "lat": 53.9073,
+      "lon": 14.2599,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-28 00:59:55.507844534 +0000 UTC"
+    },
+    {
+      "mmsi": "613169507",
+      "name": "LDR ALEYNA",
+      "lat": 55.795,
+      "lon": 16.7735,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-28 01:00:05.282399282 +0000 UTC"
+    },
+    {
+      "mmsi": "273115700",
+      "name": "MEKHANIK MAKARIN",
+      "lat": 54.8836,
+      "lon": 20.0405,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-28 01:00:08.931902978 +0000 UTC"
+    },
+    {
+      "mmsi": "259102000",
+      "name": "BIRGERSON",
+      "lat": 70.9803,
+      "lon": 25.9716,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 7,
+      "last_update": "2026-08-28 01:00:09.625656043 +0000 UTC"
+    },
+    {
+      "mmsi": "255916591",
+      "name": "ESPERANCE",
+      "lat": 56.0285,
+      "lon": 20.2697,
+      "sog": 54.7,
+      "cog": 231,
+      "nav_status": 0,
+      "last_update": "2026-08-28 00:59:47.823548147 +0000 UTC"
+    },
+    {
+      "mmsi": "368612000",
+      "name": "RICH PASSAGE 1",
+      "lat": 47.5736,
+      "lon": -122.5343,
+      "sog": 35.8,
+      "cog": 311.2,
+      "nav_status": 0,
+      "last_update": "2026-08-28 00:59:28.849506456 +0000 UTC",
+      "ship_type": 40,
+      "destination": "BREM-SEA-BREM"
+    },
+    {
+      "mmsi": "368457860",
+      "name": "EMERALD CLIPPER",
+      "lat": 47.809,
+      "lon": -122.4093,
+      "sog": 32.1,
+      "cog": 199,
+      "nav_status": 0,
+      "last_update": "2026-08-28 00:59:25.338425038 +0000 UTC"
+    },
+    {
+      "mmsi": "368088610",
+      "name": "LYRA",
+      "lat": 38.054,
+      "lon": -122.3029,
+      "sog": 30.9,
+      "cog": 63.5,
+      "nav_status": 0,
+      "last_update": "2026-08-28 00:59:17.30838722 +0000 UTC"
     }
   ]
 }
