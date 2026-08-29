@@ -1,77 +1,7 @@
 {
-  "updated_at": "2026-08-29T04:27:45Z",
-  "count": 4162,
+  "updated_at": "2026-08-29T04:47:47Z",
+  "count": 4048,
   "vessels": [
-    {
-      "mmsi": "240451900",
-      "name": "WHITECAPS",
-      "lat": 38.3629,
-      "lon": 21.4221,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-29 04:26:34.562409453 +0000 UTC"
-    },
-    {
-      "mmsi": "244374235",
-      "name": "NT 11 WATERTRAPPER",
-      "lat": 52.3996,
-      "lon": 4.8999,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-08-29 04:26:35.731551016 +0000 UTC"
-    },
-    {
-      "mmsi": "235034368",
-      "name": "MULTI-SURVEY 4",
-      "lat": 51.9774,
-      "lon": 4.1219,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-29 04:26:37.022745582 +0000 UTC"
-    },
-    {
-      "mmsi": "235080649",
-      "name": "ONWARD N107",
-      "lat": 54.4569,
-      "lon": -5.4374,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-08-29 04:26:37.076986802 +0000 UTC"
-    },
-    {
-      "mmsi": "241790000",
-      "name": "ELLADA",
-      "lat": 39.6309,
-      "lon": 19.9019,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-29 04:26:48.720987321 +0000 UTC"
-    },
-    {
-      "mmsi": "244108000",
-      "name": "ZK46 ZEEMEEUW",
-      "lat": 53.4099,
-      "lon": 6.2069,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-29 04:26:51.012841123 +0000 UTC"
-    },
-    {
-      "mmsi": "244810627",
-      "name": "WR40 ANNA CAROLA",
-      "lat": 53.4446,
-      "lon": 6.8271,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 7,
-      "last_update": "2026-08-29 04:26:55.434563531 +0000 UTC"
-    },
     {
       "mmsi": "259046050",
       "name": "FREMAD",
@@ -80,27 +10,17 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-29 04:26:55.704744475 +0000 UTC"
+      "last_update": "2026-08-29 04:46:35.92500423 +0000 UTC"
     },
     {
-      "mmsi": "235104009",
-      "name": "SALTHOLME",
-      "lat": 54.5843,
-      "lon": -1.2305,
+      "mmsi": "244045000",
+      "name": "HEBO-CAT 15",
+      "lat": 53.1875,
+      "lon": 5.4319,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-29 04:26:56.154271914 +0000 UTC"
-    },
-    {
-      "mmsi": "210920000",
-      "name": "VTS PENTADAKTYLOS",
-      "lat": 34.7185,
-      "lon": 33.3178,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-29 04:27:00.496625841 +0000 UTC"
+      "nav_status": 5,
+      "last_update": "2026-08-29 04:47:17.847816726 +0000 UTC"
     },
     {
       "mmsi": "205088000",
@@ -110,97 +30,179 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-29 04:27:02.198650483 +0000 UTC"
+      "last_update": "2026-08-29 04:46:53.297025534 +0000 UTC"
     },
     {
-      "mmsi": "244870700",
-      "name": "METTE MARIA",
-      "lat": 53.7214,
-      "lon": 8.0781,
+      "mmsi": "244710626",
+      "name": "BENCKES",
+      "lat": 53.188,
+      "lon": 5.7638,
       "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-29 04:46:57.118058443 +0000 UTC",
+      "ship_type": 90,
+      "destination": "LEEUWARDEN  ZWETTEHA"
+    },
+    {
+      "mmsi": "210588000",
+      "name": "LEDRA PRIDE",
+      "lat": 34.6452,
+      "lon": 33.018,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-08-29 04:47:22.226378018 +0000 UTC"
+    },
+    {
+      "mmsi": "230182220",
+      "name": "NORDENSKIOLD",
+      "lat": 60.338,
+      "lon": 25.5785,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-29 04:47:16.729840349 +0000 UTC"
+    },
+    {
+      "mmsi": "210920000",
+      "name": "VTS PENTADAKTYLOS",
+      "lat": 34.7185,
+      "lon": 33.3178,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-29 04:47:34.88438391 +0000 UTC"
+    },
+    {
+      "mmsi": "256321000",
+      "name": "AELIA",
+      "lat": 37.2726,
+      "lon": 23.156,
+      "sog": 102.2,
       "cog": 360,
       "nav_status": 1,
-      "last_update": "2026-08-29 04:27:03.786720998 +0000 UTC"
-    },
-    {
-      "mmsi": "316046329",
-      "name": "PITT KNIGHT",
-      "lat": 49.2311,
-      "lon": -122.7713,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-29 04:27:06.001186951 +0000 UTC"
-    },
-    {
-      "mmsi": "319720000",
-      "name": "STARDUST",
-      "lat": 32.7101,
-      "lon": -117.2336,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-29 04:27:07.885102561 +0000 UTC"
-    },
-    {
-      "mmsi": "245382000",
-      "name": "KNRM-FRED",
-      "lat": 51.6218,
-      "lon": 3.6878,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-29 04:27:23.804846266 +0000 UTC"
+      "last_update": "2026-08-29 04:47:19.427061077 +0000 UTC"
     },
     {
       "mmsi": "210052000",
       "name": "EUROCHAMPION JET 2",
-      "lat": 37.7501,
-      "lon": 23.6536,
-      "sog": 37.4,
-      "cog": 155.1,
+      "lat": 37.6422,
+      "lon": 23.8563,
+      "sog": 36.8,
+      "cog": 107.9,
       "nav_status": 0,
-      "last_update": "2026-08-29 04:26:52.218178563 +0000 UTC"
+      "last_update": "2026-08-29 04:47:10.332887476 +0000 UTC"
     },
     {
       "mmsi": "209653000",
       "name": "CHAMPION JET 3",
-      "lat": 37.9607,
-      "lon": 24.1598,
-      "sog": 35.1,
-      "cog": 120.1,
+      "lat": 37.8669,
+      "lon": 24.374,
+      "sog": 34.5,
+      "cog": 117.8,
       "nav_status": 0,
-      "last_update": "2026-08-29 04:27:23.961417649 +0000 UTC"
+      "last_update": "2026-08-29 04:47:15.968596708 +0000 UTC"
     },
     {
-      "mmsi": "257125290",
-      "name": "FREDRIKKE T-OLSEN",
-      "lat": 66.4241,
-      "lon": 12.294,
-      "sog": 29.7,
-      "cog": 143.1,
+      "mmsi": "265080520",
+      "name": "",
+      "lat": 57.6347,
+      "lon": 11.8237,
+      "sog": 24.3,
+      "cog": 38.9,
       "nav_status": 0,
-      "last_update": "2026-08-29 04:27:24.70396126 +0000 UTC"
+      "last_update": "2026-08-29 04:47:22.583178166 +0000 UTC"
     },
     {
-      "mmsi": "367199310",
-      "name": "CATALINA JET",
-      "lat": 33.4684,
-      "lon": -118.2783,
-      "sog": 28.2,
-      "cog": 15.3,
-      "nav_status": 15,
-      "last_update": "2026-08-29 04:27:28.529050764 +0000 UTC"
+      "mmsi": "244140114",
+      "name": "LUNA (PILOTS)",
+      "lat": 52.014,
+      "lon": 3.9704,
+      "sog": 24.1,
+      "cog": 136.7,
+      "nav_status": 0,
+      "last_update": "2026-08-29 04:46:36.021133492 +0000 UTC"
     },
     {
-      "mmsi": "239918000",
-      "name": "SUPERFAST XI",
-      "lat": 40.8723,
-      "lon": 18.5126,
-      "sog": 25.4,
-      "cog": 314,
+      "mmsi": "257300000",
+      "name": "LOS 132",
+      "lat": 61.6518,
+      "lon": 4.9496,
+      "sog": 24.1,
+      "cog": 106.1,
       "nav_status": 0,
-      "last_update": "2026-08-29 04:26:48.721989116 +0000 UTC"
+      "last_update": "2026-08-29 04:47:13.556845131 +0000 UTC"
+    },
+    {
+      "mmsi": "241087000",
+      "name": "BLUE STAR DELOS",
+      "lat": 37.8564,
+      "lon": 23.6233,
+      "sog": 23.9,
+      "cog": 170.9,
+      "nav_status": 0,
+      "last_update": "2026-08-29 04:47:28.0333507 +0000 UTC"
+    },
+    {
+      "mmsi": "311000396",
+      "name": "HARMONY OF THE SEAS",
+      "lat": 27.6889,
+      "lon": -79.8661,
+      "sog": 23.8,
+      "cog": 329,
+      "nav_status": 0,
+      "last_update": "2026-08-29 04:46:52.68413004 +0000 UTC"
+    },
+    {
+      "mmsi": "209651000",
+      "name": "MARIE CURIE",
+      "lat": 36.0337,
+      "lon": -7.8571,
+      "sog": 23,
+      "cog": 218.6,
+      "nav_status": 0,
+      "last_update": "2026-08-29 04:46:46.179857725 +0000 UTC"
+    },
+    {
+      "mmsi": "240815000",
+      "name": "SUPERFAST I",
+      "lat": 38.9899,
+      "lon": 20.406,
+      "sog": 21.7,
+      "cog": 165.1,
+      "nav_status": 0,
+      "last_update": "2026-08-29 04:47:14.731411032 +0000 UTC"
+    },
+    {
+      "mmsi": "9135649",
+      "name": "",
+      "lat": 2.4641,
+      "lon": 101.8462,
+      "sog": 21.5,
+      "cog": 163,
+      "nav_status": 0,
+      "last_update": "2026-08-29 04:46:48.778938685 +0000 UTC"
+    },
+    {
+      "mmsi": "257931600",
+      "name": "BAFJORD",
+      "lat": 64.7771,
+      "lon": 11.6324,
+      "sog": 21.4,
+      "cog": 156.4,
+      "nav_status": 8,
+      "last_update": "2026-08-29 04:46:57.232089546 +0000 UTC"
+    },
+    {
+      "mmsi": "310567000",
+      "name": "RUBY PRINCESS",
+      "lat": 53.3049,
+      "lon": -130.7573,
+      "sog": 21.1,
+      "cog": 164.6,
+      "nav_status": 0,
+      "last_update": "2026-08-29 04:47:00.718987839 +0000 UTC"
     }
   ]
 }
