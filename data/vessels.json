@@ -1,208 +1,210 @@
 {
-  "updated_at": "2026-08-29T17:07:49Z",
-  "count": 3773,
+  "updated_at": "2026-08-29T17:27:42Z",
+  "count": 3817,
   "vessels": [
     {
-      "mmsi": "503114780",
-      "name": "OCEANA",
-      "lat": -33.8665,
-      "lon": 151.2445,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-08-29 17:06:37.629159461 +0000 UTC"
-    },
-    {
-      "mmsi": "367131000",
-      "name": "ALASKA",
-      "lat": 29.7187,
-      "lon": -93.8631,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-29 17:06:40.308451212 +0000 UTC"
-    },
-    {
-      "mmsi": "367377380",
-      "name": "FREEDOM",
-      "lat": 42.3205,
-      "lon": -70.9432,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-29 17:06:44.373486803 +0000 UTC",
-      "ship_type": 60,
-      "destination": ""
-    },
-    {
-      "mmsi": "205088000",
-      "name": "J. BREYDEL SURVEY",
-      "lat": 51.2226,
-      "lon": 2.9363,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-29 17:06:46.831422029 +0000 UTC"
-    },
-    {
-      "mmsi": "225997876",
-      "name": "DAEDALUS",
-      "lat": 39.5477,
-      "lon": 2.6341,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 3,
-      "last_update": "2026-08-29 17:06:52.35567538 +0000 UTC"
-    },
-    {
-      "mmsi": "244730564",
-      "name": "WADDENZEE II",
-      "lat": 53.1744,
-      "lon": 5.4509,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-29 17:06:54.949788489 +0000 UTC"
-    },
-    {
-      "mmsi": "230111080",
-      "name": "MT1304",
-      "lat": 60.2061,
-      "lon": 25.6233,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 3,
-      "last_update": "2026-08-29 17:07:05.04908059 +0000 UTC"
-    },
-    {
-      "mmsi": "525104007",
-      "name": "TRANSKO JALAK",
-      "lat": -6.9477,
-      "lon": 110.4203,
+      "mmsi": "210588000",
+      "name": "LEDRA PRIDE",
+      "lat": 34.6452,
+      "lon": 33.018,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 8,
-      "last_update": "2026-08-29 17:07:16.245174615 +0000 UTC"
+      "last_update": "2026-08-29 17:26:42.293963893 +0000 UTC"
+    },
+    {
+      "mmsi": "263701380",
+      "name": "FERNANDO NAMORA",
+      "lat": 38.6518,
+      "lon": -9.0808,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-08-29 17:26:44.394481076 +0000 UTC",
+      "ship_type": 68,
+      "destination": "LISBOA TAGUS RIVER"
     },
     {
       "mmsi": "316046329",
       "name": "PITT KNIGHT",
-      "lat": 49.2312,
-      "lon": -122.7714,
+      "lat": 49.2311,
+      "lon": -122.7713,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-29 17:07:27.333614256 +0000 UTC"
+      "last_update": "2026-08-29 17:26:47.932435081 +0000 UTC"
     },
     {
-      "mmsi": "367347670",
-      "name": "SEASTREAK HIGHLANDS",
-      "lat": 40.7075,
-      "lon": -73.9864,
-      "sog": 34.4,
-      "cog": 262.4,
+      "mmsi": "244108000",
+      "name": "ZK46 ZEEMEEUW",
+      "lat": 53.4098,
+      "lon": 6.2069,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-29 17:26:51.017285438 +0000 UTC"
+    },
+    {
+      "mmsi": "319067100",
+      "name": "WINWIN",
+      "lat": 39.4887,
+      "lon": 2.4767,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-08-29 17:26:51.545112506 +0000 UTC"
+    },
+    {
+      "mmsi": "367434210",
+      "name": "FIORELLO LAGUARDIA",
+      "lat": 40.7527,
+      "lon": -74.0213,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-29 17:26:54.486103179 +0000 UTC"
+    },
+    {
+      "mmsi": "601126900",
+      "name": "SEA EXPRESS",
+      "lat": -29.8682,
+      "lon": 31.0142,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-08-29 17:27:06.414454219 +0000 UTC",
+      "ship_type": 52,
+      "destination": ""
+    },
+    {
+      "mmsi": "259028270",
+      "name": "MAROSUND",
+      "lat": 70.898,
+      "lon": 27.2273,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-29 17:27:14.756904506 +0000 UTC"
+    },
+    {
+      "mmsi": "210920000",
+      "name": "VTS PENTADAKTYLOS",
+      "lat": 34.7185,
+      "lon": 33.3178,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-29 17:27:16.596830337 +0000 UTC"
+    },
+    {
+      "mmsi": "316014014",
+      "name": "TAKAYA",
+      "lat": 49.2863,
+      "lon": -123.1005,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-08-29 17:06:51.517679807 +0000 UTC"
+      "last_update": "2026-08-29 17:27:30.997474492 +0000 UTC"
     },
     {
-      "mmsi": "512004996",
-      "name": "PILOTVESSEL WAKATERE",
-      "lat": -36.8348,
-      "lon": 174.8214,
-      "sog": 34,
-      "cog": 42.1,
+      "mmsi": "259473000",
+      "name": "BERGEN KREDS",
+      "lat": 59.6071,
+      "lon": 5.2313,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-29 17:27:33.195328735 +0000 UTC"
+    },
+    {
+      "mmsi": "368206330",
+      "name": "SOLANO",
+      "lat": 47.6297,
+      "lon": -122.4436,
+      "sog": 35.7,
+      "cog": 327.3,
       "nav_status": 0,
-      "last_update": "2026-08-29 17:06:39.425978031 +0000 UTC"
+      "last_update": "2026-08-29 17:27:11.767893047 +0000 UTC"
     },
     {
-      "mmsi": "338519000",
-      "name": "SWIFTSURE",
-      "lat": 47.5436,
-      "lon": -122.4645,
-      "sog": 33.4,
-      "cog": 186.1,
+      "mmsi": "224781000",
+      "name": "VOLCAN DE TAGORO",
+      "lat": 28.4766,
+      "lon": -16.2036,
+      "sog": 35.1,
+      "cog": 97.5,
+      "nav_status": 9,
+      "last_update": "2026-08-29 17:26:45.14712566 +0000 UTC"
+    },
+    {
+      "mmsi": "368443210",
+      "name": "GEORGE LAYHE",
+      "lat": 42.3485,
+      "lon": -71.0192,
+      "sog": 31,
+      "cog": 125.3,
       "nav_status": 0,
-      "last_update": "2026-08-29 17:06:43.828001451 +0000 UTC"
+      "last_update": "2026-08-29 17:27:05.123059626 +0000 UTC"
     },
     {
-      "mmsi": "367145870",
-      "name": "IYANOUGH",
-      "lat": 41.5125,
-      "lon": -70.2264,
-      "sog": 32.5,
-      "cog": 330.7,
-      "nav_status": 0,
-      "last_update": "2026-08-29 17:07:35.41864692 +0000 UTC"
-    },
-    {
-      "mmsi": "368421280",
-      "name": "BEAST2",
-      "lat": 40.7031,
-      "lon": -74.0248,
-      "sog": 31.4,
-      "cog": 339.4,
-      "nav_status": 0,
-      "last_update": "2026-08-29 17:07:30.286216826 +0000 UTC"
-    },
-    {
-      "mmsi": "219236000",
-      "name": "FJORD FSTR",
-      "lat": 57.7236,
-      "lon": 9.5511,
+      "mmsi": "367720690",
+      "name": "GREY LADY IV",
+      "lat": 41.4197,
+      "lon": -70.1939,
       "sog": 30.6,
-      "cog": 117.1,
+      "cog": 157.2,
       "nav_status": 0,
-      "last_update": "2026-08-29 17:07:32.912502509 +0000 UTC"
+      "last_update": "2026-08-29 17:27:30.194282216 +0000 UTC"
     },
     {
-      "mmsi": "240508300",
-      "name": "GOLDEN PRINCESS",
-      "lat": 37.7464,
-      "lon": 24.6256,
-      "sog": 28.8,
-      "cog": 297,
+      "mmsi": "235104713",
+      "name": "CAPTAIN ROCKET",
+      "lat": 51.4935,
+      "lon": -0.0304,
+      "sog": 30.1,
+      "cog": 194.9,
       "nav_status": 0,
-      "last_update": "2026-08-29 17:06:39.97971713 +0000 UTC"
+      "last_update": "2026-08-29 17:27:17.52184426 +0000 UTC"
+    },
+    {
+      "mmsi": "238080240",
+      "name": "ANDELA",
+      "lat": 45.2021,
+      "lon": 13.3725,
+      "sog": 29.4,
+      "cog": 124,
+      "nav_status": 9,
+      "last_update": "2026-08-29 17:27:17.194669604 +0000 UTC"
+    },
+    {
+      "mmsi": "247139400",
+      "name": "VITTORIA M",
+      "lat": 37.9902,
+      "lon": 12.4658,
+      "sog": 28.9,
+      "cog": 70.2,
+      "nav_status": 0,
+      "last_update": "2026-08-29 17:27:14.27993734 +0000 UTC"
     },
     {
       "mmsi": "247091800",
       "name": "VESUVIO JET",
-      "lat": 40.8053,
-      "lon": 14.2795,
-      "sog": 28.7,
-      "cog": 181,
+      "lat": 40.6459,
+      "lon": 14.2625,
+      "sog": 28.6,
+      "cog": 185,
       "nav_status": 0,
-      "last_update": "2026-08-29 17:06:59.363945111 +0000 UTC"
+      "last_update": "2026-08-29 17:26:59.153065307 +0000 UTC"
     },
     {
-      "mmsi": "259189000",
-      "name": "VALDEROEY",
-      "lat": 62.3928,
-      "lon": 6.0433,
-      "sog": 28.3,
-      "cog": 4,
-      "nav_status": 0,
-      "last_update": "2026-08-29 17:06:50.107674669 +0000 UTC"
-    },
-    {
-      "mmsi": "247070800",
-      "name": "CITTA' DI SORRENTO",
-      "lat": 40.5777,
-      "lon": 14.266,
-      "sog": 27.9,
-      "cog": 29.3,
-      "nav_status": 0,
-      "last_update": "2026-08-29 17:07:15.976038397 +0000 UTC"
-    },
-    {
-      "mmsi": "368244550",
-      "name": "BOB & BETTY BEYSTER",
-      "lat": 33.6147,
-      "lon": -118.5676,
+      "mmsi": "219236000",
+      "name": "FJORD FSTR",
+      "lat": 57.6511,
+      "lon": 9.839,
       "sog": 27.7,
-      "cog": 129.3,
+      "cog": 116.6,
       "nav_status": 0,
-      "last_update": "2026-08-29 17:07:09.656588883 +0000 UTC"
+      "last_update": "2026-08-29 17:26:51.003223599 +0000 UTC"
     }
   ]
 }
