@@ -1,66 +1,26 @@
 {
-  "updated_at": "2026-08-29T21:07:49Z",
-  "count": 3798,
+  "updated_at": "2026-08-29T21:27:49Z",
+  "count": 3771,
   "vessels": [
     {
-      "mmsi": "241926000",
-      "name": "LYBOUSSAKIS ATLAS",
-      "lat": 37.9574,
-      "lon": 23.6103,
+      "mmsi": "244108000",
+      "name": "ZK46 ZEEMEEUW",
+      "lat": 53.4099,
+      "lon": 6.207,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-29 21:06:47.954047375 +0000 UTC"
+      "last_update": "2026-08-29 21:26:41.697625772 +0000 UTC"
     },
     {
-      "mmsi": "211337780",
-      "name": "ATALANTA",
-      "lat": 53.8992,
-      "lon": 11.4571,
+      "mmsi": "210588000",
+      "name": "LEDRA PRIDE",
+      "lat": 34.6452,
+      "lon": 33.018,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-29 21:06:48.365187776 +0000 UTC"
-    },
-    {
-      "mmsi": "245382000",
-      "name": "",
-      "lat": 51.6218,
-      "lon": 3.688,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-29 21:06:51.84028963 +0000 UTC"
-    },
-    {
-      "mmsi": "244730564",
-      "name": "WADDENZEE II",
-      "lat": 53.1744,
-      "lon": 5.4509,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-29 21:06:56.464073651 +0000 UTC"
-    },
-    {
-      "mmsi": "375369000",
-      "name": "ZAYYAN K",
-      "lat": 31.8178,
-      "lon": 34.6173,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-08-29 21:07:05.376693763 +0000 UTC"
-    },
-    {
-      "mmsi": "235080649",
-      "name": "ONWARD N107",
-      "lat": 54.457,
-      "lon": -5.4374,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-08-29 21:07:08.640717595 +0000 UTC"
+      "nav_status": 8,
+      "last_update": "2026-08-29 21:26:42.003479986 +0000 UTC"
     },
     {
       "mmsi": "261007705",
@@ -70,57 +30,17 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-08-29 21:07:15.472868942 +0000 UTC"
+      "last_update": "2026-08-29 21:26:44.309452965 +0000 UTC"
     },
     {
-      "mmsi": "211652800",
-      "name": "LAUENBURG",
-      "lat": 53.3702,
-      "lon": 10.5566,
+      "mmsi": "235060142",
+      "name": "SEA HAVEN",
+      "lat": 57.144,
+      "lon": -2.0796,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-29 21:07:17.688558581 +0000 UTC"
-    },
-    {
-      "mmsi": "367434210",
-      "name": "FIORELLO LAGUARDIA",
-      "lat": 40.7529,
-      "lon": -74.0212,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-29 21:07:21.143156042 +0000 UTC"
-    },
-    {
-      "mmsi": "246445000",
-      "name": "KNRM-ALIES EN EVERT",
-      "lat": 53.1739,
-      "lon": 4.8692,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-29 21:07:24.746990067 +0000 UTC"
-    },
-    {
-      "mmsi": "235034368",
-      "name": "MULTI-SURVEY 4",
-      "lat": 51.9773,
-      "lon": 4.1219,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-29 21:07:26.035916151 +0000 UTC"
-    },
-    {
-      "mmsi": "244060365",
-      "name": "KNRM ARBOR VITAE",
-      "lat": 53.4088,
-      "lon": 6.1974,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-29 21:07:39.062781816 +0000 UTC"
+      "last_update": "2026-08-29 21:26:45.170210999 +0000 UTC"
     },
     {
       "mmsi": "259046050",
@@ -130,79 +50,157 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-29 21:07:45.774808075 +0000 UTC"
+      "last_update": "2026-08-29 21:26:46.097451401 +0000 UTC"
     },
     {
-      "mmsi": "338409314",
-      "name": "MARINE 23",
-      "lat": 27.6581,
-      "lon": -82.764,
-      "sog": 30,
-      "cog": 213.8,
-      "nav_status": 0,
-      "last_update": "2026-08-29 21:07:38.372996826 +0000 UTC"
+      "mmsi": "352002481",
+      "name": "BARU SIERRA NEVADA",
+      "lat": -22.8483,
+      "lon": -43.1301,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 1,
+      "last_update": "2026-08-29 21:26:59.92176013 +0000 UTC"
     },
     {
-      "mmsi": "367397270",
-      "name": "WHALE WATCHER",
-      "lat": 41.9675,
-      "lon": -70.2947,
-      "sog": 28.7,
-      "cog": 177.9,
+      "mmsi": "205088000",
+      "name": "J. BREYDEL SURVEY",
+      "lat": 51.2226,
+      "lon": 2.9363,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-29 21:07:28.129997947 +0000 UTC"
+      "last_update": "2026-08-29 21:27:14.564928045 +0000 UTC"
     },
     {
-      "mmsi": "431017055",
-      "name": "SOLEIL",
-      "lat": 33.8861,
-      "lon": 137.1137,
-      "sog": 27.9,
-      "cog": 244.2,
+      "mmsi": "316046329",
+      "name": "PITT KNIGHT",
+      "lat": 49.2312,
+      "lon": -122.7713,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-29 21:07:38.009439781 +0000 UTC"
+      "last_update": "2026-08-29 21:27:07.049661977 +0000 UTC"
     },
     {
-      "mmsi": "367673370",
-      "name": "WHALING CITY EXPRESS",
-      "ship_type": 40,
-      "destination": "",
-      "lat": 41.4829,
-      "lon": -70.58,
-      "sog": 26.9,
-      "cog": 301.1,
+      "mmsi": "211270850",
+      "name": "PIONIER",
+      "lat": 53.677,
+      "lon": 7.5736,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-29 21:07:15.473887158 +0000 UTC"
+      "last_update": "2026-08-29 21:27:07.964859899 +0000 UTC"
     },
     {
-      "mmsi": "366848350",
-      "name": "SEADOG IV",
-      "lat": 41.8966,
-      "lon": -87.5831,
-      "sog": 26.8,
-      "cog": 9.6,
+      "mmsi": "246445000",
+      "name": "KNRM-ALIES EN EVERT",
+      "lat": 53.174,
+      "lon": 4.8692,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-29 21:07:37.009978473 +0000 UTC"
+      "last_update": "2026-08-29 21:27:14.844332515 +0000 UTC"
     },
     {
-      "mmsi": "259490000",
-      "name": "SUPERSPEED 1",
-      "lat": 57.9772,
-      "lon": 8.4081,
-      "sog": 25.6,
-      "cog": 294.6,
-      "nav_status": 0,
-      "last_update": "2026-08-29 21:07:43.228733519 +0000 UTC"
+      "mmsi": "244810627",
+      "name": "WR40 ANNA CAROLA",
+      "lat": 53.4446,
+      "lon": 6.8271,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 7,
+      "last_update": "2026-08-29 21:27:24.433302152 +0000 UTC"
     },
     {
-      "mmsi": "367001740",
-      "name": "CATALINA FLYER",
-      "lat": 33.3969,
-      "lon": -118.3436,
-      "sog": 25.5,
-      "cog": 155,
+      "mmsi": "227008170",
+      "name": "MOLENEZ",
+      "lat": 48.3816,
+      "lon": -4.4862,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-29 21:27:25.464441175 +0000 UTC"
+    },
+    {
+      "mmsi": "319720000",
+      "name": "STARDUST",
+      "lat": 32.7101,
+      "lon": -117.2336,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-29 21:06:47.663963195 +0000 UTC"
+      "last_update": "2026-08-29 21:27:27.331464432 +0000 UTC"
+    },
+    {
+      "mmsi": "369990111",
+      "name": "CG29111",
+      "lat": 38.6927,
+      "lon": -76.1811,
+      "sog": 39.9,
+      "cog": 15,
+      "nav_status": 0,
+      "last_update": "2026-08-29 21:27:14.666971737 +0000 UTC"
+    },
+    {
+      "mmsi": "368151810",
+      "name": "ENETAI",
+      "lat": 47.611,
+      "lon": -122.3958,
+      "sog": 38.5,
+      "cog": 261,
+      "nav_status": 0,
+      "last_update": "2026-08-29 21:27:33.234255268 +0000 UTC"
+    },
+    {
+      "mmsi": "366970020",
+      "name": "MENDOCINO",
+      "lat": 37.863,
+      "lon": -122.4053,
+      "sog": 34.9,
+      "cog": 325.6,
+      "nav_status": 0,
+      "last_update": "2026-08-29 21:26:55.313751663 +0000 UTC"
+    },
+    {
+      "mmsi": "368013770",
+      "name": "COMMODORE",
+      "lat": 40.4865,
+      "lon": -74.0327,
+      "sog": 33.5,
+      "cog": 355.9,
+      "nav_status": 0,
+      "last_update": "2026-08-29 21:27:34.463031874 +0000 UTC"
+    },
+    {
+      "mmsi": "338443264",
+      "name": "",
+      "lat": 41.6712,
+      "lon": -71.3627,
+      "sog": 32.5,
+      "cog": 14.5,
+      "nav_status": 0,
+      "last_update": "2026-08-29 21:27:18.724604675 +0000 UTC"
+    },
+    {
+      "mmsi": "770576342",
+      "name": "ATLANTIC EXPRESS",
+      "lat": -34.5383,
+      "lon": -58.029,
+      "sog": 32.4,
+      "cog": 253.2,
+      "nav_status": 0,
+      "last_update": "2026-08-29 21:26:53.784871547 +0000 UTC"
+    },
+    {
+      "mmsi": "368612000",
+      "name": "RICH PASSAGE 1",
+      "lat": 47.5993,
+      "lon": -122.3491,
+      "sog": 31.4,
+      "cog": 80.8,
+      "nav_status": 0,
+      "last_update": "2026-08-29 21:27:16.38431216 +0000 UTC"
     }
   ]
 }
