@@ -1,210 +1,206 @@
 {
-  "updated_at": "2026-08-29T12:27:37Z",
-  "count": 3790,
+  "updated_at": "2026-08-29T12:48:36Z",
+  "count": 3679,
   "vessels": [
     {
-      "mmsi": "235034368",
-      "name": "MULTI-SURVEY 4",
-      "lat": 51.9774,
-      "lon": 4.1219,
+      "mmsi": "244374235",
+      "name": "",
+      "lat": 52.3601,
+      "lon": 4.8491,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 1,
+      "last_update": "2026-08-29 12:47:35.513275002 +0000 UTC"
+    },
+    {
+      "mmsi": "241926000",
+      "name": "LYBOUSSAKIS ATLAS",
+      "lat": 37.9575,
+      "lon": 23.6103,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-29 12:26:47.400499102 +0000 UTC"
+      "last_update": "2026-08-29 12:47:37.688413547 +0000 UTC"
     },
     {
-      "mmsi": "319720000",
-      "name": "STARDUST",
-      "lat": 32.7101,
-      "lon": -117.2336,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-29 12:27:07.816452742 +0000 UTC"
-    },
-    {
-      "mmsi": "244810627",
-      "name": "WR40 ANNA CAROLA",
-      "ship_type": 99,
-      "destination": "DEN OEVER",
-      "lat": 53.4446,
-      "lon": 6.827,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 7,
-      "last_update": "2026-08-29 12:27:34.736062676 +0000 UTC"
-    },
-    {
-      "mmsi": "205088000",
-      "name": "J. BREYDEL SURVEY",
-      "lat": 51.2226,
-      "lon": 2.9363,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-29 12:27:24.550081428 +0000 UTC"
-    },
-    {
-      "mmsi": "428009088",
-      "name": "DANCHOR X",
-      "lat": 32.8212,
-      "lon": 35.0071,
+      "mmsi": "257863000",
+      "name": "ROSESUND",
+      "lat": 60.3838,
+      "lon": 5.3129,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-08-29 12:26:54.658440056 +0000 UTC"
+      "last_update": "2026-08-29 12:47:39.681125271 +0000 UTC"
     },
     {
-      "mmsi": "230182220",
-      "name": "NORDENSKIOLD",
-      "lat": 60.338,
-      "lon": 25.5785,
+      "mmsi": "211652800",
+      "name": "LAUENBURG",
+      "lat": 53.5341,
+      "lon": 9.9929,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-29 12:47:46.6597386 +0000 UTC"
+    },
+    {
+      "mmsi": "271000677",
+      "name": "VENTO DI MELTEMI",
+      "lat": 41.1464,
+      "lon": -8.7658,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-29 12:47:57.263827744 +0000 UTC"
+    },
+    {
+      "mmsi": "244060365",
+      "name": "KNRM ARBOR VITAE",
+      "lat": 53.4088,
+      "lon": 6.1974,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-29 12:47:59.551940941 +0000 UTC"
+    },
+    {
+      "mmsi": "210920000",
+      "name": "VTS PENTADAKTYLOS",
+      "lat": 34.7186,
+      "lon": 33.3178,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-29 12:48:12.79145834 +0000 UTC"
+    },
+    {
+      "mmsi": "219385000",
+      "name": "BJOERNSHOLM",
+      "lat": 55.7187,
+      "lon": 12.6384,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-29 12:48:17.729853127 +0000 UTC"
+    },
+    {
+      "mmsi": "428067000",
+      "name": "BAT GALIM",
+      "lat": 32.8203,
+      "lon": 35.0073,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-08-29 12:26:59.193576926 +0000 UTC"
+      "last_update": "2026-08-29 12:48:20.726089243 +0000 UTC"
     },
     {
-      "mmsi": "244108000",
-      "name": "ZK46 ZEEMEEUW",
-      "lat": 53.4099,
-      "lon": 6.207,
-      "sog": 102.3,
-      "cog": 360,
+      "mmsi": "265586090",
+      "name": "RESCUE LIVBOJEN",
+      "lat": 57.5747,
+      "lon": 11.8998,
+      "sog": 36.8,
+      "cog": 359.7,
       "nav_status": 0,
-      "last_update": "2026-08-29 12:27:11.643154569 +0000 UTC"
+      "last_update": "2026-08-29 12:47:37.608867519 +0000 UTC"
     },
     {
-      "mmsi": "258230000",
-      "name": "FROEYTRANS",
-      "lat": 63.6385,
-      "lon": 8.8043,
-      "sog": 102.3,
-      "cog": 360,
+      "mmsi": "235070199",
+      "name": "MANANNAN",
+      "lat": 54.0179,
+      "lon": -4.2329,
+      "sog": 31.6,
+      "cog": 314.4,
       "nav_status": 0,
-      "last_update": "2026-08-29 12:27:25.662365519 +0000 UTC"
-    },
-    {
-      "mmsi": "259046050",
-      "name": "FREMAD",
-      "lat": 66.3729,
-      "lon": 12.361,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-29 12:27:27.206718743 +0000 UTC"
-    },
-    {
-      "mmsi": "259028270",
-      "name": "MAROSUND",
-      "lat": 70.7768,
-      "lon": 27.219,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-29 12:27:33.839073712 +0000 UTC"
-    },
-    {
-      "mmsi": "246445000",
-      "name": "KNRM-ALIES EN EVERT",
-      "lat": 53.1739,
-      "lon": 4.8693,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-29 12:27:34.272177302 +0000 UTC"
-    },
-    {
-      "mmsi": "265612570",
-      "name": "TRAD T121 SPICA",
-      "ship_type": 60,
-      "destination": "",
-      "lat": 59.011,
-      "lon": 18.3382,
-      "sog": 33.2,
-      "cog": 291.3,
-      "nav_status": 0,
-      "last_update": "2026-08-29 12:27:30.77695018 +0000 UTC"
-    },
-    {
-      "mmsi": "257151900",
-      "name": "VINGTOR",
-      "lat": 60.4656,
-      "lon": 5.2579,
-      "sog": 31.7,
-      "cog": 344.7,
-      "nav_status": 9,
-      "last_update": "2026-08-29 12:27:11.818077329 +0000 UTC"
-    },
-    {
-      "mmsi": "258130000",
-      "name": "TYRVING",
-      "lat": 60.4555,
-      "lon": 5.2638,
-      "sog": 30.5,
-      "cog": 343.6,
-      "nav_status": 0,
-      "last_update": "2026-08-29 12:27:05.334859837 +0000 UTC"
-    },
-    {
-      "mmsi": "367720690",
-      "name": "GREY LADY IV",
-      "lat": 41.5809,
-      "lon": -70.266,
-      "sog": 30.5,
-      "cog": 333.7,
-      "nav_status": 0,
-      "last_update": "2026-08-29 12:27:22.006298723 +0000 UTC"
+      "last_update": "2026-08-29 12:47:42.288701089 +0000 UTC"
     },
     {
       "mmsi": "257304900",
       "name": "TRONDHEIMSFJORD 1",
-      "lat": 59.7859,
-      "lon": 5.554,
-      "sog": 30.2,
-      "cog": 56.7,
+      "lat": 59.8182,
+      "lon": 5.6516,
+      "sog": 31.4,
+      "cog": 253.9,
       "nav_status": 0,
-      "last_update": "2026-08-29 12:27:26.697007922 +0000 UTC"
+      "last_update": "2026-08-29 12:48:16.52427072 +0000 UTC"
     },
     {
-      "mmsi": "338045163",
-      "name": "SEATOW RESPONDER",
-      "lat": 42.307,
-      "lon": -70.9743,
+      "mmsi": "259028400",
+      "name": "RS EINAR HELSING UNI",
+      "lat": 58.067,
+      "lon": 7.9501,
       "sog": 30.1,
-      "cog": 300.1,
+      "cog": 33.5,
       "nav_status": 0,
-      "last_update": "2026-08-29 12:27:11.541081626 +0000 UTC"
+      "last_update": "2026-08-29 12:47:57.368287628 +0000 UTC"
     },
     {
-      "mmsi": "368135270",
-      "name": "CURIOSITY",
-      "lat": 40.7828,
-      "lon": -73.9216,
+      "mmsi": "367582110",
+      "name": "PROVINCETOWN IV",
+      "lat": 42.3178,
+      "lon": -70.8923,
       "sog": 29.7,
-      "cog": 42.8,
+      "cog": 91.6,
       "nav_status": 0,
-      "last_update": "2026-08-29 12:27:12.884058437 +0000 UTC"
+      "last_update": "2026-08-29 12:47:43.311725248 +0000 UTC"
     },
     {
-      "mmsi": "770576009",
-      "name": "ATLANTIC III",
-      "lat": -34.4777,
-      "lon": -57.891,
-      "sog": 29.3,
-      "cog": 86.2,
-      "nav_status": 5,
-      "last_update": "2026-08-29 12:27:01.269835129 +0000 UTC"
+      "mmsi": "235115154",
+      "name": "ELIMINATOR",
+      "lat": 51.5078,
+      "lon": -0.043,
+      "sog": 29.6,
+      "cog": 78.9,
+      "nav_status": 15,
+      "last_update": "2026-08-29 12:48:08.029360843 +0000 UTC"
     },
     {
-      "mmsi": "770576400",
-      "name": "SUPERFERRY EXPRESS",
-      "lat": -34.4921,
-      "lon": -57.8832,
-      "sog": 29.2,
-      "cog": 62.7,
-      "nav_status": 5,
-      "last_update": "2026-08-29 12:27:13.011820121 +0000 UTC"
+      "mmsi": "212731000",
+      "name": "MAGIC 2",
+      "lat": 37.701,
+      "lon": 23.5413,
+      "sog": 29.4,
+      "cog": 182.8,
+      "nav_status": 0,
+      "last_update": "2026-08-29 12:47:52.355768987 +0000 UTC"
+    },
+    {
+      "mmsi": "237176400",
+      "name": "DODEKANISOS EXPRESS",
+      "lat": 36.9294,
+      "lon": 27.2492,
+      "sog": 28.5,
+      "cog": 85,
+      "nav_status": 0,
+      "last_update": "2026-08-29 12:48:27.581246685 +0000 UTC"
+    },
+    {
+      "mmsi": "366740280",
+      "name": "LADY MARTHA",
+      "lat": 41.4887,
+      "lon": -70.4975,
+      "sog": 27.4,
+      "cog": 238,
+      "nav_status": 15,
+      "last_update": "2026-08-29 12:47:38.789244543 +0000 UTC"
+    },
+    {
+      "mmsi": "244150562",
+      "name": "MSTX 14",
+      "lat": 51.9021,
+      "lon": 4.4751,
+      "sog": 26.9,
+      "cog": 62.8,
+      "nav_status": 0,
+      "last_update": "2026-08-29 12:48:19.498660431 +0000 UTC"
+    },
+    {
+      "mmsi": "477995040",
+      "name": "DISCOVERY BAY3",
+      "lat": 22.2909,
+      "lon": 114.1282,
+      "sog": 26.4,
+      "cog": 79.6,
+      "nav_status": 0,
+      "last_update": "2026-08-29 12:48:00.29631686 +0000 UTC"
     }
   ]
 }
