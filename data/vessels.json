@@ -1,206 +1,206 @@
 {
-  "updated_at": "2026-08-29T18:47:54Z",
-  "count": 3789,
+  "updated_at": "2026-08-29T19:07:46Z",
+  "count": 3662,
   "vessels": [
     {
-      "mmsi": "259102000",
-      "name": "BIRGERSON",
-      "lat": 70.9803,
-      "lon": 25.9716,
+      "mmsi": "257073100",
+      "name": "KNUT OLAV",
+      "lat": 71.1845,
+      "lon": 23.8155,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 7,
-      "last_update": "2026-08-29 18:46:49.225457649 +0000 UTC"
+      "last_update": "2026-08-29 19:06:50.744175091 +0000 UTC"
     },
     {
-      "mmsi": "503018520",
-      "name": "SALLY FORTH",
-      "lat": 36.7284,
-      "lon": 27.6942,
+      "mmsi": "259028270",
+      "name": "MAROSUND",
+      "lat": 70.898,
+      "lon": 27.2273,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-08-29 18:46:52.894348577 +0000 UTC"
+      "nav_status": 0,
+      "last_update": "2026-08-29 19:07:04.340786407 +0000 UTC"
+    },
+    {
+      "mmsi": "211337780",
+      "name": "ATALANTA",
+      "lat": 53.8991,
+      "lon": 11.4571,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-29 19:07:08.321140829 +0000 UTC"
+    },
+    {
+      "mmsi": "241926000",
+      "name": "LYBOUSSAKIS ATLAS",
+      "lat": 37.9574,
+      "lon": 23.6103,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-29 19:07:17.669252412 +0000 UTC"
     },
     {
       "mmsi": "245382000",
       "name": "",
       "lat": 51.6217,
-      "lon": 3.6878,
+      "lon": 3.6879,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-29 18:47:22.240021224 +0000 UTC"
-    },
-    {
-      "mmsi": "235070403",
-      "name": "WINDCAT 14",
-      "lat": 57.1435,
-      "lon": -2.0901,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-29 18:47:25.228885009 +0000 UTC"
-    },
-    {
-      "mmsi": "257070800",
-      "name": "ALEA OF LOFOTEN",
-      "lat": 68.2418,
-      "lon": 14.586,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-29 18:47:27.460381055 +0000 UTC"
+      "last_update": "2026-08-29 19:07:21.74611672 +0000 UTC"
     },
     {
       "mmsi": "246445000",
       "name": "KNRM-ALIES EN EVERT",
-      "lat": 53.1739,
-      "lon": 4.8693,
+      "lat": 53.174,
+      "lon": 4.8692,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-29 18:47:34.305934955 +0000 UTC"
+      "last_update": "2026-08-29 19:07:24.616930335 +0000 UTC"
     },
     {
-      "mmsi": "211652800",
-      "name": "LAUENBURG",
-      "lat": 53.3702,
-      "lon": 10.5566,
+      "mmsi": "271000677",
+      "name": "VENTO DI MELTEMI",
+      "lat": 41.1457,
+      "lon": -8.7632,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 1,
+      "last_update": "2026-08-29 19:07:27.048596666 +0000 UTC"
+    },
+    {
+      "mmsi": "235104009",
+      "name": "SALTHOLME",
+      "lat": 54.5843,
+      "lon": -1.2305,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-29 18:47:37.964222207 +0000 UTC"
+      "last_update": "2026-08-29 19:07:37.256863033 +0000 UTC"
     },
     {
-      "mmsi": "244060365",
-      "name": "KNRM ARBOR VITAE",
-      "lat": 53.4088,
-      "lon": 6.1974,
-      "sog": 102.3,
-      "cog": 360,
+      "mmsi": "367582110",
+      "name": "PROVINCETOWN IV",
+      "lat": 42.0239,
+      "lon": -70.1657,
+      "sog": 31.5,
+      "cog": 217.4,
       "nav_status": 0,
-      "last_update": "2026-08-29 18:47:39.27671878 +0000 UTC"
-    },
-    {
-      "mmsi": "319067100",
-      "name": "WINWIN",
-      "lat": 39.4886,
-      "lon": 2.4768,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-08-29 18:47:42.096841645 +0000 UTC"
-    },
-    {
-      "mmsi": "224781000",
-      "name": "VOLCAN DE TAGORO",
-      "lat": 28.1963,
-      "lon": -15.4162,
-      "sog": 35.5,
-      "cog": 106.9,
-      "nav_status": 9,
-      "last_update": "2026-08-29 18:47:28.58447294 +0000 UTC"
-    },
-    {
-      "mmsi": "368612000",
-      "name": "RICH PASSAGE 1",
-      "lat": 47.568,
-      "lon": -122.5136,
-      "sog": 33,
-      "cog": 246.1,
-      "nav_status": 0,
-      "last_update": "2026-08-29 18:46:55.879587 +0000 UTC"
-    },
-    {
-      "mmsi": "212859000",
-      "name": "MERCEDES PINTO",
-      "lat": 28.0341,
-      "lon": -14.5643,
-      "sog": 32.4,
-      "cog": 113.4,
-      "nav_status": 0,
-      "last_update": "2026-08-29 18:47:21.822467667 +0000 UTC"
-    },
-    {
-      "mmsi": "367101920",
-      "name": "GREY LADY",
-      "lat": 41.5876,
-      "lon": -70.2863,
-      "sog": 32.1,
-      "cog": 160.2,
-      "nav_status": 0,
-      "last_update": "2026-08-29 18:47:31.570177058 +0000 UTC"
-    },
-    {
-      "mmsi": "367720690",
-      "name": "GREY LADY IV",
-      "lat": 41.4717,
-      "lon": -70.184,
-      "sog": 31.2,
-      "cog": 337.2,
-      "nav_status": 0,
-      "last_update": "2026-08-29 18:47:18.017313395 +0000 UTC"
+      "last_update": "2026-08-29 19:07:21.124695467 +0000 UTC"
     },
     {
       "mmsi": "210049000",
       "name": "ELEANOR ROOSEVELT",
-      "lat": 39.1473,
-      "lon": 1.9977,
-      "sog": 30.9,
-      "cog": 58.7,
+      "lat": 39.2443,
+      "lon": 2.1693,
+      "sog": 30.7,
+      "cog": 57.2,
       "nav_status": 0,
-      "last_update": "2026-08-29 18:47:42.095747994 +0000 UTC"
-    },
-    {
-      "mmsi": "366970020",
-      "name": "MENDOCINO",
-      "lat": 37.8965,
-      "lon": -122.4414,
-      "sog": 30.8,
-      "cog": 152.2,
-      "nav_status": 0,
-      "last_update": "2026-08-29 18:47:05.027844973 +0000 UTC"
+      "last_update": "2026-08-29 19:06:56.729106432 +0000 UTC"
     },
     {
       "mmsi": "368083770",
       "name": "SUPPORT",
-      "lat": 45.6562,
-      "lon": -122.7614,
-      "sog": 30.2,
-      "cog": 333.9,
+      "lat": 45.6442,
+      "lon": -122.7316,
+      "sog": 30.7,
+      "cog": 105.7,
       "nav_status": 0,
-      "last_update": "2026-08-29 18:47:06.920854958 +0000 UTC"
+      "last_update": "2026-08-29 19:06:58.156246319 +0000 UTC"
+    },
+    {
+      "mmsi": "367720690",
+      "name": "GREY LADY IV",
+      "lat": 41.6216,
+      "lon": -70.2857,
+      "sog": 30.6,
+      "cog": 59.6,
+      "nav_status": 0,
+      "last_update": "2026-08-29 19:06:57.927752293 +0000 UTC"
+    },
+    {
+      "mmsi": "257058290",
+      "name": "REGINE NORMANN",
+      "lat": 66.0666,
+      "lon": 12.6601,
+      "sog": 30.6,
+      "cog": 201.8,
+      "nav_status": 0,
+      "last_update": "2026-08-29 19:07:31.745178429 +0000 UTC"
+    },
+    {
+      "mmsi": "224836000",
+      "name": "VOLCAN DE TIRAJANA",
+      "lat": 28.0109,
+      "lon": -16.8423,
+      "sog": 30.3,
+      "cog": 286.5,
+      "nav_status": 0,
+      "last_update": "2026-08-29 19:07:30.147260307 +0000 UTC"
+    },
+    {
+      "mmsi": "368151810",
+      "name": "ENETAI",
+      "lat": 47.6006,
+      "lon": -122.3971,
+      "sog": 28.9,
+      "cog": 240.8,
+      "nav_status": 0,
+      "last_update": "2026-08-29 19:07:05.066697528 +0000 UTC"
     },
     {
       "mmsi": "257125290",
       "name": "FREDRIKKE T-OLSEN",
-      "lat": 66.3807,
-      "lon": 12.4303,
-      "sog": 29.3,
-      "cog": 229.9,
+      "lat": 66.4228,
+      "lon": 12.2995,
+      "sog": 28.6,
+      "cog": 324.6,
       "nav_status": 0,
-      "last_update": "2026-08-29 18:46:54.589500567 +0000 UTC"
+      "last_update": "2026-08-29 19:07:04.79635836 +0000 UTC"
     },
     {
-      "mmsi": "369493659",
-      "name": "45659",
-      "lat": 42.3444,
-      "lon": -71.0131,
+      "mmsi": "367199310",
+      "name": "CATALINA JET",
+      "lat": 33.4489,
+      "lon": -118.2746,
+      "sog": 28.6,
+      "cog": 17.3,
+      "nav_status": 15,
+      "last_update": "2026-08-29 19:07:34.752210195 +0000 UTC"
+    },
+    {
+      "mmsi": "366954420",
+      "name": "PROVINCETOWN III",
+      "lat": 42.0995,
+      "lon": -70.3828,
+      "sog": 28.5,
+      "cog": 301.8,
+      "nav_status": 0,
+      "last_update": "2026-08-29 19:06:54.158998339 +0000 UTC"
+    },
+    {
+      "mmsi": "431017055",
+      "name": "SOLEIL",
+      "lat": 34.263,
+      "lon": 138.1422,
       "sog": 27.9,
-      "cog": 297.7,
+      "cog": 246.8,
       "nav_status": 0,
-      "last_update": "2026-08-29 18:47:28.367318648 +0000 UTC"
+      "last_update": "2026-08-29 19:06:46.342174755 +0000 UTC"
     },
     {
-      "mmsi": "245587000",
-      "name": "MEES (PILOTS)",
-      "lat": 53.5232,
-      "lon": 6.757,
-      "sog": 27.3,
-      "cog": 127.4,
-      "nav_status": 0,
-      "last_update": "2026-08-29 18:47:02.901075715 +0000 UTC"
+      "mmsi": "366768030",
+      "name": "STARSHIP EXPRESS",
+      "lat": 33.3584,
+      "lon": -118.3168,
+      "sog": 27.9,
+      "cog": 194.4,
+      "nav_status": 5,
+      "last_update": "2026-08-29 19:07:25.012555747 +0000 UTC"
     }
   ]
 }
