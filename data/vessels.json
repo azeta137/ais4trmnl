@@ -1,36 +1,16 @@
 {
-  "updated_at": "2026-08-29T23:07:35Z",
-  "count": 3772,
+  "updated_at": "2026-08-29T23:27:39Z",
+  "count": 3796,
   "vessels": [
     {
-      "mmsi": "261007705",
-      "name": "FAIRPLAY-83",
-      "lat": 53.9074,
-      "lon": 14.2599,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-29 23:06:33.678243374 +0000 UTC"
-    },
-    {
-      "mmsi": "211337780",
-      "name": "ATALANTA",
-      "lat": 53.8992,
-      "lon": 11.4571,
+      "mmsi": "319720000",
+      "name": "STARDUST",
+      "lat": 32.71,
+      "lon": -117.2336,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-29 23:06:36.975561828 +0000 UTC"
-    },
-    {
-      "mmsi": "352002481",
-      "name": "BARU SIERRA NEVADA",
-      "lat": -22.8483,
-      "lon": -43.1301,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-08-29 23:06:38.989804919 +0000 UTC"
+      "last_update": "2026-08-29 23:27:07.883907407 +0000 UTC"
     },
     {
       "mmsi": "244108000",
@@ -40,167 +20,189 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-29 23:06:41.053329598 +0000 UTC"
+      "last_update": "2026-08-29 23:26:52.183648718 +0000 UTC"
     },
     {
-      "mmsi": "250101900",
-      "name": "GUIDING STAR 2",
-      "lat": 51.6509,
-      "lon": -9.9082,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-29 23:06:47.867115493 +0000 UTC"
-    },
-    {
-      "mmsi": "219385000",
-      "name": "BJOERNSHOLM",
-      "lat": 55.6793,
-      "lon": 12.593,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-29 23:06:57.304587601 +0000 UTC"
-    },
-    {
-      "mmsi": "245382000",
-      "name": "",
-      "lat": 51.6218,
-      "lon": 3.688,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-29 23:07:01.469045845 +0000 UTC"
-    },
-    {
-      "mmsi": "368277410",
-      "name": "AMBASSADOR",
-      "lat": 33.6198,
-      "lon": -117.9256,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-29 23:07:04.468416284 +0000 UTC"
-    },
-    {
-      "mmsi": "259102000",
-      "name": "BIRGERSON",
-      "lat": 70.9803,
-      "lon": 25.9716,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 7,
-      "last_update": "2026-08-29 23:07:09.676487611 +0000 UTC"
-    },
-    {
-      "mmsi": "258062500",
-      "name": "PERLEN",
-      "lat": 68.5669,
-      "lon": 14.9146,
+      "mmsi": "235111618",
+      "name": "S/Y TENAZ",
+      "lat": 37.9384,
+      "lon": 23.6668,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-08-29 23:07:12.83364801 +0000 UTC"
+      "last_update": "2026-08-29 23:26:59.028812261 +0000 UTC"
     },
     {
-      "mmsi": "271000677",
-      "name": "VENTO DI MELTEMI",
-      "lat": 41.1464,
-      "lon": -8.765,
+      "mmsi": "230182220",
+      "name": "NORDENSKIOLD",
+      "lat": 60.338,
+      "lon": 25.5785,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-29 23:27:03.914507323 +0000 UTC"
+    },
+    {
+      "mmsi": "211652800",
+      "name": "LAUENBURG",
+      "lat": 53.3702,
+      "lon": 10.5566,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-29 23:27:08.506983243 +0000 UTC"
+    },
+    {
+      "mmsi": "244870700",
+      "name": "METTE MARIA",
+      "lat": 53.7197,
+      "lon": 8.0774,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 1,
-      "last_update": "2026-08-29 23:07:27.078954033 +0000 UTC"
+      "last_update": "2026-08-29 23:27:10.665081282 +0000 UTC"
     },
     {
-      "mmsi": "366889830",
-      "name": "LEGACY        ?",
-      "lat": 0,
-      "lon": 0,
-      "sog": 102.2,
+      "mmsi": "244374235",
+      "name": "NT 11 WATERTRAPPER",
+      "lat": 52.3996,
+      "lon": 4.8999,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-29 23:27:15.313061552 +0000 UTC"
+    },
+    {
+      "mmsi": "352002481",
+      "name": "BARU SIERRA NEVADA",
+      "lat": -22.8483,
+      "lon": -43.1301,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 1,
+      "last_update": "2026-08-29 23:27:18.701194317 +0000 UTC"
+    },
+    {
+      "mmsi": "205088000",
+      "name": "J. BREYDEL SURVEY",
+      "lat": 51.2226,
+      "lon": 2.9363,
+      "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-29 23:06:34.791250365 +0000 UTC"
+      "last_update": "2026-08-29 23:27:24.01304678 +0000 UTC"
     },
     {
-      "mmsi": "367677670",
-      "name": "SANCTUARY",
-      "lat": 42.3834,
-      "lon": -70.8903,
+      "mmsi": "601126900",
+      "name": "SEA EXPRESS",
+      "lat": -29.8681,
+      "lon": 31.0141,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-08-29 23:27:24.438512857 +0000 UTC"
+    },
+    {
+      "mmsi": "111219512",
+      "name": "",
+      "lat": 55.6345,
+      "lon": 10.051,
+      "sog": 102.2,
+      "cog": 43.6,
+      "nav_status": 0,
+      "last_update": "2026-08-29 23:26:46.491217297 +0000 UTC"
+    },
+    {
+      "mmsi": "367447520",
+      "name": "SALACIA",
+      "lat": 42.339,
+      "lon": -71.0081,
+      "sog": 36,
+      "cog": 125.6,
+      "nav_status": 0,
+      "last_update": "2026-08-29 23:27:29.15171891 +0000 UTC"
+    },
+    {
+      "mmsi": "316052438",
+      "name": "STHUQI",
+      "lat": 49.2936,
+      "lon": -123.3642,
+      "sog": 32.7,
+      "cog": 76.4,
+      "nav_status": 9,
+      "last_update": "2026-08-29 23:26:59.37057863 +0000 UTC"
+    },
+    {
+      "mmsi": "368612000",
+      "name": "RICH PASSAGE 1",
+      "lat": 47.5714,
+      "lon": -122.4973,
+      "sog": 31.7,
+      "cog": 248.3,
+      "nav_status": 0,
+      "last_update": "2026-08-29 23:26:58.11353933 +0000 UTC",
+      "ship_type": 40,
+      "destination": "BREM-SEA-BREM"
+    },
+    {
+      "mmsi": "338357553",
+      "name": "OYSTER BAY PB9",
+      "lat": 40.8946,
+      "lon": -73.5381,
+      "sog": 31.2,
+      "cog": 11.8,
+      "nav_status": 0,
+      "last_update": "2026-08-29 23:26:45.355164886 +0000 UTC"
+    },
+    {
+      "mmsi": "368088610",
+      "name": "LYRA",
+      "lat": 37.9626,
+      "lon": -122.4317,
+      "sog": 30.8,
+      "cog": 0.8,
+      "nav_status": 0,
+      "last_update": "2026-08-29 23:27:01.823191925 +0000 UTC"
+    },
+    {
+      "mmsi": "512005706",
+      "name": "KORORA",
+      "lat": -36.8223,
+      "lon": 174.8601,
+      "sog": 30.2,
+      "cog": 66.7,
+      "nav_status": 0,
+      "last_update": "2026-08-29 23:27:08.618020109 +0000 UTC"
+    },
+    {
+      "mmsi": "368473450",
+      "name": "CALCASIEU PILOT",
+      "lat": 29.764,
+      "lon": -93.3445,
       "sog": 29,
-      "cog": 245,
-      "nav_status": 0,
-      "last_update": "2026-08-29 23:07:25.705921747 +0000 UTC"
-    },
-    {
-      "mmsi": "257961900",
-      "name": "RYGERFJORD",
-      "lat": 59.1191,
-      "lon": 5.8688,
-      "sog": 26.2,
-      "cog": 190.2,
-      "nav_status": 0,
-      "last_update": "2026-08-29 23:07:20.500748422 +0000 UTC"
-    },
-    {
-      "mmsi": "368184910",
-      "name": "SPINDLETOP",
-      "lat": 29.64,
-      "lon": -93.8234,
-      "sog": 26.1,
-      "cog": 157.3,
-      "nav_status": 0,
-      "last_update": "2026-08-29 23:06:34.77017937 +0000 UTC"
-    },
-    {
-      "mmsi": "367036190",
-      "name": "MARTHA'S VINEYARD EX",
-      "lat": 41.3317,
-      "lon": -70.1156,
-      "sog": 25.7,
-      "cog": 143.1,
-      "nav_status": 0,
-      "last_update": "2026-08-29 23:07:04.351877558 +0000 UTC"
+      "cog": 353.3,
+      "nav_status": 15,
+      "last_update": "2026-08-29 23:27:15.694499182 +0000 UTC"
     },
     {
       "mmsi": "316032858",
       "name": "SALISH SEA DREAM",
-      "lat": 49.4048,
-      "lon": -123.3055,
-      "sog": 24.6,
-      "cog": 9,
+      "lat": 49.467,
+      "lon": -123.463,
+      "sog": 28.5,
+      "cog": 348.6,
       "nav_status": 0,
-      "last_update": "2026-08-29 23:06:38.063984679 +0000 UTC"
+      "last_update": "2026-08-29 23:27:34.1984633 +0000 UTC"
     },
     {
-      "mmsi": "503756000",
-      "name": "REEF ADVENTURE",
-      "lat": -16.7936,
-      "lon": 145.9357,
-      "sog": 24.4,
-      "cog": 27.8,
+      "mmsi": "368151810",
+      "name": "ENETAI",
+      "lat": 47.5839,
+      "lon": -122.4193,
+      "sog": 28.1,
+      "cog": 50,
       "nav_status": 0,
-      "last_update": "2026-08-29 23:06:43.112747111 +0000 UTC"
-    },
-    {
-      "mmsi": "257125770",
-      "name": "THEA JENSEN",
-      "lat": 70.445,
-      "lon": 22.6851,
-      "sog": 23.8,
-      "cog": 42.9,
-      "nav_status": 0,
-      "last_update": "2026-08-29 23:07:17.906808784 +0000 UTC"
-    },
-    {
-      "mmsi": "210329000",
-      "name": "RUSADIR",
-      "lat": 36.4754,
-      "lon": -4.1632,
-      "sog": 22.9,
-      "cog": 136.5,
-      "nav_status": 5,
-      "last_update": "2026-08-29 23:07:22.156879082 +0000 UTC"
+      "last_update": "2026-08-29 23:27:07.507591862 +0000 UTC"
     }
   ]
 }
