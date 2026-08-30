@@ -1,210 +1,206 @@
 {
-  "updated_at": "2026-08-30T00:27:45Z",
-  "count": 3828,
+  "updated_at": "2026-08-30T00:47:50Z",
+  "count": 3812,
   "vessels": [
     {
-      "mmsi": "235080649",
-      "name": "ONWARD N107",
-      "lat": 54.457,
-      "lon": -5.4374,
+      "mmsi": "367377380",
+      "name": "FREEDOM",
+      "lat": 42.3619,
+      "lon": -71.0445,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-08-30 00:26:47.185733552 +0000 UTC"
+      "nav_status": 5,
+      "last_update": "2026-08-30 00:46:52.73954656 +0000 UTC"
     },
     {
-      "mmsi": "316014014",
-      "name": "TAKAYA",
-      "lat": 49.2864,
-      "lon": -123.1005,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-08-30 00:26:51.726462563 +0000 UTC"
-    },
-    {
-      "mmsi": "235104009",
-      "name": "SALTHOLME",
-      "lat": 54.5843,
-      "lon": -1.2305,
+      "mmsi": "319720000",
+      "name": "STARDUST",
+      "lat": 32.7101,
+      "lon": -117.2336,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-30 00:26:56.37050886 +0000 UTC"
+      "last_update": "2026-08-30 00:46:58.358403255 +0000 UTC"
+    },
+    {
+      "mmsi": "241926000",
+      "name": "LYBOUSSAKIS ATLAS",
+      "lat": 37.9574,
+      "lon": 23.6103,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-30 00:47:07.552118942 +0000 UTC"
+    },
+    {
+      "mmsi": "250101900",
+      "name": "GUIDING STAR 2",
+      "lat": 51.6509,
+      "lon": -9.9083,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-30 00:47:08.667548175 +0000 UTC"
+    },
+    {
+      "mmsi": "235060142",
+      "name": "SEA HAVEN",
+      "lat": 57.144,
+      "lon": -2.0796,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-30 00:47:16.074483826 +0000 UTC"
+    },
+    {
+      "mmsi": "368458240",
+      "name": "",
+      "lat": 39.3774,
+      "lon": -74.4268,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-30 00:47:17.169795146 +0000 UTC"
+    },
+    {
+      "mmsi": "503000080",
+      "name": "MANNING",
+      "lat": -33.8683,
+      "lon": 151.222,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-30 00:47:19.662673548 +0000 UTC"
+    },
+    {
+      "mmsi": "244108000",
+      "name": "ZK46 ZEEMEEUW",
+      "lat": 53.4099,
+      "lon": 6.207,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-30 00:47:20.834985724 +0000 UTC"
     },
     {
       "mmsi": "701006066",
       "name": "MARGOT",
-      "lat": -38.0458,
+      "lat": -38.0459,
       "lon": -57.5353,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-30 00:27:03.09566645 +0000 UTC"
-    },
-    {
-      "mmsi": "205088000",
-      "name": "J. BREYDEL SURVEY",
-      "lat": 51.2225,
-      "lon": 2.9363,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-30 00:27:03.497800541 +0000 UTC"
-    },
-    {
-      "mmsi": "219385000",
-      "name": "BJOERNSHOLM",
-      "ship_type": 60,
-      "destination": "COPENHAGEN",
-      "lat": 55.6792,
-      "lon": 12.593,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-30 00:27:37.065061617 +0000 UTC"
-    },
-    {
-      "mmsi": "245382000",
-      "name": "",
-      "lat": 51.6217,
-      "lon": 3.6878,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-30 00:27:12.842740286 +0000 UTC"
-    },
-    {
-      "mmsi": "244870700",
-      "name": "METTE MARIA",
-      "lat": 53.7199,
-      "lon": 8.0778,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-08-30 00:27:15.118051163 +0000 UTC"
-    },
-    {
-      "mmsi": "263701380",
-      "name": "FERNANDO NAMORA",
-      "lat": 38.6518,
-      "lon": -9.0808,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-08-30 00:27:24.062785323 +0000 UTC"
-    },
-    {
-      "mmsi": "244810627",
-      "name": "WR40 ANNA CAROLA",
-      "lat": 53.4446,
-      "lon": 6.8271,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 7,
-      "last_update": "2026-08-30 00:27:34.270854074 +0000 UTC"
+      "last_update": "2026-08-30 00:47:22.840015158 +0000 UTC"
     },
     {
       "mmsi": "601126900",
       "name": "SEA EXPRESS",
-      "lat": -29.8682,
-      "lon": 31.0142,
+      "lat": -29.8681,
+      "lon": 31.0141,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 8,
-      "last_update": "2026-08-30 00:27:34.429125721 +0000 UTC"
+      "last_update": "2026-08-30 00:47:23.578338781 +0000 UTC"
     },
     {
-      "mmsi": "244060365",
-      "name": "KNRM ARBOR VITAE",
-      "lat": 53.4088,
-      "lon": 6.1974,
+      "mmsi": "428009088",
+      "name": "DANCHOR X",
+      "lat": 32.8211,
+      "lon": 35.0071,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-30 00:47:24.636343858 +0000 UTC"
+    },
+    {
+      "mmsi": "235113676",
+      "name": "NSL EXCALIBUR",
+      "lat": 53.3222,
+      "lon": -3.262,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-30 00:27:40.261320821 +0000 UTC"
+      "last_update": "2026-08-30 00:47:34.319424965 +0000 UTC"
     },
     {
-      "mmsi": "258003760",
-      "name": "AMB RYGERMEDIC",
-      "lat": 59.002,
-      "lon": 5.8115,
-      "sog": 29.7,
-      "cog": 200.5,
-      "nav_status": 0,
-      "last_update": "2026-08-30 00:27:24.957543805 +0000 UTC"
+      "mmsi": "244374235",
+      "name": "NT 11 WATERTRAPPER",
+      "lat": 52.3996,
+      "lon": 4.8999,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-30 00:47:34.6067551 +0000 UTC"
     },
     {
-      "mmsi": "369493643",
-      "name": "",
-      "lat": 34.0261,
-      "lon": -118.909,
-      "sog": 29.4,
-      "cog": 106.7,
-      "nav_status": 4,
-      "last_update": "2026-08-30 00:27:34.972592599 +0000 UTC"
-    },
-    {
-      "mmsi": "338790000",
-      "name": "SALLY FOX",
-      "ship_type": 60,
-      "destination": "PIER 50 / VASHON",
-      "lat": 47.5388,
-      "lon": -122.451,
-      "sog": 27.9,
-      "cog": 199.7,
-      "nav_status": 0,
-      "last_update": "2026-08-30 00:27:35.610185899 +0000 UTC"
-    },
-    {
-      "mmsi": "503181800",
-      "name": "PILOT VESSEL HAWK",
-      "lat": -23.8724,
-      "lon": 151.4603,
-      "sog": 25.3,
-      "cog": 280.2,
+      "mmsi": "316014014",
+      "name": "TAKAYA",
+      "lat": 49.2863,
+      "lon": -123.1005,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-08-30 00:26:57.29163285 +0000 UTC"
+      "last_update": "2026-08-30 00:47:36.276295025 +0000 UTC"
     },
     {
-      "mmsi": "367786010",
-      "name": "CETUS",
-      "lat": 37.7936,
-      "lon": -122.3113,
-      "sog": 24,
-      "cog": 289.1,
+      "mmsi": "205545000",
+      "name": "VB PANDA",
+      "lat": 51.3301,
+      "lon": 3.1971,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-30 00:27:38.836554423 +0000 UTC"
+      "last_update": "2026-08-30 00:47:41.881240106 +0000 UTC"
     },
     {
-      "mmsi": "431101139",
-      "name": "HOUOU MARU",
-      "lat": 33.3397,
-      "lon": 136.1499,
-      "sog": 23.9,
-      "cog": 71.6,
-      "nav_status": 0,
-      "last_update": "2026-08-30 00:27:29.660374933 +0000 UTC"
-    },
-    {
-      "mmsi": "210329000",
-      "name": "RUSADIR",
-      "lat": 36.0973,
-      "lon": -3.7162,
-      "sog": 23.2,
-      "cog": 135.7,
-      "nav_status": 0,
-      "last_update": "2026-08-30 00:27:16.920947426 +0000 UTC"
-    },
-    {
-      "mmsi": "338138721",
+      "mmsi": "111219512",
       "name": "",
-      "lat": 36.9377,
-      "lon": -76.4025,
-      "sog": 22.8,
-      "cog": 201.5,
-      "nav_status": 8,
-      "last_update": "2026-08-30 00:27:07.581306157 +0000 UTC"
+      "lat": 55.3018,
+      "lon": 9.8652,
+      "sog": 102.2,
+      "cog": 254.1,
+      "nav_status": 0,
+      "last_update": "2026-08-30 00:47:30.301792843 +0000 UTC"
+    },
+    {
+      "mmsi": "368457860",
+      "name": "EMERALD CLIPPER",
+      "lat": 47.3569,
+      "lon": -122.4079,
+      "sog": 36.1,
+      "cog": 63.7,
+      "nav_status": 0,
+      "last_update": "2026-08-30 00:46:49.609976431 +0000 UTC"
+    },
+    {
+      "mmsi": "366989380",
+      "name": "MARE ISLAND",
+      "lat": 37.894,
+      "lon": -122.4386,
+      "sog": 34.7,
+      "cog": 148.3,
+      "nav_status": 0,
+      "last_update": "2026-08-30 00:47:12.417736123 +0000 UTC"
+    },
+    {
+      "mmsi": "367347130",
+      "name": "SEASTREAK NEW YORK",
+      "lat": 40.5828,
+      "lon": -74.0464,
+      "sog": 32.3,
+      "cog": 171.7,
+      "nav_status": 15,
+      "last_update": "2026-08-30 00:47:30.892476982 +0000 UTC"
+    },
+    {
+      "mmsi": "367720690",
+      "name": "GREY LADY IV",
+      "lat": 41.3913,
+      "lon": -70.1607,
+      "sog": 32.2,
+      "cog": 154.4,
+      "nav_status": 0,
+      "last_update": "2026-08-30 00:46:49.859280275 +0000 UTC"
     }
   ]
 }
