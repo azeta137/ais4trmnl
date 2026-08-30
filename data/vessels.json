@@ -1,76 +1,86 @@
 {
-  "updated_at": "2026-08-30T14:27:36Z",
-  "count": 3638,
+  "updated_at": "2026-08-30T14:47:57Z",
+  "count": 3641,
   "vessels": [
     {
-      "mmsi": "271000677",
-      "name": "VENTO DI MELTEMI",
-      "lat": 41.1928,
-      "lon": -8.6865,
+      "mmsi": "245382000",
+      "name": "KNRM-FRED",
+      "lat": 51.6217,
+      "lon": 3.6879,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-30 14:26:36.220985042 +0000 UTC"
-    },
-    {
-      "mmsi": "601126900",
-      "name": "SEA EXPRESS",
-      "lat": -29.8681,
-      "lon": 31.0141,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-08-30 14:27:04.038234663 +0000 UTC"
+      "nav_status": 0,
+      "last_update": "2026-08-30 14:47:01.51469904 +0000 UTC"
     },
     {
       "mmsi": "246445000",
       "name": "KNRM-ALIES EN EVERT",
       "lat": 53.1739,
-      "lon": 4.8693,
+      "lon": 4.8692,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-30 14:26:45.307975719 +0000 UTC"
+      "last_update": "2026-08-30 14:47:05.228146004 +0000 UTC"
     },
     {
-      "mmsi": "235034368",
-      "name": "MULTI-SURVEY 4",
-      "lat": 51.9774,
-      "lon": 4.1219,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-30 14:26:56.340880445 +0000 UTC"
-    },
-    {
-      "mmsi": "244810627",
-      "name": "WR40 ANNA CAROLA",
-      "lat": 53.4446,
-      "lon": 6.8271,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 7,
-      "last_update": "2026-08-30 14:27:03.923701649 +0000 UTC"
-    },
-    {
-      "mmsi": "211337780",
-      "name": "ATALANTA",
-      "lat": 53.8992,
-      "lon": 11.4571,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-30 14:27:08.635301831 +0000 UTC"
-    },
-    {
-      "mmsi": "210588000",
-      "name": "LEDRA PRIDE",
-      "lat": 34.6452,
-      "lon": 33.018,
+      "mmsi": "263701380",
+      "name": "FERNANDO NAMORA",
+      "lat": 38.6518,
+      "lon": -9.0808,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 8,
-      "last_update": "2026-08-30 14:27:11.369567346 +0000 UTC"
+      "last_update": "2026-08-30 14:47:06.063648193 +0000 UTC"
+    },
+    {
+      "mmsi": "567002520",
+      "name": "NP CHUMPHON",
+      "lat": 13.6566,
+      "lon": 100.5677,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-30 14:47:09.551517865 +0000 UTC"
+    },
+    {
+      "mmsi": "210920000",
+      "name": "VTS PENTADAKTYLOS",
+      "lat": 34.7185,
+      "lon": 33.3178,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-30 14:47:16.87462501 +0000 UTC"
+    },
+    {
+      "mmsi": "338329000",
+      "name": "KINGS POINT",
+      "lat": 39.2505,
+      "lon": -76.5377,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-30 14:47:20.707420665 +0000 UTC"
+    },
+    {
+      "mmsi": "428009088",
+      "name": "DANCHOR X",
+      "lat": 32.8211,
+      "lon": 35.0071,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-30 14:47:33.395856575 +0000 UTC"
+    },
+    {
+      "mmsi": "235113676",
+      "name": "NSL EXCALIBUR",
+      "lat": 53.3222,
+      "lon": -3.262,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-30 14:47:35.695486569 +0000 UTC"
     },
     {
       "mmsi": "235104009",
@@ -80,127 +90,117 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-30 14:27:16.80209769 +0000 UTC"
+      "last_update": "2026-08-30 14:47:37.504269966 +0000 UTC"
     },
     {
-      "mmsi": "244010956",
-      "name": "P93",
-      "lat": 51.893,
-      "lon": 4.2306,
+      "mmsi": "244780352",
+      "name": "JAN VAN RIEBEECK",
+      "lat": 52.3691,
+      "lon": 4.9003,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-30 14:27:21.375351243 +0000 UTC"
+      "last_update": "2026-08-30 14:47:39.236954739 +0000 UTC"
     },
     {
-      "mmsi": "210920000",
-      "name": "VTS PENTADAKTYLOS",
-      "lat": 34.7186,
-      "lon": 33.3177,
+      "mmsi": "244374235",
+      "name": "NT 11 WATERTRAPPER",
+      "lat": 52.3996,
+      "lon": 4.8999,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-30 14:27:25.263572956 +0000 UTC"
+      "nav_status": 5,
+      "last_update": "2026-08-30 14:47:46.228970007 +0000 UTC"
     },
     {
-      "mmsi": "258230000",
-      "name": "FROEYTRANS",
-      "lat": 63.6385,
-      "lon": 8.8043,
-      "sog": 102.3,
-      "cog": 360,
+      "mmsi": "219018172",
+      "name": "EXPRESS 2",
+      "lat": 56.1018,
+      "lon": 10.4188,
+      "sog": 37.1,
+      "cog": 119.6,
       "nav_status": 0,
-      "last_update": "2026-08-30 14:27:25.341398455 +0000 UTC"
+      "last_update": "2026-08-30 14:47:47.861242135 +0000 UTC"
     },
     {
-      "mmsi": "319720000",
-      "name": "STARDUST",
-      "lat": 32.7101,
-      "lon": -117.2336,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-30 14:27:27.090434055 +0000 UTC"
-    },
-    {
-      "mmsi": "257795700",
-      "name": "RESCUE EINAR STAFFSR",
-      "lat": 59.8939,
-      "lon": 10.6914,
-      "sog": 33.7,
-      "cog": 241.3,
-      "nav_status": 0,
-      "last_update": "2026-08-30 14:27:00.519593691 +0000 UTC"
-    },
-    {
-      "mmsi": "257058290",
-      "name": "REGINE NORMANN",
-      "lat": 66.7925,
-      "lon": 13.243,
-      "sog": 32.6,
-      "cog": 11.6,
-      "nav_status": 0,
-      "last_update": "2026-08-30 14:26:51.680370366 +0000 UTC"
+      "mmsi": "258999000",
+      "name": "FJORDBRIS",
+      "lat": 59.8129,
+      "lon": 5.6194,
+      "sog": 35.3,
+      "cog": 58.3,
+      "nav_status": 9,
+      "last_update": "2026-08-30 14:47:44.561344446 +0000 UTC"
     },
     {
       "mmsi": "210012000",
       "name": "MARGARITA SALAS",
-      "lat": 41.2255,
-      "lon": 2.2448,
-      "sog": 32.1,
-      "cog": 135.8,
+      "lat": 41.096,
+      "lon": 2.408,
+      "sog": 32.5,
+      "cog": 136.8,
       "nav_status": 0,
-      "last_update": "2026-08-30 14:27:29.924501159 +0000 UTC"
+      "last_update": "2026-08-30 14:47:17.482408678 +0000 UTC"
     },
     {
-      "mmsi": "237247600",
-      "name": "F/D ATHINA",
-      "lat": 37.8135,
-      "lon": 23.4302,
-      "sog": 31.6,
-      "cog": 23,
+      "mmsi": "232015629",
+      "name": "RED JET 7",
+      "lat": 50.8459,
+      "lon": -1.3294,
+      "sog": 31.7,
+      "cog": 311.5,
       "nav_status": 0,
-      "last_update": "2026-08-30 14:26:58.595205465 +0000 UTC"
+      "last_update": "2026-08-30 14:47:16.910856905 +0000 UTC"
     },
     {
-      "mmsi": "257304900",
-      "name": "TRONDHEIMSFJORD 1",
-      "lat": 59.7486,
-      "lon": 5.4103,
-      "sog": 30.9,
-      "cog": 278.5,
+      "mmsi": "210049000",
+      "name": "ELEANOR ROOSEVELT",
+      "lat": 38.838,
+      "lon": 1.4421,
+      "sog": 31.5,
+      "cog": 191,
       "nav_status": 0,
-      "last_update": "2026-08-30 14:26:58.380129094 +0000 UTC"
+      "last_update": "2026-08-30 14:47:54.850517648 +0000 UTC"
     },
     {
-      "mmsi": "241804000",
-      "name": "AERO 3 HIGHSPEED",
-      "lat": 37.7288,
-      "lon": 23.372,
-      "sog": 30.5,
-      "cog": 237.2,
+      "mmsi": "240508300",
+      "name": "GOLDEN PRINCESS",
+      "lat": 37.4222,
+      "lon": 25.288,
+      "sog": 29.9,
+      "cog": 11.6,
       "nav_status": 0,
-      "last_update": "2026-08-30 14:27:20.256037654 +0000 UTC"
+      "last_update": "2026-08-30 14:47:39.13068642 +0000 UTC"
     },
     {
-      "mmsi": "235104586",
-      "name": "EXHILARATION",
-      "lat": 51.5026,
-      "lon": -0.0549,
-      "sog": 30.1,
-      "cog": 57.1,
+      "mmsi": "257058280",
+      "name": "ELSA LAULA RENBERG",
+      "lat": 67.2828,
+      "lon": 14.3541,
+      "sog": 29,
+      "cog": 223.2,
       "nav_status": 0,
-      "last_update": "2026-08-30 14:26:40.650168818 +0000 UTC"
+      "last_update": "2026-08-30 14:47:46.54334524 +0000 UTC"
     },
     {
-      "mmsi": "244787000",
-      "name": "KNRM-J V ENGELENBURG",
-      "lat": 51.4105,
-      "lon": 3.9147,
-      "sog": 29.7,
-      "cog": 25.4,
+      "mmsi": "244150561",
+      "name": "MSTX 13",
+      "lat": 51.9052,
+      "lon": 4.5648,
+      "sog": 28.3,
+      "cog": 280.1,
       "nav_status": 0,
-      "last_update": "2026-08-30 14:27:25.938077059 +0000 UTC"
+      "last_update": "2026-08-30 14:47:09.034161944 +0000 UTC"
+    },
+    {
+      "mmsi": "265585630",
+      "name": "PILOT 792 SE",
+      "lat": 59.7282,
+      "lon": 19.1524,
+      "sog": 27,
+      "cog": 258.8,
+      "nav_status": 0,
+      "last_update": "2026-08-30 14:46:54.999501936 +0000 UTC"
     }
   ]
 }
