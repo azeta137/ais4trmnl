@@ -1,26 +1,16 @@
 {
-  "updated_at": "2026-08-30T22:07:52Z",
-  "count": 3713,
+  "updated_at": "2026-08-30T22:27:34Z",
+  "count": 3793,
   "vessels": [
     {
-      "mmsi": "701006066",
-      "name": "MARGOT",
-      "lat": -38.0459,
-      "lon": -57.5353,
+      "mmsi": "259046050",
+      "name": "FREMAD",
+      "lat": 66.3729,
+      "lon": 12.361,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-30 22:06:53.110170175 +0000 UTC"
-    },
-    {
-      "mmsi": "224013220",
-      "name": "POMBO CUATRO",
-      "lat": 43.3609,
-      "lon": -8.3984,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-30 22:06:57.919919119 +0000 UTC"
+      "last_update": "2026-08-30 22:26:36.024920936 +0000 UTC"
     },
     {
       "mmsi": "210920000",
@@ -30,117 +20,17 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-30 22:07:08.382559336 +0000 UTC"
+      "last_update": "2026-08-30 22:26:36.047711038 +0000 UTC"
     },
     {
-      "mmsi": "230182220",
-      "name": "NORDENSKIOLD",
-      "lat": 60.338,
-      "lon": 25.5785,
+      "mmsi": "993692022",
+      "name": "",
+      "lat": 48.1131,
+      "lon": -122.6613,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-30 22:07:14.02519342 +0000 UTC"
-    },
-    {
-      "mmsi": "235113676",
-      "name": "NSL EXCALIBUR",
-      "lat": 53.3222,
-      "lon": -3.262,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-30 22:07:15.466554556 +0000 UTC"
-    },
-    {
-      "mmsi": "273354450",
-      "name": "POSEIDON S",
-      "lat": 35.9333,
-      "lon": 28.5408,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-30 22:07:16.795467345 +0000 UTC"
-    },
-    {
-      "mmsi": "219385000",
-      "name": "BJOERNSHOLM",
-      "lat": 55.6793,
-      "lon": 12.593,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-30 22:07:16.814440528 +0000 UTC"
-    },
-    {
-      "mmsi": "273437720",
-      "name": "VOLGO-DON 185",
-      "lat": 0,
-      "lon": 0,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-30 22:07:47.176959445 +0000 UTC"
-    },
-    {
-      "mmsi": "367653620",
-      "name": "PAYTON GRACE MORAN",
-      "lat": 25.7736,
-      "lon": -80.1767,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-30 22:07:20.524331242 +0000 UTC"
-    },
-    {
-      "mmsi": "244710626",
-      "name": "BENCKES",
-      "lat": 51.9591,
-      "lon": 4.0578,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-30 22:07:20.880603417 +0000 UTC"
-    },
-    {
-      "mmsi": "316046329",
-      "name": "PITT KNIGHT",
-      "lat": 49.2311,
-      "lon": -122.7713,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-30 22:07:39.832466803 +0000 UTC"
-    },
-    {
-      "mmsi": "211652800",
-      "name": "LAUENBURG",
-      "lat": 53.37,
-      "lon": 10.5541,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-30 22:07:27.328221349 +0000 UTC"
-    },
-    {
-      "mmsi": "211337780",
-      "name": "ATALANTA",
-      "lat": 53.8992,
-      "lon": 11.4571,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-30 22:07:29.027640883 +0000 UTC"
-    },
-    {
-      "mmsi": "319067100",
-      "name": "WINWIN",
-      "lat": 39.4887,
-      "lon": 2.4768,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-08-30 22:07:31.187280812 +0000 UTC"
+      "nav_status": 15,
+      "last_update": "2026-08-30 22:26:39.537376644 +0000 UTC"
     },
     {
       "mmsi": "993692051",
@@ -150,17 +40,57 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-08-30 22:07:31.329809896 +0000 UTC"
+      "last_update": "2026-08-30 22:26:43.43420055 +0000 UTC"
     },
     {
-      "mmsi": "352002481",
-      "name": "BARU SIERRA NEVADA",
-      "lat": -22.8481,
-      "lon": -43.13,
+      "mmsi": "319720000",
+      "name": "STARDUST",
+      "lat": 32.7101,
+      "lon": -117.2336,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-30 22:26:58.070923867 +0000 UTC"
+    },
+    {
+      "mmsi": "440081950",
+      "name": "KOREA PEACE",
+      "lat": 37.4553,
+      "lon": 126.5997,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-30 22:27:08.180504402 +0000 UTC"
+    },
+    {
+      "mmsi": "211270850",
+      "name": "PIONIER",
+      "lat": 53.677,
+      "lon": 7.5736,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-30 22:27:10.74361447 +0000 UTC"
+    },
+    {
+      "mmsi": "993692423",
+      "name": "",
+      "lat": 48.2059,
+      "lon": -123.1096,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-08-30 22:27:11.453550267 +0000 UTC"
+    },
+    {
+      "mmsi": "244870700",
+      "name": "METTE MARIA",
+      "lat": 53.7195,
+      "lon": 8.078,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 1,
-      "last_update": "2026-08-30 22:07:38.751838016 +0000 UTC"
+      "last_update": "2026-08-30 22:27:13.326450333 +0000 UTC"
     },
     {
       "mmsi": "271000677",
@@ -170,39 +100,111 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-08-30 22:07:46.061828919 +0000 UTC"
+      "last_update": "2026-08-30 22:27:16.741789815 +0000 UTC",
+      "ship_type": 72,
+      "destination": "PTSET"
     },
     {
-      "mmsi": "257070800",
-      "name": "ALEA OF LOFOTEN",
-      "lat": 68.2418,
-      "lon": 14.5859,
+      "mmsi": "244710626",
+      "name": "BENCKES",
+      "lat": 51.959,
+      "lon": 4.058,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-30 22:07:46.766597892 +0000 UTC"
+      "last_update": "2026-08-30 22:27:17.979481971 +0000 UTC"
     },
     {
-      "mmsi": "993692250",
+      "mmsi": "271044493",
+      "name": "MIP- 3",
+      "lat": 36.792,
+      "lon": 34.6361,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-30 22:27:19.638203735 +0000 UTC"
+    },
+    {
+      "mmsi": "993166021",
       "name": "",
-      "lat": 48.676,
-      "lon": -122.7134,
+      "lat": 48.3909,
+      "lon": -123.3115,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-08-30 22:07:47.338510777 +0000 UTC"
+      "last_update": "2026-08-30 22:27:23.706164761 +0000 UTC"
     },
     {
-      "mmsi": "316052438",
-      "name": "STHUQI",
-      "lat": 49.2008,
-      "lon": -123.8842,
-      "sog": 34.2,
-      "cog": 208.7,
-      "nav_status": 9,
-      "last_update": "2026-08-30 22:07:25.339694508 +0000 UTC",
-      "ship_type": 40,
-      "destination": "NNO<=>VAN"
+      "mmsi": "246445000",
+      "name": "KNRM-ALIES EN EVERT",
+      "lat": 53.1739,
+      "lon": 4.8693,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-30 22:27:25.214097745 +0000 UTC"
+    },
+    {
+      "mmsi": "367668450",
+      "name": "FDNY FB FEEHAN",
+      "lat": 40.7251,
+      "lon": -73.968,
+      "sog": 35.1,
+      "cog": 11.6,
+      "nav_status": 5,
+      "last_update": "2026-08-30 22:26:57.605052212 +0000 UTC"
+    },
+    {
+      "mmsi": "316001749",
+      "name": "SIYAY",
+      "lat": 49.2123,
+      "lon": -123.2689,
+      "sog": 33.6,
+      "cog": 163.9,
+      "nav_status": 0,
+      "last_update": "2026-08-30 22:27:22.500699832 +0000 UTC"
+    },
+    {
+      "mmsi": "257095920",
+      "name": "FJORDJARL",
+      "lat": 69.6061,
+      "lon": 18.8811,
+      "sog": 33.4,
+      "cog": 218.8,
+      "nav_status": 0,
+      "last_update": "2026-08-30 22:26:50.590127937 +0000 UTC"
+    },
+    {
+      "mmsi": "367145870",
+      "name": "IYANOUGH",
+      "lat": 41.3392,
+      "lon": -70.1167,
+      "sog": 32.7,
+      "cog": 336.7,
+      "nav_status": 0,
+      "last_update": "2026-08-30 22:26:43.512056903 +0000 UTC",
+      "ship_type": 49,
+      "destination": "HYANNIS-NANTUCKET"
+    },
+    {
+      "mmsi": "368088610",
+      "name": "LYRA",
+      "lat": 37.9149,
+      "lon": -122.4476,
+      "sog": 31.7,
+      "cog": 156.5,
+      "nav_status": 0,
+      "last_update": "2026-08-30 22:27:09.589221303 +0000 UTC"
+    },
+    {
+      "mmsi": "367720690",
+      "name": "GREY LADY IV",
+      "lat": 41.5277,
+      "lon": -70.2275,
+      "sog": 30.2,
+      "cog": 327.9,
+      "nav_status": 0,
+      "last_update": "2026-08-30 22:27:22.05929938 +0000 UTC"
     }
   ]
 }
