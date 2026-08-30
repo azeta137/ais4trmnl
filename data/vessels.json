@@ -1,86 +1,26 @@
 {
-  "updated_at": "2026-08-30T06:47:49Z",
-  "count": 3828,
+  "updated_at": "2026-08-30T07:08:06Z",
+  "count": 3769,
   "vessels": [
     {
-      "mmsi": "211337780",
-      "name": "ATALANTA",
-      "lat": 53.8992,
-      "lon": 11.4571,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-30 06:46:48.825578699 +0000 UTC"
-    },
-    {
-      "mmsi": "525110616",
-      "name": "BMU 001",
-      "lat": -2.0595,
-      "lon": 104.9958,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-08-30 06:47:01.936474018 +0000 UTC"
-    },
-    {
-      "mmsi": "503000080",
-      "name": "MANNING",
-      "lat": -33.8683,
-      "lon": 151.2221,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-30 06:47:21.835372335 +0000 UTC"
-    },
-    {
-      "mmsi": "244810627",
-      "name": "WR40 ANNA CAROLA",
-      "lat": 53.4446,
-      "lon": 6.8271,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 7,
-      "last_update": "2026-08-30 06:47:24.895010856 +0000 UTC"
-    },
-    {
-      "mmsi": "235080649",
-      "name": "ONWARD N107",
-      "lat": 54.457,
-      "lon": -5.4374,
+      "mmsi": "316003415",
+      "name": "AURORA EXPLORER",
+      "lat": 50.4583,
+      "lon": -125.3666,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-08-30 06:47:28.823391863 +0000 UTC"
+      "last_update": "2026-08-30 07:07:10.817673236 +0000 UTC"
     },
     {
-      "mmsi": "229707000",
-      "name": "M/Y HOSHI",
-      "lat": 40.8266,
-      "lon": 14.2243,
+      "mmsi": "228207000",
+      "name": "F/V FLEUR DE SEL",
+      "lat": 45.9124,
+      "lon": -1.327,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-30 06:47:32.611931459 +0000 UTC"
-    },
-    {
-      "mmsi": "245382000",
-      "name": "KNRM-FRED",
-      "lat": 51.6217,
-      "lon": 3.6879,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-30 06:47:33.276892749 +0000 UTC"
-    },
-    {
-      "mmsi": "319720000",
-      "name": "STARDUST",
-      "lat": 32.7101,
-      "lon": -117.2336,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-30 06:47:38.185685384 +0000 UTC"
+      "nav_status": 15,
+      "last_update": "2026-08-30 07:07:11.122590859 +0000 UTC"
     },
     {
       "mmsi": "244108000",
@@ -90,117 +30,177 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-30 06:47:41.901607188 +0000 UTC"
+      "last_update": "2026-08-30 07:07:12.083869793 +0000 UTC"
     },
     {
-      "mmsi": "601126900",
-      "name": "SEA EXPRESS",
-      "lat": -29.8681,
-      "lon": 31.0141,
+      "mmsi": "245382000",
+      "name": "KNRM-FRED",
+      "lat": 51.6217,
+      "lon": 3.6878,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-08-30 06:47:44.494598284 +0000 UTC"
-    },
-    {
-      "mmsi": "210967000",
-      "name": "CHAMPIONSLEAGUE JET1",
-      "lat": 37.8404,
-      "lon": 23.6242,
-      "sog": 38.7,
-      "cog": 174,
-      "nav_status": 5,
-      "last_update": "2026-08-30 06:47:11.889125549 +0000 UTC"
-    },
-    {
-      "mmsi": "368067090",
-      "name": "RELIANCE",
-      "lat": 47.5724,
-      "lon": -122.5332,
-      "sog": 33.6,
-      "cog": 311.8,
       "nav_status": 0,
-      "last_update": "2026-08-30 06:46:59.824237754 +0000 UTC"
+      "last_update": "2026-08-30 07:07:21.87483445 +0000 UTC"
+    },
+    {
+      "mmsi": "244810627",
+      "name": "WR40 ANNA CAROLA",
+      "lat": 53.4446,
+      "lon": 6.8271,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 7,
+      "last_update": "2026-08-30 07:07:25.260448991 +0000 UTC"
+    },
+    {
+      "mmsi": "244374235",
+      "name": "NT 11 WATERTRAPPER",
+      "lat": 52.398,
+      "lon": 4.8796,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-30 07:07:25.385948824 +0000 UTC"
+    },
+    {
+      "mmsi": "235113676",
+      "name": "NSL EXCALIBUR",
+      "lat": 53.3222,
+      "lon": -3.262,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-30 07:07:26.340690681 +0000 UTC"
+    },
+    {
+      "mmsi": "235080649",
+      "name": "ONWARD N107",
+      "lat": 54.457,
+      "lon": -5.4374,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-08-30 07:07:28.719975717 +0000 UTC"
+    },
+    {
+      "mmsi": "261007705",
+      "name": "FAIRPLAY-83",
+      "lat": 53.9073,
+      "lon": 14.2599,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-30 07:07:34.26241926 +0000 UTC"
+    },
+    {
+      "mmsi": "244045000",
+      "name": "HEBO-CAT 15",
+      "lat": 53.1875,
+      "lon": 5.4319,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-30 07:07:34.453749377 +0000 UTC"
+    },
+    {
+      "mmsi": "316014014",
+      "name": "TAKAYA",
+      "lat": 49.2863,
+      "lon": -123.1004,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-08-30 07:07:36.455490839 +0000 UTC"
+    },
+    {
+      "mmsi": "701006066",
+      "name": "MARGOT",
+      "lat": -38.0459,
+      "lon": -57.5353,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-30 07:07:52.228299295 +0000 UTC"
+    },
+    {
+      "mmsi": "636017622",
+      "name": "HIGH CHALLENGE",
+      "lat": 29.7313,
+      "lon": -95.0531,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-30 07:07:53.063737706 +0000 UTC"
+    },
+    {
+      "mmsi": "319720000",
+      "name": "STARDUST",
+      "lat": 32.71,
+      "lon": -117.2336,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-30 07:07:58.284482823 +0000 UTC"
+    },
+    {
+      "mmsi": "211270850",
+      "name": "PIONIER",
+      "lat": 53.677,
+      "lon": 7.5736,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-30 07:07:59.272956596 +0000 UTC"
+    },
+    {
+      "mmsi": "477221200",
+      "name": "OOCL WISDOM",
+      "lat": 54.7665,
+      "lon": 18.9886,
+      "sog": 91.2,
+      "cog": 121,
+      "nav_status": 0,
+      "last_update": "2026-08-30 07:07:16.616744381 +0000 UTC"
+    },
+    {
+      "mmsi": "219018172",
+      "name": "EXPRESS 2",
+      "lat": 56.0665,
+      "lon": 10.5298,
+      "sog": 33.4,
+      "cog": 116.1,
+      "nav_status": 0,
+      "last_update": "2026-08-30 07:07:29.787252059 +0000 UTC"
     },
     {
       "mmsi": "224984000",
       "name": "VOLCAN DE TAIDIA",
-      "lat": 28.2308,
-      "lon": -15.5708,
-      "sog": 32.9,
-      "cog": 283,
+      "lat": 28.2695,
+      "lon": -15.776,
+      "sog": 33.3,
+      "cog": 296.8,
       "nav_status": 0,
-      "last_update": "2026-08-30 06:46:58.056670598 +0000 UTC"
+      "last_update": "2026-08-30 07:07:15.71045819 +0000 UTC"
     },
     {
-      "mmsi": "241803000",
-      "name": "AERO 2 HIGHSPEED",
-      "lat": 37.8736,
-      "lon": 23.5629,
-      "sog": 30.5,
-      "cog": 216.7,
+      "mmsi": "316056881",
+      "name": "TYMAC FORCE",
+      "lat": 49.2921,
+      "lon": -123.0713,
+      "sog": 31.9,
+      "cog": 84.1,
       "nav_status": 0,
-      "last_update": "2026-08-30 06:47:17.660586559 +0000 UTC"
+      "last_update": "2026-08-30 07:07:42.658054398 +0000 UTC"
     },
     {
-      "mmsi": "210049000",
-      "name": "ELEANOR ROOSEVELT",
-      "lat": 39.2761,
-      "lon": 2.2256,
-      "sog": 29.8,
-      "cog": 236.4,
+      "mmsi": "235070199",
+      "name": "MANANNAN",
+      "lat": 53.87,
+      "lon": -3.9722,
+      "sog": 29.4,
+      "cog": 129.3,
       "nav_status": 0,
-      "last_update": "2026-08-30 06:47:45.566284594 +0000 UTC"
-    },
-    {
-      "mmsi": "210658000",
-      "name": "MAGIC 5",
-      "lat": 37.781,
-      "lon": 23.4398,
-      "sog": 27.9,
-      "cog": 234.9,
-      "nav_status": 0,
-      "last_update": "2026-08-30 06:47:15.540574675 +0000 UTC"
-    },
-    {
-      "mmsi": "368473450",
-      "name": "CALCASIEU PILOT",
-      "lat": 29.4918,
-      "lon": -93.2559,
-      "sog": 27.2,
-      "cog": 347.4,
-      "nav_status": 15,
-      "last_update": "2026-08-30 06:47:25.503849347 +0000 UTC"
-    },
-    {
-      "mmsi": "224491000",
-      "name": "MIGJORN JET",
-      "lat": 38.8487,
-      "lon": 1.4273,
-      "sog": 26.9,
-      "cog": 195,
-      "nav_status": 0,
-      "last_update": "2026-08-30 06:47:03.885346848 +0000 UTC"
-    },
-    {
-      "mmsi": "503186760",
-      "name": "WHITFORDS 2",
-      "lat": -31.7593,
-      "lon": 115.7176,
-      "sog": 26.2,
-      "cog": 172.6,
-      "nav_status": 15,
-      "last_update": "2026-08-30 06:46:59.246061613 +0000 UTC"
-    },
-    {
-      "mmsi": "246936000",
-      "name": "MAUD (PILOTS)",
-      "lat": 52.4805,
-      "lon": 4.4105,
-      "sog": 25.6,
-      "cog": 77.7,
-      "nav_status": 0,
-      "last_update": "2026-08-30 06:47:19.872675992 +0000 UTC"
+      "last_update": "2026-08-30 07:07:43.568937114 +0000 UTC"
     }
   ]
 }
