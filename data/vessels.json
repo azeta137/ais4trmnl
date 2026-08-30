@@ -1,27 +1,7 @@
 {
-  "updated_at": "2026-08-30T07:47:43Z",
-  "count": 3837,
+  "updated_at": "2026-08-30T08:07:58Z",
+  "count": 3660,
   "vessels": [
-    {
-      "mmsi": "205545000",
-      "name": "VB PANDA",
-      "lat": 51.3301,
-      "lon": 3.1971,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-30 07:46:43.006885794 +0000 UTC"
-    },
-    {
-      "mmsi": "261007705",
-      "name": "FAIRPLAY-83",
-      "lat": 53.9073,
-      "lon": 14.2599,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-30 07:46:54.880076201 +0000 UTC"
-    },
     {
       "mmsi": "211337780",
       "name": "ATALANTA",
@@ -30,7 +10,7 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-30 07:46:58.102450504 +0000 UTC"
+      "last_update": "2026-08-30 08:06:47.331422451 +0000 UTC"
     },
     {
       "mmsi": "245382000",
@@ -40,169 +20,193 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-30 07:47:02.314247851 +0000 UTC"
-    },
-    {
-      "mmsi": "368424010",
-      "name": "ATLANTIC ENDURANCE",
-      "lat": 41.5865,
-      "lon": -71.4132,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-30 07:47:20.481999934 +0000 UTC"
-    },
-    {
-      "mmsi": "244810627",
-      "name": "WR40 ANNA CAROLA",
-      "lat": 53.4446,
-      "lon": 6.8271,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 7,
-      "last_update": "2026-08-30 07:47:25.571181539 +0000 UTC"
-    },
-    {
-      "mmsi": "235104009",
-      "name": "SALTHOLME",
-      "lat": 54.5843,
-      "lon": -1.2305,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-30 07:47:26.237266194 +0000 UTC"
-    },
-    {
-      "mmsi": "235070403",
-      "name": "WINDCAT 14",
-      "lat": 57.1435,
-      "lon": -2.0902,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-30 07:47:32.250234969 +0000 UTC"
+      "last_update": "2026-08-30 08:07:23.208169949 +0000 UTC"
     },
     {
       "mmsi": "271000677",
       "name": "VENTO DI MELTEMI",
-      "lat": 41.1448,
+      "lat": 41.1449,
       "lon": -8.7631,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 1,
-      "last_update": "2026-08-30 07:47:36.116939214 +0000 UTC"
+      "last_update": "2026-08-30 08:07:25.744169178 +0000 UTC"
+    },
+    {
+      "mmsi": "601126900",
+      "name": "SEA EXPRESS",
+      "lat": -29.8681,
+      "lon": 31.0141,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-08-30 08:07:34.279770165 +0000 UTC"
+    },
+    {
+      "mmsi": "273294280",
+      "name": "PILTUN",
+      "lat": 55.5217,
+      "lon": 20.1402,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-30 08:07:43.045880816 +0000 UTC"
     },
     {
       "mmsi": "210967000",
       "name": "CHAMPIONSLEAGUE JET1",
-      "lat": 37.5223,
-      "lon": 24.2561,
-      "sog": 38.5,
-      "cog": 111.8,
+      "lat": 37.5175,
+      "lon": 24.5284,
+      "sog": 36.9,
+      "cog": 87.9,
       "nav_status": 0,
-      "last_update": "2026-08-30 07:46:48.194995967 +0000 UTC"
+      "last_update": "2026-08-30 08:07:43.98334419 +0000 UTC"
     },
     {
-      "mmsi": "219022903",
-      "name": "EXPRESS 3",
-      "lat": 56.0958,
-      "lon": 10.4415,
-      "sog": 37,
-      "cog": 122.9,
-      "nav_status": 9,
-      "last_update": "2026-08-30 07:47:19.147393373 +0000 UTC"
-    },
-    {
-      "mmsi": "368345020",
-      "name": "PERSISTENCE",
-      "lat": 41.2226,
-      "lon": -70.3974,
-      "sog": 32.3,
-      "cog": 151.4,
+      "mmsi": "247679000",
+      "name": "FIAMMETTA M",
+      "lat": 37.9661,
+      "lon": 12.4185,
+      "sog": 32.8,
+      "cog": 58.1,
       "nav_status": 0,
-      "last_update": "2026-08-30 07:47:04.768057412 +0000 UTC"
-    },
-    {
-      "mmsi": "224781000",
-      "name": "VOLCAN DE TAGORO",
-      "lat": 28.2323,
-      "lon": -15.4944,
-      "sog": 32.3,
-      "cog": 103.6,
-      "nav_status": 9,
-      "last_update": "2026-08-30 07:47:16.038855584 +0000 UTC"
-    },
-    {
-      "mmsi": "218016620",
-      "name": "JUERGEN HORST",
-      "lat": 54.4207,
-      "lon": 10.1873,
-      "sog": 31.2,
-      "cog": 151.1,
-      "nav_status": 0,
-      "last_update": "2026-08-30 07:46:44.860257429 +0000 UTC"
-    },
-    {
-      "mmsi": "241803000",
-      "name": "AERO 2 HIGHSPEED",
-      "lat": 37.8846,
-      "lon": 23.5693,
-      "sog": 30.3,
-      "cog": 36.4,
-      "nav_status": 0,
-      "last_update": "2026-08-30 07:47:00.87576927 +0000 UTC"
-    },
-    {
-      "mmsi": "210049000",
-      "name": "ELEANOR ROOSEVELT",
-      "lat": 38.9993,
-      "lon": 1.6947,
-      "sog": 29.7,
-      "cog": 234,
-      "nav_status": 0,
-      "last_update": "2026-08-30 07:47:14.615587011 +0000 UTC"
+      "last_update": "2026-08-30 08:07:06.843120826 +0000 UTC",
+      "ship_type": 60,
+      "destination": "ITTPS FAV - MRT"
     },
     {
       "mmsi": "247489500",
       "name": "PIERO SANGIOVANNI",
-      "lat": 37.9421,
-      "lon": 12.3271,
-      "sog": 29.1,
-      "cog": 23,
+      "lat": 38.0035,
+      "lon": 12.4064,
+      "sog": 32.4,
+      "cog": 82.3,
       "nav_status": 0,
-      "last_update": "2026-08-30 07:47:21.141188762 +0000 UTC",
-      "ship_type": 49,
-      "destination": "ITTPS - IS EGADI"
+      "last_update": "2026-08-30 08:06:51.321249202 +0000 UTC"
     },
     {
-      "mmsi": "316016131",
-      "name": "PACIFIC GUARDIAN",
-      "lat": 48.382,
-      "lon": -123.4116,
-      "sog": 29,
-      "cog": 19.5,
+      "mmsi": "368345020",
+      "name": "PERSISTENCE",
+      "lat": 41.0587,
+      "lon": -70.2845,
+      "sog": 32,
+      "cog": 152.3,
       "nav_status": 0,
-      "last_update": "2026-08-30 07:46:47.288671873 +0000 UTC"
+      "last_update": "2026-08-30 08:07:38.703337038 +0000 UTC"
     },
     {
-      "mmsi": "247050100",
-      "name": "ACAPULCO JET",
-      "lat": 40.7395,
-      "lon": 14.0279,
-      "sog": 28.7,
-      "cog": 246,
+      "mmsi": "316056881",
+      "name": "TYMAC FORCE",
+      "lat": 49.3028,
+      "lon": -123.1078,
+      "sog": 31.6,
+      "cog": 91,
       "nav_status": 0,
-      "last_update": "2026-08-30 07:46:51.995453379 +0000 UTC"
+      "last_update": "2026-08-30 08:06:48.05847778 +0000 UTC"
+    },
+    {
+      "mmsi": "237247600",
+      "name": "F/D ATHINA",
+      "lat": 37.7122,
+      "lon": 23.3843,
+      "sog": 31,
+      "cog": 69,
+      "nav_status": 0,
+      "last_update": "2026-08-30 08:07:05.159214275 +0000 UTC"
+    },
+    {
+      "mmsi": "224836000",
+      "name": "VOLCAN DE TIRAJANA",
+      "lat": 27.9883,
+      "lon": -16.8021,
+      "sog": 30.2,
+      "cog": 263.8,
+      "nav_status": 0,
+      "last_update": "2026-08-30 08:07:38.527701932 +0000 UTC"
+    },
+    {
+      "mmsi": "265565250",
+      "name": "POLIS 139-9960",
+      "lat": 59.4143,
+      "lon": 18.5135,
+      "sog": 29.8,
+      "cog": 110,
+      "nav_status": 0,
+      "last_update": "2026-08-30 08:07:07.347433978 +0000 UTC"
     },
     {
       "mmsi": "257089530",
       "name": "LOS 135",
-      "lat": 59.1867,
-      "lon": 10.6208,
-      "sog": 26.8,
-      "cog": 2,
+      "lat": 59.3402,
+      "lon": 10.6046,
+      "sog": 28,
+      "cog": 348.9,
       "nav_status": 0,
-      "last_update": "2026-08-30 07:47:04.658313449 +0000 UTC"
+      "last_update": "2026-08-30 08:07:07.04939299 +0000 UTC"
+    },
+    {
+      "mmsi": "247055900",
+      "name": "ROSARIA LAURO",
+      "lat": 40.7499,
+      "lon": 14.0668,
+      "sog": 27.7,
+      "cog": 247.1,
+      "nav_status": 0,
+      "last_update": "2026-08-30 08:06:57.511949655 +0000 UTC",
+      "ship_type": 60,
+      "destination": "ITFRD-ITISH-ITNAP"
+    },
+    {
+      "mmsi": "266445000",
+      "name": "VISBY",
+      "lat": 58.8797,
+      "lon": 18.0301,
+      "sog": 27.5,
+      "cog": 334.5,
+      "nav_status": 0,
+      "last_update": "2026-08-30 08:07:32.036011297 +0000 UTC"
+    },
+    {
+      "mmsi": "247058800",
+      "name": "SNAV ALTAIR",
+      "lat": 40.7631,
+      "lon": 13.9421,
+      "sog": 27.2,
+      "cog": 254,
+      "nav_status": 0,
+      "last_update": "2026-08-30 08:07:32.983894592 +0000 UTC"
+    },
+    {
+      "mmsi": "224491000",
+      "name": "MIGJORN JET",
+      "lat": 38.8502,
+      "lon": 1.4358,
+      "sog": 26.8,
+      "cog": 17,
+      "nav_status": 0,
+      "last_update": "2026-08-30 08:06:51.515454846 +0000 UTC"
+    },
+    {
+      "mmsi": "247055800",
+      "name": "GIUNONE JET",
+      "lat": 40.6716,
+      "lon": 14.2284,
+      "sog": 26.2,
+      "cog": 289,
+      "nav_status": 0,
+      "last_update": "2026-08-30 08:07:13.357569841 +0000 UTC",
+      "ship_type": 69,
+      "destination": "GOLFO DI NAPOLI"
+    },
+    {
+      "mmsi": "247270100",
+      "name": "ANGELINA LAURO JET",
+      "lat": 40.7894,
+      "lon": 14.2158,
+      "sog": 26,
+      "cog": 250,
+      "nav_status": 0,
+      "last_update": "2026-08-30 08:07:01.617696606 +0000 UTC"
     }
   ]
 }
