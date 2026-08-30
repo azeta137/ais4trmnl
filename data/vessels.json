@@ -1,206 +1,206 @@
 {
-  "updated_at": "2026-08-30T15:47:42Z",
-  "count": 3686,
+  "updated_at": "2026-08-30T16:07:51Z",
+  "count": 3615,
   "vessels": [
     {
-      "mmsi": "316014014",
-      "name": "TAKAYA",
-      "lat": 49.2863,
-      "lon": -123.1005,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-08-30 15:46:51.063191566 +0000 UTC"
-    },
-    {
-      "mmsi": "210588000",
-      "name": "LEDRA PRIDE",
-      "lat": 34.6452,
-      "lon": 33.018,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-08-30 15:47:01.427535888 +0000 UTC"
-    },
-    {
-      "mmsi": "601126900",
-      "name": "SEA EXPRESS",
-      "lat": -29.8681,
-      "lon": 31.0141,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-08-30 15:47:02.351017336 +0000 UTC"
-    },
-    {
-      "mmsi": "205545000",
-      "name": "VB PANDA",
-      "lat": 51.33,
-      "lon": 3.197,
+      "mmsi": "316046329",
+      "name": "PITT KNIGHT",
+      "lat": 49.2311,
+      "lon": -122.7712,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-30 15:47:13.586002417 +0000 UTC"
+      "last_update": "2026-08-30 16:06:57.737720865 +0000 UTC"
     },
     {
-      "mmsi": "235104009",
-      "name": "SALTHOLME",
-      "lat": 54.5843,
-      "lon": -1.2305,
+      "mmsi": "244010956",
+      "name": "P93",
+      "lat": 51.893,
+      "lon": 4.2306,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-30 15:47:16.806179821 +0000 UTC"
+      "last_update": "2026-08-30 16:07:21.995352084 +0000 UTC"
     },
     {
-      "mmsi": "256528000",
-      "name": "SAGITTA",
-      "lat": 40.5668,
-      "lon": 14.2394,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-30 15:47:22.457070985 +0000 UTC"
-    },
-    {
-      "mmsi": "428009088",
-      "name": "DANCHOR X",
-      "lat": 32.8211,
-      "lon": 35.0071,
+      "mmsi": "271000677",
+      "name": "VENTO DI MELTEMI",
+      "lat": 41.1928,
+      "lon": -8.6865,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-08-30 15:47:26.115585055 +0000 UTC"
+      "last_update": "2026-08-30 16:07:22.024850635 +0000 UTC"
     },
     {
-      "mmsi": "367434210",
-      "name": "FIORELLO LAGUARDIA",
-      "lat": 40.7715,
-      "lon": -74.0118,
+      "mmsi": "319067100",
+      "name": "WINWIN",
+      "lat": 39.4887,
+      "lon": 2.4768,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-08-30 16:07:32.192154905 +0000 UTC"
+    },
+    {
+      "mmsi": "235113676",
+      "name": "NSL EXCALIBUR",
+      "lat": 53.3222,
+      "lon": -3.262,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-30 15:47:31.984772686 +0000 UTC"
+      "last_update": "2026-08-30 16:07:36.030171836 +0000 UTC"
     },
     {
-      "mmsi": "259046050",
-      "name": "FREMAD",
-      "lat": 66.373,
-      "lon": 12.361,
+      "mmsi": "367482250",
+      "name": "JERSEY",
+      "lat": 40.7714,
+      "lon": -74.0125,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-30 15:47:36.47818111 +0000 UTC"
+      "last_update": "2026-08-30 16:07:42.358714909 +0000 UTC"
     },
     {
-      "mmsi": "369493666",
-      "name": "CG45666",
-      "lat": 41.1673,
-      "lon": -73.06,
-      "sog": 37.7,
-      "cog": 53.5,
+      "mmsi": "240317000",
+      "name": "SUPERSPEED JET 4",
+      "lat": 37.7906,
+      "lon": 23.6888,
+      "sog": 36,
+      "cog": 331.4,
       "nav_status": 0,
-      "last_update": "2026-08-30 15:47:29.909490453 +0000 UTC"
+      "last_update": "2026-08-30 16:07:18.222114274 +0000 UTC"
     },
     {
-      "mmsi": "210052000",
-      "name": "EUROCHAMPION JET 2",
-      "lat": 37.7746,
-      "lon": 23.6998,
-      "sog": 35.8,
-      "cog": 334.2,
+      "mmsi": "209074000",
+      "name": "CHAMPION JET 2",
+      "lat": 37.3977,
+      "lon": 25.2866,
+      "sog": 35.6,
+      "cog": 184.4,
       "nav_status": 0,
-      "last_update": "2026-08-30 15:47:14.220218135 +0000 UTC"
+      "last_update": "2026-08-30 16:06:50.321879555 +0000 UTC"
     },
     {
-      "mmsi": "367101920",
-      "name": "GREY LADY",
-      "lat": 41.5534,
-      "lon": -70.2749,
-      "sog": 35.2,
-      "cog": 160,
+      "mmsi": "219236000",
+      "name": "FJORD FSTR",
+      "lat": 57.9451,
+      "lon": 8.6151,
+      "sog": 34.1,
+      "cog": 107.5,
       "nav_status": 0,
-      "last_update": "2026-08-30 15:47:11.442146532 +0000 UTC"
+      "last_update": "2026-08-30 16:07:17.12485174 +0000 UTC"
     },
     {
-      "mmsi": "368396226",
-      "name": "NANTUCKET_EXPRESS",
-      "lat": 41.5046,
-      "lon": -70.6489,
-      "sog": 34.7,
-      "cog": 102.4,
-      "nav_status": 15,
-      "last_update": "2026-08-30 15:47:08.947572404 +0000 UTC"
-    },
-    {
-      "mmsi": "224781000",
-      "name": "VOLCAN DE TAGORO",
-      "lat": 28.3655,
-      "lon": -15.8671,
-      "sog": 33.6,
-      "cog": 291,
-      "nav_status": 9,
-      "last_update": "2026-08-30 15:47:32.16192079 +0000 UTC"
-    },
-    {
-      "mmsi": "258999000",
-      "name": "FJORDBRIS",
-      "lat": 59.7701,
-      "lon": 5.6496,
-      "sog": 33,
-      "cog": 334.4,
-      "nav_status": 9,
-      "last_update": "2026-08-30 15:46:49.744129451 +0000 UTC"
-    },
-    {
-      "mmsi": "257952600",
-      "name": "KRISTIAN G.JEBSEN 2",
-      "lat": 60.4944,
-      "lon": 5.2247,
-      "sog": 32.8,
-      "cog": 297,
+      "mmsi": "257086180",
+      "name": "FJORDDRONNINGEN",
+      "lat": 69.2148,
+      "lon": 17.986,
+      "sog": 32.7,
+      "cog": 320.8,
       "nav_status": 0,
-      "last_update": "2026-08-30 15:46:44.969844065 +0000 UTC"
+      "last_update": "2026-08-30 16:06:59.565094402 +0000 UTC"
     },
     {
-      "mmsi": "219022903",
-      "name": "EXPRESS 3",
-      "lat": 56.1523,
-      "lon": 10.2927,
-      "sog": 32.8,
-      "cog": 122.8,
-      "nav_status": 9,
-      "last_update": "2026-08-30 15:47:30.934053274 +0000 UTC"
-    },
-    {
-      "mmsi": "210049000",
-      "name": "ELEANOR ROOSEVELT",
-      "lat": 38.8404,
-      "lon": 0.768,
-      "sog": 32.5,
-      "cog": 274.2,
+      "mmsi": "366965960",
+      "name": "JESSICA W",
+      "lat": 41.2975,
+      "lon": -72.0672,
+      "sog": 30.7,
+      "cog": 127.9,
       "nav_status": 0,
-      "last_update": "2026-08-30 15:47:24.047146698 +0000 UTC"
+      "last_update": "2026-08-30 16:07:19.147944295 +0000 UTC"
     },
     {
-      "mmsi": "367720690",
-      "name": "GREY LADY IV",
-      "lat": 41.4857,
-      "lon": -70.196,
-      "sog": 29.7,
-      "cog": 332.8,
+      "mmsi": "210977000",
+      "name": "TERA JET 2",
+      "lat": 37.9487,
+      "lon": 24.2958,
+      "sog": 30.6,
+      "cog": 281.3,
       "nav_status": 0,
-      "last_update": "2026-08-30 15:46:41.998781219 +0000 UTC"
+      "last_update": "2026-08-30 16:07:07.30937328 +0000 UTC"
     },
     {
-      "mmsi": "247070800",
-      "name": "CITTA' DI SORRENTO",
-      "lat": 40.5982,
-      "lon": 14.3163,
-      "sog": 29.5,
-      "cog": 187.7,
+      "mmsi": "258130000",
+      "name": "TYRVING",
+      "lat": 60.9705,
+      "lon": 5.0076,
+      "sog": 30.1,
+      "cog": 76.6,
       "nav_status": 0,
-      "last_update": "2026-08-30 15:46:57.25859416 +0000 UTC"
+      "last_update": "2026-08-30 16:07:38.830512976 +0000 UTC"
+    },
+    {
+      "mmsi": "247489400",
+      "name": "CLAUDIA MORACE",
+      "lat": 38.1619,
+      "lon": 15.5879,
+      "sog": 29.6,
+      "cog": 162.1,
+      "nav_status": 0,
+      "last_update": "2026-08-30 16:07:26.021384117 +0000 UTC"
+    },
+    {
+      "mmsi": "257058280",
+      "name": "ELSA LAULA RENBERG",
+      "lat": 66.9359,
+      "lon": 13.465,
+      "sog": 28.9,
+      "cog": 116.5,
+      "nav_status": 0,
+      "last_update": "2026-08-30 16:07:25.343314374 +0000 UTC"
+    },
+    {
+      "mmsi": "247050100",
+      "name": "ACAPULCO JET",
+      "lat": 40.776,
+      "lon": 14.0085,
+      "sog": 28.3,
+      "cog": 80.4,
+      "nav_status": 0,
+      "last_update": "2026-08-30 16:06:56.897800903 +0000 UTC"
+    },
+    {
+      "mmsi": "368087510",
+      "name": "JULIA LEIGH",
+      "lat": 41.427,
+      "lon": -71.2203,
+      "sog": 28.1,
+      "cog": 268.9,
+      "nav_status": 0,
+      "last_update": "2026-08-30 16:07:44.460145315 +0000 UTC"
+    },
+    {
+      "mmsi": "257089530",
+      "name": "LOS 135",
+      "lat": 59.2278,
+      "lon": 10.4982,
+      "sog": 28,
+      "cog": 187.9,
+      "nav_status": 0,
+      "last_update": "2026-08-30 16:07:33.260123714 +0000 UTC"
+    },
+    {
+      "mmsi": "247061200",
+      "name": "CELESTINA",
+      "lat": 40.772,
+      "lon": 14.0823,
+      "sog": 27.8,
+      "cog": 262,
+      "nav_status": 0,
+      "last_update": "2026-08-30 16:07:05.070147982 +0000 UTC"
+    },
+    {
+      "mmsi": "224836000",
+      "name": "VOLCAN DE TIRAJANA",
+      "lat": 27.9906,
+      "lon": -16.8084,
+      "sog": 27.7,
+      "cog": 93,
+      "nav_status": 0,
+      "last_update": "2026-08-30 16:07:44.062834225 +0000 UTC"
     }
   ]
 }
