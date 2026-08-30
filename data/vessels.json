@@ -1,26 +1,78 @@
 {
-  "updated_at": "2026-08-30T16:07:51Z",
-  "count": 3615,
+  "updated_at": "2026-08-30T16:27:45Z",
+  "count": 3685,
   "vessels": [
     {
-      "mmsi": "316046329",
-      "name": "PITT KNIGHT",
-      "lat": 49.2311,
-      "lon": -122.7712,
+      "mmsi": "210588000",
+      "name": "LEDRA PRIDE",
+      "lat": 34.6452,
+      "lon": 33.018,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-30 16:06:57.737720865 +0000 UTC"
+      "nav_status": 8,
+      "last_update": "2026-08-30 16:26:42.566543354 +0000 UTC"
     },
     {
-      "mmsi": "244010956",
-      "name": "P93",
-      "lat": 51.893,
-      "lon": 4.2306,
+      "mmsi": "367482250",
+      "name": "JERSEY",
+      "lat": 40.7714,
+      "lon": -74.0126,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-30 16:07:21.995352084 +0000 UTC"
+      "last_update": "2026-08-30 16:26:42.932516331 +0000 UTC"
+    },
+    {
+      "mmsi": "235080649",
+      "name": "ONWARD N107",
+      "lat": 54.457,
+      "lon": -5.4374,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-08-30 16:26:47.096475203 +0000 UTC"
+    },
+    {
+      "mmsi": "235034368",
+      "name": "MULTI-SURVEY 4",
+      "lat": 51.9773,
+      "lon": 4.1219,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-30 16:26:47.348709395 +0000 UTC"
+    },
+    {
+      "mmsi": "227008170",
+      "name": "MOLENEZ",
+      "ship_type": 70,
+      "destination": "BREST",
+      "lat": 48.3816,
+      "lon": -4.4861,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-30 16:27:27.46023517 +0000 UTC"
+    },
+    {
+      "mmsi": "567002520",
+      "name": "NP CHUMPHON",
+      "lat": 13.6571,
+      "lon": 100.5684,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-30 16:26:59.161078416 +0000 UTC"
+    },
+    {
+      "mmsi": "271044493",
+      "name": "MIP- 3",
+      "lat": 36.7919,
+      "lon": 34.636,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-30 16:27:00.802945274 +0000 UTC"
     },
     {
       "mmsi": "271000677",
@@ -30,17 +82,17 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-08-30 16:07:22.024850635 +0000 UTC"
+      "last_update": "2026-08-30 16:27:05.845283693 +0000 UTC"
     },
     {
-      "mmsi": "319067100",
-      "name": "WINWIN",
-      "lat": 39.4887,
-      "lon": 2.4768,
+      "mmsi": "246445000",
+      "name": "KNRM-ALIES EN EVERT",
+      "lat": 53.174,
+      "lon": 4.8692,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-08-30 16:07:32.192154905 +0000 UTC"
+      "nav_status": 0,
+      "last_update": "2026-08-30 16:27:14.657331936 +0000 UTC"
     },
     {
       "mmsi": "235113676",
@@ -50,157 +102,107 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-30 16:07:36.030171836 +0000 UTC"
+      "last_update": "2026-08-30 16:27:15.256378905 +0000 UTC"
     },
     {
-      "mmsi": "367482250",
-      "name": "JERSEY",
-      "lat": 40.7714,
-      "lon": -74.0125,
+      "mmsi": "263701380",
+      "name": "FERNANDO NAMORA",
+      "lat": 38.6518,
+      "lon": -9.0808,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-08-30 16:27:25.344463315 +0000 UTC"
+    },
+    {
+      "mmsi": "319720000",
+      "name": "STARDUST",
+      "lat": 32.71,
+      "lon": -117.2336,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-30 16:07:42.358714909 +0000 UTC"
+      "last_update": "2026-08-30 16:27:28.519387677 +0000 UTC"
     },
     {
-      "mmsi": "240317000",
-      "name": "SUPERSPEED JET 4",
-      "lat": 37.7906,
-      "lon": 23.6888,
-      "sog": 36,
-      "cog": 331.4,
+      "mmsi": "367434210",
+      "name": "FIORELLO LAGUARDIA",
+      "lat": 40.7605,
+      "lon": -74.0041,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-30 16:07:18.222114274 +0000 UTC"
+      "last_update": "2026-08-30 16:27:32.42017764 +0000 UTC"
     },
     {
-      "mmsi": "209074000",
-      "name": "CHAMPION JET 2",
-      "lat": 37.3977,
-      "lon": 25.2866,
-      "sog": 35.6,
-      "cog": 184.4,
-      "nav_status": 0,
-      "last_update": "2026-08-30 16:06:50.321879555 +0000 UTC"
+      "mmsi": "261007705",
+      "name": "FAIRPLAY-83",
+      "lat": 53.9073,
+      "lon": 14.2599,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-30 16:27:34.307842377 +0000 UTC"
     },
     {
-      "mmsi": "219236000",
-      "name": "FJORD FSTR",
-      "lat": 57.9451,
-      "lon": 8.6151,
-      "sog": 34.1,
-      "cog": 107.5,
-      "nav_status": 0,
-      "last_update": "2026-08-30 16:07:17.12485174 +0000 UTC"
+      "mmsi": "259102000",
+      "name": "BIRGERSON",
+      "lat": 70.9803,
+      "lon": 25.9716,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 7,
+      "last_update": "2026-08-30 16:27:39.054897987 +0000 UTC"
     },
     {
-      "mmsi": "257086180",
-      "name": "FJORDDRONNINGEN",
-      "lat": 69.2148,
-      "lon": 17.986,
-      "sog": 32.7,
-      "cog": 320.8,
+      "mmsi": "268248302",
+      "name": "SEAGULL",
+      "lat": 55.0222,
+      "lon": 19.4118,
+      "sog": 102.2,
+      "cog": 345.5,
       "nav_status": 0,
-      "last_update": "2026-08-30 16:06:59.565094402 +0000 UTC"
+      "last_update": "2026-08-30 16:27:07.151501557 +0000 UTC"
     },
     {
-      "mmsi": "366965960",
-      "name": "JESSICA W",
-      "lat": 41.2975,
-      "lon": -72.0672,
-      "sog": 30.7,
-      "cog": 127.9,
+      "mmsi": "770576272",
+      "name": "FRANCISCO",
+      "lat": -34.6063,
+      "lon": -58.2369,
+      "sog": 46,
+      "cog": 279.4,
       "nav_status": 0,
-      "last_update": "2026-08-30 16:07:19.147944295 +0000 UTC"
+      "last_update": "2026-08-30 16:27:20.749342764 +0000 UTC"
     },
     {
-      "mmsi": "210977000",
-      "name": "TERA JET 2",
-      "lat": 37.9487,
-      "lon": 24.2958,
-      "sog": 30.6,
-      "cog": 281.3,
+      "mmsi": "271053065",
+      "name": "TAYYAR TUGAY",
+      "lat": 36.719,
+      "lon": 28.318,
+      "sog": 35.8,
+      "cog": 351,
       "nav_status": 0,
-      "last_update": "2026-08-30 16:07:07.30937328 +0000 UTC"
+      "last_update": "2026-08-30 16:27:08.798167635 +0000 UTC"
     },
     {
-      "mmsi": "258130000",
-      "name": "TYRVING",
-      "lat": 60.9705,
-      "lon": 5.0076,
-      "sog": 30.1,
-      "cog": 76.6,
-      "nav_status": 0,
-      "last_update": "2026-08-30 16:07:38.830512976 +0000 UTC"
+      "mmsi": "219705000",
+      "name": "EXPRESS 4",
+      "lat": 56.0556,
+      "lon": 10.5771,
+      "sog": 35.2,
+      "cog": 295.8,
+      "nav_status": 9,
+      "last_update": "2026-08-30 16:27:08.987860252 +0000 UTC"
     },
     {
-      "mmsi": "247489400",
-      "name": "CLAUDIA MORACE",
-      "lat": 38.1619,
-      "lon": 15.5879,
-      "sog": 29.6,
-      "cog": 162.1,
+      "mmsi": "244615779",
+      "name": "TIGER",
+      "lat": 53.2838,
+      "lon": 5.1658,
+      "sog": 34.4,
+      "cog": 9.6,
       "nav_status": 0,
-      "last_update": "2026-08-30 16:07:26.021384117 +0000 UTC"
-    },
-    {
-      "mmsi": "257058280",
-      "name": "ELSA LAULA RENBERG",
-      "lat": 66.9359,
-      "lon": 13.465,
-      "sog": 28.9,
-      "cog": 116.5,
-      "nav_status": 0,
-      "last_update": "2026-08-30 16:07:25.343314374 +0000 UTC"
-    },
-    {
-      "mmsi": "247050100",
-      "name": "ACAPULCO JET",
-      "lat": 40.776,
-      "lon": 14.0085,
-      "sog": 28.3,
-      "cog": 80.4,
-      "nav_status": 0,
-      "last_update": "2026-08-30 16:06:56.897800903 +0000 UTC"
-    },
-    {
-      "mmsi": "368087510",
-      "name": "JULIA LEIGH",
-      "lat": 41.427,
-      "lon": -71.2203,
-      "sog": 28.1,
-      "cog": 268.9,
-      "nav_status": 0,
-      "last_update": "2026-08-30 16:07:44.460145315 +0000 UTC"
-    },
-    {
-      "mmsi": "257089530",
-      "name": "LOS 135",
-      "lat": 59.2278,
-      "lon": 10.4982,
-      "sog": 28,
-      "cog": 187.9,
-      "nav_status": 0,
-      "last_update": "2026-08-30 16:07:33.260123714 +0000 UTC"
-    },
-    {
-      "mmsi": "247061200",
-      "name": "CELESTINA",
-      "lat": 40.772,
-      "lon": 14.0823,
-      "sog": 27.8,
-      "cog": 262,
-      "nav_status": 0,
-      "last_update": "2026-08-30 16:07:05.070147982 +0000 UTC"
-    },
-    {
-      "mmsi": "224836000",
-      "name": "VOLCAN DE TIRAJANA",
-      "lat": 27.9906,
-      "lon": -16.8084,
-      "sog": 27.7,
-      "cog": 93,
-      "nav_status": 0,
-      "last_update": "2026-08-30 16:07:44.062834225 +0000 UTC"
+      "last_update": "2026-08-30 16:26:49.32399974 +0000 UTC"
     }
   ]
 }
