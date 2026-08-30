@@ -1,76 +1,66 @@
 {
-  "updated_at": "2026-08-30T09:47:49Z",
-  "count": 3515,
+  "updated_at": "2026-08-30T10:07:52Z",
+  "count": 3558,
   "vessels": [
     {
-      "mmsi": "525110616",
-      "name": "BMU 001",
-      "lat": -2.0607,
-      "lon": 104.9964,
+      "mmsi": "244010956",
+      "name": "P93",
+      "lat": 51.9589,
+      "lon": 4.1243,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-08-30 09:47:07.002604279 +0000 UTC"
+      "nav_status": 0,
+      "last_update": "2026-08-30 10:06:51.399255572 +0000 UTC"
     },
     {
-      "mmsi": "352002481",
-      "name": "BARU SIERRA NEVADA",
-      "lat": -22.8486,
-      "lon": -43.1298,
+      "mmsi": "367388530",
+      "name": "FT BRAGG",
+      "lat": 43.0793,
+      "lon": -70.7573,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-08-30 09:47:09.712799508 +0000 UTC"
+      "nav_status": 5,
+      "last_update": "2026-08-30 10:06:53.896866566 +0000 UTC"
+    },
+    {
+      "mmsi": "273844800",
+      "name": "LLV KAPRODON",
+      "lat": 69.9126,
+      "lon": 32.7494,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-30 10:06:59.832004796 +0000 UTC"
+    },
+    {
+      "mmsi": "257070800",
+      "name": "ALEA OF LOFOTEN",
+      "lat": 68.2554,
+      "lon": 14.7913,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-30 10:07:06.31994273 +0000 UTC"
+    },
+    {
+      "mmsi": "319720000",
+      "name": "STARDUST",
+      "lat": 32.7101,
+      "lon": -117.2336,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-30 10:07:07.730990346 +0000 UTC"
     },
     {
       "mmsi": "245382000",
       "name": "KNRM-FRED",
-      "lat": 51.6217,
-      "lon": 3.6878,
+      "lat": 51.6216,
+      "lon": 3.6879,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-30 09:47:12.022564782 +0000 UTC"
-    },
-    {
-      "mmsi": "244810627",
-      "name": "WR40 ANNA CAROLA",
-      "lat": 53.4446,
-      "lon": 6.8271,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 7,
-      "last_update": "2026-08-30 09:47:15.657178416 +0000 UTC"
-    },
-    {
-      "mmsi": "244010956",
-      "name": "P93",
-      "lat": 51.9601,
-      "lon": 4.1237,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-30 09:47:20.606169255 +0000 UTC"
-    },
-    {
-      "mmsi": "503000080",
-      "name": "MANNING",
-      "lat": -33.8683,
-      "lon": 151.222,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-30 09:47:21.231138838 +0000 UTC"
-    },
-    {
-      "mmsi": "235070403",
-      "name": "WINDCAT 14",
-      "lat": 57.1435,
-      "lon": -2.0902,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-30 09:47:31.749400938 +0000 UTC"
+      "last_update": "2026-08-30 10:07:11.499087903 +0000 UTC"
     },
     {
       "mmsi": "235113676",
@@ -80,127 +70,137 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-30 09:47:36.355610676 +0000 UTC"
+      "last_update": "2026-08-30 10:07:15.441954676 +0000 UTC"
+    },
+    {
+      "mmsi": "271044493",
+      "name": "MIP- 3",
+      "lat": 36.7919,
+      "lon": 34.636,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-30 10:07:19.853251677 +0000 UTC"
+    },
+    {
+      "mmsi": "352002481",
+      "name": "BARU SIERRA NEVADA",
+      "lat": -22.8486,
+      "lon": -43.1298,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 1,
+      "last_update": "2026-08-30 10:07:20.599733146 +0000 UTC"
+    },
+    {
+      "mmsi": "210588000",
+      "name": "LEDRA PRIDE",
+      "lat": 34.6452,
+      "lon": 33.018,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-08-30 10:07:30.414503119 +0000 UTC"
+    },
+    {
+      "mmsi": "367434210",
+      "name": "FIORELLO LAGUARDIA",
+      "lat": 40.7713,
+      "lon": -74.0123,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-30 10:07:31.82908818 +0000 UTC"
+    },
+    {
+      "mmsi": "244810627",
+      "name": "WR40 ANNA CAROLA",
+      "lat": 53.4446,
+      "lon": 6.8271,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 7,
+      "last_update": "2026-08-30 10:07:35.42991794 +0000 UTC"
+    },
+    {
+      "mmsi": "375369000",
+      "name": "ZAYYAN K",
+      "lat": 31.8175,
+      "lon": 34.6172,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 1,
+      "last_update": "2026-08-30 10:07:37.593834588 +0000 UTC"
+    },
+    {
+      "mmsi": "244108000",
+      "name": "ZK46 ZEEMEEUW",
+      "lat": 53.4099,
+      "lon": 6.2069,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-30 10:07:42.29988645 +0000 UTC"
     },
     {
       "mmsi": "271000677",
       "name": "VENTO DI MELTEMI",
-      "lat": 41.1444,
-      "lon": -8.7633,
+      "lat": 41.1442,
+      "lon": -8.7635,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 1,
-      "last_update": "2026-08-30 09:47:36.809754507 +0000 UTC"
+      "last_update": "2026-08-30 10:07:46.995986756 +0000 UTC"
     },
     {
-      "mmsi": "235104009",
-      "name": "SALTHOLME",
-      "lat": 54.5843,
-      "lon": -1.2305,
-      "sog": 102.3,
-      "cog": 360,
+      "mmsi": "219705000",
+      "name": "EXPRESS 4",
+      "lat": 56.0624,
+      "lon": 10.5481,
+      "sog": 34.2,
+      "cog": 113.9,
+      "nav_status": 9,
+      "last_update": "2026-08-30 10:07:19.414321233 +0000 UTC"
+    },
+    {
+      "mmsi": "224984000",
+      "name": "VOLCAN DE TAIDIA",
+      "lat": 28.2525,
+      "lon": -15.6018,
+      "sog": 33.6,
+      "cog": 109.7,
       "nav_status": 0,
-      "last_update": "2026-08-30 09:47:37.210260146 +0000 UTC"
+      "last_update": "2026-08-30 10:07:18.433915378 +0000 UTC"
     },
     {
-      "mmsi": "211337780",
-      "name": "ATALANTA",
-      "lat": 53.8992,
-      "lon": 11.4571,
-      "sog": 102.3,
-      "cog": 360,
+      "mmsi": "219022903",
+      "name": "EXPRESS 3",
+      "lat": 56.002,
+      "lon": 11.0459,
+      "sog": 33.2,
+      "cog": 286.9,
+      "nav_status": 9,
+      "last_update": "2026-08-30 10:07:05.108660477 +0000 UTC"
+    },
+    {
+      "mmsi": "240931000",
+      "name": "SUPERRUNNER JET",
+      "lat": 37.9525,
+      "lon": 24.2979,
+      "sog": 31.6,
+      "cog": 282.3,
       "nav_status": 0,
-      "last_update": "2026-08-30 09:47:38.342018437 +0000 UTC"
+      "last_update": "2026-08-30 10:07:44.228772626 +0000 UTC"
     },
     {
-      "mmsi": "259102000",
-      "name": "BIRGERSON",
-      "lat": 70.9803,
-      "lon": 25.9716,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 7,
-      "last_update": "2026-08-30 09:47:39.612723895 +0000 UTC"
-    },
-    {
-      "mmsi": "212859000",
-      "name": "MERCEDES PINTO",
-      "lat": 28.1016,
-      "lon": -14.8729,
-      "sog": 32.7,
-      "cog": 274.2,
+      "mmsi": "224131000",
+      "name": "BAJAMAR EXPRESS",
+      "lat": 28.3076,
+      "lon": -15.9972,
+      "sog": 31.4,
+      "cog": 310,
       "nav_status": 0,
-      "last_update": "2026-08-30 09:47:09.413963358 +0000 UTC"
-    },
-    {
-      "mmsi": "237247600",
-      "name": "F/D ATHINA",
-      "lat": 37.775,
-      "lon": 23.4323,
-      "sog": 32.2,
-      "cog": 239,
-      "nav_status": 0,
-      "last_update": "2026-08-30 09:47:37.097265034 +0000 UTC"
-    },
-    {
-      "mmsi": "235056987",
-      "name": "AURORA CLIPPER",
-      "lat": 51.4966,
-      "lon": 0.0295,
-      "sog": 28.1,
-      "cog": 106.2,
-      "nav_status": 0,
-      "last_update": "2026-08-30 09:47:01.245969709 +0000 UTC"
-    },
-    {
-      "mmsi": "235115154",
-      "name": "ELIMINATOR",
-      "lat": 51.5015,
-      "lon": -0.0608,
-      "sog": 27.4,
-      "cog": 95.2,
-      "nav_status": 15,
-      "last_update": "2026-08-30 09:47:15.259351693 +0000 UTC"
-    },
-    {
-      "mmsi": "265733470",
-      "name": "RESCUE ALEXANDRA",
-      "lat": 59.434,
-      "lon": 18.6647,
-      "sog": 27.4,
-      "cog": 55.3,
-      "nav_status": 15,
-      "last_update": "2026-08-30 09:47:41.687309952 +0000 UTC"
-    },
-    {
-      "mmsi": "230995040",
-      "name": "RESCUE LAHITAPIOLAVS",
-      "lat": 60.4892,
-      "lon": 21.8181,
-      "sog": 27.3,
-      "cog": 41.7,
-      "nav_status": 0,
-      "last_update": "2026-08-30 09:47:15.338983416 +0000 UTC"
-    },
-    {
-      "mmsi": "258306500",
-      "name": "BARONEN",
-      "lat": 59.8961,
-      "lon": 10.6981,
-      "sog": 27.1,
-      "cog": 60.7,
-      "nav_status": 0,
-      "last_update": "2026-08-30 09:46:49.451391977 +0000 UTC"
-    },
-    {
-      "mmsi": "266445000",
-      "name": "VISBY",
-      "lat": 58.8136,
-      "lon": 18.0668,
-      "sog": 26.8,
-      "cog": 169.3,
-      "nav_status": 0,
-      "last_update": "2026-08-30 09:47:46.191384227 +0000 UTC"
+      "last_update": "2026-08-30 10:06:54.666279089 +0000 UTC"
     }
   ]
 }
