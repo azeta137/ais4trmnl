@@ -1,36 +1,36 @@
 {
-  "updated_at": "2026-08-30T05:27:39Z",
-  "count": 3922,
+  "updated_at": "2026-08-30T05:47:35Z",
+  "count": 3804,
   "vessels": [
     {
-      "mmsi": "235104009",
-      "name": "SALTHOLME",
-      "lat": 54.5843,
-      "lon": -1.2305,
+      "mmsi": "258230000",
+      "name": "FROEYTRANS",
+      "lat": 63.6385,
+      "lon": 8.8043,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-30 05:26:37.140400265 +0000 UTC"
+      "last_update": "2026-08-30 05:46:46.406404815 +0000 UTC"
     },
     {
-      "mmsi": "211270850",
-      "name": "PIONIER",
-      "lat": 53.677,
-      "lon": 7.5736,
+      "mmsi": "245382000",
+      "name": "KNRM-FRED",
+      "lat": 51.6218,
+      "lon": 3.6878,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-30 05:26:39.860936794 +0000 UTC"
+      "last_update": "2026-08-30 05:46:51.881694473 +0000 UTC"
     },
     {
-      "mmsi": "257863000",
-      "name": "ROSESUND",
-      "lat": 60.3838,
-      "lon": 5.3128,
+      "mmsi": "503000080",
+      "name": "MANNING",
+      "lat": -33.8683,
+      "lon": 151.222,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-08-30 05:26:44.374415181 +0000 UTC"
+      "last_update": "2026-08-30 05:47:15.006006833 +0000 UTC"
     },
     {
       "mmsi": "261007705",
@@ -40,67 +40,27 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-08-30 05:26:45.74929759 +0000 UTC"
+      "last_update": "2026-08-30 05:47:25.484043201 +0000 UTC"
     },
     {
-      "mmsi": "271000677",
-      "name": "VENTO DI MELTEMI",
-      "lat": 41.1459,
-      "lon": -8.7635,
+      "mmsi": "244120000",
+      "name": "ANTEOS",
+      "lat": 52.0991,
+      "lon": 4.2626,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-08-30 05:26:47.245347937 +0000 UTC"
+      "nav_status": 5,
+      "last_update": "2026-08-30 05:47:27.553034061 +0000 UTC"
     },
     {
-      "mmsi": "601126900",
-      "name": "SEA EXPRESS",
-      "lat": -29.8681,
-      "lon": 31.0141,
+      "mmsi": "235070403",
+      "name": "WINDCAT 14",
+      "lat": 57.1435,
+      "lon": -2.0902,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-08-30 05:27:03.646624299 +0000 UTC"
-    },
-    {
-      "mmsi": "235113676",
-      "name": "NSL EXCALIBUR",
-      "lat": 53.3222,
-      "lon": -3.262,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-30 05:26:56.170559937 +0000 UTC"
-    },
-    {
-      "mmsi": "246445000",
-      "name": "KNRM-ALIES EN EVERT",
-      "lat": 53.174,
-      "lon": 4.8691,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-30 05:27:04.574434739 +0000 UTC"
-    },
-    {
-      "mmsi": "259028270",
-      "name": "MAROSUND",
-      "lat": 70.8567,
-      "lon": 27.2329,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-30 05:27:05.388689729 +0000 UTC"
-    },
-    {
-      "mmsi": "211337780",
-      "name": "ATALANTA",
-      "lat": 53.8992,
-      "lon": 11.4571,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-30 05:27:18.587994916 +0000 UTC"
+      "nav_status": 5,
+      "last_update": "2026-08-30 05:47:28.368606353 +0000 UTC"
     },
     {
       "mmsi": "244108000",
@@ -110,97 +70,141 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-30 05:27:21.741404415 +0000 UTC"
+      "last_update": "2026-08-30 05:47:31.192694129 +0000 UTC"
     },
     {
-      "mmsi": "273437720",
-      "name": "VOLGO-DON 185",
-      "lat": 0,
-      "lon": 0,
-      "sog": 102.3,
-      "cog": 360,
+      "mmsi": "247489500",
+      "name": "PIERO SANGIOVANNI",
+      "lat": 37.9542,
+      "lon": 12.3612,
+      "sog": 32.3,
+      "cog": 60.4,
       "nav_status": 0,
-      "last_update": "2026-08-30 05:27:28.17487315 +0000 UTC"
+      "last_update": "2026-08-30 05:46:49.041596469 +0000 UTC"
     },
     {
-      "mmsi": "428067000",
-      "name": "BAT GALIM",
-      "lat": 32.8202,
-      "lon": 35.0073,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-30 05:27:29.323624133 +0000 UTC"
-    },
-    {
-      "mmsi": "477221200",
-      "name": "OOCL WISDOM",
-      "lat": 54.877,
-      "lon": 18.7314,
-      "sog": 92.6,
-      "cog": 126.4,
+      "mmsi": "241804000",
+      "name": "AERO 3 HIGHSPEED",
+      "lat": 37.8828,
+      "lon": 23.5655,
+      "sog": 29.9,
+      "cog": 215,
       "nav_status": 0,
-      "last_update": "2026-08-30 05:27:29.425409447 +0000 UTC"
+      "last_update": "2026-08-30 05:47:16.537050105 +0000 UTC",
+      "ship_type": 49,
+      "destination": "SARONIKOS"
     },
     {
-      "mmsi": "273295620",
-      "name": "SERGEY LVOV",
-      "lat": 55.0869,
-      "lon": 19.7357,
-      "sog": 53.6,
-      "cog": 73,
+      "mmsi": "503053460",
+      "name": "PILOT VESSEL TAKOKO",
+      "lat": -23.8731,
+      "lon": 151.3471,
+      "sog": 28.6,
+      "cog": 128.3,
       "nav_status": 0,
-      "last_update": "2026-08-30 05:27:05.891768824 +0000 UTC"
+      "last_update": "2026-08-30 05:46:45.797582791 +0000 UTC"
     },
     {
-      "mmsi": "244730477",
-      "name": "",
-      "lat": 30.9528,
-      "lon": 64.5359,
-      "sog": 51.2,
-      "cog": 369.4,
-      "nav_status": 4,
-      "last_update": "2026-08-30 05:27:24.298767939 +0000 UTC"
-    },
-    {
-      "mmsi": "253751000",
-      "name": "CONNECTOR",
-      "lat": 55.0849,
-      "lon": 19.7407,
-      "sog": 46.3,
-      "cog": 146.8,
+      "mmsi": "241802000",
+      "name": "AERO 1 HIGHSPEED",
+      "lat": 37.8917,
+      "lon": 23.6048,
+      "sog": 27.6,
+      "cog": 191.1,
       "nav_status": 0,
-      "last_update": "2026-08-30 05:27:22.7510984 +0000 UTC"
+      "last_update": "2026-08-30 05:46:46.565244184 +0000 UTC"
     },
     {
-      "mmsi": "239658000",
-      "name": "HYPERSPEED JET 4",
-      "lat": 37.6409,
-      "lon": 23.7506,
-      "sog": 36.1,
-      "cog": 131,
+      "mmsi": "266445000",
+      "name": "VISBY",
+      "lat": 57.8323,
+      "lon": 18.236,
+      "sog": 27.4,
+      "cog": 356.3,
       "nav_status": 0,
-      "last_update": "2026-08-30 05:27:17.774767525 +0000 UTC"
+      "last_update": "2026-08-30 05:47:06.035417709 +0000 UTC"
     },
     {
-      "mmsi": "477937300",
-      "name": "THE COTAI STRIP EXPO",
-      "lat": 22.29,
-      "lon": 114.1235,
-      "sog": 34.3,
-      "cog": 83.4,
-      "nav_status": 9,
-      "last_update": "2026-08-30 05:26:41.022985809 +0000 UTC"
-    },
-    {
-      "mmsi": "247058800",
-      "name": "SNAV ALTAIR",
-      "lat": 40.7998,
-      "lon": 14.2813,
-      "sog": 28.8,
-      "cog": 9.6,
+      "mmsi": "368063440",
+      "name": "CARINA",
+      "lat": 37.7851,
+      "lon": -122.3666,
+      "sog": 26.3,
+      "cog": 59.7,
       "nav_status": 0,
-      "last_update": "2026-08-30 05:27:14.167277259 +0000 UTC"
+      "last_update": "2026-08-30 05:46:54.309877482 +0000 UTC"
+    },
+    {
+      "mmsi": "247540000",
+      "name": "SUPER JET",
+      "lat": 40.7834,
+      "lon": 14.3012,
+      "sog": 26.1,
+      "cog": 337.2,
+      "nav_status": 0,
+      "last_update": "2026-08-30 05:46:54.797036889 +0000 UTC",
+      "ship_type": 69,
+      "destination": "ITNAP ITRRO ITPOS"
+    },
+    {
+      "mmsi": "368151810",
+      "name": "ENETAI",
+      "lat": 47.5802,
+      "lon": -122.4261,
+      "sog": 25.8,
+      "cog": 36,
+      "nav_status": 0,
+      "last_update": "2026-08-30 05:47:31.537010746 +0000 UTC"
+    },
+    {
+      "mmsi": "244000369",
+      "name": "HIDDEBORG",
+      "lat": 53.3925,
+      "lon": 5.8626,
+      "sog": 24.1,
+      "cog": 71.7,
+      "nav_status": 0,
+      "last_update": "2026-08-30 05:47:13.337063347 +0000 UTC"
+    },
+    {
+      "mmsi": "431301698",
+      "name": "HIMAWARI NO.5",
+      "lat": 33.2737,
+      "lon": 135.3433,
+      "sog": 22.6,
+      "cog": 74,
+      "nav_status": 0,
+      "last_update": "2026-08-30 05:47:20.426630222 +0000 UTC"
+    },
+    {
+      "mmsi": "431200688",
+      "name": "TOYOFUKUMARU",
+      "lat": 34.2267,
+      "lon": 134.9625,
+      "sog": 22.3,
+      "cog": 192,
+      "nav_status": 0,
+      "last_update": "2026-08-30 05:47:23.253880493 +0000 UTC"
+    },
+    {
+      "mmsi": "219026706",
+      "name": "DANPILOT QUEBEC",
+      "lat": 57.7641,
+      "lon": 10.7556,
+      "sog": 20.7,
+      "cog": 56,
+      "nav_status": 0,
+      "last_update": "2026-08-30 05:47:04.244041781 +0000 UTC"
+    },
+    {
+      "mmsi": "219347000",
+      "name": "STAVANGERFJORD",
+      "lat": 59.0254,
+      "lon": 5.5498,
+      "sog": 20.7,
+      "cog": 0,
+      "nav_status": 0,
+      "last_update": "2026-08-30 05:47:31.001586124 +0000 UTC"
     }
   ]
 }
