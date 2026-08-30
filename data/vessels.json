@@ -1,68 +1,26 @@
 {
-  "updated_at": "2026-08-30T16:27:45Z",
-  "count": 3685,
+  "updated_at": "2026-08-30T16:48:03Z",
+  "count": 3584,
   "vessels": [
     {
-      "mmsi": "210588000",
-      "name": "LEDRA PRIDE",
-      "lat": 34.6452,
-      "lon": 33.018,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-08-30 16:26:42.566543354 +0000 UTC"
-    },
-    {
-      "mmsi": "367482250",
-      "name": "JERSEY",
-      "lat": 40.7714,
-      "lon": -74.0126,
+      "mmsi": "244010956",
+      "name": "P93",
+      "lat": 51.893,
+      "lon": 4.2306,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-30 16:26:42.932516331 +0000 UTC"
+      "last_update": "2026-08-30 16:46:51.034885032 +0000 UTC"
     },
     {
-      "mmsi": "235080649",
-      "name": "ONWARD N107",
-      "lat": 54.457,
-      "lon": -5.4374,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-08-30 16:26:47.096475203 +0000 UTC"
-    },
-    {
-      "mmsi": "235034368",
-      "name": "MULTI-SURVEY 4",
-      "lat": 51.9773,
-      "lon": 4.1219,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-30 16:26:47.348709395 +0000 UTC"
-    },
-    {
-      "mmsi": "227008170",
-      "name": "MOLENEZ",
-      "ship_type": 70,
-      "destination": "BREST",
-      "lat": 48.3816,
-      "lon": -4.4861,
+      "mmsi": "244374235",
+      "name": "NT 11 WATERTRAPPER",
+      "lat": 52.3996,
+      "lon": 4.8999,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-08-30 16:27:27.46023517 +0000 UTC"
-    },
-    {
-      "mmsi": "567002520",
-      "name": "NP CHUMPHON",
-      "lat": 13.6571,
-      "lon": 100.5684,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-30 16:26:59.161078416 +0000 UTC"
+      "last_update": "2026-08-30 16:47:05.799452988 +0000 UTC"
     },
     {
       "mmsi": "271044493",
@@ -72,37 +30,27 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-30 16:27:00.802945274 +0000 UTC"
+      "last_update": "2026-08-30 16:47:09.916602267 +0000 UTC"
     },
     {
-      "mmsi": "271000677",
-      "name": "VENTO DI MELTEMI",
-      "lat": 41.1928,
-      "lon": -8.6865,
+      "mmsi": "258062500",
+      "name": "PERLEN",
+      "lat": 68.5669,
+      "lon": 14.9146,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-08-30 16:27:05.845283693 +0000 UTC"
+      "last_update": "2026-08-30 16:47:10.489588507 +0000 UTC"
     },
     {
-      "mmsi": "246445000",
-      "name": "KNRM-ALIES EN EVERT",
-      "lat": 53.174,
-      "lon": 4.8692,
+      "mmsi": "235034368",
+      "name": "MULTI-SURVEY 4",
+      "lat": 51.9773,
+      "lon": 4.1219,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-30 16:27:14.657331936 +0000 UTC"
-    },
-    {
-      "mmsi": "235113676",
-      "name": "NSL EXCALIBUR",
-      "lat": 53.3222,
-      "lon": -3.262,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-30 16:27:15.256378905 +0000 UTC"
+      "last_update": "2026-08-30 16:47:16.815485055 +0000 UTC"
     },
     {
       "mmsi": "263701380",
@@ -112,97 +60,147 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 8,
-      "last_update": "2026-08-30 16:27:25.344463315 +0000 UTC"
+      "last_update": "2026-08-30 16:47:25.562593775 +0000 UTC"
     },
     {
-      "mmsi": "319720000",
-      "name": "STARDUST",
-      "lat": 32.71,
-      "lon": -117.2336,
+      "mmsi": "316046329",
+      "name": "PITT KNIGHT",
+      "lat": 49.2312,
+      "lon": -122.7714,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-30 16:27:28.519387677 +0000 UTC"
+      "last_update": "2026-08-30 16:47:26.330083258 +0000 UTC"
     },
     {
-      "mmsi": "367434210",
-      "name": "FIORELLO LAGUARDIA",
-      "lat": 40.7605,
-      "lon": -74.0041,
+      "mmsi": "211337780",
+      "name": "ATALANTA",
+      "lat": 53.8992,
+      "lon": 11.4571,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-30 16:27:32.42017764 +0000 UTC"
+      "last_update": "2026-08-30 16:47:27.604987724 +0000 UTC"
     },
     {
-      "mmsi": "261007705",
-      "name": "FAIRPLAY-83",
-      "lat": 53.9073,
-      "lon": 14.2599,
+      "mmsi": "428009088",
+      "name": "DANCHOR X",
+      "lat": 32.8211,
+      "lon": 35.0071,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-08-30 16:27:34.307842377 +0000 UTC"
+      "last_update": "2026-08-30 16:47:34.760983488 +0000 UTC"
     },
     {
-      "mmsi": "259102000",
-      "name": "BIRGERSON",
-      "lat": 70.9803,
-      "lon": 25.9716,
+      "mmsi": "567002520",
+      "name": "NP CHUMPHON",
+      "lat": 13.6571,
+      "lon": 100.5684,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 7,
-      "last_update": "2026-08-30 16:27:39.054897987 +0000 UTC"
-    },
-    {
-      "mmsi": "268248302",
-      "name": "SEAGULL",
-      "lat": 55.0222,
-      "lon": 19.4118,
-      "sog": 102.2,
-      "cog": 345.5,
       "nav_status": 0,
-      "last_update": "2026-08-30 16:27:07.151501557 +0000 UTC"
+      "last_update": "2026-08-30 16:47:39.899667799 +0000 UTC"
     },
     {
-      "mmsi": "770576272",
-      "name": "FRANCISCO",
-      "lat": -34.6063,
-      "lon": -58.2369,
-      "sog": 46,
-      "cog": 279.4,
+      "mmsi": "257863000",
+      "name": "ROSESUND",
+      "lat": 60.3838,
+      "lon": 5.3128,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-30 16:47:42.881613365 +0000 UTC"
+    },
+    {
+      "mmsi": "367447520",
+      "name": "SALACIA",
+      "lat": 42.3168,
+      "lon": -70.8645,
+      "sog": 33.6,
+      "cog": 290.2,
       "nav_status": 0,
-      "last_update": "2026-08-30 16:27:20.749342764 +0000 UTC"
+      "last_update": "2026-08-30 16:47:39.776892087 +0000 UTC"
     },
     {
-      "mmsi": "271053065",
-      "name": "TAYYAR TUGAY",
-      "lat": 36.719,
-      "lon": 28.318,
-      "sog": 35.8,
-      "cog": 351,
+      "mmsi": "338554202",
+      "name": "VBPD 187",
+      "lat": 37.0321,
+      "lon": -76.088,
+      "sog": 33.2,
+      "cog": 21.7,
+      "nav_status": 15,
+      "last_update": "2026-08-30 16:47:14.899253571 +0000 UTC"
+    },
+    {
+      "mmsi": "247132200",
+      "name": "SNAV RIGEL",
+      "lat": 40.9599,
+      "lon": 13.0786,
+      "sog": 32.7,
+      "cog": 233,
       "nav_status": 0,
-      "last_update": "2026-08-30 16:27:08.798167635 +0000 UTC"
+      "last_update": "2026-08-30 16:47:49.225510187 +0000 UTC"
     },
     {
-      "mmsi": "219705000",
-      "name": "EXPRESS 4",
-      "lat": 56.0556,
-      "lon": 10.5771,
-      "sog": 35.2,
-      "cog": 295.8,
+      "mmsi": "258999000",
+      "name": "FJORDBRIS",
+      "lat": 59.8096,
+      "lon": 5.3001,
+      "sog": 32.4,
+      "cog": 304.6,
       "nav_status": 9,
-      "last_update": "2026-08-30 16:27:08.987860252 +0000 UTC"
+      "last_update": "2026-08-30 16:46:56.730915053 +0000 UTC"
     },
     {
-      "mmsi": "244615779",
-      "name": "TIGER",
-      "lat": 53.2838,
-      "lon": 5.1658,
-      "sog": 34.4,
-      "cog": 9.6,
+      "mmsi": "232020612",
+      "name": "ROCKET SCIENCE",
+      "lat": 51.5026,
+      "lon": -0.0639,
+      "sog": 32.1,
+      "cog": 260,
       "nav_status": 0,
-      "last_update": "2026-08-30 16:26:49.32399974 +0000 UTC"
+      "last_update": "2026-08-30 16:47:38.487027302 +0000 UTC"
+    },
+    {
+      "mmsi": "369990159",
+      "name": "CG29159",
+      "lat": 37.8134,
+      "lon": -122.407,
+      "sog": 32.1,
+      "cog": 278.9,
+      "nav_status": 0,
+      "last_update": "2026-08-30 16:47:46.734675369 +0000 UTC"
+    },
+    {
+      "mmsi": "338519000",
+      "name": "SWIFTSURE",
+      "lat": 47.7487,
+      "lon": -122.4292,
+      "sog": 31.9,
+      "cog": 203,
+      "nav_status": 0,
+      "last_update": "2026-08-30 16:47:17.87427774 +0000 UTC"
+    },
+    {
+      "mmsi": "237247600",
+      "name": "F/D ATHINA",
+      "lat": 37.905,
+      "lon": 23.5318,
+      "sog": 30.2,
+      "cog": 50,
+      "nav_status": 0,
+      "last_update": "2026-08-30 16:46:54.024591199 +0000 UTC"
+    },
+    {
+      "mmsi": "244690006",
+      "name": "MEANDER WATERHULPDST",
+      "lat": 52.338,
+      "lon": 5.1243,
+      "sog": 30,
+      "cog": 321.8,
+      "nav_status": 0,
+      "last_update": "2026-08-30 16:47:22.849641367 +0000 UTC"
     }
   ]
 }
