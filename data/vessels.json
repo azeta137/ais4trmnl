@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-30T05:07:57Z",
-  "count": 3824,
+  "updated_at": "2026-08-30T05:27:39Z",
+  "count": 3922,
   "vessels": [
     {
       "mmsi": "235104009",
@@ -10,7 +10,7 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-30 05:06:46.646549731 +0000 UTC"
+      "last_update": "2026-08-30 05:26:37.140400265 +0000 UTC"
     },
     {
       "mmsi": "211270850",
@@ -20,87 +20,87 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-30 05:06:49.755296886 +0000 UTC"
+      "last_update": "2026-08-30 05:26:39.860936794 +0000 UTC"
     },
     {
-      "mmsi": "367388530",
-      "name": "FT BRAGG",
-      "lat": 43.0792,
-      "lon": -70.7572,
+      "mmsi": "257863000",
+      "name": "ROSESUND",
+      "lat": 60.3838,
+      "lon": 5.3128,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-08-30 05:06:52.746708096 +0000 UTC"
+      "last_update": "2026-08-30 05:26:44.374415181 +0000 UTC"
     },
     {
-      "mmsi": "219385000",
-      "name": "BJOERNSHOLM",
-      "lat": 55.7127,
-      "lon": 12.6257,
+      "mmsi": "261007705",
+      "name": "FAIRPLAY-83",
+      "lat": 53.9073,
+      "lon": 14.2599,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-30 05:07:06.229582631 +0000 UTC"
+      "nav_status": 5,
+      "last_update": "2026-08-30 05:26:45.74929759 +0000 UTC"
     },
     {
-      "mmsi": "235034368",
-      "name": "MULTI-SURVEY 4",
-      "lat": 51.9773,
-      "lon": 4.1219,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-30 05:07:16.359220954 +0000 UTC"
-    },
-    {
-      "mmsi": "319720000",
-      "name": "STARDUST",
-      "lat": 32.71,
-      "lon": -117.2336,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-30 05:07:27.302332784 +0000 UTC"
-    },
-    {
-      "mmsi": "375369000",
-      "name": "ZAYYAN K",
-      "lat": 31.8174,
-      "lon": 34.6172,
+      "mmsi": "271000677",
+      "name": "VENTO DI MELTEMI",
+      "lat": 41.1459,
+      "lon": -8.7635,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 1,
-      "last_update": "2026-08-30 05:07:28.926996195 +0000 UTC"
+      "last_update": "2026-08-30 05:26:47.245347937 +0000 UTC"
     },
     {
-      "mmsi": "352002481",
-      "name": "BARU SIERRA NEVADA",
-      "lat": -22.8482,
-      "lon": -43.1294,
+      "mmsi": "601126900",
+      "name": "SEA EXPRESS",
+      "lat": -29.8681,
+      "lon": 31.0141,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-08-30 05:07:29.638179606 +0000 UTC"
+      "nav_status": 8,
+      "last_update": "2026-08-30 05:27:03.646624299 +0000 UTC"
     },
     {
-      "mmsi": "701006066",
-      "name": "MARGOT",
-      "lat": -38.0459,
-      "lon": -57.5353,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-30 05:07:32.417966131 +0000 UTC"
-    },
-    {
-      "mmsi": "730151028",
-      "name": "RM TAYRONA",
-      "lat": 3.8928,
-      "lon": -77.0814,
+      "mmsi": "235113676",
+      "name": "NSL EXCALIBUR",
+      "lat": 53.3222,
+      "lon": -3.262,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-30 05:07:36.13277077 +0000 UTC"
+      "last_update": "2026-08-30 05:26:56.170559937 +0000 UTC"
+    },
+    {
+      "mmsi": "246445000",
+      "name": "KNRM-ALIES EN EVERT",
+      "lat": 53.174,
+      "lon": 4.8691,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-30 05:27:04.574434739 +0000 UTC"
+    },
+    {
+      "mmsi": "259028270",
+      "name": "MAROSUND",
+      "lat": 70.8567,
+      "lon": 27.2329,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-30 05:27:05.388689729 +0000 UTC"
+    },
+    {
+      "mmsi": "211337780",
+      "name": "ATALANTA",
+      "lat": 53.8992,
+      "lon": 11.4571,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-30 05:27:18.587994916 +0000 UTC"
     },
     {
       "mmsi": "244108000",
@@ -110,97 +110,97 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-30 05:07:41.530394389 +0000 UTC"
+      "last_update": "2026-08-30 05:27:21.741404415 +0000 UTC"
     },
     {
-      "mmsi": "636017622",
-      "name": "HIGH CHALLENGE",
-      "lat": 29.7313,
-      "lon": -95.0532,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-30 05:07:44.279188563 +0000 UTC"
-    },
-    {
-      "mmsi": "563147700",
-      "name": "PSA VISION (NN27)",
-      "lat": 1.2608,
-      "lon": 103.851,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-30 05:07:44.526192799 +0000 UTC"
-    },
-    {
-      "mmsi": "369713000",
-      "name": "TRIBUTE",
+      "mmsi": "273437720",
+      "name": "VOLGO-DON 185",
       "lat": 0,
       "lon": 0,
-      "sog": 102.2,
+      "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-30 05:07:12.828745803 +0000 UTC"
+      "last_update": "2026-08-30 05:27:28.17487315 +0000 UTC"
+    },
+    {
+      "mmsi": "428067000",
+      "name": "BAT GALIM",
+      "lat": 32.8202,
+      "lon": 35.0073,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-30 05:27:29.323624133 +0000 UTC"
+    },
+    {
+      "mmsi": "477221200",
+      "name": "OOCL WISDOM",
+      "lat": 54.877,
+      "lon": 18.7314,
+      "sog": 92.6,
+      "cog": 126.4,
+      "nav_status": 0,
+      "last_update": "2026-08-30 05:27:29.425409447 +0000 UTC"
+    },
+    {
+      "mmsi": "273295620",
+      "name": "SERGEY LVOV",
+      "lat": 55.0869,
+      "lon": 19.7357,
+      "sog": 53.6,
+      "cog": 73,
+      "nav_status": 0,
+      "last_update": "2026-08-30 05:27:05.891768824 +0000 UTC"
+    },
+    {
+      "mmsi": "244730477",
+      "name": "",
+      "lat": 30.9528,
+      "lon": 64.5359,
+      "sog": 51.2,
+      "cog": 369.4,
+      "nav_status": 4,
+      "last_update": "2026-08-30 05:27:24.298767939 +0000 UTC"
+    },
+    {
+      "mmsi": "253751000",
+      "name": "CONNECTOR",
+      "lat": 55.0849,
+      "lon": 19.7407,
+      "sog": 46.3,
+      "cog": 146.8,
+      "nav_status": 0,
+      "last_update": "2026-08-30 05:27:22.7510984 +0000 UTC"
     },
     {
       "mmsi": "239658000",
       "name": "HYPERSPEED JET 4",
-      "lat": 37.8142,
-      "lon": 23.6306,
-      "sog": 35.9,
-      "cog": 167,
+      "lat": 37.6409,
+      "lon": 23.7506,
+      "sog": 36.1,
+      "cog": 131,
       "nav_status": 0,
-      "last_update": "2026-08-30 05:07:09.690570142 +0000 UTC"
+      "last_update": "2026-08-30 05:27:17.774767525 +0000 UTC"
     },
     {
-      "mmsi": "247489500",
-      "name": "PIERO SANGIOVANNI",
-      "lat": 37.9816,
-      "lon": 12.4406,
-      "sog": 32,
-      "cog": 243.3,
-      "nav_status": 0,
-      "last_update": "2026-08-30 05:07:13.191356054 +0000 UTC"
+      "mmsi": "477937300",
+      "name": "THE COTAI STRIP EXPO",
+      "lat": 22.29,
+      "lon": 114.1235,
+      "sog": 34.3,
+      "cog": 83.4,
+      "nav_status": 9,
+      "last_update": "2026-08-30 05:26:41.022985809 +0000 UTC"
     },
     {
-      "mmsi": "240508300",
-      "name": "GOLDEN PRINCESS",
-      "lat": 37.8702,
-      "lon": 24.3683,
-      "sog": 30.5,
-      "cog": 119.8,
+      "mmsi": "247058800",
+      "name": "SNAV ALTAIR",
+      "lat": 40.7998,
+      "lon": 14.2813,
+      "sog": 28.8,
+      "cog": 9.6,
       "nav_status": 0,
-      "last_update": "2026-08-30 05:07:20.967355637 +0000 UTC"
-    },
-    {
-      "mmsi": "368151810",
-      "name": "ENETAI",
-      "lat": 47.5691,
-      "lon": -122.4376,
-      "sog": 28.3,
-      "cog": 210,
-      "nav_status": 0,
-      "last_update": "2026-08-30 05:07:11.848017937 +0000 UTC"
-    },
-    {
-      "mmsi": "257058570",
-      "name": "LISE",
-      "lat": 65.6571,
-      "lon": 12.3013,
-      "sog": 26.8,
-      "cog": 0.6,
-      "nav_status": 0,
-      "last_update": "2026-08-30 05:07:33.537062024 +0000 UTC"
-    },
-    {
-      "mmsi": "413496590",
-      "name": "ZHONG SHAN 6",
-      "lat": 22.3004,
-      "lon": 114.139,
-      "sog": 26.6,
-      "cog": 139.4,
-      "nav_status": 0,
-      "last_update": "2026-08-30 05:06:59.161879013 +0000 UTC"
+      "last_update": "2026-08-30 05:27:14.167277259 +0000 UTC"
     }
   ]
 }
