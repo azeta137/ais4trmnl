@@ -1,26 +1,36 @@
 {
-  "updated_at": "2026-08-30T01:28:04Z",
-  "count": 3826,
+  "updated_at": "2026-08-30T01:48:29Z",
+  "count": 3870,
   "vessels": [
     {
-      "mmsi": "230182220",
-      "name": "NORDENSKIOLD",
-      "lat": 60.338,
-      "lon": 25.5785,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-30 01:27:02.566632983 +0000 UTC"
-    },
-    {
-      "mmsi": "601126900",
-      "name": "SEA EXPRESS",
-      "lat": -29.8682,
-      "lon": 31.0142,
+      "mmsi": "263701380",
+      "name": "FERNANDO NAMORA",
+      "lat": 38.6518,
+      "lon": -9.0808,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 8,
-      "last_update": "2026-08-30 01:27:04.200266081 +0000 UTC"
+      "last_update": "2026-08-30 01:47:25.123023049 +0000 UTC"
+    },
+    {
+      "mmsi": "428009088",
+      "name": "DANCHOR X",
+      "lat": 32.8211,
+      "lon": 35.0071,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-30 01:47:27.164877438 +0000 UTC"
+    },
+    {
+      "mmsi": "229707000",
+      "name": "M/Y HOSHI",
+      "lat": 40.8267,
+      "lon": 14.2243,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-30 01:47:31.751801149 +0000 UTC"
     },
     {
       "mmsi": "235034368",
@@ -30,79 +40,17 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-30 01:27:16.308198098 +0000 UTC"
+      "last_update": "2026-08-30 01:47:46.666547208 +0000 UTC"
     },
     {
-      "mmsi": "319720000",
-      "name": "STARDUST",
-      "lat": 32.7101,
-      "lon": -117.2336,
+      "mmsi": "235080649",
+      "name": "ONWARD N107",
+      "lat": 54.4569,
+      "lon": -5.4374,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-30 01:27:06.858504718 +0000 UTC",
-      "ship_type": 37,
-      "destination": "SAN_DIEGO"
-    },
-    {
-      "mmsi": "211270850",
-      "name": "PIONIER",
-      "lat": 53.677,
-      "lon": 7.5736,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-30 01:27:08.384091829 +0000 UTC"
-    },
-    {
-      "mmsi": "273437720",
-      "name": "",
-      "lat": 0,
-      "lon": 0,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-30 01:27:09.015291893 +0000 UTC"
-    },
-    {
-      "mmsi": "210588000",
-      "name": "LEDRA PRIDE",
-      "lat": 34.6451,
-      "lon": 33.0179,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-08-30 01:27:11.238047078 +0000 UTC"
-    },
-    {
-      "mmsi": "316046329",
-      "name": "PITT KNIGHT",
-      "lat": 49.2312,
-      "lon": -122.7712,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-30 01:27:17.910421409 +0000 UTC"
-    },
-    {
-      "mmsi": "244060365",
-      "name": "KNRM ARBOR VITAE",
-      "lat": 53.4088,
-      "lon": 6.1974,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-30 01:27:19.543040284 +0000 UTC"
-    },
-    {
-      "mmsi": "271000677",
-      "name": "VENTO DI MELTEMI",
-      "lat": 41.1467,
-      "lon": -8.7648,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-08-30 01:27:26.709252485 +0000 UTC"
+      "nav_status": 15,
+      "last_update": "2026-08-30 01:47:48.288387207 +0000 UTC"
     },
     {
       "mmsi": "246445000",
@@ -112,97 +60,147 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-30 01:27:34.74004477 +0000 UTC"
+      "last_update": "2026-08-30 01:47:55.440157717 +0000 UTC"
     },
     {
-      "mmsi": "210920000",
-      "name": "VTS PENTADAKTYLOS",
-      "lat": 34.7185,
-      "lon": 33.3178,
+      "mmsi": "273437720",
+      "name": "VOLGO-DON 185",
+      "lat": 0,
+      "lon": 0,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-30 01:27:46.181360706 +0000 UTC"
+      "last_update": "2026-08-30 01:48:00.712378735 +0000 UTC"
     },
     {
-      "mmsi": "250101900",
-      "name": "GUIDING STAR 2",
-      "lat": 51.6509,
-      "lon": -9.9082,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-30 01:27:47.039044715 +0000 UTC"
-    },
-    {
-      "mmsi": "257820700",
-      "name": "VIKNAVAERINGEN",
-      "lat": 64.9027,
-      "lon": 11.2563,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-30 01:27:47.862584489 +0000 UTC"
-    },
-    {
-      "mmsi": "367388530",
-      "name": "FT BRAGG",
-      "lat": 43.0793,
-      "lon": -70.7572,
+      "mmsi": "244374235",
+      "name": "NT 11 WATERTRAPPER",
+      "lat": 52.3996,
+      "lon": 4.8999,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-08-30 01:27:49.838388984 +0000 UTC"
+      "last_update": "2026-08-30 01:48:05.348369515 +0000 UTC"
     },
     {
-      "mmsi": "244730564",
-      "name": "WADDENZEE II",
-      "lat": 53.1744,
-      "lon": 5.4509,
+      "mmsi": "244870700",
+      "name": "METTE MARIA",
+      "lat": 53.7214,
+      "lon": 8.0773,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-30 01:27:56.896823952 +0000 UTC"
-    },
-    {
-      "mmsi": "368206330",
-      "name": "SOLANO",
-      "lat": 47.6192,
-      "lon": -122.4065,
-      "sog": 35.9,
-      "cog": 316.4,
-      "nav_status": 0,
-      "last_update": "2026-08-30 01:27:28.291256612 +0000 UTC"
-    },
-    {
-      "mmsi": "338519000",
-      "name": "SWIFTSURE",
-      "lat": 47.8396,
-      "lon": -122.412,
-      "sog": 35.4,
-      "cog": 164.4,
-      "nav_status": 0,
-      "last_update": "2026-08-30 01:27:20.004508898 +0000 UTC"
+      "nav_status": 1,
+      "last_update": "2026-08-30 01:48:11.727628264 +0000 UTC"
     },
     {
       "mmsi": "316052438",
       "name": "STHUQI",
-      "lat": 49.2384,
-      "lon": -123.628,
-      "sog": 34,
-      "cog": 258,
+      "lat": 49.1909,
+      "lon": -123.8933,
+      "sog": 34.7,
+      "cog": 213.6,
       "nav_status": 9,
-      "last_update": "2026-08-30 01:27:56.412080745 +0000 UTC"
+      "last_update": "2026-08-30 01:47:52.218138097 +0000 UTC"
     },
     {
-      "mmsi": "367145870",
-      "name": "IYANOUGH",
-      "lat": 41.5454,
-      "lon": -70.2491,
-      "sog": 33.1,
-      "cog": 331.1,
+      "mmsi": "367350620",
+      "name": "SEADOG V",
+      "lat": 41.9125,
+      "lon": -87.5898,
+      "sog": 30.8,
+      "cog": 46.4,
+      "nav_status": 5,
+      "last_update": "2026-08-30 01:47:46.653400608 +0000 UTC"
+    },
+    {
+      "mmsi": "311001249",
+      "name": "VICTORIA CLIPPER V",
+      "lat": 48.2543,
+      "lon": -123.0267,
+      "sog": 30.1,
+      "cog": 116.7,
       "nav_status": 0,
-      "last_update": "2026-08-30 01:27:05.288832929 +0000 UTC"
+      "last_update": "2026-08-30 01:48:13.633124989 +0000 UTC"
+    },
+    {
+      "mmsi": "368151810",
+      "name": "ENETAI",
+      "lat": 47.5855,
+      "lon": -122.4168,
+      "sog": 28.2,
+      "cog": 49.4,
+      "nav_status": 0,
+      "last_update": "2026-08-30 01:47:23.398922394 +0000 UTC"
+    },
+    {
+      "mmsi": "367782940",
+      "name": "GLORY",
+      "lat": 42.3151,
+      "lon": -70.9855,
+      "sog": 27.4,
+      "cog": 318.7,
+      "nav_status": 0,
+      "last_update": "2026-08-30 01:47:46.111170956 +0000 UTC"
+    },
+    {
+      "mmsi": "477997147",
+      "name": "XIN MING ZHU XVI",
+      "lat": 22.2945,
+      "lon": 114.1357,
+      "sog": 26.7,
+      "cog": 267.3,
+      "nav_status": 5,
+      "last_update": "2026-08-30 01:48:16.338789054 +0000 UTC"
+    },
+    {
+      "mmsi": "9135649",
+      "name": "",
+      "lat": 2.4711,
+      "lon": 101.8459,
+      "sog": 23.5,
+      "cog": 339,
+      "nav_status": 0,
+      "last_update": "2026-08-30 01:48:07.332168399 +0000 UTC"
+    },
+    {
+      "mmsi": "247068200",
+      "name": "CP 890",
+      "lat": 40.7958,
+      "lon": 14.2781,
+      "sog": 22.8,
+      "cog": 183.3,
+      "nav_status": 15,
+      "last_update": "2026-08-30 01:48:00.53118408 +0000 UTC"
+    },
+    {
+      "mmsi": "525210017",
+      "name": "EXPRESS BAHARI 7G",
+      "lat": -6.4011,
+      "lon": 110.592,
+      "sog": 22.2,
+      "cog": 168,
+      "nav_status": 8,
+      "last_update": "2026-08-30 01:47:18.816136222 +0000 UTC"
+    },
+    {
+      "mmsi": "477996332",
+      "name": "SEA STAR",
+      "lat": 22.2896,
+      "lon": 114.1214,
+      "sog": 21.8,
+      "cog": 78.3,
+      "nav_status": 0,
+      "last_update": "2026-08-30 01:47:33.078722106 +0000 UTC"
+    },
+    {
+      "mmsi": "259222000",
+      "name": "COLOR MAGIC",
+      "lat": 58.0464,
+      "lon": 11.1654,
+      "sog": 21.3,
+      "cog": 344.7,
+      "nav_status": 0,
+      "last_update": "2026-08-30 01:47:32.873596827 +0000 UTC"
     }
   ]
 }
