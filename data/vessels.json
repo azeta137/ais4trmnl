@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-08-30T19:48:04Z",
-  "count": 3668,
+  "updated_at": "2026-08-30T20:07:35Z",
+  "count": 3627,
   "vessels": [
     {
-      "mmsi": "224627000",
-      "name": "OMVAC CATORCE",
-      "lat": 25.7339,
-      "lon": -14.9351,
+      "mmsi": "205545000",
+      "name": "VB PANDA",
+      "lat": 51.33,
+      "lon": 3.1971,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-30 19:46:53.069137024 +0000 UTC"
+      "last_update": "2026-08-30 20:06:33.643400067 +0000 UTC"
     },
     {
       "mmsi": "271000677",
@@ -20,193 +20,187 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-08-30 19:46:56.666987379 +0000 UTC"
+      "last_update": "2026-08-30 20:06:35.786271338 +0000 UTC"
     },
     {
-      "mmsi": "245382000",
-      "name": "",
-      "lat": 51.6218,
-      "lon": 3.6879,
+      "mmsi": "244010956",
+      "name": "P93",
+      "lat": 51.893,
+      "lon": 4.2306,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-30 19:47:02.330575857 +0000 UTC"
-    },
-    {
-      "mmsi": "205545000",
-      "name": "VB PANDA",
-      "lat": 51.3301,
-      "lon": 3.197,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-30 19:47:13.794301921 +0000 UTC"
+      "last_update": "2026-08-30 20:06:40.659498452 +0000 UTC"
     },
     {
       "mmsi": "235034368",
       "name": "MULTI-SURVEY 4",
-      "lat": 51.9774,
+      "lat": 51.9773,
       "lon": 4.1219,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-30 19:47:16.146133281 +0000 UTC"
+      "last_update": "2026-08-30 20:06:47.169413634 +0000 UTC"
     },
     {
-      "mmsi": "211270850",
-      "name": "PIONIER",
-      "lat": 53.677,
-      "lon": 7.5736,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-30 19:47:18.98471501 +0000 UTC"
-    },
-    {
-      "mmsi": "244108000",
-      "name": "ZK46 ZEEMEEUW",
-      "lat": 53.4099,
-      "lon": 6.207,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-30 19:47:21.53510967 +0000 UTC"
-    },
-    {
-      "mmsi": "257820700",
-      "name": "VIKNAVAERINGEN",
-      "lat": 64.9027,
-      "lon": 11.2562,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-30 19:47:26.750601333 +0000 UTC",
-      "ship_type": 79,
-      "destination": "SBH FISHFARMS"
-    },
-    {
-      "mmsi": "273437610",
-      "name": "VOLGONEFT-128",
-      "lat": 59.8821,
-      "lon": 30.2269,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-30 19:47:36.659504787 +0000 UTC"
-    },
-    {
-      "mmsi": "244045000",
-      "name": "HEBO-CAT 15",
-      "lat": 53.1875,
-      "lon": 5.4319,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-30 19:47:39.056581891 +0000 UTC"
-    },
-    {
-      "mmsi": "257863000",
-      "name": "ROSESUND",
-      "lat": 60.3838,
-      "lon": 5.3128,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-30 19:47:46.776093291 +0000 UTC"
-    },
-    {
-      "mmsi": "235080649",
-      "name": "ONWARD N107",
-      "lat": 54.4569,
-      "lon": -5.4374,
+      "mmsi": "316014014",
+      "name": "TAKAYA",
+      "lat": 49.2863,
+      "lon": -123.1005,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-08-30 19:47:48.105640044 +0000 UTC"
+      "last_update": "2026-08-30 20:06:50.248808159 +0000 UTC"
     },
     {
-      "mmsi": "244770847",
-      "name": "VERWISSELING",
-      "lat": 52.3728,
-      "lon": 4.9129,
-      "sog": 96.2,
-      "cog": 0,
+      "mmsi": "273354450",
+      "name": "POSEIDON S",
+      "lat": 35.9385,
+      "lon": 28.5567,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-30 19:47:50.830994479 +0000 UTC"
+      "last_update": "2026-08-30 20:06:57.078942516 +0000 UTC"
     },
     {
-      "mmsi": "338519000",
-      "name": "SWIFTSURE",
-      "ship_type": 40,
-      "destination": "EDMONDS",
-      "lat": 47.7832,
-      "lon": -122.4371,
-      "sog": 35.5,
-      "cog": 352.3,
+      "mmsi": "316046329",
+      "name": "PITT KNIGHT",
+      "lat": 49.2312,
+      "lon": -122.7713,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-30 19:47:29.920454518 +0000 UTC"
+      "last_update": "2026-08-30 20:07:07.363566526 +0000 UTC"
     },
     {
-      "mmsi": "235070199",
-      "name": "MANANNAN",
-      "ship_type": 40,
-      "destination": "IMDGS",
-      "lat": 53.5086,
-      "lon": -3.0999,
-      "sog": 33.7,
-      "cog": 333.9,
-      "nav_status": 0,
-      "last_update": "2026-08-30 19:47:26.311601038 +0000 UTC"
-    },
-    {
-      "mmsi": "367447520",
-      "name": "SALACIA",
-      "lat": 42.0601,
-      "lon": -70.2951,
-      "sog": 33.2,
-      "cog": 121.9,
-      "nav_status": 0,
-      "last_update": "2026-08-30 19:47:44.150686984 +0000 UTC"
-    },
-    {
-      "mmsi": "368434280",
-      "name": "ZALOPHUS",
-      "lat": 37.8328,
-      "lon": -122.3856,
-      "sog": 32.5,
-      "cog": 175.1,
-      "nav_status": 0,
-      "last_update": "2026-08-30 19:47:48.817626525 +0000 UTC"
-    },
-    {
-      "mmsi": "368457860",
-      "name": "EMERALD CLIPPER",
-      "lat": 47.5599,
-      "lon": -122.4298,
-      "sog": 32.3,
-      "cog": 353,
-      "nav_status": 0,
-      "last_update": "2026-08-30 19:47:42.824326168 +0000 UTC"
-    },
-    {
-      "mmsi": "219236000",
-      "name": "FJORD FSTR",
-      "lat": 57.9165,
-      "lon": 8.7917,
-      "sog": 32.1,
-      "cog": 293.7,
-      "nav_status": 0,
-      "last_update": "2026-08-30 19:47:11.143726119 +0000 UTC"
-    },
-    {
-      "mmsi": "546021800",
-      "name": "AREMITI 6",
-      "lat": -17.5237,
-      "lon": -149.7624,
-      "sog": 31.4,
-      "cog": 277,
+      "mmsi": "224781000",
+      "name": "VOLCAN DE TAGORO",
+      "lat": 28.2163,
+      "lon": -15.4793,
+      "sog": 33.9,
+      "cog": 285.6,
       "nav_status": 9,
-      "last_update": "2026-08-30 19:47:37.477999599 +0000 UTC"
+      "last_update": "2026-08-30 20:06:40.862204987 +0000 UTC"
+    },
+    {
+      "mmsi": "367145870",
+      "name": "IYANOUGH",
+      "lat": 41.532,
+      "lon": -70.242,
+      "sog": 33,
+      "cog": 327.1,
+      "nav_status": 0,
+      "last_update": "2026-08-30 20:07:04.315158717 +0000 UTC"
+    },
+    {
+      "mmsi": "368111580",
+      "name": "FDNY M3A",
+      "lat": 40.5622,
+      "lon": -73.8669,
+      "sog": 31.9,
+      "cog": 73.1,
+      "nav_status": 0,
+      "last_update": "2026-08-30 20:07:10.591113033 +0000 UTC"
+    },
+    {
+      "mmsi": "257089390",
+      "name": "FJORDPRINSEN",
+      "lat": 69.5401,
+      "lon": 18.6089,
+      "sog": 31.7,
+      "cog": 67.8,
+      "nav_status": 0,
+      "last_update": "2026-08-30 20:07:01.96472281 +0000 UTC"
+    },
+    {
+      "mmsi": "770576009",
+      "name": "ATLANTIC III",
+      "lat": -34.5098,
+      "lon": -57.9319,
+      "sog": 30.6,
+      "cog": 250.7,
+      "nav_status": 5,
+      "last_update": "2026-08-30 20:07:21.945293039 +0000 UTC"
+    },
+    {
+      "mmsi": "311001249",
+      "name": "VICTORIA CLIPPER V",
+      "lat": 48.356,
+      "lon": -123.2688,
+      "sog": 29.9,
+      "cog": 296,
+      "nav_status": 0,
+      "last_update": "2026-08-30 20:07:23.26889498 +0000 UTC"
+    },
+    {
+      "mmsi": "257136050",
+      "name": "LOS 138",
+      "lat": 69.8033,
+      "lon": 18.4031,
+      "sog": 26.8,
+      "cog": 74.8,
+      "nav_status": 0,
+      "last_update": "2026-08-30 20:07:24.583033825 +0000 UTC"
+    },
+    {
+      "mmsi": "247083700",
+      "name": "LA SUPREMA",
+      "lat": 42.7368,
+      "lon": 9.6798,
+      "sog": 26.6,
+      "cog": 166.2,
+      "nav_status": 0,
+      "last_update": "2026-08-30 20:06:43.733450583 +0000 UTC"
+    },
+    {
+      "mmsi": "266445000",
+      "name": "VISBY",
+      "lat": 58.1067,
+      "lon": 18.1559,
+      "sog": 26.5,
+      "cog": 176.5,
+      "nav_status": 0,
+      "last_update": "2026-08-30 20:06:45.253131829 +0000 UTC"
+    },
+    {
+      "mmsi": "367036190",
+      "name": "MARTHA'S VINEYARD EX",
+      "lat": 41.5126,
+      "lon": -70.6599,
+      "sog": 26.4,
+      "cog": 295,
+      "nav_status": 0,
+      "last_update": "2026-08-30 20:06:54.293863576 +0000 UTC"
+    },
+    {
+      "mmsi": "265871000",
+      "name": "DROTTEN",
+      "lat": 57.5414,
+      "lon": 17.7446,
+      "sog": 25.5,
+      "cog": 83.5,
+      "nav_status": 0,
+      "last_update": "2026-08-30 20:07:22.19589368 +0000 UTC"
+    },
+    {
+      "mmsi": "247243600",
+      "name": "CRUISE BARCELONA",
+      "lat": 42.0886,
+      "lon": 11.62,
+      "sog": 25.2,
+      "cog": 67.8,
+      "nav_status": 0,
+      "last_update": "2026-08-30 20:06:55.968670775 +0000 UTC"
+    },
+    {
+      "mmsi": "520272000",
+      "name": "COUGER 2",
+      "lat": -17.7139,
+      "lon": 177.2538,
+      "sog": 24.8,
+      "cog": 278,
+      "nav_status": 9,
+      "last_update": "2026-08-30 20:07:12.204625305 +0000 UTC"
     }
   ]
 }
