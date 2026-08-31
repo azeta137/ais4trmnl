@@ -1,28 +1,46 @@
 {
-  "updated_at": "2026-08-31T07:27:57Z",
-  "count": 3662,
+  "updated_at": "2026-08-31T07:47:42Z",
+  "count": 3690,
   "vessels": [
     {
-      "mmsi": "244730564",
-      "name": "WADDENZEE II",
-      "lat": 53.1744,
-      "lon": 5.4509,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-31 07:26:45.378248927 +0000 UTC"
-    },
-    {
-      "mmsi": "244010956",
-      "name": "P93",
-      "lat": 51.893,
-      "lon": 4.2306,
+      "mmsi": "235113676",
+      "name": "NSL EXCALIBUR",
+      "lat": 53.3222,
+      "lon": -3.262,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-31 07:26:50.879859302 +0000 UTC",
-      "ship_type": 99,
-      "destination": ""
+      "last_update": "2026-08-31 07:46:45.20656811 +0000 UTC"
+    },
+    {
+      "mmsi": "258320500",
+      "name": "FOSNA VICTORIA",
+      "lat": 65.7398,
+      "lon": -23.7606,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-31 07:46:51.126387131 +0000 UTC"
+    },
+    {
+      "mmsi": "205545000",
+      "name": "VB PANDA",
+      "lat": 51.3301,
+      "lon": 3.1971,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-31 07:47:05.682384173 +0000 UTC"
+    },
+    {
+      "mmsi": "319720000",
+      "name": "STARDUST",
+      "lat": 32.71,
+      "lon": -117.2336,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-31 07:47:07.311480306 +0000 UTC"
     },
     {
       "mmsi": "245382000",
@@ -32,177 +50,157 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-31 07:26:53.76813379 +0000 UTC"
+      "last_update": "2026-08-31 07:47:12.758033157 +0000 UTC"
     },
     {
-      "mmsi": "246445000",
-      "name": "KNRM-ALIES EN EVERT",
-      "lat": 53.174,
-      "lon": 4.8692,
+      "mmsi": "258062500",
+      "name": "PERLEN",
+      "lat": 68.5669,
+      "lon": 14.9146,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-31 07:26:54.990299795 +0000 UTC"
-    },
-    {
-      "mmsi": "701006037",
-      "name": "MELLINO VI",
-      "lat": -38.0458,
-      "lon": -57.5352,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-08-31 07:27:04.920866505 +0000 UTC"
-    },
-    {
-      "mmsi": "375369000",
-      "name": "ZAYYAN K",
-      "lat": 31.8175,
-      "lon": 34.6172,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-08-31 07:27:07.287480656 +0000 UTC"
-    },
-    {
-      "mmsi": "730151028",
-      "name": "RM TAYRONA",
-      "lat": 3.8927,
-      "lon": -77.0815,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-31 07:27:15.596065318 +0000 UTC"
-    },
-    {
-      "mmsi": "235034368",
-      "name": "MULTI-SURVEY 4",
-      "lat": 51.9774,
-      "lon": 4.1219,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-31 07:27:15.845516447 +0000 UTC"
-    },
-    {
-      "mmsi": "259046050",
-      "name": "FREMAD",
-      "lat": 66.3729,
-      "lon": 12.361,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-31 07:27:16.753869074 +0000 UTC"
+      "nav_status": 5,
+      "last_update": "2026-08-31 07:47:12.984070555 +0000 UTC"
     },
     {
       "mmsi": "210920000",
       "name": "VTS PENTADAKTYLOS",
-      "lat": 34.7172,
-      "lon": 33.3161,
+      "lat": 34.714,
+      "lon": 33.3243,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-31 07:27:24.237247988 +0000 UTC"
+      "last_update": "2026-08-31 07:47:23.463477914 +0000 UTC"
     },
     {
-      "mmsi": "210588000",
-      "name": "LEDRA PRIDE",
-      "lat": 34.6649,
-      "lon": 33.0649,
+      "mmsi": "235034368",
+      "name": "MULTI-SURVEY 4",
+      "lat": 51.9773,
+      "lon": 4.1219,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-08-31 07:27:32.454626914 +0000 UTC"
+      "nav_status": 0,
+      "last_update": "2026-08-31 07:47:26.949071967 +0000 UTC"
     },
     {
-      "mmsi": "428067000",
-      "name": "BAT GALIM",
-      "lat": 32.8202,
-      "lon": 35.0073,
+      "mmsi": "352002481",
+      "name": "BARU SIERRA NEVADA",
+      "lat": -22.8481,
+      "lon": -43.1299,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 1,
+      "last_update": "2026-08-31 07:47:28.739593467 +0000 UTC"
+    },
+    {
+      "mmsi": "567303000",
+      "name": "URU BHUM",
+      "lat": 22.4587,
+      "lon": 113.8961,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-08-31 07:27:34.783588667 +0000 UTC"
+      "last_update": "2026-08-31 07:47:37.084721689 +0000 UTC"
     },
     {
-      "mmsi": "636017622",
-      "name": "HIGH CHALLENGE",
-      "lat": 29.7483,
-      "lon": -95.1003,
-      "sog": 102.3,
-      "cog": 360,
+      "mmsi": "219019014",
+      "name": "KYST-FRB18",
+      "lat": 55.4745,
+      "lon": 8.4123,
+      "sog": 40.3,
+      "cog": 309,
       "nav_status": 0,
-      "last_update": "2026-08-31 07:27:42.933227745 +0000 UTC"
+      "last_update": "2026-08-31 07:47:06.503012642 +0000 UTC"
     },
     {
-      "mmsi": "259473000",
-      "name": "BERGEN KREDS",
-      "lat": 59.6071,
-      "lon": 5.2313,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-31 07:27:43.920971605 +0000 UTC"
-    },
-    {
-      "mmsi": "235113676",
-      "name": "NSL EXCALIBUR",
-      "lat": 53.3222,
-      "lon": -3.262,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-31 07:27:44.969700162 +0000 UTC"
-    },
-    {
-      "mmsi": "209074000",
-      "name": "CHAMPION JET 2",
-      "lat": 37.1416,
-      "lon": 25.1811,
-      "sog": 34.8,
-      "cog": 237.5,
-      "nav_status": 0,
-      "last_update": "2026-08-31 07:27:03.1457003 +0000 UTC"
-    },
-    {
-      "mmsi": "477937400",
-      "name": "LONDONER GRAND",
-      "lat": 22.2919,
-      "lon": 114.1352,
-      "sog": 34.8,
-      "cog": 80.2,
+      "mmsi": "219022903",
+      "name": "EXPRESS 3",
+      "lat": 56.0289,
+      "lon": 10.7548,
+      "sog": 36.2,
+      "cog": 102.4,
       "nav_status": 9,
-      "last_update": "2026-08-31 07:27:19.5594382 +0000 UTC"
+      "last_update": "2026-08-31 07:47:31.231966555 +0000 UTC"
     },
     {
-      "mmsi": "240317000",
-      "name": "SUPERSPEED JET 4",
-      "lat": 37.7768,
-      "lon": 23.6511,
-      "sog": 34.6,
-      "cog": 156.1,
+      "mmsi": "209653000",
+      "name": "CHAMPION JET 3",
+      "lat": 37.9923,
+      "lon": 24.0947,
+      "sog": 35.7,
+      "cog": 298.1,
       "nav_status": 0,
-      "last_update": "2026-08-31 07:26:54.785334211 +0000 UTC"
+      "last_update": "2026-08-31 07:47:32.51872153 +0000 UTC"
+    },
+    {
+      "mmsi": "247151800",
+      "name": "ERACLIDE",
+      "lat": 40.7845,
+      "lon": 14.1764,
+      "sog": 34.6,
+      "cog": 104.1,
+      "nav_status": 0,
+      "last_update": "2026-08-31 07:47:12.648087763 +0000 UTC"
+    },
+    {
+      "mmsi": "265077220",
+      "name": "KBV 153",
+      "lat": 57.6783,
+      "lon": 11.7248,
+      "sog": 34.6,
+      "cog": 272.4,
+      "nav_status": 15,
+      "last_update": "2026-08-31 07:47:26.173275266 +0000 UTC"
     },
     {
       "mmsi": "219236000",
       "name": "FJORD FSTR",
-      "lat": 58.0185,
-      "lon": 8.2968,
-      "sog": 33.7,
-      "cog": 116.5,
+      "lat": 57.9375,
+      "lon": 8.6195,
+      "sog": 34.5,
+      "cog": 113.3,
       "nav_status": 0,
-      "last_update": "2026-08-31 07:27:15.152684138 +0000 UTC"
+      "last_update": "2026-08-31 07:47:15.400584543 +0000 UTC"
     },
     {
-      "mmsi": "241881000",
-      "name": "SUPEREXPRESS",
-      "lat": 37.283,
-      "lon": 25.286,
-      "sog": 33.5,
-      "cog": 344.4,
+      "mmsi": "273000885",
+      "name": "SUSIE",
+      "lat": 69.4671,
+      "lon": 33.0771,
+      "sog": 34.3,
+      "cog": 297,
       "nav_status": 0,
-      "last_update": "2026-08-31 07:27:23.30085009 +0000 UTC"
+      "last_update": "2026-08-31 07:46:58.508956546 +0000 UTC"
+    },
+    {
+      "mmsi": "235070199",
+      "name": "MANANNAN",
+      "lat": 53.553,
+      "lon": -3.3479,
+      "sog": 32.8,
+      "cog": 121.7,
+      "nav_status": 0,
+      "last_update": "2026-08-31 07:47:02.885481426 +0000 UTC"
+    },
+    {
+      "mmsi": "244190013",
+      "name": "SKUA",
+      "lat": 53.2601,
+      "lon": 5.1795,
+      "sog": 32.6,
+      "cog": 346.7,
+      "nav_status": 0,
+      "last_update": "2026-08-31 07:47:19.007426028 +0000 UTC"
+    },
+    {
+      "mmsi": "224984000",
+      "name": "VOLCAN DE TAIDIA",
+      "lat": 28.4121,
+      "lon": -16.0979,
+      "sog": 32.4,
+      "cog": 286.2,
+      "nav_status": 0,
+      "last_update": "2026-08-31 07:47:21.439962306 +0000 UTC"
     }
   ]
 }
