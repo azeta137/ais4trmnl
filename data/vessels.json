@@ -1,108 +1,36 @@
 {
-  "updated_at": "2026-08-31T19:07:42Z",
-  "count": 3585,
+  "updated_at": "2026-08-31T19:27:28Z",
+  "count": 3646,
   "vessels": [
     {
-      "mmsi": "367388530",
-      "name": "FT BRAGG",
-      "ship_type": 52,
-      "destination": "US PSM",
-      "lat": 43.0792,
-      "lon": -70.7573,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-31 19:07:02.932566612 +0000 UTC"
-    },
-    {
-      "mmsi": "525104007",
-      "name": "TRANSKO JALAK",
-      "lat": -6.9477,
-      "lon": 110.4203,
+      "mmsi": "601126900",
+      "name": "SEA EXPRESS",
+      "lat": -29.8682,
+      "lon": 31.0142,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 8,
-      "last_update": "2026-08-31 19:07:01.273967163 +0000 UTC"
+      "last_update": "2026-08-31 19:26:40.136219487 +0000 UTC"
     },
     {
-      "mmsi": "244660696",
-      "name": "MORPHEUS",
-      "lat": 51.914,
-      "lon": 4.4934,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-31 19:07:02.726728828 +0000 UTC"
-    },
-    {
-      "mmsi": "367653620",
-      "name": "PAYTON GRACE MORAN",
-      "lat": 25.7658,
-      "lon": -80.1524,
+      "mmsi": "244010956",
+      "name": "P93",
+      "lat": 51.893,
+      "lon": 4.2306,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-31 19:07:10.565098654 +0000 UTC"
+      "last_update": "2026-08-31 19:26:40.138037304 +0000 UTC"
     },
     {
-      "mmsi": "368227350",
-      "name": "PHILLIS WHEATLEY",
-      "lat": 42.3521,
-      "lon": -71.039,
+      "mmsi": "235104009",
+      "name": "SALTHOLME",
+      "lat": 54.5843,
+      "lon": -1.2305,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-31 19:07:15.373453783 +0000 UTC"
-    },
-    {
-      "mmsi": "440081950",
-      "name": "KOREA PEACE",
-      "lat": 37.4553,
-      "lon": 126.5997,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-31 19:07:15.832490045 +0000 UTC"
-    },
-    {
-      "mmsi": "230182220",
-      "name": "NORDENSKIOLD",
-      "lat": 60.338,
-      "lon": 25.5785,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-31 19:07:19.030660926 +0000 UTC"
-    },
-    {
-      "mmsi": "367434220",
-      "name": "YOGI BERRA",
-      "lat": 40.7113,
-      "lon": -74.0433,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-31 19:07:20.131702533 +0000 UTC"
-    },
-    {
-      "mmsi": "244870700",
-      "name": "METTE MARIA",
-      "lat": 53.7583,
-      "lon": 8.0475,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 3,
-      "last_update": "2026-08-31 19:07:27.509154656 +0000 UTC"
-    },
-    {
-      "mmsi": "367482250",
-      "name": "JERSEY",
-      "lat": 40.7147,
-      "lon": -74.0179,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-31 19:07:33.008824441 +0000 UTC"
+      "last_update": "2026-08-31 19:26:47.583033316 +0000 UTC"
     },
     {
       "mmsi": "247130800",
@@ -112,97 +40,169 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-08-31 19:07:35.47686468 +0000 UTC"
+      "last_update": "2026-08-31 19:26:52.377073644 +0000 UTC"
+    },
+    {
+      "mmsi": "257863000",
+      "name": "ROSESUND",
+      "lat": 60.3838,
+      "lon": 5.3128,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-08-31 19:26:54.081428253 +0000 UTC"
+    },
+    {
+      "mmsi": "261007705",
+      "name": "FAIRPLAY-83",
+      "lat": 53.9073,
+      "lon": 14.2599,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-31 19:26:54.460353378 +0000 UTC"
+    },
+    {
+      "mmsi": "210920000",
+      "name": "VTS PENTADAKTYLOS",
+      "lat": 34.7185,
+      "lon": 33.3178,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-31 19:26:54.738897489 +0000 UTC"
+    },
+    {
+      "mmsi": "244870700",
+      "name": "METTE MARIA",
+      "lat": 53.7585,
+      "lon": 8.0494,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 3,
+      "last_update": "2026-08-31 19:27:08.067663354 +0000 UTC"
     },
     {
       "mmsi": "369713000",
       "name": "TRIBUTE",
+      "ship_type": 30,
+      "destination": "",
       "lat": 0,
       "lon": 0,
       "sog": 102.2,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-31 19:07:25.255178185 +0000 UTC"
+      "last_update": "2026-08-31 19:26:44.808751617 +0000 UTC"
     },
     {
-      "mmsi": "243586954",
-      "name": "",
-      "lat": 53.5287,
-      "lon": 60.7499,
-      "sog": 38.4,
-      "cog": 360,
-      "nav_status": 2,
-      "last_update": "2026-08-31 19:07:13.936690319 +0000 UTC"
-    },
-    {
-      "mmsi": "366970020",
-      "name": "MENDOCINO",
-      "lat": 37.915,
-      "lon": -122.4489,
-      "sog": 36,
-      "cog": 330.7,
+      "mmsi": "257415000",
+      "name": "HAGLAND PREMIER",
+      "lat": 55.0867,
+      "lon": 19.7381,
+      "sog": 52.5,
+      "cog": 107.9,
       "nav_status": 0,
-      "last_update": "2026-08-31 19:07:26.547451242 +0000 UTC"
+      "last_update": "2026-08-31 19:26:50.564124475 +0000 UTC"
     },
     {
-      "mmsi": "257125290",
-      "name": "FREDRIKKE T-OLSEN",
-      "lat": 66.3908,
-      "lon": 12.3338,
-      "sog": 30.9,
-      "cog": 319.7,
+      "mmsi": "770576272",
+      "name": "FRANCISCO",
+      "lat": -34.6225,
+      "lon": -58.1399,
+      "sog": 44.6,
+      "cog": 101.5,
       "nav_status": 0,
-      "last_update": "2026-08-31 19:06:52.588842284 +0000 UTC"
+      "last_update": "2026-08-31 19:26:37.263778512 +0000 UTC"
     },
     {
-      "mmsi": "225344000",
-      "name": "BETANCURIA EXPRESS",
-      "lat": 28.0483,
-      "lon": -14.8138,
-      "sog": 30.3,
-      "cog": 94,
+      "mmsi": "338519000",
+      "name": "SWIFTSURE",
+      "lat": 48.3407,
+      "lon": -122.5397,
+      "sog": 35.9,
+      "cog": 139,
       "nav_status": 0,
-      "last_update": "2026-08-31 19:07:31.502872198 +0000 UTC"
+      "last_update": "2026-08-31 19:26:48.631384101 +0000 UTC"
     },
     {
-      "mmsi": "224836000",
-      "name": "VOLCAN DE TIRAJANA",
-      "lat": 28.0099,
-      "lon": -16.8107,
+      "mmsi": "235117926",
+      "name": "RED JET 6",
+      "lat": 50.8386,
+      "lon": -1.3217,
+      "sog": 34.1,
+      "cog": 319.6,
+      "nav_status": 0,
+      "last_update": "2026-08-31 19:27:18.056875228 +0000 UTC"
+    },
+    {
+      "mmsi": "224388000",
+      "name": "BANADEROS EXPRESS",
+      "lat": 28.4302,
+      "lon": -16.1728,
+      "sog": 33.8,
+      "cog": 130.4,
+      "nav_status": 0,
+      "last_update": "2026-08-31 19:26:37.02342089 +0000 UTC"
+    },
+    {
+      "mmsi": "369493659",
+      "name": "45659",
+      "lat": 42.3444,
+      "lon": -71.0142,
       "sog": 30.2,
-      "cog": 271.6,
+      "cog": 305.9,
       "nav_status": 0,
-      "last_update": "2026-08-31 19:06:59.869061944 +0000 UTC"
+      "last_update": "2026-08-31 19:27:17.878175571 +0000 UTC"
     },
     {
-      "mmsi": "246156000",
-      "name": "KNRM-ANNIE J.VISSER",
-      "lat": 53.4343,
-      "lon": 6.1284,
-      "sog": 28.8,
-      "cog": 104.3,
+      "mmsi": "368457860",
+      "name": "EMERALD CLIPPER",
+      "lat": 47.6939,
+      "lon": -122.44,
+      "sog": 29.6,
+      "cog": 188,
       "nav_status": 0,
-      "last_update": "2026-08-31 19:07:26.129902863 +0000 UTC"
+      "last_update": "2026-08-31 19:26:26.497348132 +0000 UTC"
     },
     {
-      "mmsi": "368473450",
-      "name": "CALCASIEU PILOT",
-      "lat": 29.7574,
-      "lon": -93.3436,
-      "sog": 28.6,
-      "cog": 174,
-      "nav_status": 15,
-      "last_update": "2026-08-31 19:07:01.344771304 +0000 UTC"
+      "mmsi": "368063440",
+      "name": "CARINA",
+      "lat": 37.7762,
+      "lon": -122.342,
+      "sog": 29.2,
+      "cog": 100.8,
+      "nav_status": 0,
+      "last_update": "2026-08-31 19:26:50.516823826 +0000 UTC"
     },
     {
-      "mmsi": "366983830",
-      "name": "PERALTA",
-      "lat": 37.7824,
-      "lon": -122.3606,
-      "sog": 28.4,
-      "cog": 117.9,
+      "mmsi": "266445000",
+      "name": "VISBY",
+      "lat": 58.6865,
+      "lon": 18.0907,
+      "sog": 28.2,
+      "cog": 175.9,
       "nav_status": 0,
-      "last_update": "2026-08-31 19:06:41.253213082 +0000 UTC"
+      "last_update": "2026-08-31 19:27:11.825557619 +0000 UTC"
+    },
+    {
+      "mmsi": "368443210",
+      "name": "GEORGE LAYHE",
+      "lat": 42.3315,
+      "lon": -70.9822,
+      "sog": 27.9,
+      "cog": 283.8,
+      "nav_status": 0,
+      "last_update": "2026-08-31 19:26:57.302910467 +0000 UTC"
+    },
+    {
+      "mmsi": "237280000",
+      "name": "SUPERFAST III",
+      "lat": 38.4347,
+      "lon": 20.8172,
+      "sog": 26.8,
+      "cog": 306.8,
+      "nav_status": 0,
+      "last_update": "2026-08-31 19:27:20.579501023 +0000 UTC"
     }
   ]
 }
