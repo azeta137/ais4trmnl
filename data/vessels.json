@@ -1,17 +1,7 @@
 {
-  "updated_at": "2026-08-31T16:27:42Z",
-  "count": 3620,
+  "updated_at": "2026-08-31T16:47:57Z",
+  "count": 3564,
   "vessels": [
-    {
-      "mmsi": "440081950",
-      "name": "KOREA PEACE",
-      "lat": 37.4552,
-      "lon": 126.5997,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-31 16:26:39.701002652 +0000 UTC"
-    },
     {
       "mmsi": "271044493",
       "name": "MIP- 3",
@@ -20,37 +10,27 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-31 16:26:58.083956058 +0000 UTC"
+      "last_update": "2026-08-31 16:46:59.03984376 +0000 UTC"
     },
     {
-      "mmsi": "367397270",
-      "name": "WHALE WATCHER",
-      "lat": 42.199,
-      "lon": -70.3478,
+      "mmsi": "601126900",
+      "name": "SEA EXPRESS",
+      "lat": -29.8681,
+      "lon": 31.0141,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-31 16:26:50.700880694 +0000 UTC"
+      "nav_status": 8,
+      "last_update": "2026-08-31 16:47:10.154991296 +0000 UTC"
     },
     {
-      "mmsi": "205545000",
-      "name": "VB PANDA",
-      "lat": 51.33,
-      "lon": 3.197,
+      "mmsi": "258320500",
+      "name": "FOSNA VICTORIA",
+      "lat": 65.7388,
+      "lon": -23.76,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-31 16:26:55.330067729 +0000 UTC"
-    },
-    {
-      "mmsi": "235104009",
-      "name": "SALTHOLME",
-      "lat": 54.5843,
-      "lon": -1.2305,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-31 16:26:56.856728885 +0000 UTC"
+      "nav_status": 5,
+      "last_update": "2026-08-31 16:46:59.904194611 +0000 UTC"
     },
     {
       "mmsi": "244010956",
@@ -60,77 +40,27 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-31 16:27:10.069456554 +0000 UTC"
+      "last_update": "2026-08-31 16:47:31.511854203 +0000 UTC"
     },
     {
-      "mmsi": "244770847",
-      "name": "VERWISSELING",
-      "lat": 52.3728,
-      "lon": 4.913,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-31 16:27:11.856589726 +0000 UTC"
-    },
-    {
-      "mmsi": "235068029",
-      "name": "COSCO HONGKONG",
-      "lat": -27.3614,
-      "lon": 153.1779,
+      "mmsi": "368173000",
+      "name": "FISHING CREEK",
+      "lat": 37.774,
+      "lon": -122.2418,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-08-31 16:27:23.907311066 +0000 UTC"
+      "last_update": "2026-08-31 16:47:34.774468634 +0000 UTC"
     },
     {
-      "mmsi": "210920000",
-      "name": "VTS PENTADAKTYLOS",
-      "lat": 34.7186,
-      "lon": 33.3178,
+      "mmsi": "319720000",
+      "name": "STARDUST",
+      "lat": 32.71,
+      "lon": -117.2336,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-31 16:27:24.829143969 +0000 UTC"
-    },
-    {
-      "mmsi": "247130800",
-      "name": "SVEZIA",
-      "lat": 44.4114,
-      "lon": 8.9202,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-31 16:27:26.406709169 +0000 UTC"
-    },
-    {
-      "mmsi": "235034368",
-      "name": "MULTI-SURVEY 4",
-      "lat": 51.9773,
-      "lon": 4.1219,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-31 16:27:26.557494753 +0000 UTC"
-    },
-    {
-      "mmsi": "232050866",
-      "name": "MARLIES",
-      "lat": 52.9706,
-      "lon": 5.4306,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-31 16:27:27.086311884 +0000 UTC"
-    },
-    {
-      "mmsi": "574001710",
-      "name": "LONG TAN 19",
-      "lat": 13.6761,
-      "lon": 100.5515,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-08-31 16:27:30.021089135 +0000 UTC"
+      "last_update": "2026-08-31 16:47:38.430864101 +0000 UTC"
     },
     {
       "mmsi": "210588000",
@@ -140,67 +70,137 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 8,
-      "last_update": "2026-08-31 16:27:31.237236558 +0000 UTC"
+      "last_update": "2026-08-31 16:47:52.038315958 +0000 UTC"
     },
     {
-      "mmsi": "368612000",
-      "name": "RICH PASSAGE 1",
-      "lat": 47.5858,
-      "lon": -122.5439,
-      "sog": 36,
-      "cog": 165,
+      "mmsi": "316014014",
+      "name": "TAKAYA",
+      "lat": 49.2863,
+      "lon": -123.1005,
+      "sog": 102.2,
+      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-31 16:26:59.305706501 +0000 UTC"
+      "last_update": "2026-08-31 16:47:36.724116174 +0000 UTC"
     },
     {
-      "mmsi": "209074000",
-      "name": "CHAMPION JET 2",
-      "lat": 37.2211,
-      "lon": 25.1946,
-      "sog": 34.4,
-      "cog": 205,
+      "mmsi": "271053065",
+      "name": "TAYYAR TUGAY",
+      "lat": 36.7051,
+      "lon": 28.3087,
+      "sog": 36.1,
+      "cog": 15,
       "nav_status": 0,
-      "last_update": "2026-08-31 16:27:15.745687076 +0000 UTC"
+      "last_update": "2026-08-31 16:47:08.335443903 +0000 UTC"
     },
     {
-      "mmsi": "247139400",
-      "name": "VITTORIA M",
-      "lat": 37.9777,
-      "lon": 12.4283,
-      "sog": 32.2,
-      "cog": 256.8,
-      "nav_status": 0,
-      "last_update": "2026-08-31 16:26:44.460239861 +0000 UTC"
+      "mmsi": "237023800",
+      "name": "FLYING DOLPHIN XIX",
+      "lat": 37.738,
+      "lon": 23.4143,
+      "sog": 33.6,
+      "cog": 224.7,
+      "nav_status": 5,
+      "last_update": "2026-08-31 16:46:58.364385657 +0000 UTC"
     },
     {
-      "mmsi": "257125290",
-      "name": "FREDRIKKE T-OLSEN",
-      "lat": 66.3873,
-      "lon": 12.4499,
-      "sog": 30.5,
-      "cog": 229.8,
+      "mmsi": "366771550",
+      "name": "NAPA",
+      "lat": 37.8572,
+      "lon": -122.4105,
+      "sog": 32.5,
+      "cog": 168.6,
       "nav_status": 0,
-      "last_update": "2026-08-31 16:27:00.952764361 +0000 UTC"
+      "last_update": "2026-08-31 16:47:51.924798712 +0000 UTC"
     },
     {
       "mmsi": "210049000",
       "name": "ELEANOR ROOSEVELT",
-      "lat": 38.7969,
-      "lon": 1.1568,
-      "sog": 29.8,
-      "cog": 95,
+      "lat": 38.7812,
+      "lon": 1.3675,
+      "sog": 29.9,
+      "cog": 84,
       "nav_status": 0,
-      "last_update": "2026-08-31 16:27:30.874456946 +0000 UTC"
+      "last_update": "2026-08-31 16:47:21.086037812 +0000 UTC"
     },
     {
-      "mmsi": "311001249",
-      "name": "VICTORIA CLIPPER V",
-      "lat": 48.1263,
-      "lon": -122.6696,
+      "mmsi": "225344000",
+      "name": "BETANCURIA EXPRESS",
+      "lat": 28.0803,
+      "lon": -15.2597,
       "sog": 29.7,
-      "cog": 314.8,
+      "cog": 279,
       "nav_status": 0,
-      "last_update": "2026-08-31 16:27:20.797686833 +0000 UTC"
+      "last_update": "2026-08-31 16:47:27.77921962 +0000 UTC"
+    },
+    {
+      "mmsi": "257058280",
+      "name": "ELSA LAULA RENBERG",
+      "lat": 67.6281,
+      "lon": 14.7011,
+      "sog": 29.6,
+      "cog": 357,
+      "nav_status": 0,
+      "last_update": "2026-08-31 16:47:31.039878641 +0000 UTC"
+    },
+    {
+      "mmsi": "235117772",
+      "name": "ISLAND FLYER",
+      "lat": 50.7505,
+      "lon": -1.1487,
+      "sog": 28.7,
+      "cog": 20.2,
+      "nav_status": 0,
+      "last_update": "2026-08-31 16:47:42.251873245 +0000 UTC"
+    },
+    {
+      "mmsi": "257125290",
+      "name": "FREDRIKKE T-OLSEN",
+      "lat": 66.3879,
+      "lon": 12.3398,
+      "sog": 28.5,
+      "cog": 317.4,
+      "nav_status": 0,
+      "last_update": "2026-08-31 16:47:08.72784234 +0000 UTC"
+    },
+    {
+      "mmsi": "247112500",
+      "name": "TREMITI JET",
+      "lat": 40.6995,
+      "lon": 14.45,
+      "sog": 27.9,
+      "cog": 58,
+      "nav_status": 0,
+      "last_update": "2026-08-31 16:47:06.672599542 +0000 UTC"
+    },
+    {
+      "mmsi": "266445000",
+      "name": "VISBY",
+      "lat": 58.6267,
+      "lon": 18.1348,
+      "sog": 27.2,
+      "cog": 356.4,
+      "nav_status": 0,
+      "last_update": "2026-08-31 16:47:25.551150537 +0000 UTC"
+    },
+    {
+      "mmsi": "212561000",
+      "name": "CEUTA JET",
+      "lat": 35.9731,
+      "lon": -5.3371,
+      "sog": 27.1,
+      "cog": 340.8,
+      "nav_status": 0,
+      "last_update": "2026-08-31 16:47:37.365988421 +0000 UTC"
+    },
+    {
+      "mmsi": "247058700",
+      "name": "SNAV ALCIONE",
+      "lat": 40.6313,
+      "lon": 14.2686,
+      "sog": 26.7,
+      "cog": 187.8,
+      "nav_status": 0,
+      "last_update": "2026-08-31 16:47:14.432377716 +0000 UTC"
     }
   ]
 }
