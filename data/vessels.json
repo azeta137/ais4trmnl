@@ -1,47 +1,7 @@
 {
-  "updated_at": "2026-08-31T22:08:04Z",
-  "count": 3738,
+  "updated_at": "2026-08-31T22:27:40Z",
+  "count": 3785,
   "vessels": [
-    {
-      "mmsi": "367131000",
-      "name": "ALASKA",
-      "lat": 29.7187,
-      "lon": -93.8631,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-31 22:06:54.229503308 +0000 UTC"
-    },
-    {
-      "mmsi": "211337780",
-      "name": "ATALANTA",
-      "lat": 53.8991,
-      "lon": 11.4571,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-31 22:06:58.820662975 +0000 UTC"
-    },
-    {
-      "mmsi": "271000677",
-      "name": "VENTO DI MELTEMI",
-      "lat": 38.5142,
-      "lon": -8.8729,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-31 22:07:03.389445584 +0000 UTC"
-    },
-    {
-      "mmsi": "244870700",
-      "name": "",
-      "lat": 53.7687,
-      "lon": 8.0439,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 3,
-      "last_update": "2026-08-31 22:07:07.886112206 +0000 UTC"
-    },
     {
       "mmsi": "244010956",
       "name": "P93",
@@ -50,7 +10,39 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-31 22:07:11.702096456 +0000 UTC"
+      "last_update": "2026-08-31 22:26:40.313131881 +0000 UTC"
+    },
+    {
+      "mmsi": "352002481",
+      "name": "BARU SIERRA NEVADA",
+      "lat": -22.8483,
+      "lon": -43.13,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 1,
+      "last_update": "2026-08-31 22:26:50.588916096 +0000 UTC"
+    },
+    {
+      "mmsi": "263701380",
+      "name": "FERNANDO NAMORA",
+      "lat": 38.6516,
+      "lon": -9.0797,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-08-31 22:26:51.106179089 +0000 UTC"
+    },
+    {
+      "mmsi": "244710626",
+      "name": "BENCKES",
+      "ship_type": 90,
+      "destination": "VREESWIJK  PRINSES B",
+      "lat": 52.0063,
+      "lon": 5.1048,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-31 22:27:09.67458912 +0000 UTC"
     },
     {
       "mmsi": "235034368",
@@ -60,17 +52,17 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-31 22:07:17.375019699 +0000 UTC"
+      "last_update": "2026-08-31 22:26:56.09542665 +0000 UTC"
     },
     {
-      "mmsi": "211652800",
-      "name": "LAUENBURG",
-      "lat": 53.37,
-      "lon": 10.5541,
+      "mmsi": "210920000",
+      "name": "VTS PENTADAKTYLOS",
+      "lat": 34.7185,
+      "lon": 33.3178,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-31 22:07:18.255439262 +0000 UTC"
+      "last_update": "2026-08-31 22:27:22.91388042 +0000 UTC"
     },
     {
       "mmsi": "258320500",
@@ -80,127 +72,141 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-08-31 22:07:41.132400084 +0000 UTC"
+      "last_update": "2026-08-31 22:27:10.471351392 +0000 UTC"
     },
     {
-      "mmsi": "245382000",
-      "name": "",
-      "lat": 51.6218,
-      "lon": 3.6879,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-31 22:07:22.265626341 +0000 UTC"
-    },
-    {
-      "mmsi": "316046329",
-      "name": "PITT KNIGHT",
-      "lat": 49.2313,
-      "lon": -122.7711,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-31 22:07:26.333401647 +0000 UTC"
-    },
-    {
-      "mmsi": "246445000",
-      "name": "KNRM-ALIES EN EVERT",
-      "lat": 53.1739,
-      "lon": 4.8692,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-31 22:07:26.827135755 +0000 UTC"
-    },
-    {
-      "mmsi": "999999999",
-      "name": "",
-      "lat": 13.676,
-      "lon": 100.5515,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-08-31 22:07:27.113495945 +0000 UTC"
-    },
-    {
-      "mmsi": "319720000",
-      "name": "STARDUST",
-      "lat": 32.7101,
-      "lon": -117.2336,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-31 22:07:37.442055727 +0000 UTC"
-    },
-    {
-      "mmsi": "244374235",
-      "name": "NT 11 WATERTRAPPER",
-      "lat": 52.3996,
-      "lon": 4.8999,
+      "mmsi": "271000677",
+      "name": "VENTO DI MELTEMI",
+      "lat": 38.5142,
+      "lon": -8.8729,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-08-31 22:07:38.156738017 +0000 UTC"
+      "last_update": "2026-08-31 22:27:12.524156538 +0000 UTC"
     },
     {
-      "mmsi": "211347330",
-      "name": "GEBRUEDER AZ:5.",
-      "lat": 53.7076,
-      "lon": 7.8086,
+      "mmsi": "235070403",
+      "name": "WINDCAT 14",
+      "lat": 57.1434,
+      "lon": -2.0902,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-31 22:07:40.328484789 +0000 UTC"
+      "nav_status": 5,
+      "last_update": "2026-08-31 22:27:26.048052161 +0000 UTC"
     },
     {
-      "mmsi": "250101900",
-      "name": "GUIDING STAR 2",
-      "lat": 51.6509,
-      "lon": -9.9082,
-      "sog": 102.3,
+      "mmsi": "525104007",
+      "name": "TRANSKO JALAK",
+      "lat": -6.9477,
+      "lon": 118.4203,
+      "sog": 102.2,
+      "cog": 61.3,
+      "nav_status": 8,
+      "last_update": "2026-08-31 22:27:25.603953814 +0000 UTC"
+    },
+    {
+      "mmsi": "244660171",
+      "name": "YESSLYNN",
+      "lat": 52.4283,
+      "lon": 4.7839,
+      "sog": 70.6,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-31 22:07:47.814025882 +0000 UTC"
+      "last_update": "2026-08-31 22:27:05.270136082 +0000 UTC"
     },
     {
-      "mmsi": "368457860",
-      "name": "EMERALD CLIPPER",
-      "lat": 47.8342,
-      "lon": -122.4532,
-      "sog": 34.9,
-      "cog": 345.9,
+      "mmsi": "368151810",
+      "name": "ENETAI",
+      "lat": 47.5526,
+      "lon": -122.4486,
+      "sog": 33.1,
+      "cog": 25,
       "nav_status": 0,
-      "last_update": "2026-08-31 22:07:14.458781909 +0000 UTC"
+      "last_update": "2026-08-31 22:27:25.287101419 +0000 UTC"
+    },
+    {
+      "mmsi": "367379320",
+      "name": "AURORA",
+      "lat": 42.3124,
+      "lon": -70.9828,
+      "sog": 32.7,
+      "cog": 316.1,
+      "nav_status": 0,
+      "last_update": "2026-08-31 22:27:26.505665674 +0000 UTC"
+    },
+    {
+      "mmsi": "368067090",
+      "name": "RELIANCE",
+      "lat": 47.5859,
+      "lon": -122.4347,
+      "sog": 32.3,
+      "cog": 67.1,
+      "nav_status": 0,
+      "last_update": "2026-08-31 22:26:58.061694611 +0000 UTC"
+    },
+    {
+      "mmsi": "367720690",
+      "name": "GREY LADY IV",
+      "lat": 41.5513,
+      "lon": -70.2534,
+      "sog": 31.7,
+      "cog": 326,
+      "nav_status": 0,
+      "last_update": "2026-08-31 22:27:32.126129495 +0000 UTC"
     },
     {
       "mmsi": "368396216",
       "name": "SEASTREAK NEW JERSEY",
-      "lat": 40.7514,
-      "lon": -74.0175,
-      "sog": 34.5,
-      "cog": 191.5,
+      "lat": 40.7102,
+      "lon": -74.0211,
+      "sog": 31.4,
+      "cog": 200.8,
       "nav_status": 15,
-      "last_update": "2026-08-31 22:07:43.325645373 +0000 UTC"
+      "last_update": "2026-08-31 22:26:55.051066883 +0000 UTC"
     },
     {
-      "mmsi": "338519000",
-      "name": "SWIFTSURE",
-      "lat": 47.9195,
-      "lon": -122.4863,
-      "sog": 34.1,
-      "cog": 328,
+      "mmsi": "368248520",
+      "name": "DORADO",
+      "lat": 37.7664,
+      "lon": -122.3376,
+      "sog": 30.5,
+      "cog": 204.6,
       "nav_status": 0,
-      "last_update": "2026-08-31 22:07:36.006841765 +0000 UTC"
+      "last_update": "2026-08-31 22:27:12.956102139 +0000 UTC"
     },
     {
-      "mmsi": "257952600",
-      "name": "KRISTIAN G.JEBSEN 2",
-      "lat": 60.4069,
-      "lon": 5.2942,
-      "sog": 33.5,
-      "cog": 155.7,
+      "mmsi": "225985592",
+      "name": "ESPALMADOR JET",
+      "lat": 38.7799,
+      "lon": 1.4106,
+      "sog": 26.2,
+      "cog": 181,
       "nav_status": 0,
-      "last_update": "2026-08-31 22:06:58.730842265 +0000 UTC"
+      "last_update": "2026-08-31 22:27:01.992674844 +0000 UTC"
+    },
+    {
+      "mmsi": "367192940",
+      "name": "AVALON EXPRESS",
+      "ship_type": 40,
+      "destination": "AVALON BAY",
+      "lat": 33.6398,
+      "lon": -118.3281,
+      "sog": 25.7,
+      "cog": 211,
+      "nav_status": 0,
+      "last_update": "2026-08-31 22:27:01.364334071 +0000 UTC"
+    },
+    {
+      "mmsi": "366902320",
+      "name": "ADM RICHARD E BENNIS",
+      "lat": 40.7278,
+      "lon": -74.0244,
+      "sog": 25.6,
+      "cog": 184.5,
+      "nav_status": 0,
+      "last_update": "2026-08-31 22:27:23.054331174 +0000 UTC",
+      "ship_type": 60,
+      "destination": "HAVERSTRAW NY"
     }
   ]
 }
