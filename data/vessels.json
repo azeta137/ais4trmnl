@@ -1,206 +1,206 @@
 {
-  "updated_at": "2026-08-31T14:27:45Z",
-  "count": 3530,
+  "updated_at": "2026-08-31T14:47:39Z",
+  "count": 3581,
   "vessels": [
     {
-      "mmsi": "246445000",
-      "name": "KNRM-ALIES EN EVERT",
-      "lat": 53.1739,
-      "lon": 4.8693,
+      "mmsi": "316046329",
+      "name": "PITT KNIGHT",
+      "lat": 49.231,
+      "lon": -122.7715,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-31 14:26:45.044946879 +0000 UTC"
+      "last_update": "2026-08-31 14:46:47.340468127 +0000 UTC"
     },
     {
-      "mmsi": "636011247",
-      "name": "SAGITTA",
-      "lat": 37.9297,
-      "lon": 23.6815,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-31 14:26:49.559046905 +0000 UTC"
-    },
-    {
-      "mmsi": "257863000",
-      "name": "ROSESUND",
-      "lat": 60.3838,
-      "lon": 5.3129,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-31 14:26:50.061053217 +0000 UTC"
-    },
-    {
-      "mmsi": "366841550",
-      "name": "SURRIE MORAN",
-      "lat": 36.9532,
-      "lon": -76.3284,
+      "mmsi": "259046050",
+      "name": "FREMAD",
+      "lat": 66.3488,
+      "lon": 12.4671,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-31 14:26:57.857449474 +0000 UTC"
+      "last_update": "2026-08-31 14:46:55.855407851 +0000 UTC"
     },
     {
-      "mmsi": "440081950",
-      "name": "KOREA PEACE",
-      "lat": 37.4552,
-      "lon": 126.5997,
+      "mmsi": "563070140",
+      "name": "PSA TAURUS YS52",
+      "lat": 1.2662,
+      "lon": 103.7931,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-31 14:27:03.383165274 +0000 UTC"
+      "last_update": "2026-08-31 14:46:56.515572214 +0000 UTC"
     },
     {
-      "mmsi": "219385000",
-      "name": "BJOERNSHOLM",
-      "lat": 55.6793,
-      "lon": 12.593,
+      "mmsi": "211652800",
+      "name": "LAUENBURG",
+      "lat": 53.37,
+      "lon": 10.5541,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-31 14:27:26.739850744 +0000 UTC"
+      "last_update": "2026-08-31 14:46:57.311440911 +0000 UTC"
     },
     {
-      "mmsi": "636012905",
-      "name": "LORRAINE",
-      "lat": 36.2527,
-      "lon": -4.5705,
+      "mmsi": "367434220",
+      "name": "YOGI BERRA",
+      "lat": 40.7711,
+      "lon": -74.0115,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-31 14:27:33.083212344 +0000 UTC"
+      "last_update": "2026-08-31 14:47:04.973243964 +0000 UTC"
     },
     {
-      "mmsi": "428067000",
-      "name": "BAT GALIM",
-      "lat": 32.8202,
-      "lon": 35.0073,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-31 14:27:36.178275352 +0000 UTC"
-    },
-    {
-      "mmsi": "319720000",
-      "name": "STARDUST",
-      "lat": 32.7101,
-      "lon": -117.2336,
+      "mmsi": "205545000",
+      "name": "VB PANDA",
+      "lat": 51.33,
+      "lon": 3.1971,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-31 14:27:38.128903471 +0000 UTC"
+      "last_update": "2026-08-31 14:47:05.467181722 +0000 UTC"
     },
     {
-      "mmsi": "338850000",
-      "name": "CG WAESCHE",
+      "mmsi": "244108000",
+      "name": "ZK46 ZEEMEEUW",
+      "lat": 53.5164,
+      "lon": 6.7775,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-31 14:47:10.761964728 +0000 UTC"
+    },
+    {
+      "mmsi": "244010956",
+      "name": "P93",
+      "lat": 51.893,
+      "lon": 4.2306,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-31 14:47:11.170189716 +0000 UTC"
+    },
+    {
+      "mmsi": "261007705",
+      "name": "FAIRPLAY-83",
+      "lat": 53.9073,
+      "lon": 14.2599,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-31 14:47:15.219002142 +0000 UTC"
+    },
+    {
+      "mmsi": "369713000",
+      "name": "TRIBUTE",
       "lat": 0,
       "lon": 0,
       "sog": 102.2,
       "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-31 14:27:40.914441658 +0000 UTC"
-    },
-    {
-      "mmsi": "244074077",
-      "name": "JIP",
-      "lat": 52.3978,
-      "lon": 0.0075,
-      "sog": 86.2,
-      "cog": 360,
-      "nav_status": 7,
-      "last_update": "2026-08-31 14:27:12.804626 +0000 UTC"
-    },
-    {
-      "mmsi": "241881000",
-      "name": "SUPEREXPRESS",
-      "lat": 37.4326,
-      "lon": 25.2885,
-      "sog": 35.1,
-      "cog": 185.6,
       "nav_status": 0,
-      "last_update": "2026-08-31 14:27:39.212871402 +0000 UTC"
+      "last_update": "2026-08-31 14:47:14.963162314 +0000 UTC"
     },
     {
-      "mmsi": "237247600",
-      "name": "F/D ATHINA",
-      "lat": 37.7537,
-      "lon": 23.4133,
-      "sog": 31.6,
-      "cog": 340,
+      "mmsi": "209653000",
+      "name": "CHAMPION JET 3",
+      "lat": 37.8886,
+      "lon": 24.0954,
+      "sog": 38.4,
+      "cog": 164.6,
       "nav_status": 0,
-      "last_update": "2026-08-31 14:27:23.194588117 +0000 UTC"
+      "last_update": "2026-08-31 14:47:06.878641632 +0000 UTC"
     },
     {
-      "mmsi": "368612000",
-      "name": "RICH PASSAGE 1",
-      "lat": 47.6015,
-      "lon": -122.3521,
-      "sog": 30.8,
-      "cog": 284,
+      "mmsi": "271053065",
+      "name": "TAYYAR TUGAY",
+      "lat": 36.5743,
+      "lon": 28.2778,
+      "sog": 37.4,
+      "cog": 193,
       "nav_status": 0,
-      "last_update": "2026-08-31 14:27:21.042304826 +0000 UTC"
+      "last_update": "2026-08-31 14:46:57.023280941 +0000 UTC"
     },
     {
-      "mmsi": "258088000",
-      "name": "BRAGE",
-      "lat": 69.6166,
-      "lon": 18.913,
-      "sog": 29.8,
-      "cog": 216,
+      "mmsi": "368396216",
+      "name": "SEASTREAK NEW JERSEY",
+      "lat": 40.6844,
+      "lon": -74.0338,
+      "sog": 34.3,
+      "cog": 31.1,
+      "nav_status": 15,
+      "last_update": "2026-08-31 14:47:31.514462272 +0000 UTC"
+    },
+    {
+      "mmsi": "219236000",
+      "name": "FJORD FSTR",
+      "lat": 58.0514,
+      "lon": 8.1885,
+      "sog": 32.6,
+      "cog": 293.6,
+      "nav_status": 0,
+      "last_update": "2026-08-31 14:47:35.368651748 +0000 UTC"
+    },
+    {
+      "mmsi": "211504822",
+      "name": "",
+      "lat": 50.0392,
+      "lon": 8.2081,
+      "sog": 32,
+      "cog": 69.1,
+      "nav_status": 0,
+      "last_update": "2026-08-31 14:47:22.193766582 +0000 UTC"
+    },
+    {
+      "mmsi": "368088610",
+      "name": "LYRA",
+      "lat": 37.9699,
+      "lon": -122.4291,
+      "sog": 31.9,
+      "cog": 206.9,
+      "nav_status": 0,
+      "last_update": "2026-08-31 14:46:45.648325865 +0000 UTC"
+    },
+    {
+      "mmsi": "368067090",
+      "name": "RELIANCE",
+      "lat": 47.5984,
+      "lon": -122.4308,
+      "sog": 31.1,
+      "cog": 55,
+      "nav_status": 0,
+      "last_update": "2026-08-31 14:46:55.92420883 +0000 UTC"
+    },
+    {
+      "mmsi": "316052439",
+      "name": "SPUHELS",
+      "lat": 49.2538,
+      "lon": -123.6155,
+      "sog": 30.9,
+      "cog": 76.7,
       "nav_status": 9,
-      "last_update": "2026-08-31 14:27:18.38816829 +0000 UTC"
+      "last_update": "2026-08-31 14:46:59.939784221 +0000 UTC"
     },
     {
-      "mmsi": "240383000",
-      "name": "DODEKANISOS PRIDE",
-      "lat": 36.6329,
-      "lon": 27.4688,
-      "sog": 28.8,
-      "cog": 111,
+      "mmsi": "369990275",
+      "name": "CG29275",
+      "lat": 36.8932,
+      "lon": -76.3288,
+      "sog": 30.5,
+      "cog": 167,
       "nav_status": 0,
-      "last_update": "2026-08-31 14:26:49.538748688 +0000 UTC"
+      "last_update": "2026-08-31 14:46:51.248443877 +0000 UTC"
     },
     {
-      "mmsi": "368206330",
-      "name": "SOLANO",
-      "lat": 47.6577,
-      "lon": -122.4672,
-      "sog": 28.7,
-      "cog": 156,
+      "mmsi": "235070199",
+      "name": "MANANNAN",
+      "lat": 54.1096,
+      "lon": -4.3914,
+      "sog": 28.9,
+      "cog": 131.7,
       "nav_status": 0,
-      "last_update": "2026-08-31 14:27:20.839775952 +0000 UTC"
-    },
-    {
-      "mmsi": "368081160",
-      "name": "TRAVERSITY",
-      "lat": 40.7791,
-      "lon": -73.9297,
-      "sog": 28.4,
-      "cog": 82.5,
-      "nav_status": 0,
-      "last_update": "2026-08-31 14:27:22.653170138 +0000 UTC"
-    },
-    {
-      "mmsi": "257930700",
-      "name": "SMINES",
-      "lat": 64.9782,
-      "lon": 11.5522,
-      "sog": 26.7,
-      "cog": 214.2,
-      "nav_status": 0,
-      "last_update": "2026-08-31 14:27:35.75571808 +0000 UTC"
-    },
-    {
-      "mmsi": "258306500",
-      "name": "BARONEN",
-      "lat": 59.8991,
-      "lon": 10.7072,
-      "sog": 26.2,
-      "cog": 236.5,
-      "nav_status": 0,
-      "last_update": "2026-08-31 14:27:36.287480191 +0000 UTC"
+      "last_update": "2026-08-31 14:47:04.964504141 +0000 UTC"
     }
   ]
 }
