@@ -1,36 +1,26 @@
 {
-  "updated_at": "2026-08-31T18:27:51Z",
-  "count": 3570,
+  "updated_at": "2026-08-31T18:47:53Z",
+  "count": 3672,
   "vessels": [
     {
-      "mmsi": "257863000",
-      "name": "ROSESUND",
-      "lat": 60.3838,
-      "lon": 5.3128,
+      "mmsi": "273437720",
+      "name": "VOLGO-DON 185",
+      "lat": 0,
+      "lon": 0,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-31 18:26:53.963121899 +0000 UTC"
+      "nav_status": 0,
+      "last_update": "2026-08-31 18:46:53.279005256 +0000 UTC"
     },
     {
-      "mmsi": "247130800",
-      "name": "SVEZIA",
-      "lat": 44.4114,
-      "lon": 8.9202,
+      "mmsi": "273354450",
+      "name": "POSEIDON S",
+      "lat": 35.8694,
+      "lon": 28.4521,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-31 18:27:13.987996855 +0000 UTC"
-    },
-    {
-      "mmsi": "258062500",
-      "name": "PERLEN",
-      "lat": 68.5669,
-      "lon": 14.9146,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-31 18:27:14.517768242 +0000 UTC"
+      "nav_status": 0,
+      "last_update": "2026-08-31 18:46:57.513157684 +0000 UTC"
     },
     {
       "mmsi": "601126900",
@@ -40,167 +30,179 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 8,
-      "last_update": "2026-08-31 18:27:19.845117163 +0000 UTC"
+      "last_update": "2026-08-31 18:46:59.223882462 +0000 UTC"
     },
     {
-      "mmsi": "245271000",
-      "name": "JALONBORG",
-      "lat": 40.839,
-      "lon": 8.3761,
+      "mmsi": "245382000",
+      "name": "",
+      "lat": 51.6217,
+      "lon": 3.6878,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-31 18:27:24.21623466 +0000 UTC"
+      "nav_status": 0,
+      "last_update": "2026-08-31 18:47:02.591660288 +0000 UTC"
     },
     {
-      "mmsi": "574001710",
-      "name": "LONG TAN 19",
-      "lat": 13.676,
-      "lon": 100.5515,
+      "mmsi": "235113676",
+      "name": "NSL EXCALIBUR",
+      "lat": 53.3221,
+      "lon": -3.262,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-31 18:47:05.214172862 +0000 UTC"
+    },
+    {
+      "mmsi": "211337780",
+      "name": "ATALANTA",
+      "lat": 53.8992,
+      "lon": 11.4571,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-31 18:47:08.051431961 +0000 UTC"
+    },
+    {
+      "mmsi": "235080649",
+      "name": "ONWARD N107",
+      "lat": 54.4565,
+      "lon": -5.4397,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-08-31 18:47:18.384759327 +0000 UTC"
+    },
+    {
+      "mmsi": "257070800",
+      "name": "ALEA OF LOFOTEN",
+      "lat": 68.2417,
+      "lon": 14.586,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-31 18:47:37.086747382 +0000 UTC"
+    },
+    {
+      "mmsi": "525401744",
+      "name": "INDOMAL DYNASTY",
+      "lat": 2.5152,
+      "lon": 101.8005,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-31 18:47:41.254475755 +0000 UTC"
+    },
+    {
+      "mmsi": "525104007",
+      "name": "TRANSKO JALAK",
+      "lat": -6.9477,
+      "lon": 110.4203,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 8,
-      "last_update": "2026-08-31 18:27:28.298211065 +0000 UTC"
+      "last_update": "2026-08-31 18:47:49.687849494 +0000 UTC"
     },
     {
-      "mmsi": "210588000",
-      "name": "LEDRA PRIDE",
-      "lat": 34.6452,
-      "lon": 33.018,
-      "sog": 102.3,
+      "mmsi": "636022962",
+      "name": "BRONX",
+      "lat": -12.0387,
+      "lon": -77.0404,
+      "sog": 102.2,
+      "cog": 174.3,
+      "nav_status": 1,
+      "last_update": "2026-08-31 18:47:03.813286755 +0000 UTC"
+    },
+    {
+      "mmsi": "319720000",
+      "name": "STARDUST",
+      "lat": 32.71,
+      "lon": -117.2336,
+      "sog": 102.2,
       "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-08-31 18:47:07.699736641 +0000 UTC"
+    },
+    {
+      "mmsi": "636023490",
+      "name": "WONDER STAR",
+      "lat": -12.0466,
+      "lon": -77.0418,
+      "sog": 98.1,
+      "cog": 173,
+      "nav_status": 1,
+      "last_update": "2026-08-31 18:47:14.898158097 +0000 UTC"
+    },
+    {
+      "mmsi": "577769000",
+      "name": "TUTUS",
+      "lat": -12.0494,
+      "lon": -77.0465,
+      "sog": 96.7,
+      "cog": 208,
       "nav_status": 8,
-      "last_update": "2026-08-31 18:27:34.982702056 +0000 UTC"
+      "last_update": "2026-08-31 18:47:26.20628381 +0000 UTC"
     },
     {
-      "mmsi": "205545000",
-      "name": "VB PANDA",
-      "lat": 51.33,
-      "lon": 3.197,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-31 18:27:44.231347945 +0000 UTC"
-    },
-    {
-      "mmsi": "440081950",
-      "name": "KOREA PEACE",
-      "lat": 37.4552,
-      "lon": 126.5997,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-31 18:27:45.230739148 +0000 UTC"
-    },
-    {
-      "mmsi": "273354450",
-      "name": "POSEIDON S",
-      "lat": 35.8695,
-      "lon": 28.4548,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-31 18:27:47.378789705 +0000 UTC"
-    },
-    {
-      "mmsi": "366989360",
-      "name": "INTINTOLI",
-      "lat": 37.9597,
-      "lon": -122.4327,
-      "sog": 36.6,
-      "cog": 4.4,
+      "mmsi": "563310600",
+      "name": "SHARK ISLAND",
+      "ship_type": 70,
+      "destination": "PL GDY",
+      "lat": 54.8688,
+      "lon": 20.0574,
+      "sog": 53.2,
+      "cog": 249.1,
       "nav_status": 5,
-      "last_update": "2026-08-31 18:26:55.593829505 +0000 UTC"
-    },
-    {
-      "mmsi": "257605000",
-      "name": "FROYA",
-      "lat": 60.4838,
-      "lon": 5.2507,
-      "sog": 33.6,
-      "cog": 181.5,
-      "nav_status": 9,
-      "last_update": "2026-08-31 18:27:29.056893495 +0000 UTC"
-    },
-    {
-      "mmsi": "265808520",
-      "name": "RESCUE MERCEDES S E",
-      "lat": 57.6873,
-      "lon": 11.6928,
-      "sog": 32.3,
-      "cog": 33.9,
-      "nav_status": 0,
-      "last_update": "2026-08-31 18:27:21.529814864 +0000 UTC"
+      "last_update": "2026-08-31 18:47:45.823218839 +0000 UTC"
     },
     {
       "mmsi": "224781000",
       "name": "VOLCAN DE TAGORO",
-      "lat": 28.2735,
-      "lon": -15.6536,
-      "sog": 32,
-      "cog": 111.5,
+      "lat": 28.214,
+      "lon": -15.4641,
+      "sog": 32.1,
+      "cog": 110.5,
       "nav_status": 9,
-      "last_update": "2026-08-31 18:26:59.267850105 +0000 UTC"
+      "last_update": "2026-08-31 18:47:02.542971057 +0000 UTC"
     },
     {
-      "mmsi": "265518880",
-      "name": "RESCUE BURRE",
-      "lat": 57.2873,
-      "lon": 16.5537,
-      "sog": 32,
-      "cog": 48.6,
+      "mmsi": "368457860",
+      "name": "EMERALD CLIPPER",
+      "lat": 47.9438,
+      "lon": -122.3473,
+      "sog": 31.3,
+      "cog": 193,
       "nav_status": 0,
-      "last_update": "2026-08-31 18:27:28.745911932 +0000 UTC"
+      "last_update": "2026-08-31 18:47:08.48827503 +0000 UTC"
     },
     {
-      "mmsi": "258088000",
-      "name": "BRAGE",
-      "lat": 69.9269,
-      "lon": 20.1754,
-      "sog": 31.8,
-      "cog": 183.4,
-      "nav_status": 9,
-      "last_update": "2026-08-31 18:26:48.763712402 +0000 UTC"
-    },
-    {
-      "mmsi": "257058290",
-      "name": "REGINE NORMANN",
-      "lat": 66.2869,
-      "lon": 12.9098,
-      "sog": 31.4,
-      "cog": 166.8,
-      "nav_status": 0,
-      "last_update": "2026-08-31 18:27:07.224515989 +0000 UTC"
-    },
-    {
-      "mmsi": "224984000",
-      "name": "VOLCAN DE TAIDIA",
-      "lat": 28.3021,
-      "lon": -15.83,
+      "mmsi": "225344000",
+      "name": "BETANCURIA EXPRESS",
+      "lat": 28.0598,
+      "lon": -15.0027,
       "sog": 30.9,
-      "cog": 298.6,
+      "cog": 91,
       "nav_status": 0,
-      "last_update": "2026-08-31 18:27:02.724810476 +0000 UTC"
+      "last_update": "2026-08-31 18:47:47.833989892 +0000 UTC"
     },
     {
-      "mmsi": "316057216",
-      "name": "TYMAC RIVAL",
-      "lat": 49.3074,
-      "lon": -123.0842,
-      "sog": 30.1,
-      "cog": 74,
+      "mmsi": "257125290",
+      "name": "FREDRIKKE T-OLSEN",
+      "lat": 66.3997,
+      "lon": 12.4873,
+      "sog": 29.8,
+      "cog": 242.6,
       "nav_status": 0,
-      "last_update": "2026-08-31 18:27:36.055067846 +0000 UTC"
+      "last_update": "2026-08-31 18:47:18.419828498 +0000 UTC"
     },
     {
-      "mmsi": "368396226",
-      "name": "NANTUCKET_EXPRESS",
-      "lat": 41.546,
-      "lon": -70.7649,
-      "sog": 28.4,
-      "cog": 108.2,
-      "nav_status": 15,
-      "last_update": "2026-08-31 18:27:01.83027684 +0000 UTC"
+      "mmsi": "235117772",
+      "name": "ISLAND FLYER",
+      "lat": 50.7694,
+      "lon": -1.1161,
+      "sog": 28.8,
+      "cog": 43.8,
+      "nav_status": 0,
+      "last_update": "2026-08-31 18:47:06.249234491 +0000 UTC"
     }
   ]
 }
