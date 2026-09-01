@@ -1,206 +1,206 @@
 {
-  "updated_at": "2026-09-01T23:28:09Z",
-  "count": 3526,
+  "updated_at": "2026-09-01T23:48:00Z",
+  "count": 3611,
   "vessels": [
     {
-      "mmsi": "428067000",
-      "name": "BAT GALIM",
-      "lat": 33.3513,
-      "lon": 34.0166,
+      "mmsi": "273354450",
+      "name": "POSEIDON S",
+      "lat": 35.9378,
+      "lon": 28.4495,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-01 23:27:13.528237706 +0000 UTC"
-    },
-    {
-      "mmsi": "368458240",
-      "name": "DAGNY",
-      "lat": 40.476,
-      "lon": -73.9737,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-01 23:27:14.981045721 +0000 UTC"
-    },
-    {
-      "mmsi": "261007705",
-      "name": "FAIRPLAY-83",
-      "lat": 53.9074,
-      "lon": 14.2599,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-01 23:27:15.135490663 +0000 UTC"
-    },
-    {
-      "mmsi": "235090927",
-      "name": "LERRIX",
-      "lat": 31.823,
-      "lon": 34.6415,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-01 23:27:17.321322661 +0000 UTC"
-    },
-    {
-      "mmsi": "240796900",
-      "name": "SEALINK VII",
-      "lat": 37.862,
-      "lon": 23.744,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-09-01 23:27:17.552390003 +0000 UTC"
-    },
-    {
-      "mmsi": "316014014",
-      "name": "TAKAYA",
-      "lat": 49.2863,
-      "lon": -123.1004,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-01 23:27:23.53805587 +0000 UTC"
-    },
-    {
-      "mmsi": "367434210",
-      "name": "FIORELLO LAGUARDIA",
-      "lat": 40.7605,
-      "lon": -74.0041,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-01 23:27:25.525730608 +0000 UTC"
+      "last_update": "2026-09-01 23:46:56.47651349 +0000 UTC"
     },
     {
       "mmsi": "245382000",
       "name": "",
       "lat": 51.6217,
-      "lon": 3.6877,
+      "lon": 3.688,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-01 23:27:32.71830309 +0000 UTC"
+      "last_update": "2026-09-01 23:47:32.039937164 +0000 UTC"
     },
     {
-      "mmsi": "273398130",
-      "name": "AZOV",
-      "lat": 40.3756,
-      "lon": 27.9914,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-09-01 23:27:33.90478626 +0000 UTC"
-    },
-    {
-      "mmsi": "259046050",
-      "name": "FREMAD",
-      "lat": 66.3729,
-      "lon": 12.361,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-01 23:27:35.158205292 +0000 UTC"
-    },
-    {
-      "mmsi": "211652800",
-      "name": "LAUENBURG",
-      "lat": 53.37,
-      "lon": 10.5541,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-01 23:27:37.581588552 +0000 UTC"
-    },
-    {
-      "mmsi": "235070403",
-      "name": "WINDCAT 14",
-      "lat": 57.1435,
-      "lon": -2.0901,
+      "mmsi": "247130800",
+      "name": "SVEZIA",
+      "lat": 44.4114,
+      "lon": 8.9202,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-01 23:27:38.180501207 +0000 UTC"
+      "last_update": "2026-09-01 23:47:04.224316878 +0000 UTC"
     },
     {
-      "mmsi": "601126900",
-      "name": "SEA EXPRESS",
-      "lat": -29.8682,
-      "lon": 31.0141,
+      "mmsi": "246445000",
+      "name": "KNRM-ALIES EN EVERT",
+      "lat": 53.174,
+      "lon": 4.8692,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-09-01 23:27:47.885330861 +0000 UTC"
+      "nav_status": 0,
+      "last_update": "2026-09-01 23:47:06.806913168 +0000 UTC"
+    },
+    {
+      "mmsi": "244060365",
+      "name": "KNRM ARBOR VITAE",
+      "lat": 53.4088,
+      "lon": 6.1974,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-01 23:47:10.933132488 +0000 UTC"
     },
     {
       "mmsi": "667002572",
       "name": "AB AYANA",
-      "lat": -12.0317,
-      "lon": -77.0447,
+      "lat": -12.0316,
+      "lon": -77.0449,
       "sog": 102.3,
-      "cog": 121.1,
+      "cog": 120,
       "nav_status": 0,
-      "last_update": "2026-09-01 23:27:51.977850941 +0000 UTC"
+      "last_update": "2026-09-01 23:47:14.446382688 +0000 UTC"
     },
     {
-      "mmsi": "368206330",
-      "name": "SOLANO",
-      "lat": 47.6536,
-      "lon": -122.4653,
-      "sog": 35,
-      "cog": 144.6,
-      "nav_status": 0,
-      "last_update": "2026-09-01 23:27:22.863554859 +0000 UTC"
-    },
-    {
-      "mmsi": "368457860",
-      "name": "EMERALD CLIPPER",
-      "lat": 47.9925,
-      "lon": -122.2954,
-      "sog": 27,
-      "cog": 214.1,
-      "nav_status": 0,
-      "last_update": "2026-09-01 23:27:45.858891231 +0000 UTC"
-    },
-    {
-      "mmsi": "512005706",
-      "name": "KORORA",
-      "lat": -36.8401,
-      "lon": 174.7997,
-      "sog": 26.4,
-      "cog": 269,
-      "nav_status": 0,
-      "last_update": "2026-09-01 23:27:33.968496118 +0000 UTC"
-    },
-    {
-      "mmsi": "367199310",
-      "name": "CATALINA JET",
-      "lat": 33.5385,
-      "lon": -118.2434,
-      "sog": 25.8,
-      "cog": 19.8,
+      "mmsi": "235080649",
+      "name": "ONWARD N107",
+      "lat": 54.4565,
+      "lon": -5.4397,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-09-01 23:27:46.424405234 +0000 UTC"
+      "last_update": "2026-09-01 23:47:17.619918888 +0000 UTC"
     },
     {
-      "mmsi": "239737000",
-      "name": "BLUE STAR 2",
-      "lat": 37.2781,
-      "lon": 26.1906,
-      "sog": 25.3,
-      "cog": 275.7,
+      "mmsi": "440215970",
+      "name": "DONG YANG .9",
+      "lat": 37.4892,
+      "lon": 126.6167,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-01 23:27:14.118726222 +0000 UTC"
+      "last_update": "2026-09-01 23:47:20.546412479 +0000 UTC"
     },
     {
-      "mmsi": "366943940",
-      "name": "SUPER EXPRESS",
-      "lat": 33.6436,
-      "lon": -118.2602,
-      "sog": 24.8,
-      "cog": 9.1,
+      "mmsi": "235034368",
+      "name": "MULTI-SURVEY 4",
+      "lat": 52.955,
+      "lon": 4.7791,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-01 23:27:00.075335793 +0000 UTC"
+      "last_update": "2026-09-01 23:47:29.447253211 +0000 UTC"
+    },
+    {
+      "mmsi": "503000080",
+      "name": "MANNING",
+      "lat": -33.8683,
+      "lon": 151.222,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-01 23:47:33.921980326 +0000 UTC"
+    },
+    {
+      "mmsi": "271000677",
+      "name": "VENTO DI MELTEMI",
+      "lat": 38.5142,
+      "lon": -8.8729,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-01 23:47:37.40178592 +0000 UTC"
+    },
+    {
+      "mmsi": "567002520",
+      "name": "NP CHUMPHON",
+      "lat": 13.671,
+      "lon": 100.5795,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-01 23:47:46.321591219 +0000 UTC"
+    },
+    {
+      "mmsi": "636025220",
+      "name": "ELA T",
+      "lat": -12.0324,
+      "lon": -77.0555,
+      "sog": 102.2,
+      "cog": 49.9,
+      "nav_status": 1,
+      "last_update": "2026-09-01 23:46:52.356181961 +0000 UTC"
+    },
+    {
+      "mmsi": "367447520",
+      "name": "SALACIA",
+      "lat": 42.2978,
+      "lon": -70.9683,
+      "sog": 36.5,
+      "cog": 145.4,
+      "nav_status": 0,
+      "last_update": "2026-09-01 23:46:57.701697452 +0000 UTC"
+    },
+    {
+      "mmsi": "368067090",
+      "name": "RELIANCE",
+      "lat": 47.5904,
+      "lon": -122.5622,
+      "sog": 35.3,
+      "cog": 227.6,
+      "nav_status": 0,
+      "last_update": "2026-09-01 23:47:47.673588107 +0000 UTC"
+    },
+    {
+      "mmsi": "366989380",
+      "name": "MARE ISLAND",
+      "lat": 37.9612,
+      "lon": -122.443,
+      "sog": 33,
+      "cog": 202.5,
+      "nav_status": 0,
+      "last_update": "2026-09-01 23:47:04.176916652 +0000 UTC"
+    },
+    {
+      "mmsi": "368341690",
+      "name": "DELPHINUS",
+      "lat": 37.7795,
+      "lon": -122.3562,
+      "sog": 30.6,
+      "cog": 122,
+      "nav_status": 0,
+      "last_update": "2026-09-01 23:47:15.078386589 +0000 UTC"
+    },
+    {
+      "mmsi": "316016131",
+      "name": "PACIFIC GUARDIAN",
+      "lat": 48.4086,
+      "lon": -123.3879,
+      "sog": 29.1,
+      "cog": 120,
+      "nav_status": 0,
+      "last_update": "2026-09-01 23:47:37.439211681 +0000 UTC"
+    },
+    {
+      "mmsi": "367036190",
+      "name": "MARTHA'S VINEYARD EX",
+      "lat": 41.4639,
+      "lon": -70.5524,
+      "sog": 28,
+      "cog": 355.8,
+      "nav_status": 0,
+      "last_update": "2026-09-01 23:47:20.582216707 +0000 UTC"
+    },
+    {
+      "mmsi": "366768030",
+      "name": "STARSHIP EXPRESS",
+      "lat": 33.7124,
+      "lon": -118.1873,
+      "sog": 27.5,
+      "cog": 196,
+      "nav_status": 5,
+      "last_update": "2026-09-01 23:47:33.493860711 +0000 UTC"
     }
   ]
 }
