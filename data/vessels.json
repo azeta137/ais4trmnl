@@ -1,46 +1,66 @@
 {
-  "updated_at": "2026-09-01T08:51:46Z",
-  "count": 3568,
+  "updated_at": "2026-09-01T09:14:40Z",
+  "count": 3544,
   "vessels": [
     {
-      "mmsi": "235080649",
-      "name": "ONWARD N107",
-      "lat": 54.4565,
-      "lon": -5.4396,
+      "mmsi": "240796900",
+      "name": "SEALINK VII",
+      "lat": 37.862,
+      "lon": 23.744,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-01 08:50:38.715472163 +0000 UTC"
+      "nav_status": 1,
+      "last_update": "2026-09-01 09:13:37.17775226 +0000 UTC"
     },
     {
-      "mmsi": "601126900",
-      "name": "SEA EXPRESS",
-      "lat": -29.8682,
-      "lon": 31.0142,
+      "mmsi": "259046050",
+      "name": "FREMAD",
+      "lat": 66.373,
+      "lon": 12.3612,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-01 09:13:46.085596787 +0000 UTC"
+    },
+    {
+      "mmsi": "263701380",
+      "name": "FERNANDO NAMORA",
+      "lat": 38.6533,
+      "lon": -9.0806,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 8,
-      "last_update": "2026-09-01 08:50:41.670286178 +0000 UTC"
+      "last_update": "2026-09-01 09:13:52.959833862 +0000 UTC"
     },
     {
-      "mmsi": "563147700",
-      "name": "PSA VISION (NN27)",
-      "lat": 1.2546,
-      "lon": 103.8499,
+      "mmsi": "316014014",
+      "name": "TAKAYA",
+      "lat": 49.2863,
+      "lon": -123.1005,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-01 08:50:43.635359313 +0000 UTC"
+      "nav_status": 15,
+      "last_update": "2026-09-01 09:13:55.700342238 +0000 UTC"
     },
     {
-      "mmsi": "235090927",
-      "name": "LERRIX",
-      "lat": 31.8462,
-      "lon": 34.6392,
+      "mmsi": "245382000",
+      "name": "",
+      "lat": 51.6215,
+      "lon": 3.6879,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-01 08:50:43.798662133 +0000 UTC"
+      "nav_status": 0,
+      "last_update": "2026-09-01 09:13:57.572727056 +0000 UTC"
+    },
+    {
+      "mmsi": "367434210",
+      "name": "FIORELLO LAGUARDIA",
+      "lat": 40.7715,
+      "lon": -74.0118,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-01 09:14:03.857935182 +0000 UTC"
     },
     {
       "mmsi": "271000677",
@@ -50,27 +70,7 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-01 08:50:46.91988264 +0000 UTC"
-    },
-    {
-      "mmsi": "428009088",
-      "name": "DANCHOR X",
-      "lat": 31.8243,
-      "lon": 34.6451,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-01 08:50:53.661460116 +0000 UTC"
-    },
-    {
-      "mmsi": "273354450",
-      "name": "POSEIDON S",
-      "lat": 36.0083,
-      "lon": 28.4763,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-01 08:50:56.307021542 +0000 UTC"
+      "last_update": "2026-09-01 09:14:08.429747357 +0000 UTC"
     },
     {
       "mmsi": "271044493",
@@ -80,127 +80,127 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-01 08:51:03.746694261 +0000 UTC"
+      "last_update": "2026-09-01 09:14:16.527132742 +0000 UTC"
     },
     {
-      "mmsi": "235113676",
-      "name": "NSL EXCALIBUR",
-      "lat": 53.3222,
-      "lon": -3.262,
+      "mmsi": "368173000",
+      "name": "FISHING CREEK",
+      "lat": 37.774,
+      "lon": -122.2417,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-01 08:51:25.524458842 +0000 UTC"
+      "nav_status": 5,
+      "last_update": "2026-09-01 09:14:18.351824379 +0000 UTC"
     },
     {
-      "mmsi": "250101900",
-      "name": "GUIDING STAR 2",
-      "lat": 51.6509,
-      "lon": -9.9082,
+      "mmsi": "228436800",
+      "name": "F/V LAREDO",
+      "lat": 42.2297,
+      "lon": -8.7512,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-01 08:51:28.05898395 +0000 UTC"
+      "nav_status": 5,
+      "last_update": "2026-09-01 09:14:20.680092772 +0000 UTC"
     },
     {
-      "mmsi": "367482990",
-      "name": "YORK",
-      "lat": 40.7716,
-      "lon": -74.0112,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-01 08:51:32.159609299 +0000 UTC"
+      "mmsi": "244039545",
+      "name": "THE LOUNGE 2",
+      "lat": 52.3673,
+      "lon": 4.925,
+      "sog": 61,
+      "cog": 288.7,
+      "nav_status": 8,
+      "last_update": "2026-09-01 09:13:56.877827785 +0000 UTC"
     },
     {
-      "mmsi": "210967000",
-      "name": "CHAMPIONSLEAGUE JET1",
-      "lat": 37.472,
-      "lon": 24.9562,
-      "sog": 36.4,
-      "cog": 166.7,
+      "mmsi": "224131000",
+      "name": "BAJAMAR EXPRESS",
+      "lat": 28.4194,
+      "lon": -16.1538,
+      "sog": 33.4,
+      "cog": 132,
       "nav_status": 0,
-      "last_update": "2026-09-01 08:50:36.62497436 +0000 UTC"
+      "last_update": "2026-09-01 09:14:01.768539205 +0000 UTC"
     },
     {
-      "mmsi": "219236000",
-      "name": "FJORD FSTR",
-      "lat": 57.6704,
-      "lon": 9.6651,
-      "sog": 32.8,
-      "cog": 111.7,
+      "mmsi": "224689000",
+      "name": "BENTAGO EXPRESS",
+      "lat": 27.9953,
+      "lon": -16.7559,
+      "sog": 33.1,
+      "cog": 59.9,
       "nav_status": 0,
-      "last_update": "2026-09-01 08:51:32.224325832 +0000 UTC"
+      "last_update": "2026-09-01 09:13:38.600586271 +0000 UTC"
     },
     {
-      "mmsi": "232015629",
-      "name": "RED JET 7",
-      "lat": 50.8562,
-      "lon": -1.3512,
-      "sog": 32.4,
-      "cog": 309.6,
+      "mmsi": "224984000",
+      "name": "VOLCAN DE TAIDIA",
+      "lat": 28.4222,
+      "lon": -16.0682,
+      "sog": 31.5,
+      "cog": 109.5,
       "nav_status": 0,
-      "last_update": "2026-09-01 08:50:35.50394708 +0000 UTC"
+      "last_update": "2026-09-01 09:14:16.614739793 +0000 UTC"
     },
     {
-      "mmsi": "247047400",
-      "name": "NETTUNO JET",
-      "lat": 40.7801,
-      "lon": 14.1487,
-      "sog": 28.7,
-      "cog": 265.2,
+      "mmsi": "210746000",
+      "name": "AERO 5 HIGHSPEED",
+      "lat": 37.7296,
+      "lon": 23.5896,
+      "sog": 31,
+      "cog": 5.9,
       "nav_status": 0,
-      "last_update": "2026-09-01 08:50:38.183418713 +0000 UTC"
+      "last_update": "2026-09-01 09:13:49.870775621 +0000 UTC"
     },
     {
-      "mmsi": "316016131",
-      "name": "PACIFIC GUARDIAN",
-      "lat": 48.369,
-      "lon": -123.4067,
-      "sog": 28.4,
-      "cog": 194.2,
+      "mmsi": "271053065",
+      "name": "TAYYAR TUGAY",
+      "lat": 36.7937,
+      "lon": 28.2682,
+      "sog": 29.5,
+      "cog": 144,
       "nav_status": 0,
-      "last_update": "2026-09-01 08:51:27.080016143 +0000 UTC"
+      "last_update": "2026-09-01 09:14:03.630243749 +0000 UTC"
     },
     {
-      "mmsi": "247139400",
-      "name": "VITTORIA M",
-      "lat": 37.9962,
-      "lon": 12.4831,
-      "sog": 28.1,
-      "cog": 64.8,
+      "mmsi": "224441000",
+      "name": "BENCHIJIGUA EXPRESS",
+      "lat": 28.0412,
+      "lon": -17.0039,
+      "sog": 29.5,
+      "cog": 286.8,
       "nav_status": 0,
-      "last_update": "2026-09-01 08:51:28.252170603 +0000 UTC"
+      "last_update": "2026-09-01 09:14:16.18363734 +0000 UTC"
     },
     {
-      "mmsi": "239710000",
-      "name": "BLUE STAR 1",
-      "lat": 37.2557,
-      "lon": 24.848,
-      "sog": 26.7,
-      "cog": 305,
+      "mmsi": "212561000",
+      "name": "CEUTA JET",
+      "lat": 35.9479,
+      "lon": -5.3242,
+      "sog": 27.6,
+      "cog": 165.3,
       "nav_status": 0,
-      "last_update": "2026-09-01 08:51:28.775508223 +0000 UTC"
+      "last_update": "2026-09-01 09:14:21.157477858 +0000 UTC"
     },
     {
-      "mmsi": "368184910",
-      "name": "SPINDLETOP",
-      "lat": 29.5121,
-      "lon": -93.7096,
-      "sog": 26.5,
-      "cog": 317.3,
+      "mmsi": "203999485",
+      "name": "TWIN CITY LINER",
+      "lat": 48.1736,
+      "lon": 16.9681,
+      "sog": 27.5,
+      "cog": 271.3,
       "nav_status": 0,
-      "last_update": "2026-09-01 08:50:39.409907428 +0000 UTC"
+      "last_update": "2026-09-01 09:13:33.518990453 +0000 UTC"
     },
     {
-      "mmsi": "247097200",
-      "name": "SUPER FLYTE",
-      "lat": 40.6378,
-      "lon": 14.3473,
-      "sog": 25.9,
-      "cog": 251,
+      "mmsi": "247091800",
+      "name": "VESUVIO JET",
+      "lat": 40.6506,
+      "lon": 14.2731,
+      "sog": 26.2,
+      "cog": 188,
       "nav_status": 0,
-      "last_update": "2026-09-01 08:51:30.747992746 +0000 UTC"
+      "last_update": "2026-09-01 09:13:40.748447993 +0000 UTC"
     }
   ]
 }
