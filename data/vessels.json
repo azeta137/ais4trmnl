@@ -1,106 +1,118 @@
 {
-  "updated_at": "2026-09-01T15:51:46Z",
-  "count": 3445,
+  "updated_at": "2026-09-01T16:39:33Z",
+  "count": 3536,
   "vessels": [
     {
-      "mmsi": "261007705",
-      "name": "FAIRPLAY-83",
-      "lat": 53.9073,
-      "lon": 14.2599,
+      "mmsi": "244060365",
+      "name": "KNRM ARBOR VITAE",
+      "lat": 53.4087,
+      "lon": 6.1974,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-01 15:50:35.197706317 +0000 UTC"
+      "last_update": "2026-09-01 16:38:30.396827914 +0000 UTC"
     },
     {
-      "mmsi": "316014014",
-      "name": "TAKAYA",
-      "lat": 49.2863,
-      "lon": -123.1004,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-01 15:50:37.041603159 +0000 UTC"
-    },
-    {
-      "mmsi": "245382000",
-      "name": "",
-      "lat": 51.6217,
-      "lon": 3.6879,
+      "mmsi": "367434210",
+      "name": "FIORELLO LAGUARDIA",
+      "lat": 40.7717,
+      "lon": -74.0109,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-01 15:50:42.339385998 +0000 UTC"
+      "last_update": "2026-09-01 16:39:19.823214294 +0000 UTC"
     },
     {
-      "mmsi": "352002481",
-      "name": "BARU SIERRA NEVADA",
-      "lat": -22.8481,
-      "lon": -43.1293,
+      "mmsi": "225423000",
+      "name": "VOLCAN DE TINAMAR",
+      "lat": 35.8495,
+      "lon": -7.0805,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-09-01 15:50:48.587910798 +0000 UTC"
+      "nav_status": 0,
+      "last_update": "2026-09-01 16:39:07.567783136 +0000 UTC"
     },
     {
-      "mmsi": "428009088",
-      "name": "DANCHOR X",
-      "lat": 31.8243,
-      "lon": 34.6451,
+      "mmsi": "440081950",
+      "name": "KOREA PEACE",
+      "lat": 37.4553,
+      "lon": 126.5997,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-01 16:38:45.65298265 +0000 UTC"
+    },
+    {
+      "mmsi": "244374235",
+      "name": "NT 11 WATERTRAPPER",
+      "lat": 52.3996,
+      "lon": 4.8999,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-01 16:38:46.797619864 +0000 UTC"
+    },
+    {
+      "mmsi": "574001710",
+      "name": "LONG TAN 19",
+      "lat": 13.6761,
+      "lon": 100.5515,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-01 15:50:49.291461999 +0000 UTC"
+      "last_update": "2026-09-01 16:38:53.310676396 +0000 UTC"
     },
     {
-      "mmsi": "219385000",
-      "name": "BJOERNSHOLM",
-      "lat": 55.6793,
-      "lon": 12.593,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-01 15:50:56.023953253 +0000 UTC"
-    },
-    {
-      "mmsi": "428067000",
-      "name": "BAT GALIM",
-      "lat": 32.8202,
-      "lon": 35.0073,
+      "mmsi": "257863000",
+      "name": "ROSESUND",
+      "lat": 60.3842,
+      "lon": 5.3131,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-01 15:51:01.870615919 +0000 UTC"
+      "last_update": "2026-09-01 16:38:55.959216138 +0000 UTC"
     },
     {
-      "mmsi": "211337780",
-      "name": "ATALANTA",
-      "lat": 53.8992,
-      "lon": 11.4571,
+      "mmsi": "525104007",
+      "name": "TRANSKO JALAK",
+      "lat": -6.9477,
+      "lon": 110.4203,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-09-01 16:39:02.83113877 +0000 UTC"
+    },
+    {
+      "mmsi": "250101900",
+      "name": "GUIDING STAR 2",
+      "lat": 51.6509,
+      "lon": -9.9082,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-01 15:51:08.332656365 +0000 UTC"
+      "last_update": "2026-09-01 16:39:07.500493047 +0000 UTC"
     },
     {
-      "mmsi": "259046050",
-      "name": "FREMAD",
-      "lat": 66.3729,
-      "lon": 12.361,
+      "mmsi": "366081959",
+      "name": "FIREBOAT 3",
+      "ship_type": 0,
+      "destination": "",
+      "lat": 33.7245,
+      "lon": -118.2709,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-01 15:51:13.864185597 +0000 UTC"
+      "last_update": "2026-09-01 16:39:19.509315545 +0000 UTC"
     },
     {
-      "mmsi": "240796900",
-      "name": "SEALINK VII",
-      "lat": 37.862,
-      "lon": 23.7439,
+      "mmsi": "319067100",
+      "name": "WINWIN",
+      "lat": 39.4887,
+      "lon": 2.4767,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-09-01 15:51:18.307163956 +0000 UTC"
+      "nav_status": 8,
+      "last_update": "2026-09-01 16:39:19.726933052 +0000 UTC"
     },
     {
       "mmsi": "210920000",
@@ -110,97 +122,87 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-01 15:51:24.880876944 +0000 UTC"
+      "last_update": "2026-09-01 16:39:25.410346366 +0000 UTC"
     },
     {
-      "mmsi": "210052000",
-      "name": "EUROCHAMPION JET 2",
-      "lat": 37.6709,
-      "lon": 23.851,
-      "sog": 36.1,
-      "cog": 296.6,
+      "mmsi": "246445000",
+      "name": "KNRM-ALIES EN EVERT",
+      "lat": 53.174,
+      "lon": 4.8692,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-01 15:51:13.772802278 +0000 UTC"
+      "last_update": "2026-09-01 16:39:26.382340578 +0000 UTC"
     },
     {
-      "mmsi": "366989380",
-      "name": "MARE ISLAND",
-      "lat": 37.9368,
-      "lon": -122.4446,
-      "sog": 34.5,
-      "cog": 181.6,
+      "mmsi": "316014014",
+      "name": "TAKAYA",
+      "lat": 49.2863,
+      "lon": -123.1005,
+      "sog": 102.2,
+      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-01 15:50:50.003317143 +0000 UTC"
+      "last_update": "2026-09-01 16:38:47.354023275 +0000 UTC"
+    },
+    {
+      "mmsi": "366889830",
+      "name": "LEGACY        ?",
+      "lat": 0,
+      "lon": 0,
+      "sog": 102.2,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-01 16:39:01.080732906 +0000 UTC"
+    },
+    {
+      "mmsi": "366778450",
+      "name": "GOLDEN GATE",
+      "lat": 37.9975,
+      "lon": -122.4135,
+      "sog": 42.6,
+      "cog": 221.6,
+      "nav_status": 0,
+      "last_update": "2026-09-01 16:39:29.252888338 +0000 UTC"
+    },
+    {
+      "mmsi": "219018172",
+      "name": "EXPRESS 2",
+      "lat": 56.0826,
+      "lon": 10.4783,
+      "sog": 36.6,
+      "cog": 300.1,
+      "nav_status": 0,
+      "last_update": "2026-09-01 16:39:19.763094728 +0000 UTC"
+    },
+    {
+      "mmsi": "367301110",
+      "name": "CODZILLA",
+      "lat": 42.3447,
+      "lon": -71.0141,
+      "sog": 35,
+      "cog": 132.6,
+      "nav_status": 0,
+      "last_update": "2026-09-01 16:39:27.388247145 +0000 UTC"
+    },
+    {
+      "mmsi": "338519000",
+      "name": "SWIFTSURE",
+      "lat": 47.8164,
+      "lon": -122.3979,
+      "sog": 32.9,
+      "cog": 329.4,
+      "nav_status": 0,
+      "last_update": "2026-09-01 16:39:07.369864989 +0000 UTC"
     },
     {
       "mmsi": "232015629",
       "name": "RED JET 7",
-      "lat": 50.8836,
-      "lon": -1.3994,
-      "sog": 32.2,
-      "cog": 144.3,
+      "lat": 50.8693,
+      "lon": -1.3757,
+      "sog": 32.3,
+      "cog": 309.6,
       "nav_status": 0,
-      "last_update": "2026-09-01 15:50:35.815043197 +0000 UTC"
-    },
-    {
-      "mmsi": "257095920",
-      "name": "FJORDJARL",
-      "lat": 69.1563,
-      "lon": 17.872,
-      "sog": 31.3,
-      "cog": 243.6,
-      "nav_status": 0,
-      "last_update": "2026-09-01 15:50:56.971244069 +0000 UTC"
-    },
-    {
-      "mmsi": "368206330",
-      "name": "SOLANO",
-      "lat": 47.7802,
-      "lon": -122.4582,
-      "sog": 31.2,
-      "cog": 136.1,
-      "nav_status": 0,
-      "last_update": "2026-09-01 15:51:04.896623731 +0000 UTC"
-    },
-    {
-      "mmsi": "212859000",
-      "name": "MERCEDES PINTO",
-      "lat": 28.348,
-      "lon": -15.6816,
-      "sog": 31,
-      "cog": 100,
-      "nav_status": 0,
-      "last_update": "2026-09-01 15:50:41.105702566 +0000 UTC"
-    },
-    {
-      "mmsi": "259257000",
-      "name": "GODOEY",
-      "lat": 62.4186,
-      "lon": 6.0437,
-      "sog": 30.4,
-      "cog": 181.3,
-      "nav_status": 0,
-      "last_update": "2026-09-01 15:51:31.223150737 +0000 UTC"
-    },
-    {
-      "mmsi": "368396226",
-      "name": "NANTUCKET_EXPRESS",
-      "lat": 41.4378,
-      "lon": -70.317,
-      "sog": 30.1,
-      "cog": 289.7,
-      "nav_status": 15,
-      "last_update": "2026-09-01 15:51:19.249786544 +0000 UTC"
-    },
-    {
-      "mmsi": "241802000",
-      "name": "AERO 1 HIGHSPEED",
-      "lat": 37.9152,
-      "lon": 23.6028,
-      "sog": 30,
-      "cog": 190.6,
-      "nav_status": 0,
-      "last_update": "2026-09-01 15:51:22.621857154 +0000 UTC"
+      "last_update": "2026-09-01 16:38:57.087199955 +0000 UTC"
     }
   ]
 }
