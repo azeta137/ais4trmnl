@@ -1,18 +1,26 @@
 {
-  "updated_at": "2026-08-31T23:47:44Z",
-  "count": 3693,
+  "updated_at": "2026-09-01T00:21:49Z",
+  "count": 3719,
   "vessels": [
     {
-      "mmsi": "525104007",
-      "name": "TRANSKO JALAK",
-      "lat": -6.9477,
-      "lon": 110.4203,
+      "mmsi": "246445000",
+      "name": "KNRM-ALIES EN EVERT",
+      "lat": 53.174,
+      "lon": 4.8691,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-08-31 23:46:44.349932989 +0000 UTC",
-      "ship_type": 52,
-      "destination": "SEMARANG"
+      "nav_status": 0,
+      "last_update": "2026-09-01 00:20:47.096170444 +0000 UTC"
+    },
+    {
+      "mmsi": "477996369",
+      "name": "HYDRO1",
+      "lat": 22.3226,
+      "lon": 114.1421,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-01 00:21:07.410087665 +0000 UTC"
     },
     {
       "mmsi": "316046329",
@@ -22,37 +30,7 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-31 23:46:47.928689894 +0000 UTC"
-    },
-    {
-      "mmsi": "367415390",
-      "name": "EMPIRE STATE",
-      "lat": 40.7153,
-      "lon": -74.0176,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-08-31 23:47:12.545752949 +0000 UTC"
-    },
-    {
-      "mmsi": "247130800",
-      "name": "SVEZIA",
-      "lat": 44.4114,
-      "lon": 8.9202,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-31 23:46:55.658775695 +0000 UTC"
-    },
-    {
-      "mmsi": "375369000",
-      "name": "ZAYYAN K",
-      "lat": 31.818,
-      "lon": 34.617,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-08-31 23:46:58.164991516 +0000 UTC"
+      "last_update": "2026-09-01 00:21:07.448010971 +0000 UTC"
     },
     {
       "mmsi": "245382000",
@@ -62,27 +40,7 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-31 23:47:02.624088667 +0000 UTC"
-    },
-    {
-      "mmsi": "368173000",
-      "name": "FISHING CREEK",
-      "lat": 37.7741,
-      "lon": -122.2418,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-08-31 23:47:12.253405671 +0000 UTC"
-    },
-    {
-      "mmsi": "230941040",
-      "name": "VESTURFARID",
-      "lat": 60.1808,
-      "lon": 22.0618,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 7,
-      "last_update": "2026-08-31 23:47:12.795568898 +0000 UTC"
+      "last_update": "2026-09-01 00:21:12.163697969 +0000 UTC"
     },
     {
       "mmsi": "319720000",
@@ -92,17 +50,17 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-31 23:47:17.071894806 +0000 UTC"
+      "last_update": "2026-09-01 00:21:26.865500656 +0000 UTC"
     },
     {
-      "mmsi": "525110616",
-      "name": "BMU 001",
-      "lat": -2.0593,
-      "lon": 104.9956,
+      "mmsi": "244010956",
+      "name": "P93",
+      "lat": 51.893,
+      "lon": 4.2306,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-08-31 23:47:21.927151825 +0000 UTC"
+      "nav_status": 0,
+      "last_update": "2026-09-01 00:21:32.183040756 +0000 UTC"
     },
     {
       "mmsi": "259046050",
@@ -112,97 +70,139 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-31 23:47:27.131175201 +0000 UTC"
+      "last_update": "2026-09-01 00:21:35.461929528 +0000 UTC"
     },
     {
-      "mmsi": "235080649",
-      "name": "ONWARD N107",
-      "lat": 54.4565,
-      "lon": -5.4397,
+      "mmsi": "428067000",
+      "name": "BAT GALIM",
+      "lat": 32.8202,
+      "lon": 35.0073,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-01 00:21:38.546589089 +0000 UTC"
+    },
+    {
+      "mmsi": "477997158",
+      "name": "PORT WORKS 5",
+      "lat": 22.3235,
+      "lon": 114.1415,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-08-31 23:47:27.592490531 +0000 UTC"
+      "last_update": "2026-09-01 00:21:42.555698082 +0000 UTC",
+      "ship_type": 99,
+      "destination": ""
     },
     {
-      "mmsi": "273354450",
-      "name": "POSEIDON S",
-      "lat": 36.0396,
-      "lon": 28.4388,
-      "sog": 102.3,
+      "mmsi": "369713000",
+      "name": "TRIBUTE",
+      "lat": 0,
+      "lon": 0,
+      "sog": 102.2,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-08-31 23:47:27.817706088 +0000 UTC"
+      "last_update": "2026-09-01 00:21:05.405948187 +0000 UTC"
     },
     {
-      "mmsi": "244870700",
-      "name": "METTE MARIA",
-      "lat": 53.7588,
-      "lon": 8.0477,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 3,
-      "last_update": "2026-08-31 23:47:28.672039834 +0000 UTC"
+      "mmsi": "311000724",
+      "name": "BALTIC PURPLE",
+      "lat": 59.7662,
+      "lon": 30.5193,
+      "sog": 66.3,
+      "cog": 54.7,
+      "nav_status": 5,
+      "last_update": "2026-09-01 00:21:18.61348233 +0000 UTC"
     },
     {
-      "mmsi": "235104009",
-      "name": "SALTHOLME",
-      "lat": 54.5843,
-      "lon": -1.2305,
-      "sog": 102.3,
-      "cog": 360,
+      "mmsi": "316056881",
+      "name": "TYMAC FORCE",
+      "lat": 49.292,
+      "lon": -123.097,
+      "sog": 36.1,
+      "cog": 77.9,
       "nav_status": 0,
-      "last_update": "2026-08-31 23:47:36.693875501 +0000 UTC"
+      "last_update": "2026-09-01 00:21:08.308570315 +0000 UTC"
     },
     {
-      "mmsi": "240796900",
-      "name": "SEALINK VII",
-      "lat": 37.862,
-      "lon": 23.744,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-08-31 23:47:37.368851157 +0000 UTC"
-    },
-    {
-      "mmsi": "235080015",
-      "name": "SEVEN PACIFIC",
-      "lat": 42.8765,
-      "lon": 31.2528,
-      "sog": 47.9,
-      "cog": 197,
-      "nav_status": 3,
-      "last_update": "2026-08-31 23:46:45.943041672 +0000 UTC"
-    },
-    {
-      "mmsi": "431014933",
-      "name": "SEVEN ISLAND YUI",
-      "lat": 35.3654,
-      "lon": 139.7637,
-      "sog": 44.6,
-      "cog": 199.4,
+      "mmsi": "368457860",
+      "name": "EMERALD CLIPPER",
+      "lat": 48.2695,
+      "lon": -122.8058,
+      "sog": 35.2,
+      "cog": 165.2,
       "nav_status": 0,
-      "last_update": "2026-08-31 23:46:56.389331233 +0000 UTC"
+      "last_update": "2026-09-01 00:21:30.777627445 +0000 UTC"
     },
     {
-      "mmsi": "368319560",
-      "name": "HARBOR2",
-      "lat": 47.6209,
-      "lon": -122.3689,
-      "sog": 33.1,
-      "cog": 127.2,
-      "nav_status": 15,
-      "last_update": "2026-08-31 23:47:12.548685885 +0000 UTC"
-    },
-    {
-      "mmsi": "368067090",
-      "name": "RELIANCE",
-      "lat": 47.5899,
-      "lon": -122.4289,
-      "sog": 31.9,
-      "cog": 58,
+      "mmsi": "367447520",
+      "name": "SALACIA",
+      "lat": 42.3529,
+      "lon": -71.0299,
+      "sog": 34.6,
+      "cog": 303.6,
       "nav_status": 0,
-      "last_update": "2026-08-31 23:47:07.895957541 +0000 UTC"
+      "last_update": "2026-09-01 00:20:47.149084464 +0000 UTC"
+    },
+    {
+      "mmsi": "368151810",
+      "name": "ENETAI",
+      "lat": 47.6027,
+      "lon": -122.3876,
+      "sog": 34.2,
+      "cog": 270,
+      "nav_status": 0,
+      "last_update": "2026-09-01 00:21:15.005786077 +0000 UTC"
+    },
+    {
+      "mmsi": "316057216",
+      "name": "TYMAC RIVAL",
+      "lat": 49.2946,
+      "lon": -123.1032,
+      "sog": 34,
+      "cog": 174.5,
+      "nav_status": 0,
+      "last_update": "2026-09-01 00:21:19.668648223 +0000 UTC"
+    },
+    {
+      "mmsi": "366857070",
+      "name": "JET CAT EXPRESS",
+      "lat": 33.4775,
+      "lon": -118.258,
+      "sog": 29.8,
+      "cog": 196.2,
+      "nav_status": 5,
+      "last_update": "2026-09-01 00:21:12.27087408 +0000 UTC"
+    },
+    {
+      "mmsi": "368395270",
+      "name": "KARL",
+      "lat": 37.7974,
+      "lon": -122.3795,
+      "sog": 28.8,
+      "cog": 278.4,
+      "nav_status": 0,
+      "last_update": "2026-09-01 00:20:52.836687138 +0000 UTC"
+    },
+    {
+      "mmsi": "503053460",
+      "name": "PILOT VESSEL TAKOKO",
+      "lat": -23.8727,
+      "lon": 151.4738,
+      "sog": 28.5,
+      "cog": 280.6,
+      "nav_status": 0,
+      "last_update": "2026-09-01 00:21:16.321152688 +0000 UTC"
+    },
+    {
+      "mmsi": "672748000",
+      "name": "TANIT",
+      "lat": 42.3082,
+      "lon": 9.761,
+      "sog": 25.5,
+      "cog": 352.7,
+      "nav_status": 0,
+      "last_update": "2026-09-01 00:20:56.476798233 +0000 UTC"
     }
   ]
 }
