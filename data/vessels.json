@@ -1,206 +1,206 @@
 {
-  "updated_at": "2026-09-01T09:33:19Z",
-  "count": 3514,
+  "updated_at": "2026-09-01T09:51:22Z",
+  "count": 3495,
   "vessels": [
     {
-      "mmsi": "368173000",
-      "name": "FISHING CREEK",
-      "lat": 37.774,
-      "lon": -122.2417,
+      "mmsi": "205545000",
+      "name": "VB PANDA",
+      "lat": 51.33,
+      "lon": 3.1971,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-01 09:32:18.688820686 +0000 UTC"
+      "nav_status": 0,
+      "last_update": "2026-09-01 09:50:35.287151947 +0000 UTC"
+    },
+    {
+      "mmsi": "271044493",
+      "name": "MIP- 3",
+      "lat": 36.7919,
+      "lon": 34.636,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-01 09:50:37.178268939 +0000 UTC"
     },
     {
       "mmsi": "230182220",
       "name": "NORDENSKIOLD",
-      "lat": 60.338,
+      "lat": 60.3379,
       "lon": 25.5785,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-01 09:32:40.49020781 +0000 UTC"
+      "last_update": "2026-09-01 09:50:39.505167525 +0000 UTC"
     },
     {
-      "mmsi": "367482250",
-      "name": "JERSEY",
-      "lat": 40.7717,
-      "lon": -74.0109,
+      "mmsi": "210588000",
+      "name": "LEDRA PRIDE",
+      "lat": 34.6452,
+      "lon": 33.018,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-01 09:32:44.697258747 +0000 UTC"
-    },
-    {
-      "mmsi": "219385000",
-      "name": "BJOERNSHOLM",
-      "lat": 55.6793,
-      "lon": 12.593,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-01 09:32:46.378853333 +0000 UTC"
-    },
-    {
-      "mmsi": "210920000",
-      "name": "VTS PENTADAKTYLOS",
-      "lat": 34.7186,
-      "lon": 33.3174,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-01 09:32:46.927189581 +0000 UTC"
-    },
-    {
-      "mmsi": "574001710",
-      "name": "LONG TAN 19",
-      "lat": 13.676,
-      "lon": 100.5515,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-01 09:32:51.166755048 +0000 UTC"
-    },
-    {
-      "mmsi": "211759880",
-      "name": "FINK",
-      "lat": 49.8193,
-      "lon": 10.2211,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-01 09:33:03.083549029 +0000 UTC"
-    },
-    {
-      "mmsi": "316046329",
-      "name": "PITT KNIGHT",
-      "lat": 49.2313,
-      "lon": -122.7711,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-01 09:33:06.010372304 +0000 UTC"
-    },
-    {
-      "mmsi": "477996369",
-      "name": "HYDRO1",
-      "lat": 22.296,
-      "lon": 114.2169,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-01 09:33:06.593233344 +0000 UTC"
-    },
-    {
-      "mmsi": "636011247",
-      "name": "SAGITTA",
-      "lat": 37.9296,
-      "lon": 23.6815,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-01 09:33:09.167214848 +0000 UTC"
-    },
-    {
-      "mmsi": "224781000",
-      "name": "VOLCAN DE TAGORO",
-      "lat": 28.3032,
-      "lon": -15.7393,
-      "sog": 35.7,
-      "cog": 292.7,
-      "nav_status": 9,
-      "last_update": "2026-09-01 09:33:00.404830005 +0000 UTC"
-    },
-    {
-      "mmsi": "257472260",
-      "name": "SJOBJORN 38 HPB5",
-      "lat": 69.6516,
-      "lon": 18.9797,
-      "sog": 33,
-      "cog": 30.9,
-      "nav_status": 0,
-      "last_update": "2026-09-01 09:32:35.193286134 +0000 UTC"
-    },
-    {
-      "mmsi": "224984000",
-      "name": "VOLCAN DE TAIDIA",
-      "lat": 28.3632,
-      "lon": -15.9002,
-      "sog": 31,
-      "cog": 110.4,
-      "nav_status": 0,
-      "last_update": "2026-09-01 09:32:41.189642555 +0000 UTC"
-    },
-    {
-      "mmsi": "265754480",
-      "name": "RESCUE CECILIA BRATT",
-      "lat": 56.1168,
-      "lon": 15.4114,
-      "sog": 31,
-      "cog": 262.2,
-      "nav_status": 15,
-      "last_update": "2026-09-01 09:33:04.80297988 +0000 UTC"
-    },
-    {
-      "mmsi": "477997083",
-      "name": "XIN MING ZHU X",
-      "lat": 22.2919,
-      "lon": 114.1145,
-      "sog": 28.4,
-      "cog": 263,
       "nav_status": 8,
-      "last_update": "2026-09-01 09:33:05.862448199 +0000 UTC"
+      "last_update": "2026-09-01 09:50:44.348630805 +0000 UTC"
     },
     {
-      "mmsi": "224247000",
-      "name": "RAMON LLULL",
-      "lat": 38.8632,
-      "lon": 1.4404,
-      "sog": 28.3,
-      "cog": 12,
+      "mmsi": "367434220",
+      "name": "YOGI BERRA",
+      "lat": 40.7113,
+      "lon": -74.0433,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-01 09:32:25.832178707 +0000 UTC"
+      "last_update": "2026-09-01 09:50:46.069880983 +0000 UTC"
     },
     {
-      "mmsi": "503079250",
-      "name": "PV GOONANGA",
-      "lat": -23.8849,
-      "lon": 151.3699,
-      "sog": 28,
-      "cog": 109.1,
+      "mmsi": "316014014",
+      "name": "TAKAYA",
+      "lat": 49.2863,
+      "lon": -123.1005,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-01 09:50:46.269147363 +0000 UTC"
+    },
+    {
+      "mmsi": "271000677",
+      "name": "VENTO DI MELTEMI",
+      "lat": 38.5142,
+      "lon": -8.8729,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-01 09:50:48.328294476 +0000 UTC"
+    },
+    {
+      "mmsi": "367434210",
+      "name": "FIORELLO LAGUARDIA",
+      "lat": 40.7715,
+      "lon": -74.0118,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-01 09:51:15.048153679 +0000 UTC"
+    },
+    {
+      "mmsi": "209440000",
+      "name": "CHAMPION JET 1",
+      "lat": 37.4892,
+      "lon": 24.2026,
+      "sog": 33.2,
+      "cog": 302.4,
+      "nav_status": 0,
+      "last_update": "2026-09-01 09:51:06.609066544 +0000 UTC"
+    },
+    {
+      "mmsi": "240931000",
+      "name": "SUPERRUNNER JET",
+      "lat": 37.9242,
+      "lon": 24.4896,
+      "sog": 32.8,
+      "cog": 280.6,
+      "nav_status": 0,
+      "last_update": "2026-09-01 09:50:56.185497097 +0000 UTC"
+    },
+    {
+      "mmsi": "224131000",
+      "name": "BAJAMAR EXPRESS",
+      "lat": 28.2143,
+      "lon": -15.8588,
+      "sog": 31.8,
+      "cog": 129.9,
+      "nav_status": 0,
+      "last_update": "2026-09-01 09:50:42.211981475 +0000 UTC"
+    },
+    {
+      "mmsi": "212769000",
+      "name": "MAGIC 3",
+      "lat": 37.8807,
+      "lon": 23.6038,
+      "sog": 30.7,
+      "cog": 190.5,
+      "nav_status": 0,
+      "last_update": "2026-09-01 09:50:53.6147772 +0000 UTC"
+    },
+    {
+      "mmsi": "477997054",
+      "name": "XIN MING ZHU VIII",
+      "lat": 22.2936,
+      "lon": 114.1253,
+      "sog": 28.9,
+      "cog": 262.1,
+      "nav_status": 8,
+      "last_update": "2026-09-01 09:51:10.728372067 +0000 UTC"
+    },
+    {
+      "mmsi": "413308110",
+      "name": "HAI ZHU WAN",
+      "lat": 22.3896,
+      "lon": 113.9067,
+      "sog": 28.8,
+      "cog": 345.3,
+      "nav_status": 0,
+      "last_update": "2026-09-01 09:51:08.601609031 +0000 UTC"
+    },
+    {
+      "mmsi": "413494920",
+      "name": "YIN ZHU HU",
+      "lat": 22.3951,
+      "lon": 113.888,
+      "sog": 27.5,
+      "cog": 322.1,
+      "nav_status": 0,
+      "last_update": "2026-09-01 09:51:15.345037807 +0000 UTC"
+    },
+    {
+      "mmsi": "235057011",
+      "name": "MONSOON CLIPPER",
+      "lat": 51.496,
+      "lon": -0.0033,
+      "sog": 27.3,
+      "cog": 160.3,
+      "nav_status": 0,
+      "last_update": "2026-09-01 09:50:25.437425496 +0000 UTC"
+    },
+    {
+      "mmsi": "210741000",
+      "name": "AERO 4 HIGHSPEED",
+      "lat": 37.2762,
+      "lon": 23.1743,
+      "sog": 26.7,
+      "cog": 246,
       "nav_status": 9,
-      "last_update": "2026-09-01 09:33:07.41797118 +0000 UTC"
+      "last_update": "2026-09-01 09:50:46.734117834 +0000 UTC"
     },
     {
-      "mmsi": "210049000",
-      "name": "ELEANOR ROOSEVELT",
-      "lat": 38.8156,
-      "lon": 1.4294,
-      "sog": 27.6,
-      "cog": 220,
+      "mmsi": "225342000",
+      "name": "ILLETAS JET",
+      "lat": 38.8388,
+      "lon": 1.4146,
+      "sog": 26.6,
+      "cog": 355,
       "nav_status": 0,
-      "last_update": "2026-09-01 09:33:11.454081136 +0000 UTC"
+      "last_update": "2026-09-01 09:51:05.216622734 +0000 UTC"
     },
     {
-      "mmsi": "222149305",
-      "name": "",
-      "lat": 38.8643,
-      "lon": 3.9811,
-      "sog": 27.4,
-      "cog": 219,
-      "nav_status": 4,
-      "last_update": "2026-09-01 09:32:50.48183632 +0000 UTC"
+      "mmsi": "268265802",
+      "name": "SANSSOUCI",
+      "lat": 43.4542,
+      "lon": 6.9473,
+      "sog": 25.7,
+      "cog": 213.1,
+      "nav_status": 15,
+      "last_update": "2026-09-01 09:50:46.127019358 +0000 UTC"
     },
     {
-      "mmsi": "235105516",
-      "name": "ROCKET JUNIOR",
-      "lat": 51.5036,
-      "lon": -0.0541,
-      "sog": 27.1,
-      "cog": 236.5,
+      "mmsi": "247139400",
+      "name": "VITTORIA M",
+      "lat": 37.9663,
+      "lon": 12.4008,
+      "sog": 25.7,
+      "cog": 244,
       "nav_status": 0,
-      "last_update": "2026-09-01 09:33:05.720141573 +0000 UTC"
+      "last_update": "2026-09-01 09:51:16.172373114 +0000 UTC"
     }
   ]
 }
