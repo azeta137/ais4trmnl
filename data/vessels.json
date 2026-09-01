@@ -1,7 +1,57 @@
 {
-  "updated_at": "2026-09-01T00:21:49Z",
-  "count": 3719,
+  "updated_at": "2026-09-01T00:54:17Z",
+  "count": 3367,
   "vessels": [
+    {
+      "mmsi": "235113676",
+      "name": "NSL EXCALIBUR",
+      "lat": 53.3222,
+      "lon": -3.262,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-01 00:53:15.199430349 +0000 UTC"
+    },
+    {
+      "mmsi": "368173000",
+      "name": "FISHING CREEK",
+      "lat": 37.7741,
+      "lon": -122.2418,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-01 00:53:17.258909483 +0000 UTC"
+    },
+    {
+      "mmsi": "244870700",
+      "name": "METTE MARIA",
+      "lat": 53.7888,
+      "lon": 8.0468,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 3,
+      "last_update": "2026-09-01 00:53:18.64475842 +0000 UTC"
+    },
+    {
+      "mmsi": "477997158",
+      "name": "PORT WORKS 5",
+      "lat": 22.3247,
+      "lon": 114.147,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-01 00:53:22.382929261 +0000 UTC"
+    },
+    {
+      "mmsi": "244710626",
+      "name": "BENCKES",
+      "lat": 52.0063,
+      "lon": 5.1048,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-01 00:53:26.487236961 +0000 UTC"
+    },
     {
       "mmsi": "246445000",
       "name": "KNRM-ALIES EN EVERT",
@@ -10,89 +60,69 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-01 00:20:47.096170444 +0000 UTC"
+      "last_update": "2026-09-01 00:53:36.431869546 +0000 UTC"
     },
     {
-      "mmsi": "477996369",
-      "name": "HYDRO1",
-      "lat": 22.3226,
-      "lon": 114.1421,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-01 00:21:07.410087665 +0000 UTC"
-    },
-    {
-      "mmsi": "316046329",
-      "name": "PITT KNIGHT",
-      "lat": 49.2312,
-      "lon": -122.7711,
+      "mmsi": "211337780",
+      "name": "ATALANTA",
+      "lat": 53.8992,
+      "lon": 11.4571,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-01 00:21:07.448010971 +0000 UTC"
+      "last_update": "2026-09-01 00:53:38.387896626 +0000 UTC"
     },
     {
-      "mmsi": "245382000",
-      "name": "",
-      "lat": 51.6217,
-      "lon": 3.6879,
+      "mmsi": "366969970",
+      "name": "SONOMA",
+      "lat": 37.8243,
+      "lon": -122.3954,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-01 00:21:12.163697969 +0000 UTC"
+      "nav_status": 8,
+      "last_update": "2026-09-01 00:53:41.689238686 +0000 UTC",
+      "ship_type": 60,
+      "destination": "XX XXX>US^0VC6"
     },
     {
-      "mmsi": "319720000",
-      "name": "STARDUST",
-      "lat": 32.7101,
-      "lon": -117.2336,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-01 00:21:26.865500656 +0000 UTC"
-    },
-    {
-      "mmsi": "244010956",
-      "name": "P93",
-      "lat": 51.893,
-      "lon": 4.2306,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-01 00:21:32.183040756 +0000 UTC"
-    },
-    {
-      "mmsi": "259046050",
-      "name": "FREMAD",
-      "lat": 66.3729,
-      "lon": 12.361,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-01 00:21:35.461929528 +0000 UTC"
-    },
-    {
-      "mmsi": "428067000",
-      "name": "BAT GALIM",
-      "lat": 32.8202,
-      "lon": 35.0073,
+      "mmsi": "563147700",
+      "name": "PSA VISION (NN27)",
+      "lat": 1.2643,
+      "lon": 103.8338,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-01 00:21:38.546589089 +0000 UTC"
+      "last_update": "2026-09-01 00:53:44.804095402 +0000 UTC"
     },
     {
-      "mmsi": "477997158",
-      "name": "PORT WORKS 5",
-      "lat": 22.3235,
-      "lon": 114.1415,
+      "mmsi": "257863000",
+      "name": "ROSESUND",
+      "lat": 60.3838,
+      "lon": 5.3128,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-01 00:21:42.555698082 +0000 UTC",
-      "ship_type": 99,
-      "destination": ""
+      "nav_status": 5,
+      "last_update": "2026-09-01 00:53:57.762643589 +0000 UTC"
+    },
+    {
+      "mmsi": "235034368",
+      "name": "MULTI-SURVEY 4",
+      "lat": 51.9774,
+      "lon": 4.1218,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-01 00:54:07.065047497 +0000 UTC"
+    },
+    {
+      "mmsi": "219385000",
+      "name": "BJOERNSHOLM",
+      "lat": 55.6793,
+      "lon": 12.593,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-01 00:54:07.659741478 +0000 UTC"
     },
     {
       "mmsi": "369713000",
@@ -102,107 +132,77 @@
       "sog": 102.2,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-01 00:21:05.405948187 +0000 UTC"
+      "last_update": "2026-09-01 00:53:15.266707591 +0000 UTC"
     },
     {
-      "mmsi": "311000724",
-      "name": "BALTIC PURPLE",
-      "lat": 59.7662,
-      "lon": 30.5193,
-      "sog": 66.3,
-      "cog": 54.7,
-      "nav_status": 5,
-      "last_update": "2026-09-01 00:21:18.61348233 +0000 UTC"
-    },
-    {
-      "mmsi": "316056881",
-      "name": "TYMAC FORCE",
-      "lat": 49.292,
-      "lon": -123.097,
-      "sog": 36.1,
-      "cog": 77.9,
+      "mmsi": "338519000",
+      "name": "SWIFTSURE",
+      "lat": 48.0504,
+      "lon": -122.7488,
+      "sog": 39,
+      "cog": 155.9,
       "nav_status": 0,
-      "last_update": "2026-09-01 00:21:08.308570315 +0000 UTC"
+      "last_update": "2026-09-01 00:53:53.863037051 +0000 UTC"
     },
     {
-      "mmsi": "368457860",
-      "name": "EMERALD CLIPPER",
-      "lat": 48.2695,
-      "lon": -122.8058,
-      "sog": 35.2,
-      "cog": 165.2,
+      "mmsi": "367582110",
+      "name": "PROVINCETOWN IV",
+      "lat": 42.3341,
+      "lon": -70.942,
+      "sog": 31.7,
+      "cog": 304.2,
       "nav_status": 0,
-      "last_update": "2026-09-01 00:21:30.777627445 +0000 UTC"
+      "last_update": "2026-09-01 00:53:41.256906275 +0000 UTC"
     },
     {
-      "mmsi": "367447520",
-      "name": "SALACIA",
-      "lat": 42.3529,
-      "lon": -71.0299,
-      "sog": 34.6,
-      "cog": 303.6,
+      "mmsi": "367720690",
+      "name": "GREY LADY IV",
+      "lat": 41.3685,
+      "lon": -70.1452,
+      "sog": 31.6,
+      "cog": 149.7,
       "nav_status": 0,
-      "last_update": "2026-09-01 00:20:47.149084464 +0000 UTC"
+      "last_update": "2026-09-01 00:54:06.036456807 +0000 UTC"
     },
     {
-      "mmsi": "368151810",
-      "name": "ENETAI",
-      "lat": 47.6027,
-      "lon": -122.3876,
-      "sog": 34.2,
-      "cog": 270,
+      "mmsi": "368067090",
+      "name": "RELIANCE",
+      "lat": 47.5849,
+      "lon": -122.5784,
+      "sog": 31.1,
+      "cog": 56,
       "nav_status": 0,
-      "last_update": "2026-09-01 00:21:15.005786077 +0000 UTC"
+      "last_update": "2026-09-01 00:53:21.950577489 +0000 UTC"
     },
     {
-      "mmsi": "316057216",
-      "name": "TYMAC RIVAL",
-      "lat": 49.2946,
-      "lon": -123.1032,
-      "sog": 34,
-      "cog": 174.5,
+      "mmsi": "413496790",
+      "name": "ZHONG SHAN 20",
+      "lat": 22.3522,
+      "lon": 113.9494,
+      "sog": 30.4,
+      "cog": 99.5,
       "nav_status": 0,
-      "last_update": "2026-09-01 00:21:19.668648223 +0000 UTC"
+      "last_update": "2026-09-01 00:53:55.076071913 +0000 UTC"
     },
     {
-      "mmsi": "366857070",
-      "name": "JET CAT EXPRESS",
-      "lat": 33.4775,
-      "lon": -118.258,
-      "sog": 29.8,
-      "cog": 196.2,
-      "nav_status": 5,
-      "last_update": "2026-09-01 00:21:12.27087408 +0000 UTC"
-    },
-    {
-      "mmsi": "368395270",
-      "name": "KARL",
-      "lat": 37.7974,
-      "lon": -122.3795,
-      "sog": 28.8,
-      "cog": 278.4,
+      "mmsi": "368302170",
+      "name": "PV GOLDEN GATE",
+      "lat": 37.8251,
+      "lon": -122.4413,
+      "sog": 25.2,
+      "cog": 281.2,
       "nav_status": 0,
-      "last_update": "2026-09-01 00:20:52.836687138 +0000 UTC"
+      "last_update": "2026-09-01 00:53:37.723725683 +0000 UTC"
     },
     {
-      "mmsi": "503053460",
-      "name": "PILOT VESSEL TAKOKO",
-      "lat": -23.8727,
-      "lon": 151.4738,
-      "sog": 28.5,
-      "cog": 280.6,
+      "mmsi": "503053140",
+      "name": "FRED HOLLOWS",
+      "lat": -33.8601,
+      "lon": 151.2489,
+      "sog": 24.3,
+      "cog": 107.2,
       "nav_status": 0,
-      "last_update": "2026-09-01 00:21:16.321152688 +0000 UTC"
-    },
-    {
-      "mmsi": "672748000",
-      "name": "TANIT",
-      "lat": 42.3082,
-      "lon": 9.761,
-      "sog": 25.5,
-      "cog": 352.7,
-      "nav_status": 0,
-      "last_update": "2026-09-01 00:20:56.476798233 +0000 UTC"
+      "last_update": "2026-09-01 00:54:08.576231235 +0000 UTC"
     }
   ]
 }
