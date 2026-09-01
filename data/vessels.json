@@ -1,47 +1,7 @@
 {
-  "updated_at": "2026-09-01T00:54:17Z",
-  "count": 3367,
+  "updated_at": "2026-09-01T01:12:45Z",
+  "count": 3758,
   "vessels": [
-    {
-      "mmsi": "235113676",
-      "name": "NSL EXCALIBUR",
-      "lat": 53.3222,
-      "lon": -3.262,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-01 00:53:15.199430349 +0000 UTC"
-    },
-    {
-      "mmsi": "368173000",
-      "name": "FISHING CREEK",
-      "lat": 37.7741,
-      "lon": -122.2418,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-01 00:53:17.258909483 +0000 UTC"
-    },
-    {
-      "mmsi": "244870700",
-      "name": "METTE MARIA",
-      "lat": 53.7888,
-      "lon": 8.0468,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 3,
-      "last_update": "2026-09-01 00:53:18.64475842 +0000 UTC"
-    },
-    {
-      "mmsi": "477997158",
-      "name": "PORT WORKS 5",
-      "lat": 22.3247,
-      "lon": 114.147,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-01 00:53:22.382929261 +0000 UTC"
-    },
     {
       "mmsi": "244710626",
       "name": "BENCKES",
@@ -50,159 +10,201 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-01 00:53:26.487236961 +0000 UTC"
+      "last_update": "2026-09-01 01:11:45.312834588 +0000 UTC"
     },
     {
-      "mmsi": "246445000",
-      "name": "KNRM-ALIES EN EVERT",
-      "lat": 53.174,
-      "lon": 4.8691,
+      "mmsi": "477996369",
+      "name": "HYDRO1",
+      "lat": 22.3183,
+      "lon": 114.1484,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-01 00:53:36.431869546 +0000 UTC"
+      "nav_status": 15,
+      "last_update": "2026-09-01 01:11:47.535981902 +0000 UTC"
     },
     {
-      "mmsi": "211337780",
-      "name": "ATALANTA",
-      "lat": 53.8992,
-      "lon": 11.4571,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-01 00:53:38.387896626 +0000 UTC"
-    },
-    {
-      "mmsi": "366969970",
-      "name": "SONOMA",
-      "lat": 37.8243,
-      "lon": -122.3954,
+      "mmsi": "210588000",
+      "name": "LEDRA PRIDE",
+      "lat": 34.6452,
+      "lon": 33.018,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 8,
-      "last_update": "2026-09-01 00:53:41.689238686 +0000 UTC",
-      "ship_type": 60,
-      "destination": "XX XXX>US^0VC6"
+      "last_update": "2026-09-01 01:12:21.8785116 +0000 UTC"
     },
     {
-      "mmsi": "563147700",
-      "name": "PSA VISION (NN27)",
-      "lat": 1.2643,
-      "lon": 103.8338,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-01 00:53:44.804095402 +0000 UTC"
-    },
-    {
-      "mmsi": "257863000",
-      "name": "ROSESUND",
-      "lat": 60.3838,
-      "lon": 5.3128,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-01 00:53:57.762643589 +0000 UTC"
-    },
-    {
-      "mmsi": "235034368",
-      "name": "MULTI-SURVEY 4",
-      "lat": 51.9774,
-      "lon": 4.1218,
+      "mmsi": "316046329",
+      "name": "PITT KNIGHT",
+      "lat": 49.2313,
+      "lon": -122.7711,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-01 00:54:07.065047497 +0000 UTC"
+      "last_update": "2026-09-01 01:12:06.271094387 +0000 UTC"
     },
     {
-      "mmsi": "219385000",
-      "name": "BJOERNSHOLM",
-      "lat": 55.6793,
-      "lon": 12.593,
+      "mmsi": "244374235",
+      "name": "NT 11 WATERTRAPPER",
+      "lat": 52.3996,
+      "lon": 4.8999,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-01 01:12:07.295465979 +0000 UTC"
+    },
+    {
+      "mmsi": "210920000",
+      "name": "VTS PENTADAKTYLOS",
+      "lat": 34.7185,
+      "lon": 33.3178,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-01 00:54:07.659741478 +0000 UTC"
+      "last_update": "2026-09-01 01:12:18.987367293 +0000 UTC"
     },
     {
-      "mmsi": "369713000",
-      "name": "TRIBUTE",
+      "mmsi": "244045000",
+      "name": "HEBO-CAT 15",
+      "lat": 53.1875,
+      "lon": 5.4319,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-01 01:12:35.193057438 +0000 UTC"
+    },
+    {
+      "mmsi": "211652800",
+      "name": "LAUENBURG",
+      "lat": 53.37,
+      "lon": 10.5541,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-01 01:12:36.557162847 +0000 UTC"
+    },
+    {
+      "mmsi": "366889830",
+      "name": "LEGACY        ?",
       "lat": 0,
       "lon": 0,
       "sog": 102.2,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-01 00:53:15.266707591 +0000 UTC"
+      "last_update": "2026-09-01 01:12:10.384143654 +0000 UTC"
     },
     {
       "mmsi": "338519000",
       "name": "SWIFTSURE",
-      "lat": 48.0504,
-      "lon": -122.7488,
-      "sog": 39,
-      "cog": 155.9,
+      "lat": 48.0112,
+      "lon": -122.7092,
+      "sog": 38,
+      "cog": 132.3,
       "nav_status": 0,
-      "last_update": "2026-09-01 00:53:53.863037051 +0000 UTC"
+      "last_update": "2026-09-01 01:12:12.400251578 +0000 UTC"
     },
     {
-      "mmsi": "367582110",
-      "name": "PROVINCETOWN IV",
-      "lat": 42.3341,
-      "lon": -70.942,
-      "sog": 31.7,
-      "cog": 304.2,
+      "mmsi": "368457860",
+      "name": "EMERALD CLIPPER",
+      "lat": 47.7971,
+      "lon": -122.4573,
+      "sog": 36.8,
+      "cog": 174,
       "nav_status": 0,
-      "last_update": "2026-09-01 00:53:41.256906275 +0000 UTC"
+      "last_update": "2026-09-01 01:12:16.393052133 +0000 UTC"
     },
     {
-      "mmsi": "367720690",
-      "name": "GREY LADY IV",
-      "lat": 41.3685,
-      "lon": -70.1452,
-      "sog": 31.6,
-      "cog": 149.7,
-      "nav_status": 0,
-      "last_update": "2026-09-01 00:54:06.036456807 +0000 UTC"
+      "mmsi": "440800383",
+      "name": "ROK GOV.VESSEL",
+      "lat": 37.4758,
+      "lon": 126.5845,
+      "sog": 36.5,
+      "cog": 193.2,
+      "nav_status": 15,
+      "last_update": "2026-09-01 01:12:23.713053169 +0000 UTC"
+    },
+    {
+      "mmsi": "245962000",
+      "name": "HNLMS VAN SPEIJK",
+      "lat": 52.9868,
+      "lon": 4.7345,
+      "sog": 35,
+      "cog": 309,
+      "nav_status": 5,
+      "last_update": "2026-09-01 01:12:23.498459578 +0000 UTC"
     },
     {
       "mmsi": "368067090",
       "name": "RELIANCE",
-      "lat": 47.5849,
-      "lon": -122.5784,
-      "sog": 31.1,
-      "cog": 56,
+      "lat": 47.5969,
+      "lon": -122.3658,
+      "sog": 33.8,
+      "cog": 96.5,
       "nav_status": 0,
-      "last_update": "2026-09-01 00:53:21.950577489 +0000 UTC"
+      "last_update": "2026-09-01 01:11:57.957160925 +0000 UTC",
+      "ship_type": 40,
+      "destination": "USPWT>USSEA>USPWT"
     },
     {
-      "mmsi": "413496790",
-      "name": "ZHONG SHAN 20",
-      "lat": 22.3522,
-      "lon": 113.9494,
-      "sog": 30.4,
-      "cog": 99.5,
+      "mmsi": "368088610",
+      "name": "LYRA",
+      "lat": 37.8682,
+      "lon": -122.4049,
+      "sog": 29.6,
+      "cog": 333.6,
       "nav_status": 0,
-      "last_update": "2026-09-01 00:53:55.076071913 +0000 UTC"
+      "last_update": "2026-09-01 01:12:17.738254495 +0000 UTC"
     },
     {
-      "mmsi": "368302170",
-      "name": "PV GOLDEN GATE",
-      "lat": 37.8251,
-      "lon": -122.4413,
-      "sog": 25.2,
-      "cog": 281.2,
+      "mmsi": "512005706",
+      "name": "KORORA",
+      "lat": -36.8391,
+      "lon": 174.8108,
+      "sog": 29.3,
+      "cog": 65.5,
       "nav_status": 0,
-      "last_update": "2026-09-01 00:53:37.723725683 +0000 UTC"
+      "last_update": "2026-09-01 01:12:00.282090293 +0000 UTC"
     },
     {
-      "mmsi": "503053140",
-      "name": "FRED HOLLOWS",
-      "lat": -33.8601,
-      "lon": 151.2489,
-      "sog": 24.3,
-      "cog": 107.2,
+      "mmsi": "257035500",
+      "name": "RS169 ODD FELLOW III",
+      "lat": 67.3757,
+      "lon": 14.4113,
+      "sog": 28.7,
+      "cog": 200.1,
       "nav_status": 0,
-      "last_update": "2026-09-01 00:54:08.576231235 +0000 UTC"
+      "last_update": "2026-09-01 01:11:44.545687004 +0000 UTC"
+    },
+    {
+      "mmsi": "368206330",
+      "name": "SOLANO",
+      "lat": 47.6864,
+      "lon": -122.4649,
+      "sog": 27.9,
+      "cog": 191,
+      "nav_status": 0,
+      "last_update": "2026-09-01 01:12:26.842226029 +0000 UTC",
+      "ship_type": 69,
+      "destination": "WSFSW>USSEA>WSFSW"
+    },
+    {
+      "mmsi": "367425520",
+      "name": "SCORPIO",
+      "lat": 37.8486,
+      "lon": -122.3926,
+      "sog": 27.6,
+      "cog": 349.8,
+      "nav_status": 0,
+      "last_update": "2026-09-01 01:11:56.403926365 +0000 UTC"
+    },
+    {
+      "mmsi": "368184910",
+      "name": "SPINDLETOP",
+      "lat": 29.4898,
+      "lon": -93.7158,
+      "sog": 27.1,
+      "cog": 324.4,
+      "nav_status": 0,
+      "last_update": "2026-09-01 01:12:40.178787693 +0000 UTC"
     }
   ]
 }
