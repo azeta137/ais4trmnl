@@ -1,97 +1,7 @@
 {
-  "updated_at": "2026-09-01T17:30:45Z",
-  "count": 3470,
+  "updated_at": "2026-09-01T17:47:49Z",
+  "count": 3568,
   "vessels": [
-    {
-      "mmsi": "210920000",
-      "name": "VTS PENTADAKTYLOS",
-      "lat": 34.7185,
-      "lon": 33.3178,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-01 17:29:46.298761871 +0000 UTC"
-    },
-    {
-      "mmsi": "244374235",
-      "name": "NT 11 WATERTRAPPER",
-      "lat": 52.3996,
-      "lon": 4.8999,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-01 17:29:46.693413003 +0000 UTC"
-    },
-    {
-      "mmsi": "244045000",
-      "name": "HEBO-CAT 15",
-      "lat": 53.1875,
-      "lon": 5.4319,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-01 17:29:54.493292185 +0000 UTC"
-    },
-    {
-      "mmsi": "567002520",
-      "name": "NP CHUMPHON",
-      "lat": 13.7029,
-      "lon": 100.5813,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-01 17:29:58.925248579 +0000 UTC"
-    },
-    {
-      "mmsi": "261007705",
-      "name": "FAIRPLAY-83",
-      "lat": 53.9073,
-      "lon": 14.2599,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-01 17:30:14.685577103 +0000 UTC"
-    },
-    {
-      "mmsi": "428067000",
-      "name": "BAT GALIM",
-      "lat": 32.8642,
-      "lon": 34.9937,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-01 17:30:19.7750583 +0000 UTC"
-    },
-    {
-      "mmsi": "240796900",
-      "name": "SEALINK VII",
-      "lat": 37.862,
-      "lon": 23.7439,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-09-01 17:30:26.810937303 +0000 UTC"
-    },
-    {
-      "mmsi": "244870700",
-      "name": "METTE MARIA",
-      "lat": 53.7587,
-      "lon": 8.049,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 3,
-      "last_update": "2026-09-01 17:30:28.922645485 +0000 UTC"
-    },
-    {
-      "mmsi": "366081959",
-      "name": "FIREBOAT 3",
-      "lat": 33.7011,
-      "lon": -118.2895,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-01 17:30:29.090340427 +0000 UTC"
-    },
     {
       "mmsi": "245382000",
       "name": "",
@@ -100,7 +10,37 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-01 17:30:33.702174411 +0000 UTC"
+      "last_update": "2026-09-01 17:47:04.137654067 +0000 UTC"
+    },
+    {
+      "mmsi": "271000677",
+      "name": "VENTO DI MELTEMI",
+      "lat": 38.5142,
+      "lon": -8.8729,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-01 17:47:07.388288234 +0000 UTC"
+    },
+    {
+      "mmsi": "210920000",
+      "name": "VTS PENTADAKTYLOS",
+      "lat": 34.7185,
+      "lon": 33.3178,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-01 17:47:07.648905528 +0000 UTC"
+    },
+    {
+      "mmsi": "428067000",
+      "name": "BAT GALIM",
+      "lat": 32.8826,
+      "lon": 34.9429,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-01 17:47:11.85441618 +0000 UTC"
     },
     {
       "mmsi": "316014014",
@@ -110,97 +50,157 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-09-01 17:30:35.717874276 +0000 UTC"
+      "last_update": "2026-09-01 17:47:37.413306506 +0000 UTC"
     },
     {
-      "mmsi": "111219512",
-      "name": "",
-      "lat": 55.139,
-      "lon": 11.6174,
-      "sog": 102.2,
-      "cog": 114.6,
-      "nav_status": 0,
-      "last_update": "2026-09-01 17:29:50.809411366 +0000 UTC"
-    },
-    {
-      "mmsi": "316057216",
-      "name": "TYMAC RIVAL",
-      "lat": 49.3214,
-      "lon": -123.1672,
-      "sog": 39.7,
-      "cog": 286.4,
-      "nav_status": 0,
-      "last_update": "2026-09-01 17:30:04.605681701 +0000 UTC"
-    },
-    {
-      "mmsi": "338926976",
-      "name": "CG 26306",
-      "lat": 37.8421,
-      "lon": -122.3256,
-      "sog": 37.4,
-      "cog": 229.2,
+      "mmsi": "235080649",
+      "name": "ONWARD N107",
+      "lat": 54.4565,
+      "lon": -5.4396,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-09-01 17:30:24.950128123 +0000 UTC"
+      "last_update": "2026-09-01 17:47:38.029050539 +0000 UTC"
     },
     {
-      "mmsi": "367101920",
-      "name": "GREY LADY",
-      "lat": 41.549,
-      "lon": -70.2393,
-      "sog": 32.7,
-      "cog": 327.9,
+      "mmsi": "338329000",
+      "name": "KINGS POINT",
+      "lat": 39.2435,
+      "lon": -76.5703,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-01 17:29:49.530131029 +0000 UTC"
+      "last_update": "2026-09-01 17:47:42.649595953 +0000 UTC"
+    },
+    {
+      "mmsi": "338141415",
+      "name": "",
+      "lat": 37.2348,
+      "lon": -76.3533,
+      "sog": 34.3,
+      "cog": 104.7,
+      "nav_status": 0,
+      "last_update": "2026-09-01 17:47:39.408842464 +0000 UTC"
+    },
+    {
+      "mmsi": "366989380",
+      "name": "MARE ISLAND",
+      "lat": 37.7944,
+      "lon": -122.3128,
+      "sog": 33,
+      "cog": 286.2,
+      "nav_status": 0,
+      "last_update": "2026-09-01 17:47:07.970580103 +0000 UTC"
+    },
+    {
+      "mmsi": "235117926",
+      "name": "RED JET 6",
+      "lat": 50.7813,
+      "lon": -1.3035,
+      "sog": 32.9,
+      "cog": 185.3,
+      "nav_status": 0,
+      "last_update": "2026-09-01 17:47:18.814718161 +0000 UTC"
+    },
+    {
+      "mmsi": "212859000",
+      "name": "MERCEDES PINTO",
+      "lat": 28.1266,
+      "lon": -15.1407,
+      "sog": 32.8,
+      "cog": 91.1,
+      "nav_status": 0,
+      "last_update": "2026-09-01 17:47:34.754324378 +0000 UTC"
+    },
+    {
+      "mmsi": "230937480",
+      "name": "RESCUE RIMIC",
+      "lat": 60.3104,
+      "lon": 22.0453,
+      "sog": 32.7,
+      "cog": 25.2,
+      "nav_status": 15,
+      "last_update": "2026-09-01 17:46:47.074265681 +0000 UTC"
     },
     {
       "mmsi": "224781000",
       "name": "VOLCAN DE TAGORO",
-      "lat": 28.4609,
-      "lon": -16.1525,
-      "sog": 32.2,
-      "cog": 99.8,
+      "lat": 28.4378,
+      "lon": -15.9863,
+      "sog": 30.8,
+      "cog": 95,
       "nav_status": 9,
-      "last_update": "2026-09-01 17:30:15.053809077 +0000 UTC"
+      "last_update": "2026-09-01 17:47:29.482657413 +0000 UTC"
     },
     {
-      "mmsi": "210746000",
-      "name": "AERO 5 HIGHSPEED",
-      "lat": 37.299,
-      "lon": 23.263,
-      "sog": 31.6,
-      "cog": 71.4,
+      "mmsi": "240313300",
+      "name": "SPEED CAT 1",
+      "lat": 37.6699,
+      "lon": 23.5823,
+      "sog": 30.8,
+      "cog": 3.6,
       "nav_status": 0,
-      "last_update": "2026-09-01 17:29:55.196404829 +0000 UTC"
+      "last_update": "2026-09-01 17:47:40.945445019 +0000 UTC"
     },
     {
-      "mmsi": "224131000",
-      "name": "BAJAMAR EXPRESS",
-      "lat": 28.3306,
-      "lon": -16.0427,
-      "sog": 30.9,
-      "cog": 127.7,
+      "mmsi": "224388000",
+      "name": "BANADEROS EXPRESS",
+      "lat": 28.3614,
+      "lon": -16.0547,
+      "sog": 30.3,
+      "cog": 322.6,
       "nav_status": 0,
-      "last_update": "2026-09-01 17:29:49.684418858 +0000 UTC"
+      "last_update": "2026-09-01 17:47:11.41323288 +0000 UTC"
     },
     {
-      "mmsi": "311001249",
-      "name": "VICTORIA CLIPPER V",
-      "lat": 48.3665,
-      "lon": -123.3054,
+      "mmsi": "247489500",
+      "name": "PIERO SANGIOVANNI",
+      "lat": 37.9564,
+      "lon": 12.3695,
+      "sog": 29.6,
+      "cog": 61.8,
+      "nav_status": 0,
+      "last_update": "2026-09-01 17:47:36.674326335 +0000 UTC"
+    },
+    {
+      "mmsi": "366857070",
+      "name": "JET CAT EXPRESS",
+      "lat": 33.44,
+      "lon": -118.2573,
       "sog": 28.3,
-      "cog": 294.3,
-      "nav_status": 0,
-      "last_update": "2026-09-01 17:30:06.227894403 +0000 UTC"
+      "cog": 196.9,
+      "nav_status": 5,
+      "last_update": "2026-09-01 17:47:27.11698412 +0000 UTC"
     },
     {
-      "mmsi": "368063440",
-      "name": "CARINA",
-      "lat": 37.7942,
-      "lon": -122.3699,
-      "sog": 28.1,
-      "cog": 81.4,
+      "mmsi": "227658910",
+      "name": "LE CHATELET",
+      "lat": 46.7432,
+      "lon": -2.3288,
+      "sog": 27.4,
+      "cog": 217.2,
       "nav_status": 0,
-      "last_update": "2026-09-01 17:29:42.386827964 +0000 UTC"
+      "last_update": "2026-09-01 17:47:01.423820925 +0000 UTC"
+    },
+    {
+      "mmsi": "247350300",
+      "name": "EMMA M",
+      "lat": 37.9244,
+      "lon": 12.3725,
+      "sog": 27.2,
+      "cog": 327.2,
+      "nav_status": 0,
+      "last_update": "2026-09-01 17:46:46.638165602 +0000 UTC"
+    },
+    {
+      "mmsi": "235057012",
+      "name": "TORNADO CLIPPER",
+      "lat": 51.501,
+      "lon": 0.0773,
+      "sog": 26,
+      "cog": 205.8,
+      "nav_status": 0,
+      "last_update": "2026-09-01 17:47:32.25355426 +0000 UTC"
     }
   ]
 }
