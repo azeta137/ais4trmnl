@@ -1,66 +1,28 @@
 {
-  "updated_at": "2026-09-01T02:12:52Z",
-  "count": 3743,
+  "updated_at": "2026-09-01T02:31:47Z",
+  "count": 3582,
   "vessels": [
-    {
-      "mmsi": "244010956",
-      "name": "P93",
-      "lat": 51.893,
-      "lon": 4.2306,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-01 02:12:11.241266924 +0000 UTC"
-    },
-    {
-      "mmsi": "375369000",
-      "name": "ZAYYAN K",
-      "lat": 31.818,
-      "lon": 34.6169,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-09-01 02:12:12.918118847 +0000 UTC"
-    },
-    {
-      "mmsi": "244045000",
-      "name": "HEBO-CAT 15",
-      "lat": 53.1875,
-      "lon": 5.4319,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-01 02:12:15.163003792 +0000 UTC"
-    },
-    {
-      "mmsi": "245382000",
-      "name": "",
-      "lat": 51.6218,
-      "lon": 3.6879,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-01 02:12:23.368938617 +0000 UTC"
-    },
-    {
-      "mmsi": "261007705",
-      "name": "FAIRPLAY-83",
-      "lat": 53.9073,
-      "lon": 14.2599,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-01 02:12:23.584537966 +0000 UTC"
-    },
     {
       "mmsi": "246445000",
       "name": "KNRM-ALIES EN EVERT",
-      "lat": 53.1739,
+      "lat": 53.174,
       "lon": 4.8692,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-01 02:12:27.413849445 +0000 UTC"
+      "last_update": "2026-09-01 02:30:46.510512606 +0000 UTC"
+    },
+    {
+      "mmsi": "525104007",
+      "name": "TRANSKO JALAK",
+      "ship_type": 52,
+      "destination": "SEMARANG",
+      "lat": -6.9477,
+      "lon": 110.4203,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-09-01 02:31:31.700814874 +0000 UTC"
     },
     {
       "mmsi": "235113676",
@@ -70,137 +32,177 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-01 02:12:34.739667216 +0000 UTC"
+      "last_update": "2026-09-01 02:30:55.599741417 +0000 UTC"
     },
     {
-      "mmsi": "247130800",
-      "name": "SVEZIA",
-      "lat": 44.4114,
-      "lon": 8.9202,
+      "mmsi": "235104009",
+      "name": "SALTHOLME",
+      "lat": 54.5843,
+      "lon": -1.2305,
       "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-01 02:12:35.590875413 +0000 UTC"
-    },
-    {
-      "mmsi": "210588000",
-      "name": "LEDRA PRIDE",
-      "lat": 34.6452,
-      "lon": 33.018,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-09-01 02:12:46.121602549 +0000 UTC"
-    },
-    {
-      "mmsi": "316014014",
-      "name": "TAKAYA",
-      "lat": 49.2863,
-      "lon": -123.1005,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-01 02:12:46.987446103 +0000 UTC"
-    },
-    {
-      "mmsi": "369713000",
-      "name": "TRIBUTE",
-      "lat": 0,
-      "lon": 0,
-      "sog": 102.2,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-01 02:12:10.468846282 +0000 UTC"
+      "last_update": "2026-09-01 02:30:57.647817578 +0000 UTC"
+    },
+    {
+      "mmsi": "259046050",
+      "name": "FREMAD",
+      "lat": 66.3729,
+      "lon": 12.361,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-01 02:31:05.98218325 +0000 UTC"
+    },
+    {
+      "mmsi": "211652800",
+      "name": "LAUENBURG",
+      "lat": 53.37,
+      "lon": 10.5541,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-01 02:31:07.578023895 +0000 UTC"
+    },
+    {
+      "mmsi": "240796900",
+      "name": "SEALINK VII",
+      "lat": 37.862,
+      "lon": 23.7439,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 1,
+      "last_update": "2026-09-01 02:31:08.169464665 +0000 UTC"
+    },
+    {
+      "mmsi": "261007705",
+      "name": "FAIRPLAY-83",
+      "lat": 53.9073,
+      "lon": 14.2599,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-01 02:31:14.824441004 +0000 UTC"
+    },
+    {
+      "mmsi": "211337780",
+      "name": "ATALANTA",
+      "lat": 53.8992,
+      "lon": 11.4571,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-01 02:31:17.56867366 +0000 UTC"
+    },
+    {
+      "mmsi": "250101900",
+      "name": "GUIDING STAR 2",
+      "lat": 51.6509,
+      "lon": -9.9082,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-01 02:31:27.036225554 +0000 UTC"
+    },
+    {
+      "mmsi": "244010956",
+      "name": "P93",
+      "lat": 51.893,
+      "lon": 4.2306,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-01 02:31:31.706155088 +0000 UTC"
+    },
+    {
+      "mmsi": "244710626",
+      "name": "BENCKES",
+      "lat": 52.0063,
+      "lon": 5.1048,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-01 02:31:34.060393763 +0000 UTC"
+    },
+    {
+      "mmsi": "235034368",
+      "name": "MULTI-SURVEY 4",
+      "lat": 51.9774,
+      "lon": 4.1219,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-01 02:31:36.186328956 +0000 UTC"
+    },
+    {
+      "mmsi": "273618890",
+      "name": "ZELENOGRADSK",
+      "lat": 54.8709,
+      "lon": 20.0508,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-01 02:31:40.910389389 +0000 UTC"
+    },
+    {
+      "mmsi": "366771550",
+      "name": "NAPA",
+      "lat": 37.888,
+      "lon": -122.436,
+      "sog": 35.8,
+      "cog": 144.9,
+      "nav_status": 0,
+      "last_update": "2026-09-01 02:30:52.096081274 +0000 UTC"
     },
     {
       "mmsi": "368067090",
       "name": "RELIANCE",
-      "lat": 47.5798,
-      "lon": -122.5853,
-      "sog": 33.4,
-      "cog": 40,
+      "lat": 47.5984,
+      "lon": -122.3548,
+      "sog": 34.8,
+      "cog": 85,
       "nav_status": 0,
-      "last_update": "2026-09-01 02:11:57.949976302 +0000 UTC"
+      "last_update": "2026-09-01 02:30:56.238986087 +0000 UTC"
     },
     {
-      "mmsi": "366970020",
-      "name": "MENDOCINO",
-      "lat": 37.9149,
-      "lon": -122.4487,
-      "sog": 32.4,
-      "cog": 325.4,
+      "mmsi": "368088610",
+      "name": "LYRA",
+      "lat": 38.0293,
+      "lon": -122.3605,
+      "sog": 34.6,
+      "cog": 239.4,
       "nav_status": 0,
-      "last_update": "2026-09-01 02:11:52.506701659 +0000 UTC"
+      "last_update": "2026-09-01 02:31:33.954462406 +0000 UTC"
     },
     {
-      "mmsi": "368612000",
-      "name": "RICH PASSAGE 1",
-      "lat": 47.5742,
-      "lon": -122.4874,
-      "sog": 32.4,
-      "cog": 243,
+      "mmsi": "412205490",
+      "name": "XIN XUN LONG ER HAO",
+      "lat": 22.4267,
+      "lon": 113.8908,
+      "sog": 29.4,
+      "cog": 28.8,
       "nav_status": 0,
-      "last_update": "2026-09-01 02:12:35.750397124 +0000 UTC"
+      "last_update": "2026-09-01 02:31:37.803866695 +0000 UTC"
     },
     {
-      "mmsi": "311001249",
-      "name": "VICTORIA CLIPPER V",
-      "lat": 47.837,
-      "lon": -122.4717,
-      "sog": 29.1,
-      "cog": 168.1,
+      "mmsi": "512006292",
+      "name": "WLG PILOT TE HAA",
+      "lat": -41.3062,
+      "lon": 174.8549,
+      "sog": 26.1,
+      "cog": 3.9,
       "nav_status": 0,
-      "last_update": "2026-09-01 02:12:24.31073763 +0000 UTC"
+      "last_update": "2026-09-01 02:31:17.945859229 +0000 UTC"
     },
     {
-      "mmsi": "338790000",
-      "name": "SALLY FOX",
-      "lat": 47.5857,
-      "lon": -122.4195,
-      "sog": 26.5,
-      "cog": 51,
+      "mmsi": "503106690",
+      "name": "CHERYL SALISBURY",
+      "lat": -33.8215,
+      "lon": 151.0833,
+      "sog": 26,
+      "cog": 86.6,
       "nav_status": 0,
-      "last_update": "2026-09-01 02:12:47.292394167 +0000 UTC"
-    },
-    {
-      "mmsi": "367675020",
-      "name": "OCEAN STATE",
-      "lat": 41.7607,
-      "lon": -71.3758,
-      "sog": 25.1,
-      "cog": 356.5,
-      "nav_status": 10,
-      "last_update": "2026-09-01 02:11:50.704516305 +0000 UTC"
-    },
-    {
-      "mmsi": "503106740",
-      "name": "LIZ ELLIS",
-      "lat": -33.8601,
-      "lon": 151.2624,
-      "sog": 24.7,
-      "cog": 358.1,
-      "nav_status": 0,
-      "last_update": "2026-09-01 02:12:02.439759507 +0000 UTC"
-    },
-    {
-      "mmsi": "247488500",
-      "name": "GNV ORION",
-      "lat": 42.7224,
-      "lon": 9.715,
-      "sog": 24,
-      "cog": 161.6,
-      "nav_status": 0,
-      "last_update": "2026-09-01 02:12:23.854004626 +0000 UTC"
-    },
-    {
-      "mmsi": "316053378",
-      "name": "NAVARK ATLANTIS",
-      "lat": 45.5735,
-      "lon": -73.5011,
-      "sog": 23.6,
-      "cog": 191,
-      "nav_status": 0,
-      "last_update": "2026-09-01 02:12:00.772439996 +0000 UTC"
+      "last_update": "2026-09-01 02:30:45.169150259 +0000 UTC"
     }
   ]
 }
