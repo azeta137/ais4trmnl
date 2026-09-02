@@ -1,46 +1,66 @@
 {
-  "updated_at": "2026-09-02T02:33:12Z",
-  "count": 3640,
+  "updated_at": "2026-09-02T02:53:21Z",
+  "count": 3605,
   "vessels": [
     {
-      "mmsi": "232028036",
-      "name": "GARRION OWL",
-      "lat": 55.8907,
-      "lon": -4.3942,
+      "mmsi": "601126900",
+      "name": "SEA EXPRESS",
+      "lat": -29.8682,
+      "lon": 31.0141,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-09-02 02:53:09.102186962 +0000 UTC"
+    },
+    {
+      "mmsi": "244870700",
+      "name": "METTE MARIA",
+      "lat": 53.8146,
+      "lon": 7.9495,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 3,
+      "last_update": "2026-09-02 02:52:27.565838929 +0000 UTC"
+    },
+    {
+      "mmsi": "271044493",
+      "name": "MIP- 3",
+      "lat": 36.7919,
+      "lon": 34.636,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-02 02:32:49.923067031 +0000 UTC"
+      "last_update": "2026-09-02 02:52:28.057076677 +0000 UTC"
     },
     {
-      "mmsi": "273398130",
-      "name": "AZOV",
-      "lat": 40.3754,
-      "lon": 27.9915,
+      "mmsi": "224081180",
+      "name": "BERRIZ ALBONIGA",
+      "lat": 43.6936,
+      "lon": -3.5698,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-09-02 02:32:15.133688238 +0000 UTC"
+      "nav_status": 7,
+      "last_update": "2026-09-02 02:52:37.511180697 +0000 UTC"
     },
     {
-      "mmsi": "244045000",
-      "name": "HEBO-CAT 15",
-      "lat": 53.1875,
-      "lon": 5.4319,
+      "mmsi": "319067100",
+      "name": "WINWIN",
+      "lat": 39.4886,
+      "lon": 2.4767,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-02 02:32:15.176257882 +0000 UTC"
+      "nav_status": 8,
+      "last_update": "2026-09-02 02:52:40.015917849 +0000 UTC"
     },
     {
-      "mmsi": "228436800",
-      "name": "F/V LAREDO",
-      "lat": 42.2297,
-      "lon": -8.7512,
+      "mmsi": "273437610",
+      "name": "VOLGONEFT-128",
+      "lat": 59.8819,
+      "lon": 30.2268,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-02 02:32:17.847815212 +0000 UTC"
+      "last_update": "2026-09-02 02:52:45.649454026 +0000 UTC"
     },
     {
       "mmsi": "525104007",
@@ -50,47 +70,17 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 8,
-      "last_update": "2026-09-02 02:32:26.925176736 +0000 UTC"
+      "last_update": "2026-09-02 02:52:46.05099341 +0000 UTC"
     },
     {
-      "mmsi": "261007705",
-      "name": "FAIRPLAY-83",
-      "lat": 53.9073,
-      "lon": 14.2599,
+      "mmsi": "247130800",
+      "name": "SVEZIA",
+      "lat": 44.4114,
+      "lon": 8.9202,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-02 02:32:34.162578193 +0000 UTC"
-    },
-    {
-      "mmsi": "235104009",
-      "name": "SALTHOLME",
-      "lat": 54.5843,
-      "lon": -1.2305,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-02 02:32:36.697949141 +0000 UTC"
-    },
-    {
-      "mmsi": "431150000",
-      "name": "WISTERIA ACE",
-      "lat": 36.6081,
-      "lon": -8.5677,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-02 02:32:47.369049242 +0000 UTC"
-    },
-    {
-      "mmsi": "244710626",
-      "name": "BENCKES",
-      "lat": 53.188,
-      "lon": 5.7638,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-02 02:32:50.020750928 +0000 UTC"
+      "nav_status": 5,
+      "last_update": "2026-09-02 02:52:54.08424083 +0000 UTC"
     },
     {
       "mmsi": "477997158",
@@ -100,49 +90,69 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-09-02 02:32:58.760179783 +0000 UTC"
+      "last_update": "2026-09-02 02:52:57.622162821 +0000 UTC"
     },
     {
-      "mmsi": "257863000",
-      "name": "ROSESUND",
-      "lat": 60.3842,
-      "lon": 5.3131,
+      "mmsi": "235104009",
+      "name": "SALTHOLME",
+      "lat": 54.5843,
+      "lon": -1.2305,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-02 02:52:57.643897184 +0000 UTC",
+      "ship_type": 40,
+      "destination": "TEES PILOTAGE"
+    },
+    {
+      "mmsi": "211337780",
+      "name": "ATALANTA",
+      "lat": 53.8992,
+      "lon": 11.4571,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-02 02:52:58.835640679 +0000 UTC"
+    },
+    {
+      "mmsi": "235087611",
+      "name": "ARGYLL FLYER",
+      "lat": 55.9445,
+      "lon": -4.7322,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-02 02:33:03.947418087 +0000 UTC"
+      "last_update": "2026-09-02 02:53:00.710877799 +0000 UTC"
     },
     {
-      "mmsi": "240796900",
-      "name": "SEALINK VII",
-      "lat": 37.862,
-      "lon": 23.744,
+      "mmsi": "261007705",
+      "name": "FAIRPLAY-83",
+      "lat": 53.9073,
+      "lon": 14.2599,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-09-02 02:33:07.313421874 +0000 UTC"
-    },
-    {
-      "mmsi": "369713000",
-      "name": "TRIBUTE",
-      "ship_type": 30,
-      "destination": "",
-      "lat": 0,
-      "lon": 0,
-      "sog": 102.2,
-      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-02 02:32:15.854842859 +0000 UTC"
+      "last_update": "2026-09-02 02:53:04.505419253 +0000 UTC"
     },
     {
-      "mmsi": "215935000",
-      "name": "EUROTRADER",
-      "lat": -12.0467,
-      "lon": -77.0447,
-      "sog": 95,
-      "cog": 204.9,
-      "nav_status": 1,
-      "last_update": "2026-09-02 02:32:44.03257539 +0000 UTC"
+      "mmsi": "574001710",
+      "name": "LONG TAN 19",
+      "lat": 13.6761,
+      "lon": 100.5515,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-02 02:53:08.040589554 +0000 UTC"
+    },
+    {
+      "mmsi": "244615506",
+      "name": "ZUID-HOLLAND-ZUID",
+      "lat": 51.8,
+      "lon": 4.6394,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-02 02:53:13.782780762 +0000 UTC"
     },
     {
       "mmsi": "304496000",
@@ -152,57 +162,47 @@
       "sog": 38.8,
       "cog": 259.9,
       "nav_status": 1,
-      "last_update": "2026-09-02 02:32:46.418155728 +0000 UTC"
+      "last_update": "2026-09-02 02:52:54.492718533 +0000 UTC"
     },
     {
-      "mmsi": "366778450",
-      "name": "GOLDEN GATE",
-      "lat": 37.8611,
-      "lon": -122.414,
-      "sog": 37.6,
-      "cog": 162.1,
+      "mmsi": "367199310",
+      "name": "CATALINA JET",
+      "lat": 33.3811,
+      "lon": -118.3083,
+      "sog": 28,
+      "cog": 19.9,
+      "nav_status": 15,
+      "last_update": "2026-09-02 02:52:56.982153322 +0000 UTC"
+    },
+    {
+      "mmsi": "246936000",
+      "name": "MAUD (PILOTS)",
+      "lat": 52.486,
+      "lon": 4.3693,
+      "sog": 27.8,
+      "cog": 30,
       "nav_status": 0,
-      "last_update": "2026-09-02 02:32:17.149612907 +0000 UTC"
+      "last_update": "2026-09-02 02:53:05.760873249 +0000 UTC"
     },
     {
-      "mmsi": "316052438",
-      "name": "STHUQI",
-      "lat": 49.2334,
-      "lon": -123.7767,
-      "sog": 35.7,
-      "cog": 262.1,
-      "nav_status": 9,
-      "last_update": "2026-09-02 02:32:36.914882653 +0000 UTC"
-    },
-    {
-      "mmsi": "368088610",
-      "name": "LYRA",
-      "lat": 37.9899,
-      "lon": -122.4187,
-      "sog": 34.1,
-      "cog": 220,
+      "mmsi": "413471740",
+      "name": "HAIYAO",
+      "lat": 22.3726,
+      "lon": 113.8226,
+      "sog": 26,
+      "cog": 266.6,
       "nav_status": 0,
-      "last_update": "2026-09-02 02:33:04.850185006 +0000 UTC"
+      "last_update": "2026-09-02 02:52:25.364683299 +0000 UTC"
     },
     {
-      "mmsi": "413496590",
-      "name": "ZHONG SHAN 6",
-      "lat": 22.3676,
-      "lon": 113.9128,
-      "sog": 31.3,
-      "cog": 309.4,
-      "nav_status": 0,
-      "last_update": "2026-09-02 02:32:43.834775569 +0000 UTC"
-    },
-    {
-      "mmsi": "413217050",
-      "name": "XUN LONG 11",
-      "lat": 22.442,
-      "lon": 113.9033,
-      "sog": 29.8,
-      "cog": 36.6,
-      "nav_status": 0,
-      "last_update": "2026-09-02 02:32:27.297588749 +0000 UTC"
+      "mmsi": "261008236",
+      "name": "PILOT20",
+      "lat": 54.403,
+      "lon": 18.741,
+      "sog": 25,
+      "cog": 254.4,
+      "nav_status": 15,
+      "last_update": "2026-09-02 02:53:14.324463557 +0000 UTC"
     }
   ]
 }
