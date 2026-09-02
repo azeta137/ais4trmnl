@@ -1,66 +1,26 @@
 {
-  "updated_at": "2026-09-01T23:48:00Z",
-  "count": 3611,
+  "updated_at": "2026-09-02T00:21:11Z",
+  "count": 3485,
   "vessels": [
     {
-      "mmsi": "273354450",
-      "name": "POSEIDON S",
-      "lat": 35.9378,
-      "lon": 28.4495,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-01 23:46:56.47651349 +0000 UTC"
-    },
-    {
-      "mmsi": "245382000",
-      "name": "",
-      "lat": 51.6217,
-      "lon": 3.688,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-01 23:47:32.039937164 +0000 UTC"
-    },
-    {
-      "mmsi": "247130800",
-      "name": "SVEZIA",
-      "lat": 44.4114,
-      "lon": 8.9202,
+      "mmsi": "367168190",
+      "name": "GRAND LUXE",
+      "lat": 25.7727,
+      "lon": -80.1848,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-01 23:47:04.224316878 +0000 UTC"
+      "last_update": "2026-09-02 00:19:59.607963863 +0000 UTC"
     },
     {
-      "mmsi": "246445000",
-      "name": "KNRM-ALIES EN EVERT",
-      "lat": 53.174,
-      "lon": 4.8692,
+      "mmsi": "235087611",
+      "name": "ARGYLL FLYER",
+      "lat": 55.9445,
+      "lon": -4.7322,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-01 23:47:06.806913168 +0000 UTC"
-    },
-    {
-      "mmsi": "244060365",
-      "name": "KNRM ARBOR VITAE",
-      "lat": 53.4088,
-      "lon": 6.1974,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-01 23:47:10.933132488 +0000 UTC"
-    },
-    {
-      "mmsi": "667002572",
-      "name": "AB AYANA",
-      "lat": -12.0316,
-      "lon": -77.0449,
-      "sog": 102.3,
-      "cog": 120,
-      "nav_status": 0,
-      "last_update": "2026-09-01 23:47:14.446382688 +0000 UTC"
+      "nav_status": 5,
+      "last_update": "2026-09-02 00:20:03.375098054 +0000 UTC"
     },
     {
       "mmsi": "235080649",
@@ -70,7 +30,57 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-09-01 23:47:17.619918888 +0000 UTC"
+      "last_update": "2026-09-02 00:20:08.232329557 +0000 UTC"
+    },
+    {
+      "mmsi": "367415390",
+      "name": "EMPIRE STATE",
+      "lat": 40.7351,
+      "lon": -74.0264,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-02 00:20:09.484118977 +0000 UTC"
+    },
+    {
+      "mmsi": "209535000",
+      "name": "NORDEN",
+      "lat": 54.6368,
+      "lon": 11.3881,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-02 00:20:30.0077082 +0000 UTC"
+    },
+    {
+      "mmsi": "246445000",
+      "name": "KNRM-ALIES EN EVERT",
+      "lat": 53.1739,
+      "lon": 4.8692,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-02 00:20:36.220630707 +0000 UTC"
+    },
+    {
+      "mmsi": "316046329",
+      "name": "PITT KNIGHT",
+      "lat": 49.2313,
+      "lon": -122.7711,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-02 00:20:37.25694092 +0000 UTC"
+    },
+    {
+      "mmsi": "240796900",
+      "name": "SEALINK VII",
+      "lat": 37.862,
+      "lon": 23.744,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 1,
+      "last_update": "2026-09-02 00:20:37.663786292 +0000 UTC"
     },
     {
       "mmsi": "440215970",
@@ -80,127 +90,117 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-01 23:47:20.546412479 +0000 UTC"
+      "last_update": "2026-09-02 00:20:40.877767518 +0000 UTC"
     },
     {
-      "mmsi": "235034368",
-      "name": "MULTI-SURVEY 4",
-      "lat": 52.955,
-      "lon": 4.7791,
+      "mmsi": "219385000",
+      "name": "BJOERNSHOLM",
+      "lat": 55.6793,
+      "lon": 12.593,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-01 23:47:29.447253211 +0000 UTC"
+      "last_update": "2026-09-02 00:20:45.806726036 +0000 UTC"
     },
     {
-      "mmsi": "503000080",
-      "name": "MANNING",
-      "lat": -33.8683,
-      "lon": 151.222,
+      "mmsi": "211652800",
+      "name": "LAUENBURG",
+      "lat": 53.37,
+      "lon": 10.5541,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-02 00:20:46.830695227 +0000 UTC"
+    },
+    {
+      "mmsi": "230182220",
+      "name": "NORDENSKIOLD",
+      "lat": 60.338,
+      "lon": 25.5785,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-01 23:47:33.921980326 +0000 UTC"
+      "last_update": "2026-09-02 00:20:48.78732237 +0000 UTC"
+    },
+    {
+      "mmsi": "428009088",
+      "name": "DANCHOR X",
+      "lat": 31.8242,
+      "lon": 34.6451,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-02 00:20:50.517353259 +0000 UTC"
     },
     {
       "mmsi": "271000677",
       "name": "VENTO DI MELTEMI",
-      "lat": 38.5142,
+      "lat": 38.5141,
       "lon": -8.8729,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-01 23:47:37.40178592 +0000 UTC"
+      "last_update": "2026-09-02 00:20:56.935774347 +0000 UTC"
     },
     {
-      "mmsi": "567002520",
-      "name": "NP CHUMPHON",
-      "lat": 13.671,
-      "lon": 100.5795,
+      "mmsi": "211337780",
+      "name": "ATALANTA",
+      "lat": 53.8992,
+      "lon": 11.4571,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-01 23:47:46.321591219 +0000 UTC"
+      "last_update": "2026-09-02 00:20:57.270173853 +0000 UTC"
     },
     {
-      "mmsi": "636025220",
-      "name": "ELA T",
-      "lat": -12.0324,
-      "lon": -77.0555,
-      "sog": 102.2,
-      "cog": 49.9,
+      "mmsi": "311001288",
+      "name": "MATROZOS",
+      "lat": -12.0412,
+      "lon": -77.0406,
+      "sog": 95.6,
+      "cog": 155.4,
+      "nav_status": 0,
+      "last_update": "2026-09-02 00:20:06.84256391 +0000 UTC"
+    },
+    {
+      "mmsi": "215935000",
+      "name": "EUROTRADER",
+      "lat": -12.0475,
+      "lon": -77.054,
+      "sog": 59.2,
+      "cog": 285.5,
       "nav_status": 1,
-      "last_update": "2026-09-01 23:46:52.356181961 +0000 UTC"
+      "last_update": "2026-09-02 00:20:41.673497458 +0000 UTC"
     },
     {
-      "mmsi": "367447520",
-      "name": "SALACIA",
-      "lat": 42.2978,
-      "lon": -70.9683,
-      "sog": 36.5,
-      "cog": 145.4,
+      "mmsi": "355671000",
+      "name": "BOZBURUN-M",
+      "lat": 35.7809,
+      "lon": 34.6247,
+      "sog": 40.5,
+      "cog": 241.3,
       "nav_status": 0,
-      "last_update": "2026-09-01 23:46:57.701697452 +0000 UTC"
+      "last_update": "2026-09-02 00:20:39.908258534 +0000 UTC"
     },
     {
-      "mmsi": "368067090",
-      "name": "RELIANCE",
-      "lat": 47.5904,
-      "lon": -122.5622,
-      "sog": 35.3,
-      "cog": 227.6,
+      "mmsi": "368206330",
+      "name": "SOLANO",
+      "lat": 47.7395,
+      "lon": -122.432,
+      "sog": 35.7,
+      "cog": 11.2,
       "nav_status": 0,
-      "last_update": "2026-09-01 23:47:47.673588107 +0000 UTC"
-    },
-    {
-      "mmsi": "366989380",
-      "name": "MARE ISLAND",
-      "lat": 37.9612,
-      "lon": -122.443,
-      "sog": 33,
-      "cog": 202.5,
-      "nav_status": 0,
-      "last_update": "2026-09-01 23:47:04.176916652 +0000 UTC"
+      "last_update": "2026-09-02 00:20:26.36283693 +0000 UTC"
     },
     {
       "mmsi": "368341690",
       "name": "DELPHINUS",
-      "lat": 37.7795,
-      "lon": -122.3562,
-      "sog": 30.6,
-      "cog": 122,
+      "lat": 37.7564,
+      "lon": -122.3147,
+      "sog": 33.7,
+      "cog": 301.3,
       "nav_status": 0,
-      "last_update": "2026-09-01 23:47:15.078386589 +0000 UTC"
-    },
-    {
-      "mmsi": "316016131",
-      "name": "PACIFIC GUARDIAN",
-      "lat": 48.4086,
-      "lon": -123.3879,
-      "sog": 29.1,
-      "cog": 120,
-      "nav_status": 0,
-      "last_update": "2026-09-01 23:47:37.439211681 +0000 UTC"
-    },
-    {
-      "mmsi": "367036190",
-      "name": "MARTHA'S VINEYARD EX",
-      "lat": 41.4639,
-      "lon": -70.5524,
-      "sog": 28,
-      "cog": 355.8,
-      "nav_status": 0,
-      "last_update": "2026-09-01 23:47:20.582216707 +0000 UTC"
-    },
-    {
-      "mmsi": "366768030",
-      "name": "STARSHIP EXPRESS",
-      "lat": 33.7124,
-      "lon": -118.1873,
-      "sog": 27.5,
-      "cog": 196,
-      "nav_status": 5,
-      "last_update": "2026-09-01 23:47:33.493860711 +0000 UTC"
+      "last_update": "2026-09-02 00:20:06.860419056 +0000 UTC"
     }
   ]
 }
