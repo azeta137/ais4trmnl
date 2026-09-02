@@ -1,206 +1,208 @@
 {
-  "updated_at": "2026-09-02T00:21:11Z",
-  "count": 3485,
+  "updated_at": "2026-09-02T00:41:39Z",
+  "count": 3632,
   "vessels": [
     {
-      "mmsi": "367168190",
-      "name": "GRAND LUXE",
-      "lat": 25.7727,
-      "lon": -80.1848,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-02 00:19:59.607963863 +0000 UTC"
-    },
-    {
-      "mmsi": "235087611",
-      "name": "ARGYLL FLYER",
-      "lat": 55.9445,
-      "lon": -4.7322,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-02 00:20:03.375098054 +0000 UTC"
-    },
-    {
-      "mmsi": "235080649",
-      "name": "ONWARD N107",
-      "lat": 54.4565,
-      "lon": -5.4397,
+      "mmsi": "316014014",
+      "name": "TAKAYA",
+      "lat": 49.2863,
+      "lon": -123.1005,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-09-02 00:20:08.232329557 +0000 UTC"
+      "last_update": "2026-09-02 00:40:42.364454563 +0000 UTC"
+    },
+    {
+      "mmsi": "259046050",
+      "name": "FREMAD",
+      "lat": 66.3729,
+      "lon": 12.361,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-02 00:40:53.548716318 +0000 UTC"
+    },
+    {
+      "mmsi": "368119660",
+      "name": "CHARLESTON",
+      "lat": 40.65,
+      "lon": -74.0852,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 12,
+      "last_update": "2026-09-02 00:40:59.052182895 +0000 UTC"
+    },
+    {
+      "mmsi": "244615506",
+      "name": "ZUID-HOLLAND-ZUID",
+      "lat": 51.8,
+      "lon": 4.6394,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-02 00:41:03.648502088 +0000 UTC"
+    },
+    {
+      "mmsi": "271044493",
+      "name": "MIP- 3",
+      "lat": 36.7919,
+      "lon": 34.636,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-02 00:41:06.908240754 +0000 UTC"
+    },
+    {
+      "mmsi": "567002520",
+      "name": "NP CHUMPHON",
+      "lat": 13.671,
+      "lon": 100.5794,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-02 00:41:07.679366969 +0000 UTC"
+    },
+    {
+      "mmsi": "261007705",
+      "name": "FAIRPLAY-83",
+      "lat": 53.9073,
+      "lon": 14.2599,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-02 00:41:14.558632335 +0000 UTC"
+    },
+    {
+      "mmsi": "601126900",
+      "name": "SEA EXPRESS",
+      "lat": -29.8681,
+      "lon": 31.0141,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-09-02 00:41:18.539193965 +0000 UTC"
+    },
+    {
+      "mmsi": "341279001",
+      "name": "MKK II",
+      "lat": -12.047,
+      "lon": -77.0448,
+      "sog": 102.3,
+      "cog": 237.5,
+      "nav_status": 1,
+      "last_update": "2026-09-02 00:41:35.074134011 +0000 UTC"
     },
     {
       "mmsi": "367415390",
       "name": "EMPIRE STATE",
       "lat": 40.7351,
-      "lon": -74.0264,
+      "lon": -74.0265,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-02 00:20:09.484118977 +0000 UTC"
+      "last_update": "2026-09-02 00:41:35.596771772 +0000 UTC"
     },
     {
-      "mmsi": "209535000",
-      "name": "NORDEN",
-      "lat": 54.6368,
-      "lon": 11.3881,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-02 00:20:30.0077082 +0000 UTC"
-    },
-    {
-      "mmsi": "246445000",
-      "name": "KNRM-ALIES EN EVERT",
-      "lat": 53.1739,
-      "lon": 4.8692,
-      "sog": 102.3,
-      "cog": 360,
+      "mmsi": "413496590",
+      "name": "ZHONG SHAN 6",
+      "lat": 22.3779,
+      "lon": 113.8941,
+      "sog": 33.4,
+      "cog": 136.4,
       "nav_status": 0,
-      "last_update": "2026-09-02 00:20:36.220630707 +0000 UTC"
+      "last_update": "2026-09-02 00:40:50.854704571 +0000 UTC"
     },
     {
-      "mmsi": "316046329",
-      "name": "PITT KNIGHT",
-      "lat": 49.2313,
-      "lon": -122.7711,
-      "sog": 102.3,
-      "cog": 360,
+      "mmsi": "367379320",
+      "name": "AURORA",
+      "lat": 42.3473,
+      "lon": -71.02,
+      "sog": 31.9,
+      "cog": 126.1,
       "nav_status": 0,
-      "last_update": "2026-09-02 00:20:37.25694092 +0000 UTC"
+      "last_update": "2026-09-02 00:41:14.232486155 +0000 UTC"
     },
     {
-      "mmsi": "240796900",
-      "name": "SEALINK VII",
-      "lat": 37.862,
-      "lon": 23.744,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-09-02 00:20:37.663786292 +0000 UTC"
-    },
-    {
-      "mmsi": "440215970",
-      "name": "DONG YANG .9",
-      "lat": 37.4892,
-      "lon": 126.6167,
-      "sog": 102.3,
-      "cog": 360,
+      "mmsi": "367582110",
+      "name": "PROVINCETOWN IV",
+      "lat": 42.3026,
+      "lon": -70.8206,
+      "sog": 31.8,
+      "cog": 297.6,
       "nav_status": 0,
-      "last_update": "2026-09-02 00:20:40.877767518 +0000 UTC"
+      "last_update": "2026-09-02 00:41:25.146681496 +0000 UTC"
     },
     {
-      "mmsi": "219385000",
-      "name": "BJOERNSHOLM",
-      "lat": 55.6793,
-      "lon": 12.593,
-      "sog": 102.3,
-      "cog": 360,
+      "mmsi": "477997211",
+      "name": "XIN MING ZHU XI",
+      "lat": 22.2923,
+      "lon": 114.1234,
+      "sog": 28.4,
+      "cog": 255.9,
       "nav_status": 0,
-      "last_update": "2026-09-02 00:20:45.806726036 +0000 UTC"
+      "last_update": "2026-09-02 00:40:44.652695543 +0000 UTC"
     },
     {
-      "mmsi": "211652800",
-      "name": "LAUENBURG",
-      "lat": 53.37,
-      "lon": 10.5541,
-      "sog": 102.3,
-      "cog": 360,
+      "mmsi": "367425520",
+      "name": "SCORPIO",
+      "lat": 37.6895,
+      "lon": -122.3593,
+      "sog": 27.4,
+      "cog": 9.3,
       "nav_status": 0,
-      "last_update": "2026-09-02 00:20:46.830695227 +0000 UTC"
+      "last_update": "2026-09-02 00:41:20.508089212 +0000 UTC"
     },
     {
-      "mmsi": "230182220",
-      "name": "NORDENSKIOLD",
-      "lat": 60.338,
-      "lon": 25.5785,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-02 00:20:48.78732237 +0000 UTC"
-    },
-    {
-      "mmsi": "428009088",
-      "name": "DANCHOR X",
-      "lat": 31.8242,
-      "lon": 34.6451,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-02 00:20:50.517353259 +0000 UTC"
-    },
-    {
-      "mmsi": "271000677",
-      "name": "VENTO DI MELTEMI",
-      "lat": 38.5141,
-      "lon": -8.8729,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-02 00:20:56.935774347 +0000 UTC"
-    },
-    {
-      "mmsi": "211337780",
-      "name": "ATALANTA",
-      "lat": 53.8992,
-      "lon": 11.4571,
-      "sog": 102.3,
-      "cog": 360,
+      "mmsi": "366771550",
+      "name": "NAPA",
+      "lat": 37.8759,
+      "lon": -122.4157,
+      "sog": 27.1,
+      "cog": 325,
       "nav_status": 0,
-      "last_update": "2026-09-02 00:20:57.270173853 +0000 UTC"
+      "last_update": "2026-09-02 00:41:31.542857482 +0000 UTC"
     },
     {
-      "mmsi": "311001288",
-      "name": "MATROZOS",
-      "lat": -12.0412,
-      "lon": -77.0406,
-      "sog": 95.6,
-      "cog": 155.4,
+      "mmsi": "563085680",
+      "name": "PILOT 13",
+      "lat": 1.2679,
+      "lon": 103.8825,
+      "sog": 26.6,
+      "cog": 248.8,
+      "nav_status": 15,
+      "last_update": "2026-09-02 00:41:04.318340656 +0000 UTC"
+    },
+    {
+      "mmsi": "366943960",
+      "name": "CATALINA EXPRESS",
+      "lat": 33.3963,
+      "lon": -117.974,
+      "sog": 26.5,
+      "cog": 75.2,
       "nav_status": 0,
-      "last_update": "2026-09-02 00:20:06.84256391 +0000 UTC"
+      "last_update": "2026-09-02 00:40:40.142297259 +0000 UTC",
+      "ship_type": 40,
+      "destination": "AVALON"
     },
     {
-      "mmsi": "215935000",
-      "name": "EUROTRADER",
-      "lat": -12.0475,
-      "lon": -77.054,
-      "sog": 59.2,
-      "cog": 285.5,
-      "nav_status": 1,
-      "last_update": "2026-09-02 00:20:41.673497458 +0000 UTC"
-    },
-    {
-      "mmsi": "355671000",
-      "name": "BOZBURUN-M",
-      "lat": 35.7809,
-      "lon": 34.6247,
-      "sog": 40.5,
-      "cog": 241.3,
+      "mmsi": "247083700",
+      "name": "LA SUPREMA",
+      "lat": 42.8104,
+      "lon": 9.663,
+      "sog": 26.1,
+      "cog": 164.9,
       "nav_status": 0,
-      "last_update": "2026-09-02 00:20:39.908258534 +0000 UTC"
+      "last_update": "2026-09-02 00:40:47.668055844 +0000 UTC"
     },
     {
-      "mmsi": "368206330",
-      "name": "SOLANO",
-      "lat": 47.7395,
-      "lon": -122.432,
-      "sog": 35.7,
-      "cog": 11.2,
+      "mmsi": "368063440",
+      "name": "CARINA",
+      "lat": 37.7769,
+      "lon": -122.3276,
+      "sog": 25.9,
+      "cog": 104.5,
       "nav_status": 0,
-      "last_update": "2026-09-02 00:20:26.36283693 +0000 UTC"
-    },
-    {
-      "mmsi": "368341690",
-      "name": "DELPHINUS",
-      "lat": 37.7564,
-      "lon": -122.3147,
-      "sog": 33.7,
-      "cog": 301.3,
-      "nav_status": 0,
-      "last_update": "2026-09-02 00:20:06.860419056 +0000 UTC"
+      "last_update": "2026-09-02 00:41:10.334043431 +0000 UTC"
     }
   ]
 }
