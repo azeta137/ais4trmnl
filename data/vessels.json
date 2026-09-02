@@ -1,77 +1,7 @@
 {
-  "updated_at": "2026-09-02T18:51:00Z",
-  "count": 3541,
+  "updated_at": "2026-09-02T19:12:32Z",
+  "count": 3592,
   "vessels": [
-    {
-      "mmsi": "235080649",
-      "name": "ONWARD N107",
-      "lat": 54.4565,
-      "lon": -5.4396,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-02 18:50:38.682957532 +0000 UTC"
-    },
-    {
-      "mmsi": "710006493",
-      "name": "HB ENGUIA",
-      "lat": -1.468,
-      "lon": -48.694,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-02 18:50:10.951569943 +0000 UTC"
-    },
-    {
-      "mmsi": "228436800",
-      "name": "F/V LAREDO",
-      "lat": 42.2297,
-      "lon": -8.7512,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-02 18:50:17.317719415 +0000 UTC"
-    },
-    {
-      "mmsi": "246445000",
-      "name": "KNRM-ALIES EN EVERT",
-      "lat": 53.174,
-      "lon": 4.8693,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-02 18:50:26.274044795 +0000 UTC"
-    },
-    {
-      "mmsi": "250101900",
-      "name": "GUIDING STAR 2",
-      "lat": 51.6509,
-      "lon": -9.9082,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-02 18:50:27.074572925 +0000 UTC"
-    },
-    {
-      "mmsi": "316014014",
-      "name": "TAKAYA",
-      "lat": 49.2863,
-      "lon": -123.1005,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-02 18:50:43.186996571 +0000 UTC"
-    },
-    {
-      "mmsi": "273380460",
-      "name": "",
-      "lat": 40.9586,
-      "lon": 28.7848,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-09-02 18:50:47.239193455 +0000 UTC"
-    },
     {
       "mmsi": "244615506",
       "name": "ZUID-HOLLAND-ZUID",
@@ -80,129 +10,199 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-02 18:50:54.749866483 +0000 UTC"
+      "last_update": "2026-09-02 19:11:34.566308295 +0000 UTC"
     },
     {
-      "mmsi": "219705000",
-      "name": "EXPRESS 4",
-      "lat": 55.9976,
-      "lon": 10.9906,
-      "sog": 38.1,
-      "cog": 283.6,
-      "nav_status": 9,
-      "last_update": "2026-09-02 18:50:50.91620804 +0000 UTC"
-    },
-    {
-      "mmsi": "368088610",
-      "name": "LYRA",
-      "lat": 37.949,
-      "lon": -122.4303,
-      "sog": 34.5,
-      "cog": 354.9,
+      "mmsi": "246445000",
+      "name": "KNRM-ALIES EN EVERT",
+      "lat": 53.1739,
+      "lon": 4.8693,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-02 18:50:12.817412983 +0000 UTC"
+      "last_update": "2026-09-02 19:11:36.431088044 +0000 UTC"
     },
     {
-      "mmsi": "259257000",
-      "name": "GODOEY",
-      "lat": 62.3921,
-      "lon": 6.0427,
-      "sog": 32.9,
-      "cog": 178.9,
-      "nav_status": 0,
-      "last_update": "2026-09-02 18:50:24.202341997 +0000 UTC"
+      "mmsi": "235080649",
+      "name": "ONWARD N107",
+      "lat": 54.4565,
+      "lon": -5.4397,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-02 19:11:48.09191242 +0000 UTC"
     },
     {
-      "mmsi": "367691840",
-      "name": "MOLLY PITCHER",
-      "lat": 40.8198,
-      "lon": -73.97,
-      "sog": 29.6,
-      "cog": 24.6,
-      "nav_status": 0,
-      "last_update": "2026-09-02 18:50:45.22019226 +0000 UTC"
-    },
-    {
-      "mmsi": "367677670",
-      "name": "SANCTUARY",
-      "lat": 42.3208,
-      "lon": -70.9176,
-      "sog": 29.3,
-      "cog": 103.4,
-      "nav_status": 0,
-      "last_update": "2026-09-02 18:50:29.590263277 +0000 UTC"
-    },
-    {
-      "mmsi": "235112741",
-      "name": "GALAXY CLIPPER",
-      "lat": 51.4925,
-      "lon": -0.0004,
-      "sog": 29.2,
-      "cog": 345.7,
-      "nav_status": 0,
-      "last_update": "2026-09-02 18:50:26.042407015 +0000 UTC"
-    },
-    {
-      "mmsi": "316056728",
-      "name": "MUSQUEAM SENTINEL",
-      "lat": 49.2079,
-      "lon": -122.6336,
-      "sog": 27.2,
-      "cog": 244.3,
+      "mmsi": "257863000",
+      "name": "ROSESUND",
+      "lat": 60.3841,
+      "lon": 5.3131,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-02 18:50:23.6621371 +0000 UTC"
+      "last_update": "2026-09-02 19:12:04.988730521 +0000 UTC"
     },
     {
-      "mmsi": "244129776",
-      "name": "MSTX 15",
-      "lat": 51.8966,
-      "lon": 4.3865,
-      "sog": 26.9,
-      "cog": 94,
+      "mmsi": "244770477",
+      "name": "RODIE 2",
+      "lat": 52.4295,
+      "lon": 4.8319,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-02 19:12:07.580809048 +0000 UTC"
+    },
+    {
+      "mmsi": "316046329",
+      "name": "PITT KNIGHT",
+      "lat": 49.2309,
+      "lon": -122.7689,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-02 19:12:11.063083894 +0000 UTC"
+    },
+    {
+      "mmsi": "525104007",
+      "name": "TRANSKO JALAK",
+      "lat": -6.9477,
+      "lon": 110.4203,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 8,
-      "last_update": "2026-09-02 18:50:09.125095281 +0000 UTC",
-      "ship_type": 49,
-      "destination": "ROTTERDAM"
+      "last_update": "2026-09-02 19:12:22.966791448 +0000 UTC"
     },
     {
-      "mmsi": "247530300",
-      "name": "GNV AURORA",
-      "lat": 37.3252,
-      "lon": -0.9093,
-      "sog": 24.9,
-      "cog": 226.3,
-      "nav_status": 0,
-      "last_update": "2026-09-02 18:50:50.818021726 +0000 UTC"
+      "mmsi": "428009088",
+      "name": "DANCHOR X",
+      "lat": 31.8242,
+      "lon": 34.6451,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-02 19:12:24.260043119 +0000 UTC"
     },
     {
-      "mmsi": "503433000",
-      "name": "SPIRIT OF TASMANIA 2",
-      "lat": -40.9256,
-      "lon": 146.2289,
-      "sog": 23.8,
-      "cog": 150.7,
+      "mmsi": "211337780",
+      "name": "ATALANTA",
+      "lat": 53.8992,
+      "lon": 11.4571,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-02 18:50:47.751761007 +0000 UTC"
+      "last_update": "2026-09-02 19:12:26.803282517 +0000 UTC"
     },
     {
-      "mmsi": "316042213",
-      "name": "SALISH SEA FREEDOM",
-      "lat": 49.3864,
-      "lon": -123.3099,
-      "sog": 22.9,
-      "cog": 206.4,
+      "mmsi": "316014014",
+      "name": "TAKAYA",
+      "lat": 49.2863,
+      "lon": -123.1005,
+      "sog": 102.2,
+      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-02 18:50:12.217691767 +0000 UTC"
+      "last_update": "2026-09-02 19:12:23.745136209 +0000 UTC"
     },
     {
-      "mmsi": "368081150",
-      "name": "UNITY",
-      "lat": 40.7345,
-      "lon": -73.9664,
-      "sog": 22.6,
-      "cog": 186.4,
+      "mmsi": "636018491",
+      "name": "MSC KAYLA",
+      "lat": 60.1174,
+      "lon": 31.3925,
+      "sog": 64.7,
+      "cog": 83.5,
+      "nav_status": 5,
+      "last_update": "2026-09-02 19:11:44.154603271 +0000 UTC"
+    },
+    {
+      "mmsi": "770576272",
+      "name": "FRANCISCO",
+      "lat": -34.6055,
+      "lon": -58.245,
+      "sog": 43.9,
+      "cog": 101.3,
       "nav_status": 0,
-      "last_update": "2026-09-02 18:50:18.847988758 +0000 UTC"
+      "last_update": "2026-09-02 19:12:06.960271441 +0000 UTC"
+    },
+    {
+      "mmsi": "257895900",
+      "name": "RS127 ANNE-LISE",
+      "lat": 58.2333,
+      "lon": 8.4038,
+      "sog": 34.4,
+      "cog": 140.2,
+      "nav_status": 0,
+      "last_update": "2026-09-02 19:11:54.188203162 +0000 UTC"
+    },
+    {
+      "mmsi": "366970020",
+      "name": "MENDOCINO",
+      "lat": 37.8531,
+      "lon": -122.4094,
+      "sog": 34.2,
+      "cog": 165.6,
+      "nav_status": 0,
+      "last_update": "2026-09-02 19:12:13.004472228 +0000 UTC"
+    },
+    {
+      "mmsi": "368457860",
+      "name": "EMERALD CLIPPER",
+      "lat": 47.9275,
+      "lon": -122.3434,
+      "sog": 33.9,
+      "cog": 212,
+      "nav_status": 0,
+      "last_update": "2026-09-02 19:11:51.591301325 +0000 UTC",
+      "ship_type": 60,
+      "destination": "WILDLIFE TOUR"
+    },
+    {
+      "mmsi": "368013770",
+      "name": "COMMODORE",
+      "lat": 40.6226,
+      "lon": -74.051,
+      "sog": 32.8,
+      "cog": 169.7,
+      "nav_status": 0,
+      "last_update": "2026-09-02 19:11:35.725838004 +0000 UTC"
+    },
+    {
+      "mmsi": "338754000",
+      "name": "SPIRIT OF KINGSTON",
+      "lat": 47.5879,
+      "lon": -122.4146,
+      "sog": 31.9,
+      "cog": 52.1,
+      "nav_status": 0,
+      "last_update": "2026-09-02 19:11:30.358809628 +0000 UTC"
+    },
+    {
+      "mmsi": "367101920",
+      "name": "GREY LADY",
+      "lat": 41.4098,
+      "lon": -70.1758,
+      "sog": 31.8,
+      "cog": 154.8,
+      "nav_status": 0,
+      "last_update": "2026-09-02 19:11:46.4889096 +0000 UTC"
+    },
+    {
+      "mmsi": "210741000",
+      "name": "AERO 4 HIGHSPEED",
+      "lat": 37.3464,
+      "lon": 23.2812,
+      "sog": 31.7,
+      "cog": 212.8,
+      "nav_status": 9,
+      "last_update": "2026-09-02 19:11:40.174675983 +0000 UTC"
+    },
+    {
+      "mmsi": "235070199",
+      "name": "MANANNAN",
+      "lat": 53.7224,
+      "lon": -3.6653,
+      "sog": 31.3,
+      "cog": 310.5,
+      "nav_status": 0,
+      "last_update": "2026-09-02 19:11:41.204831279 +0000 UTC"
     }
   ]
 }
