@@ -1,26 +1,28 @@
 {
-  "updated_at": "2026-09-02T17:30:24Z",
-  "count": 3605,
+  "updated_at": "2026-09-02T17:47:42Z",
+  "count": 3500,
   "vessels": [
     {
-      "mmsi": "316014014",
-      "name": "TAKAYA",
-      "lat": 49.2863,
-      "lon": -123.1006,
+      "mmsi": "440215970",
+      "name": "DONG YANG .9",
+      "lat": 37.4892,
+      "lon": 126.6167,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-02 17:29:52.172248182 +0000 UTC"
+      "nav_status": 0,
+      "last_update": "2026-09-02 17:46:40.760473929 +0000 UTC"
     },
     {
-      "mmsi": "244615506",
-      "name": "ZUID-HOLLAND-ZUID",
-      "lat": 51.8,
-      "lon": 4.6394,
+      "mmsi": "319067100",
+      "name": "WINWIN",
+      "lat": 39.4887,
+      "lon": 2.4767,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-02 17:29:53.225585124 +0000 UTC"
+      "nav_status": 8,
+      "last_update": "2026-09-02 17:46:41.849956409 +0000 UTC",
+      "ship_type": 36,
+      "destination": "MENORCA"
     },
     {
       "mmsi": "261007705",
@@ -30,17 +32,27 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-02 17:29:35.326848648 +0000 UTC"
+      "last_update": "2026-09-02 17:46:54.739923548 +0000 UTC"
     },
     {
-      "mmsi": "244770477",
-      "name": "RODIE 2",
-      "lat": 52.4295,
-      "lon": 4.8319,
+      "mmsi": "215935000",
+      "name": "EUROTRADER",
+      "lat": -12.0482,
+      "lon": -77.0516,
+      "sog": 102.3,
+      "cog": 281.3,
+      "nav_status": 0,
+      "last_update": "2026-09-02 17:47:09.268709918 +0000 UTC"
+    },
+    {
+      "mmsi": "525104007",
+      "name": "TRANSKO JALAK",
+      "lat": -6.9477,
+      "lon": 110.4203,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-02 17:29:47.445147537 +0000 UTC"
+      "nav_status": 8,
+      "last_update": "2026-09-02 17:47:09.530278399 +0000 UTC"
     },
     {
       "mmsi": "211337780",
@@ -50,161 +62,147 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-02 17:29:48.317980735 +0000 UTC"
+      "last_update": "2026-09-02 17:47:27.554827416 +0000 UTC"
     },
     {
-      "mmsi": "367482250",
-      "name": "JERSEY",
-      "ship_type": 60,
-      "destination": "NY,NY",
-      "lat": 40.7139,
-      "lon": -74.0319,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-02 17:30:14.891802042 +0000 UTC"
-    },
-    {
-      "mmsi": "310862000",
-      "name": "URIEL",
-      "lat": 39.2124,
-      "lon": 9.111,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-02 17:29:52.953172586 +0000 UTC"
-    },
-    {
-      "mmsi": "257863000",
-      "name": "ROSESUND",
-      "lat": 60.3842,
-      "lon": 5.3131,
+      "mmsi": "244770477",
+      "name": "RODIE 2",
+      "lat": 52.4296,
+      "lon": 4.8319,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-02 17:30:03.285228925 +0000 UTC"
+      "last_update": "2026-09-02 17:47:28.057354919 +0000 UTC"
     },
     {
-      "mmsi": "511102047",
-      "name": "VINES",
-      "lat": -12.0465,
-      "lon": -77.0439,
-      "sog": 102.2,
-      "cog": 230.1,
+      "mmsi": "368434280",
+      "name": "ZALOPHUS",
+      "lat": 37.7965,
+      "lon": -122.3257,
+      "sog": 36.1,
+      "cog": 286.1,
       "nav_status": 0,
-      "last_update": "2026-09-02 17:29:22.173613433 +0000 UTC"
-    },
-    {
-      "mmsi": "316052438",
-      "name": "STHUQI",
-      "lat": 49.2175,
-      "lon": -123.8517,
-      "sog": 33.5,
-      "cog": 238.7,
-      "nav_status": 9,
-      "last_update": "2026-09-02 17:29:50.967178531 +0000 UTC"
-    },
-    {
-      "mmsi": "224781000",
-      "name": "VOLCAN DE TAGORO",
-      "lat": 28.4754,
-      "lon": -16.1821,
-      "sog": 33.1,
-      "cog": 102.5,
-      "nav_status": 9,
-      "last_update": "2026-09-02 17:29:24.879457452 +0000 UTC"
-    },
-    {
-      "mmsi": "369493713",
-      "name": "",
-      "lat": 38.0922,
-      "lon": -76.4335,
-      "sog": 33.1,
-      "cog": 325.2,
-      "nav_status": 0,
-      "last_update": "2026-09-02 17:29:25.71598005 +0000 UTC"
-    },
-    {
-      "mmsi": "247679000",
-      "name": "FIAMMETTA M",
-      "ship_type": 60,
-      "destination": "ITTPS FAV - MRT",
-      "lat": 37.9991,
-      "lon": 12.4894,
-      "sog": 32.7,
-      "cog": 61.7,
-      "nav_status": 0,
-      "last_update": "2026-09-02 17:30:03.90505387 +0000 UTC"
-    },
-    {
-      "mmsi": "224984000",
-      "name": "VOLCAN DE TAIDIA",
-      "lat": 28.1679,
-      "lon": -15.3883,
-      "sog": 32.2,
-      "cog": 350.5,
-      "nav_status": 0,
-      "last_update": "2026-09-02 17:29:49.692781871 +0000 UTC"
-    },
-    {
-      "mmsi": "367720690",
-      "name": "GREY LADY IV",
-      "lat": 41.3965,
-      "lon": -70.167,
-      "sog": 32,
-      "cog": 150.4,
-      "nav_status": 0,
-      "last_update": "2026-09-02 17:29:54.129230849 +0000 UTC"
+      "last_update": "2026-09-02 17:46:59.909290972 +0000 UTC"
     },
     {
       "mmsi": "212859000",
       "name": "MERCEDES PINTO",
-      "lat": 28.1301,
-      "lon": -15.321,
-      "sog": 31.9,
-      "cog": 98.7,
+      "lat": 28.1113,
+      "lon": -15.1395,
+      "sog": 33.3,
+      "cog": 94.8,
       "nav_status": 0,
-      "last_update": "2026-09-02 17:29:55.267004574 +0000 UTC"
+      "last_update": "2026-09-02 17:47:12.973594865 +0000 UTC"
     },
     {
-      "mmsi": "316056881",
-      "name": "TYMAC FORCE",
-      "lat": 49.3084,
-      "lon": -123.1239,
-      "sog": 30.5,
-      "cog": 305,
-      "nav_status": 0,
-      "last_update": "2026-09-02 17:30:01.882711336 +0000 UTC"
+      "mmsi": "224781000",
+      "name": "VOLCAN DE TAGORO",
+      "lat": 28.433,
+      "lon": -16.0079,
+      "sog": 32.6,
+      "cog": 116.4,
+      "nav_status": 9,
+      "last_update": "2026-09-02 17:47:29.21344567 +0000 UTC"
     },
     {
-      "mmsi": "369990331",
-      "name": "CG29331",
-      "lat": 29.6375,
-      "lon": -94.9739,
-      "sog": 30.3,
-      "cog": 256.2,
-      "nav_status": 0,
-      "last_update": "2026-09-02 17:29:35.752651467 +0000 UTC"
+      "mmsi": "368926627",
+      "name": "MARTIN",
+      "lat": 32.0958,
+      "lon": -80.9955,
+      "sog": 32.4,
+      "cog": 321.4,
+      "nav_status": 15,
+      "last_update": "2026-09-02 17:46:56.527114886 +0000 UTC"
     },
     {
-      "mmsi": "266445000",
-      "name": "VISBY",
-      "lat": 58.8485,
-      "lon": 18.0577,
-      "sog": 28.8,
-      "cog": 336.3,
-      "nav_status": 0,
-      "last_update": "2026-09-02 17:29:47.269775819 +0000 UTC"
+      "mmsi": "366768030",
+      "name": "STARSHIP EXPRESS",
+      "lat": 33.5407,
+      "lon": -118.2286,
+      "sog": 28.3,
+      "cog": 24,
+      "nav_status": 5,
+      "last_update": "2026-09-02 17:46:56.126375992 +0000 UTC"
     },
     {
-      "mmsi": "224836000",
-      "name": "VOLCAN DE TIRAJANA",
-      "lat": 28.163,
-      "lon": -16.9976,
-      "sog": 28.6,
-      "cog": 129.9,
+      "mmsi": "259257000",
+      "name": "GODOEY",
+      "lat": 62.4559,
+      "lon": 6.0533,
+      "sog": 28.2,
+      "cog": 206.7,
       "nav_status": 0,
-      "last_update": "2026-09-02 17:29:47.265567393 +0000 UTC"
+      "last_update": "2026-09-02 17:47:20.467468829 +0000 UTC"
+    },
+    {
+      "mmsi": "367151730",
+      "name": "ATHENA",
+      "lat": 41.2028,
+      "lon": -71.548,
+      "sog": 27.6,
+      "cog": 195.2,
+      "nav_status": 0,
+      "last_update": "2026-09-02 17:47:03.730115996 +0000 UTC"
+    },
+    {
+      "mmsi": "367534240",
+      "name": "NATHANIEL BOWDITCH",
+      "lat": 42.3492,
+      "lon": -71.0213,
+      "sog": 27.6,
+      "cog": 300.6,
+      "nav_status": 0,
+      "last_update": "2026-09-02 17:47:05.690892374 +0000 UTC"
+    },
+    {
+      "mmsi": "257125290",
+      "name": "FREDRIKKE T-OLSEN",
+      "lat": 66.4232,
+      "lon": 12.6213,
+      "sog": 27.4,
+      "cog": 107.3,
+      "nav_status": 0,
+      "last_update": "2026-09-02 17:47:30.639937053 +0000 UTC"
+    },
+    {
+      "mmsi": "368395270",
+      "name": "KARL",
+      "lat": 37.7899,
+      "lon": -122.3765,
+      "sog": 27.4,
+      "cog": 307.8,
+      "nav_status": 0,
+      "last_update": "2026-09-02 17:47:34.814317175 +0000 UTC"
+    },
+    {
+      "mmsi": "367380880",
+      "name": "GEMINI",
+      "lat": 37.7102,
+      "lon": -122.3553,
+      "sog": 27,
+      "cog": 3.3,
+      "nav_status": 0,
+      "last_update": "2026-09-02 17:47:25.007996955 +0000 UTC"
+    },
+    {
+      "mmsi": "316001749",
+      "name": "SIYAY",
+      "lat": 49.1128,
+      "lon": -123.2811,
+      "sog": 27,
+      "cog": 246.1,
+      "nav_status": 0,
+      "last_update": "2026-09-02 17:47:28.405778608 +0000 UTC"
+    },
+    {
+      "mmsi": "369493032",
+      "name": "",
+      "lat": 48.6851,
+      "lon": -122.585,
+      "sog": 26.5,
+      "cog": 56,
+      "nav_status": 0,
+      "last_update": "2026-09-02 17:47:17.776510438 +0000 UTC"
     }
   ]
 }
