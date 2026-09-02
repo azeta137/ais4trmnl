@@ -1,76 +1,56 @@
 {
-  "updated_at": "2026-09-02T07:31:58Z",
-  "count": 3483,
+  "updated_at": "2026-09-02T07:49:48Z",
+  "count": 3571,
   "vessels": [
     {
-      "mmsi": "205545000",
-      "name": "VB PANDA",
-      "lat": 51.3301,
-      "lon": 3.1971,
+      "mmsi": "244108000",
+      "name": "ZK46 ZEEMEEUW",
+      "lat": 53.4084,
+      "lon": 6.2049,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-02 07:30:47.188949675 +0000 UTC"
+      "last_update": "2026-09-02 07:48:46.851369178 +0000 UTC"
     },
     {
-      "mmsi": "244710626",
-      "name": "BENCKES",
-      "lat": 53.188,
-      "lon": 5.7638,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-02 07:30:47.267471354 +0000 UTC"
-    },
-    {
-      "mmsi": "245382000",
-      "name": "",
-      "lat": 51.6218,
-      "lon": 3.6878,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-02 07:30:53.665718532 +0000 UTC"
-    },
-    {
-      "mmsi": "428009088",
-      "name": "DANCHOR X",
-      "lat": 31.8242,
-      "lon": 34.6451,
+      "mmsi": "271000677",
+      "name": "VENTO DI MELTEMI",
+      "lat": 38.5142,
+      "lon": -8.8729,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-02 07:31:03.52897203 +0000 UTC"
+      "last_update": "2026-09-02 07:48:47.591977837 +0000 UTC"
     },
     {
-      "mmsi": "246445000",
-      "name": "KNRM-ALIES EN EVERT",
-      "lat": 53.1739,
-      "lon": 4.8692,
+      "mmsi": "477997158",
+      "name": "PORT WORKS 5",
+      "lat": 22.3235,
+      "lon": 114.1415,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-02 07:31:07.416568867 +0000 UTC"
+      "nav_status": 15,
+      "last_update": "2026-09-02 07:48:57.529982288 +0000 UTC"
     },
     {
-      "mmsi": "224583000",
-      "name": "CLARA CAMPOAMOR",
-      "lat": 37.5955,
-      "lon": -0.9784,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-02 07:31:12.916688929 +0000 UTC"
-    },
-    {
-      "mmsi": "273398130",
-      "name": "AZOV",
-      "lat": 40.3755,
-      "lon": 27.9914,
+      "mmsi": "240796900",
+      "name": "SEALINK VII",
+      "lat": 37.862,
+      "lon": 23.744,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 1,
-      "last_update": "2026-09-02 07:31:24.77610598 +0000 UTC"
+      "last_update": "2026-09-02 07:48:57.870263343 +0000 UTC"
+    },
+    {
+      "mmsi": "601126900",
+      "name": "SEA EXPRESS",
+      "lat": -29.8681,
+      "lon": 31.0142,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-09-02 07:49:07.617965992 +0000 UTC"
     },
     {
       "mmsi": "244615506",
@@ -80,129 +60,147 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-02 07:31:43.570367853 +0000 UTC"
+      "last_update": "2026-09-02 07:49:14.473309946 +0000 UTC"
     },
     {
-      "mmsi": "636021506",
-      "name": "ZIM NEW ZEALAND",
-      "lat": 31.8633,
-      "lon": 34.556,
-      "sog": 43.8,
-      "cog": 122.6,
-      "nav_status": 1,
-      "last_update": "2026-09-02 07:31:27.06859356 +0000 UTC",
-      "ship_type": 74,
-      "destination": "ILASH"
-    },
-    {
-      "mmsi": "210052000",
-      "name": "EUROCHAMPION JET 2",
-      "lat": 37.3577,
-      "lon": 25.2956,
-      "sog": 38,
-      "cog": 166.6,
+      "mmsi": "210920000",
+      "name": "VTS PENTADAKTYLOS",
+      "lat": 34.7185,
+      "lon": 33.3178,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-02 07:31:34.754437099 +0000 UTC"
+      "last_update": "2026-09-02 07:49:26.374079634 +0000 UTC"
     },
     {
-      "mmsi": "209144000",
-      "name": "HALUNDER JET",
-      "lat": 53.6188,
-      "lon": 9.555,
-      "sog": 35.5,
-      "cog": 313.7,
-      "nav_status": 0,
-      "last_update": "2026-09-02 07:31:27.368022631 +0000 UTC"
+      "mmsi": "316014014",
+      "name": "TAKAYA",
+      "lat": 49.2863,
+      "lon": -123.1004,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-02 07:49:32.761949358 +0000 UTC"
     },
     {
-      "mmsi": "241881000",
-      "name": "SUPEREXPRESS",
-      "lat": 37.3098,
-      "lon": 25.279,
-      "sog": 33.3,
-      "cog": 353.4,
+      "mmsi": "246445000",
+      "name": "KNRM-ALIES EN EVERT",
+      "lat": 53.1739,
+      "lon": 4.8693,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-02 07:31:29.810023826 +0000 UTC"
+      "last_update": "2026-09-02 07:49:37.496951964 +0000 UTC"
+    },
+    {
+      "mmsi": "259046050",
+      "name": "FREMAD",
+      "lat": 66.3517,
+      "lon": 12.4714,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-02 07:49:44.133569751 +0000 UTC"
+    },
+    {
+      "mmsi": "265509269",
+      "name": "",
+      "lat": 57.7069,
+      "lon": 11.6714,
+      "sog": 101.4,
+      "cog": 96.5,
+      "nav_status": 15,
+      "last_update": "2026-09-02 07:48:50.466220199 +0000 UTC"
+    },
+    {
+      "mmsi": "209395000",
+      "name": "WORLDCHAMPION JET",
+      "lat": 37.5108,
+      "lon": 24.3625,
+      "sog": 39.8,
+      "cog": 95.5,
+      "nav_status": 0,
+      "last_update": "2026-09-02 07:49:24.914949266 +0000 UTC"
+    },
+    {
+      "mmsi": "219022903",
+      "name": "EXPRESS 3",
+      "lat": 56.0132,
+      "lon": 10.8182,
+      "sog": 37.4,
+      "cog": 95.7,
+      "nav_status": 9,
+      "last_update": "2026-09-02 07:49:20.988162208 +0000 UTC"
+    },
+    {
+      "mmsi": "225344000",
+      "name": "BETANCURIA EXPRESS",
+      "lat": 28.0293,
+      "lon": -14.8397,
+      "sog": 33.2,
+      "cog": 273,
+      "nav_status": 0,
+      "last_update": "2026-09-02 07:48:54.227594145 +0000 UTC"
+    },
+    {
+      "mmsi": "212731000",
+      "name": "MAGIC 2",
+      "lat": 37.6807,
+      "lon": 23.5431,
+      "sog": 32.6,
+      "cog": 181.8,
+      "nav_status": 0,
+      "last_update": "2026-09-02 07:49:32.431771195 +0000 UTC"
+    },
+    {
+      "mmsi": "258352500",
+      "name": "ADMIRALEN",
+      "lat": 59.7653,
+      "lon": 5.3687,
+      "sog": 32.5,
+      "cog": 135.3,
+      "nav_status": 0,
+      "last_update": "2026-09-02 07:49:12.731063408 +0000 UTC"
+    },
+    {
+      "mmsi": "224984000",
+      "name": "VOLCAN DE TAIDIA",
+      "lat": 28.4102,
+      "lon": -16.1186,
+      "sog": 31.9,
+      "cog": 299.8,
+      "nav_status": 0,
+      "last_update": "2026-09-02 07:48:51.548717028 +0000 UTC"
     },
     {
       "mmsi": "210049000",
       "name": "ELEANOR ROOSEVELT",
-      "lat": 39.0453,
-      "lon": 1.8093,
-      "sog": 31.4,
+      "lat": 38.9631,
+      "lon": 1.6402,
+      "sog": 31.5,
       "cog": 238,
       "nav_status": 0,
-      "last_update": "2026-09-02 07:31:40.92592687 +0000 UTC"
+      "last_update": "2026-09-02 07:49:17.255872971 +0000 UTC"
     },
     {
-      "mmsi": "210753000",
-      "name": "PEPITA CASTELLVI",
-      "lat": 28.0136,
-      "lon": -16.7616,
-      "sog": 31,
-      "cog": 53.2,
+      "mmsi": "224131000",
+      "name": "BAJAMAR EXPRESS",
+      "lat": 28.3683,
+      "lon": -16.0847,
+      "sog": 31.1,
+      "cog": 309.6,
       "nav_status": 0,
-      "last_update": "2026-09-02 07:30:59.576502633 +0000 UTC"
+      "last_update": "2026-09-02 07:48:51.91338287 +0000 UTC"
     },
     {
-      "mmsi": "247087600",
-      "name": "FEDERICA M",
-      "lat": 37.9616,
-      "lon": 12.2936,
-      "sog": 29.2,
-      "cog": 275.5,
+      "mmsi": "257175000",
+      "name": "RYGERFONN",
+      "lat": 60.1342,
+      "lon": 5.4483,
+      "sog": 30,
+      "cog": 39.6,
       "nav_status": 0,
-      "last_update": "2026-09-02 07:31:35.216920266 +0000 UTC"
-    },
-    {
-      "mmsi": "512004511",
-      "name": "TE KOTUKU",
-      "lat": -36.8356,
-      "lon": 174.8203,
-      "sog": 28.9,
-      "cog": 55.4,
-      "nav_status": 0,
-      "last_update": "2026-09-02 07:30:47.656790413 +0000 UTC"
-    },
-    {
-      "mmsi": "368409350",
-      "name": "OLD DOMINION",
-      "lat": 36.9467,
-      "lon": -76.3446,
-      "sog": 28.9,
-      "cog": 105.4,
-      "nav_status": 5,
-      "last_update": "2026-09-02 07:30:50.495017345 +0000 UTC"
-    },
-    {
-      "mmsi": "224441000",
-      "name": "BENCHIJIGUA EXPRESS",
-      "lat": 28.0241,
-      "lon": -16.8717,
-      "sog": 28.9,
-      "cog": 132,
-      "nav_status": 0,
-      "last_update": "2026-09-02 07:31:06.056212982 +0000 UTC"
-    },
-    {
-      "mmsi": "247446200",
-      "name": "SNAV SIRIUS",
-      "lat": 40.6955,
-      "lon": 14.264,
-      "sog": 27.6,
-      "cog": 10.2,
-      "nav_status": 0,
-      "last_update": "2026-09-02 07:31:06.832063749 +0000 UTC"
-    },
-    {
-      "mmsi": "259026800",
-      "name": "FJORDTIND",
-      "lat": 67.335,
-      "lon": 14.2927,
-      "sog": 25.6,
-      "cog": 134.2,
-      "nav_status": 0,
-      "last_update": "2026-09-02 07:30:49.497678472 +0000 UTC"
+      "last_update": "2026-09-02 07:49:11.708401312 +0000 UTC"
     }
   ]
 }
