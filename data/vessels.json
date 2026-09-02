@@ -1,46 +1,16 @@
 {
-  "updated_at": "2026-09-02T23:29:49Z",
-  "count": 3678,
+  "updated_at": "2026-09-02T23:47:49Z",
+  "count": 3685,
   "vessels": [
     {
-      "mmsi": "240796900",
-      "name": "SEALINK VII",
-      "lat": 37.862,
-      "lon": 23.7439,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-09-02 23:28:47.853586363 +0000 UTC"
-    },
-    {
-      "mmsi": "367434210",
-      "name": "FIORELLO LAGUARDIA",
-      "lat": 40.7605,
-      "lon": -74.0041,
+      "mmsi": "244374235",
+      "name": "NT 11 WATERTRAPPER",
+      "lat": 52.3996,
+      "lon": 4.8999,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-02 23:28:52.43640963 +0000 UTC"
-    },
-    {
-      "mmsi": "235034368",
-      "name": "MULTI-SURVEY 4",
-      "lat": 52.9549,
-      "lon": 4.7791,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-02 23:28:54.026177553 +0000 UTC"
-    },
-    {
-      "mmsi": "224013220",
-      "name": "POMBO CUATRO",
-      "lat": 43.3894,
-      "lon": -8.3708,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-02 23:29:08.142052242 +0000 UTC"
+      "last_update": "2026-09-02 23:46:47.546164902 +0000 UTC"
     },
     {
       "mmsi": "219385000",
@@ -50,157 +20,187 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-02 23:29:16.206999627 +0000 UTC"
+      "last_update": "2026-09-02 23:47:17.017862799 +0000 UTC"
     },
     {
-      "mmsi": "228436800",
-      "name": "F/V LAREDO",
-      "lat": 42.2297,
-      "lon": -8.7512,
+      "mmsi": "261002913",
+      "name": "WLA-220",
+      "lat": 54.5999,
+      "lon": 18.8012,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 7,
+      "last_update": "2026-09-02 23:47:14.751111773 +0000 UTC"
+    },
+    {
+      "mmsi": "636011247",
+      "name": "SAGITTA",
+      "lat": 37.9297,
+      "lon": 23.6815,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-02 23:29:19.376790118 +0000 UTC"
+      "last_update": "2026-09-02 23:47:26.013608117 +0000 UTC"
     },
     {
-      "mmsi": "316014014",
-      "name": "TAKAYA",
-      "lat": 49.2863,
-      "lon": -123.1003,
+      "mmsi": "250101900",
+      "name": "GUIDING STAR 2",
+      "lat": 51.6509,
+      "lon": -9.9082,
       "sog": 102.3,
       "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-02 23:47:26.997479132 +0000 UTC"
+    },
+    {
+      "mmsi": "431009153",
+      "name": "SEVENISLAND TOMO",
+      "lat": 35.3604,
+      "lon": 139.7592,
+      "sog": 42.6,
+      "cog": 197.1,
+      "nav_status": 0,
+      "last_update": "2026-09-02 23:46:47.848397872 +0000 UTC"
+    },
+    {
+      "mmsi": "366778450",
+      "name": "GOLDEN GATE",
+      "lat": 37.9322,
+      "lon": -122.4796,
+      "sog": 41.5,
+      "cog": 114.4,
+      "nav_status": 0,
+      "last_update": "2026-09-02 23:46:52.514406307 +0000 UTC"
+    },
+    {
+      "mmsi": "368151810",
+      "name": "ENETAI",
+      "lat": 47.5555,
+      "lon": -122.454,
+      "sog": 39,
+      "cog": 33,
+      "nav_status": 0,
+      "last_update": "2026-09-02 23:47:18.301125484 +0000 UTC"
+    },
+    {
+      "mmsi": "368067090",
+      "name": "RELIANCE",
+      "lat": 47.5891,
+      "lon": -122.5644,
+      "sog": 35.8,
+      "cog": 238,
+      "nav_status": 0,
+      "last_update": "2026-09-02 23:47:31.634942273 +0000 UTC"
+    },
+    {
+      "mmsi": "367145870",
+      "name": "IYANOUGH",
+      "lat": 41.5945,
+      "lon": -70.2865,
+      "sog": 33,
+      "cog": 165.4,
+      "nav_status": 0,
+      "last_update": "2026-09-02 23:47:19.388937712 +0000 UTC"
+    },
+    {
+      "mmsi": "367582110",
+      "name": "PROVINCETOWN IV",
+      "lat": 42.0499,
+      "lon": -70.2743,
+      "sog": 32.7,
+      "cog": 302.1,
+      "nav_status": 0,
+      "last_update": "2026-09-02 23:47:18.182017635 +0000 UTC"
+    },
+    {
+      "mmsi": "477997053",
+      "name": "XIN MING ZHU II",
+      "lat": 22.2934,
+      "lon": 114.1256,
+      "sog": 30.4,
+      "cog": 260.1,
+      "nav_status": 1,
+      "last_update": "2026-09-02 23:47:16.694766757 +0000 UTC"
+    },
+    {
+      "mmsi": "367524060",
+      "name": "AVA PEARL",
+      "lat": 42.4408,
+      "lon": -70.9427,
+      "sog": 29.8,
+      "cog": 22.2,
+      "nav_status": 0,
+      "last_update": "2026-09-02 23:46:55.252426156 +0000 UTC"
+    },
+    {
+      "mmsi": "546021800",
+      "name": "AREMITI 6",
+      "lat": -17.5298,
+      "lon": -149.6183,
+      "sog": 29.3,
+      "cog": 91,
+      "nav_status": 9,
+      "last_update": "2026-09-02 23:47:25.637743799 +0000 UTC"
+    },
+    {
+      "mmsi": "224202000",
+      "name": "EIVISSA JET",
+      "lat": 38.8539,
+      "lon": 1.4175,
+      "sog": 26.3,
+      "cog": 181.3,
+      "nav_status": 0,
+      "last_update": "2026-09-02 23:47:08.801951839 +0000 UTC"
+    },
+    {
+      "mmsi": "367719150",
+      "name": "VINEYARD LADY",
+      "lat": 41.6163,
+      "lon": -70.2947,
+      "sog": 25.8,
+      "cog": 211.9,
+      "nav_status": 0,
+      "last_update": "2026-09-02 23:47:32.095223256 +0000 UTC"
+    },
+    {
+      "mmsi": "316058519",
+      "name": "BRIDGE CAT 450",
+      "lat": 49.3371,
+      "lon": -123.326,
+      "sog": 24.6,
+      "cog": 4,
+      "nav_status": 0,
+      "last_update": "2026-09-02 23:46:56.898945742 +0000 UTC"
+    },
+    {
+      "mmsi": "225988980",
+      "name": "ECO AIRE",
+      "lat": 38.841,
+      "lon": 1.4313,
+      "sog": 23.8,
+      "cog": 17.1,
+      "nav_status": 0,
+      "last_update": "2026-09-02 23:47:24.370236566 +0000 UTC"
+    },
+    {
+      "mmsi": "477995119",
+      "name": "DISCOVERY BAY19",
+      "lat": 22.2941,
+      "lon": 114.1346,
+      "sog": 23.1,
+      "cog": 254.9,
       "nav_status": 15,
-      "last_update": "2026-09-02 23:29:21.226390341 +0000 UTC"
+      "last_update": "2026-09-02 23:47:41.458405394 +0000 UTC"
     },
     {
-      "mmsi": "636023497",
-      "name": "BOSPHORUS-M",
-      "lat": 60.0322,
-      "lon": 29.4149,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-02 23:29:21.400491724 +0000 UTC"
-    },
-    {
-      "mmsi": "211652800",
-      "name": "LAUENBURG",
-      "lat": 53.37,
-      "lon": 10.5541,
-      "sog": 102.3,
-      "cog": 360,
+      "mmsi": "503106820",
+      "name": "FAIRLIGHT",
+      "lat": -33.8317,
+      "lon": 151.2711,
+      "sog": 22.1,
+      "cog": 217.6,
       "nav_status": 0,
-      "last_update": "2026-09-02 23:29:27.720116379 +0000 UTC"
-    },
-    {
-      "mmsi": "367482250",
-      "name": "JERSEY",
-      "lat": 40.7139,
-      "lon": -74.0319,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-02 23:29:33.911534089 +0000 UTC"
-    },
-    {
-      "mmsi": "244045000",
-      "name": "HEBO-CAT 15",
-      "lat": 53.1875,
-      "lon": 5.4319,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-02 23:29:44.440183876 +0000 UTC"
-    },
-    {
-      "mmsi": "232064591",
-      "name": "SATURN CLIPPER",
-      "lat": 51.5006,
-      "lon": -0.0038,
-      "sog": 33.9,
-      "cog": 353.1,
-      "nav_status": 0,
-      "last_update": "2026-09-02 23:29:42.087046821 +0000 UTC"
-    },
-    {
-      "mmsi": "368612000",
-      "name": "RICH PASSAGE 1",
-      "lat": 47.5541,
-      "lon": -122.6135,
-      "sog": 31.3,
-      "cog": 73.2,
-      "nav_status": 0,
-      "last_update": "2026-09-02 23:28:52.877835241 +0000 UTC"
-    },
-    {
-      "mmsi": "316059231",
-      "name": "SALISH SEA GLORY",
-      "lat": 49.3829,
-      "lon": -123.5221,
-      "sog": 26.4,
-      "cog": 67.9,
-      "nav_status": 0,
-      "last_update": "2026-09-02 23:29:43.260404449 +0000 UTC"
-    },
-    {
-      "mmsi": "235078345",
-      "name": "PL ST BRENDAN",
-      "lat": 51.9257,
-      "lon": 1.3775,
-      "sog": 24.3,
-      "cog": 270.2,
-      "nav_status": 0,
-      "last_update": "2026-09-02 23:29:14.695974708 +0000 UTC"
-    },
-    {
-      "mmsi": "316042213",
-      "name": "SALISH SEA FREEDOM",
-      "lat": 49.4077,
-      "lon": -123.7001,
-      "sog": 23.5,
-      "cog": 126.6,
-      "nav_status": 0,
-      "last_update": "2026-09-02 23:28:48.112085166 +0000 UTC"
-    },
-    {
-      "mmsi": "503178230",
-      "name": "JACK MUNDEY",
-      "lat": -33.8461,
-      "lon": 151.1615,
-      "sog": 23.4,
-      "cog": 261.5,
-      "nav_status": 0,
-      "last_update": "2026-09-02 23:29:34.905343092 +0000 UTC"
-    },
-    {
-      "mmsi": "368876000",
-      "name": "US GOV 71",
-      "lat": 31.8764,
-      "lon": -118.2146,
-      "sog": 23.3,
-      "cog": 145.7,
-      "nav_status": 15,
-      "last_update": "2026-09-02 23:29:15.968035044 +0000 UTC"
-    },
-    {
-      "mmsi": "209885000",
-      "name": "STENA EDDA",
-      "lat": 54.6546,
-      "lon": -5.2779,
-      "sog": 21.8,
-      "cog": 117.3,
-      "nav_status": 0,
-      "last_update": "2026-09-02 23:28:49.401297638 +0000 UTC"
-    },
-    {
-      "mmsi": "209146000",
-      "name": "W.B. YEATS",
-      "lat": 50.5688,
-      "lon": -5.9832,
-      "sog": 21.7,
-      "cog": 180.2,
-      "nav_status": 0,
-      "last_update": "2026-09-02 23:29:13.813085685 +0000 UTC"
+      "last_update": "2026-09-02 23:47:12.33599287 +0000 UTC"
     }
   ]
 }
