@@ -1,7 +1,27 @@
 {
-  "updated_at": "2026-09-02T20:33:04Z",
-  "count": 3595,
+  "updated_at": "2026-09-02T20:50:18Z",
+  "count": 3559,
   "vessels": [
+    {
+      "mmsi": "250101900",
+      "name": "GUIDING STAR 2",
+      "lat": 51.6509,
+      "lon": -9.9082,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-02 20:49:08.564005232 +0000 UTC"
+    },
+    {
+      "mmsi": "245382000",
+      "name": "KNRM-FRED",
+      "lat": 51.6217,
+      "lon": 3.6878,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-02 20:49:16.846892306 +0000 UTC"
+    },
     {
       "mmsi": "235080649",
       "name": "ONWARD N107",
@@ -10,39 +30,7 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-09-02 20:32:07.452191799 +0000 UTC"
-    },
-    {
-      "mmsi": "244045000",
-      "name": "HEBO-CAT 15",
-      "lat": 53.1875,
-      "lon": 5.4319,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-02 20:32:04.788206127 +0000 UTC"
-    },
-    {
-      "mmsi": "244374235",
-      "name": "NT 11 WATERTRAPPER",
-      "lat": 52.3646,
-      "lon": 4.9115,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-02 20:32:07.843431397 +0000 UTC",
-      "ship_type": 99,
-      "destination": "AMSTERDAM"
-    },
-    {
-      "mmsi": "224013220",
-      "name": "POMBO CUATRO",
-      "lat": 43.3524,
-      "lon": -8.3821,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-02 20:32:10.49562699 +0000 UTC"
+      "last_update": "2026-09-02 20:49:18.879040636 +0000 UTC"
     },
     {
       "mmsi": "211337780",
@@ -52,159 +40,169 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-02 20:32:10.706933767 +0000 UTC"
+      "last_update": "2026-09-02 20:49:32.015322386 +0000 UTC"
     },
     {
-      "mmsi": "244110862",
-      "name": "AMSTEL ROBIJN",
-      "lat": 52.3817,
-      "lon": 4.8978,
+      "mmsi": "308126000",
+      "name": "SWEDISH STREAM",
+      "lat": 25.9584,
+      "lon": -116.3198,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-02 20:32:18.549829836 +0000 UTC"
+      "last_update": "2026-09-02 20:49:57.441579642 +0000 UTC"
     },
     {
-      "mmsi": "215935000",
-      "name": "EUROTRADER",
-      "lat": -12.0372,
-      "lon": -77.0585,
-      "sog": 102.3,
-      "cog": 12.9,
+      "mmsi": "353381000",
+      "name": "FLOURISH B",
+      "lat": -12.0364,
+      "lon": -77.0405,
+      "sog": 99.9,
+      "cog": 127.2,
+      "nav_status": 1,
+      "last_update": "2026-09-02 20:49:20.253365482 +0000 UTC"
+    },
+    {
+      "mmsi": "636020061",
+      "name": "REGIN",
+      "lat": -12.0475,
+      "lon": -77.0457,
+      "sog": 93.3,
+      "cog": 227.1,
+      "nav_status": 1,
+      "last_update": "2026-09-02 20:49:48.175560424 +0000 UTC"
+    },
+    {
+      "mmsi": "257089480",
+      "name": "IVAR FORMO",
+      "lat": 59.8692,
+      "lon": 10.6495,
+      "sog": 33.1,
+      "cog": 34.4,
       "nav_status": 0,
-      "last_update": "2026-09-02 20:32:19.641768618 +0000 UTC"
+      "last_update": "2026-09-02 20:49:20.790358273 +0000 UTC"
     },
     {
-      "mmsi": "574001710",
-      "name": "LONG TAN 19",
-      "ship_type": 70,
-      "destination": "BK",
-      "lat": 13.676,
-      "lon": 100.5515,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-02 20:32:49.093103997 +0000 UTC"
-    },
-    {
-      "mmsi": "314131000",
-      "name": "ANKA BRAVE",
-      "lat": -12.0303,
-      "lon": -77.05,
-      "sog": 102.3,
-      "cog": 360,
+      "mmsi": "368088610",
+      "name": "LYRA",
+      "lat": 37.9594,
+      "lon": -122.4326,
+      "sog": 31.3,
+      "cog": 199.6,
       "nav_status": 0,
-      "last_update": "2026-09-02 20:32:41.479749193 +0000 UTC"
+      "last_update": "2026-09-02 20:49:06.885810234 +0000 UTC"
     },
     {
-      "mmsi": "636023497",
-      "name": "BOSPHORUS-M",
-      "lat": 60.0322,
-      "lon": 29.4149,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-02 20:32:41.573497244 +0000 UTC"
-    },
-    {
-      "mmsi": "512008121",
-      "name": "IKA KAKAHI",
-      "lat": -36.8258,
-      "lon": 174.8643,
-      "sog": 30.9,
-      "cog": 72.8,
-      "nav_status": 0,
-      "last_update": "2026-09-02 20:32:39.867842462 +0000 UTC"
-    },
-    {
-      "mmsi": "367720690",
-      "name": "GREY LADY IV",
-      "lat": 41.6227,
-      "lon": -70.2846,
-      "sog": 30.5,
-      "cog": 238.9,
-      "nav_status": 0,
-      "last_update": "2026-09-02 20:31:55.195489965 +0000 UTC"
-    },
-    {
-      "mmsi": "367101920",
-      "name": "GREY LADY",
-      "lat": 41.3976,
-      "lon": -70.1388,
-      "sog": 30.5,
-      "cog": 346,
-      "nav_status": 0,
-      "last_update": "2026-09-02 20:32:34.415593166 +0000 UTC"
-    },
-    {
-      "mmsi": "503053460",
-      "name": "",
-      "lat": -23.8464,
-      "lon": 151.5092,
-      "sog": 29.6,
-      "cog": 72.8,
-      "nav_status": 0,
-      "last_update": "2026-09-02 20:32:07.643050211 +0000 UTC"
-    },
-    {
-      "mmsi": "368409350",
-      "name": "OLD DOMINION",
-      "lat": 36.9566,
-      "lon": -76.4091,
-      "sog": 28.3,
-      "cog": 17.4,
-      "nav_status": 5,
-      "last_update": "2026-09-02 20:32:01.331916644 +0000 UTC"
-    },
-    {
-      "mmsi": "224247000",
-      "name": "RAMON LLULL",
-      "lat": 38.8337,
-      "lon": 0.4513,
-      "sog": 28.2,
-      "cog": 274.6,
-      "nav_status": 0,
-      "last_update": "2026-09-02 20:31:55.183482615 +0000 UTC"
-    },
-    {
-      "mmsi": "362064000",
-      "name": "TRINI FLASH",
-      "lat": 10.6413,
-      "lon": -61.5345,
-      "sog": 28.2,
-      "cog": 31,
-      "nav_status": 0,
-      "last_update": "2026-09-02 20:32:45.783886873 +0000 UTC"
-    },
-    {
-      "mmsi": "368087510",
-      "name": "JULIA LEIGH",
-      "lat": 41.4748,
-      "lon": -70.6946,
-      "sog": 28.1,
-      "cog": 66.9,
-      "nav_status": 0,
-      "last_update": "2026-09-02 20:32:27.688353997 +0000 UTC"
-    },
-    {
-      "mmsi": "368396216",
-      "name": "SEASTREAK NEW JERSEY",
-      "lat": 40.6967,
-      "lon": -74.0161,
-      "sog": 26.3,
-      "cog": 236,
+      "mmsi": "503071960",
+      "name": "LORD HOWE ISLAND",
+      "lat": -33.9892,
+      "lon": 151.1635,
+      "sog": 27.3,
+      "cog": 81.8,
       "nav_status": 15,
-      "last_update": "2026-09-02 20:32:24.788854368 +0000 UTC"
+      "last_update": "2026-09-02 20:49:56.115979848 +0000 UTC"
     },
     {
-      "mmsi": "366943970",
-      "name": "ISLANDER EXPRESSS",
-      "lat": 33.6506,
-      "lon": -118.2493,
-      "sog": 25.4,
-      "cog": 17.3,
+      "mmsi": "235057011",
+      "name": "MONSOON CLIPPER",
+      "lat": 51.5048,
+      "lon": 0.0805,
+      "sog": 27.2,
+      "cog": 209.6,
       "nav_status": 0,
-      "last_update": "2026-09-02 20:31:56.500916882 +0000 UTC"
+      "last_update": "2026-09-02 20:49:52.421916307 +0000 UTC"
+    },
+    {
+      "mmsi": "366740280",
+      "name": "LADY MARTHA",
+      "lat": 41.3135,
+      "lon": -70.1042,
+      "sog": 27,
+      "cog": 143.6,
+      "nav_status": 15,
+      "last_update": "2026-09-02 20:49:43.05586506 +0000 UTC",
+      "ship_type": 40,
+      "destination": ""
+    },
+    {
+      "mmsi": "247219400",
+      "name": "CRUISE ROMA",
+      "lat": 41.2725,
+      "lon": 2.3051,
+      "sog": 25.7,
+      "cog": 91.3,
+      "nav_status": 0,
+      "last_update": "2026-09-02 20:50:00.831465111 +0000 UTC"
+    },
+    {
+      "mmsi": "211228540",
+      "name": "SEAROAD 1",
+      "lat": 56.9323,
+      "lon": 11.7587,
+      "sog": 24.3,
+      "cog": 158.4,
+      "nav_status": 0,
+      "last_update": "2026-09-02 20:49:44.749855829 +0000 UTC"
+    },
+    {
+      "mmsi": "257055660",
+      "name": "LOS 134",
+      "lat": 59.1698,
+      "lon": 5.512,
+      "sog": 22.9,
+      "cog": 160.7,
+      "nav_status": 0,
+      "last_update": "2026-09-02 20:49:58.499667872 +0000 UTC"
+    },
+    {
+      "mmsi": "368093560",
+      "name": "ST HELAINA",
+      "lat": 55.2723,
+      "lon": -131.5006,
+      "sog": 22.6,
+      "cog": 307,
+      "nav_status": 0,
+      "last_update": "2026-09-02 20:49:27.669117837 +0000 UTC"
+    },
+    {
+      "mmsi": "368302170",
+      "name": "PV GOLDEN GATE",
+      "lat": 37.7957,
+      "lon": -122.3788,
+      "sog": 22.5,
+      "cog": 144.3,
+      "nav_status": 0,
+      "last_update": "2026-09-02 20:49:25.695769281 +0000 UTC"
+    },
+    {
+      "mmsi": "367434160",
+      "name": "FRANK SINATRA",
+      "lat": 40.7048,
+      "lon": -74.0228,
+      "sog": 22.2,
+      "cog": 22.1,
+      "nav_status": 0,
+      "last_update": "2026-09-02 20:49:44.047502374 +0000 UTC"
+    },
+    {
+      "mmsi": "503167730",
+      "name": "GOODNA",
+      "lat": -23.7819,
+      "lon": 151.194,
+      "sog": 22.1,
+      "cog": 136.6,
+      "nav_status": 0,
+      "last_update": "2026-09-02 20:49:49.126699622 +0000 UTC"
+    },
+    {
+      "mmsi": "225988638",
+      "name": "ECO TERRA",
+      "lat": 38.8351,
+      "lon": 1.42,
+      "sog": 22,
+      "cog": 9,
+      "nav_status": 0,
+      "last_update": "2026-09-02 20:50:02.11196789 +0000 UTC"
     }
   ]
 }
