@@ -1,88 +1,26 @@
 {
-  "updated_at": "2026-09-03T01:50:51Z",
-  "count": 3483,
+  "updated_at": "2026-09-03T02:17:44Z",
+  "count": 3502,
   "vessels": [
     {
-      "mmsi": "375369000",
-      "name": "ZAYYAN K",
-      "lat": 31.828,
-      "lon": 34.6468,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-03 01:49:53.347013957 +0000 UTC"
-    },
-    {
-      "mmsi": "235080649",
-      "name": "ONWARD N107",
-      "lat": 54.4565,
-      "lon": -5.4396,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-03 01:49:57.277985817 +0000 UTC"
-    },
-    {
-      "mmsi": "428067000",
-      "name": "BAT GALIM",
-      "lat": 32.9362,
-      "lon": 34.8285,
+      "mmsi": "211337780",
+      "name": "ATALANTA",
+      "lat": 53.8992,
+      "lon": 11.4571,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-03 01:49:59.685408479 +0000 UTC"
+      "last_update": "2026-09-03 02:16:48.894168092 +0000 UTC"
     },
     {
-      "mmsi": "259046050",
-      "name": "FREMAD",
-      "lat": 66.3729,
-      "lon": 12.361,
+      "mmsi": "525104007",
+      "name": "TRANSKO JALAK",
+      "lat": -6.9477,
+      "lon": 110.4203,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-03 01:50:04.433011444 +0000 UTC"
-    },
-    {
-      "mmsi": "271044493",
-      "name": "MIP- 3",
-      "lat": 36.7919,
-      "lon": 34.636,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-03 01:50:08.843269031 +0000 UTC"
-    },
-    {
-      "mmsi": "244045000",
-      "name": "HEBO-CAT 15",
-      "lat": 53.1875,
-      "lon": 5.4319,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-03 01:50:14.283685816 +0000 UTC",
-      "ship_type": 99,
-      "destination": "HARLINGEN ZUIDWAL"
-    },
-    {
-      "mmsi": "503125000",
-      "name": "AUSTRALIAN WARSHIP",
-      "lat": -27.2384,
-      "lon": 153.8808,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-03 01:50:14.891689397 +0000 UTC"
-    },
-    {
-      "mmsi": "244374235",
-      "name": "NT 11 WATERTRAPPER",
-      "lat": 52.3996,
-      "lon": 4.8999,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-03 01:50:17.373036004 +0000 UTC"
+      "nav_status": 8,
+      "last_update": "2026-09-03 02:16:59.667170852 +0000 UTC"
     },
     {
       "mmsi": "210920000",
@@ -92,119 +30,179 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-03 01:50:24.788899817 +0000 UTC"
+      "last_update": "2026-09-03 02:17:16.456478157 +0000 UTC"
     },
     {
-      "mmsi": "235060142",
-      "name": "SEA HAVEN",
-      "lat": 57.144,
-      "lon": -2.0796,
+      "mmsi": "244108000",
+      "name": "ZK46 ZEEMEEUW",
+      "lat": 53.4099,
+      "lon": 6.207,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-03 01:50:25.034704038 +0000 UTC"
+      "last_update": "2026-09-03 02:17:39.38029403 +0000 UTC"
     },
     {
-      "mmsi": "235104009",
-      "name": "SALTHOLME",
-      "lat": 54.5843,
-      "lon": -1.2305,
-      "sog": 102.3,
-      "cog": 360,
+      "mmsi": "413496790",
+      "name": "ZHONG SHAN 20",
+      "lat": 22.4414,
+      "lon": 113.8293,
+      "sog": 31.9,
+      "cog": 305.3,
       "nav_status": 0,
-      "last_update": "2026-09-03 01:50:36.219413863 +0000 UTC"
-    },
-    {
-      "mmsi": "210588000",
-      "name": "LEDRA PRIDE",
-      "lat": 34.6452,
-      "lon": 33.0179,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-09-03 01:50:41.160701503 +0000 UTC"
+      "last_update": "2026-09-03 02:17:33.816048318 +0000 UTC"
     },
     {
       "mmsi": "368151810",
       "name": "ENETAI",
-      "lat": 47.5406,
-      "lon": -122.4686,
-      "sog": 35.7,
-      "cog": 24.6,
+      "lat": 47.6013,
+      "lon": -122.3478,
+      "sog": 28.9,
+      "cog": 280,
       "nav_status": 0,
-      "last_update": "2026-09-03 01:50:04.063639632 +0000 UTC"
+      "last_update": "2026-09-03 02:17:37.94332181 +0000 UTC"
     },
     {
-      "mmsi": "368341690",
-      "name": "DELPHINUS",
-      "ship_type": 40,
-      "destination": "SF BAY FERRY",
-      "lat": 37.7591,
-      "lon": -122.3203,
-      "sog": 32,
-      "cog": 116.1,
+      "mmsi": "672748000",
+      "name": "TANIT",
+      "lat": 39.9693,
+      "lon": 7.4627,
+      "sog": 25.4,
+      "cog": 334,
       "nav_status": 0,
-      "last_update": "2026-09-03 01:50:25.300308637 +0000 UTC"
+      "last_update": "2026-09-03 02:16:41.463153717 +0000 UTC"
     },
     {
-      "mmsi": "367347670",
-      "name": "SEASTREAK HIGHLANDS",
-      "lat": 40.7203,
-      "lon": -73.9681,
-      "sog": 29.9,
-      "cog": 192,
-      "nav_status": 15,
-      "last_update": "2026-09-03 01:50:08.592209492 +0000 UTC"
-    },
-    {
-      "mmsi": "563341900",
-      "name": "MAJESTIC ENCORE",
-      "lat": 1.2034,
-      "lon": 103.8881,
-      "sog": 28.4,
-      "cog": 270.6,
-      "nav_status": 8,
-      "last_update": "2026-09-03 01:50:39.162494068 +0000 UTC"
-    },
-    {
-      "mmsi": "413217080",
-      "name": "XUNLONG10",
-      "lat": 22.4289,
-      "lon": 113.8983,
-      "sog": 27.9,
-      "cog": 11.8,
+      "mmsi": "316023734",
+      "name": "MJ GREEN",
+      "lat": 49.294,
+      "lon": -123.0268,
+      "sog": 25.1,
+      "cog": 82,
       "nav_status": 0,
-      "last_update": "2026-09-03 01:50:03.369661094 +0000 UTC"
+      "last_update": "2026-09-03 02:16:49.574111611 +0000 UTC"
     },
     {
-      "mmsi": "477995040",
-      "name": "DISCOVERY BAY3",
-      "lat": 22.2943,
-      "lon": 114.114,
-      "sog": 27.5,
-      "cog": 280.8,
+      "mmsi": "205650000",
+      "name": "RAAN",
+      "lat": 51.4364,
+      "lon": 3.5861,
+      "sog": 24.6,
+      "cog": 93.3,
       "nav_status": 0,
-      "last_update": "2026-09-03 01:50:45.172700155 +0000 UTC"
+      "last_update": "2026-09-03 02:17:34.937741895 +0000 UTC"
     },
     {
-      "mmsi": "338224000",
-      "name": "DOC MAYNARD",
-      "lat": 47.5947,
-      "lon": -122.3632,
-      "sog": 27.3,
-      "cog": 247,
+      "mmsi": "503740000",
+      "name": "CAPRICORNIAN SUNSET",
+      "lat": -32.0394,
+      "lon": 115.6587,
+      "sog": 24.4,
+      "cog": 114.2,
       "nav_status": 0,
-      "last_update": "2026-09-03 01:49:53.528963679 +0000 UTC"
+      "last_update": "2026-09-03 02:17:24.026805688 +0000 UTC"
     },
     {
-      "mmsi": "366943970",
-      "name": "ISLANDER EXPRESSS",
-      "lat": 33.6655,
-      "lon": -118.2286,
-      "sog": 25.9,
-      "cog": 4.8,
+      "mmsi": "338534094",
+      "name": "MAMALA BAY",
+      "lat": 21.3084,
+      "lon": -157.8706,
+      "sog": 24.2,
+      "cog": 296.8,
       "nav_status": 0,
-      "last_update": "2026-09-03 01:50:39.973083516 +0000 UTC"
+      "last_update": "2026-09-03 02:17:18.912012454 +0000 UTC"
+    },
+    {
+      "mmsi": "228183600",
+      "name": "PONT AVEN",
+      "lat": 46.9421,
+      "lon": -4.5069,
+      "sog": 23.7,
+      "cog": 169.6,
+      "nav_status": 0,
+      "last_update": "2026-09-03 02:16:54.44366395 +0000 UTC"
+    },
+    {
+      "mmsi": "259222000",
+      "name": "COLOR MAGIC",
+      "lat": 58.1193,
+      "lon": 11.0931,
+      "sog": 21.4,
+      "cog": 337.3,
+      "nav_status": 0,
+      "last_update": "2026-09-03 02:16:48.096007644 +0000 UTC"
+    },
+    {
+      "mmsi": "240685000",
+      "name": "ELYROS",
+      "lat": 37.4784,
+      "lon": 23.8527,
+      "sog": 21.4,
+      "cog": 340.7,
+      "nav_status": 0,
+      "last_update": "2026-09-03 02:17:04.412254443 +0000 UTC"
+    },
+    {
+      "mmsi": "477997076",
+      "name": "HKFSD COMMAND BOAT 1",
+      "lat": 22.3511,
+      "lon": 113.9531,
+      "sog": 21.3,
+      "cog": 47.4,
+      "nav_status": 5,
+      "last_update": "2026-09-03 02:17:18.19996345 +0000 UTC"
+    },
+    {
+      "mmsi": "240558000",
+      "name": "NISSOS RODOS",
+      "lat": 37.6474,
+      "lon": 23.7949,
+      "sog": 21.2,
+      "cog": 318.9,
+      "nav_status": 0,
+      "last_update": "2026-09-03 02:17:20.021940396 +0000 UTC",
+      "ship_type": 69,
+      "destination": "PIRAEUS"
+    },
+    {
+      "mmsi": "219024176",
+      "name": "DANPILOT GOLF",
+      "lat": 55.5756,
+      "lon": 12.6925,
+      "sog": 21.2,
+      "cog": 175.5,
+      "nav_status": 0,
+      "last_update": "2026-09-03 02:17:20.71171122 +0000 UTC"
+    },
+    {
+      "mmsi": "277504000",
+      "name": "ATHENA SEAWAYS",
+      "lat": 52.1709,
+      "lon": -6.2694,
+      "sog": 21.1,
+      "cog": 189.3,
+      "nav_status": 0,
+      "last_update": "2026-09-03 02:17:07.348995516 +0000 UTC"
+    },
+    {
+      "mmsi": "247265800",
+      "name": "GNV SEALAND",
+      "lat": 39.265,
+      "lon": 1.7362,
+      "sog": 21.1,
+      "cog": 185.5,
+      "nav_status": 0,
+      "last_update": "2026-09-03 02:17:40.723973862 +0000 UTC"
+    },
+    {
+      "mmsi": "209651000",
+      "name": "MARIE CURIE",
+      "lat": 28.3489,
+      "lon": -15.8774,
+      "sog": 20.9,
+      "cog": 109.5,
+      "nav_status": 0,
+      "last_update": "2026-09-03 02:17:32.917069277 +0000 UTC"
     }
   ]
 }
