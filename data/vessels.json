@@ -1,46 +1,86 @@
 {
-  "updated_at": "2026-09-03T07:50:17Z",
-  "count": 3545,
+  "updated_at": "2026-09-03T08:15:31Z",
+  "count": 3343,
   "vessels": [
     {
-      "mmsi": "247177600",
-      "name": "CITTA DI CAMOGLI",
-      "lat": 44.4084,
-      "lon": 8.9261,
+      "mmsi": "244710577",
+      "name": "ARIE",
+      "lat": 52.4263,
+      "lon": 4.8348,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-03 07:49:21.339072682 +0000 UTC"
+      "last_update": "2026-09-03 08:14:32.007212135 +0000 UTC"
     },
     {
-      "mmsi": "244045000",
-      "name": "HEBO-CAT 15",
-      "lat": 53.1866,
-      "lon": 5.165,
+      "mmsi": "428009088",
+      "name": "DANCHOR X",
+      "lat": 31.8243,
+      "lon": 34.6451,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-03 07:49:48.403355512 +0000 UTC"
+      "nav_status": 5,
+      "last_update": "2026-09-03 08:14:38.483974338 +0000 UTC"
     },
     {
       "mmsi": "259046050",
       "name": "FREMAD",
-      "lat": 66.3503,
-      "lon": 12.4704,
+      "lat": 66.3488,
+      "lon": 12.4683,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-03 07:49:34.389605912 +0000 UTC"
+      "last_update": "2026-09-03 08:14:55.073037511 +0000 UTC"
     },
     {
-      "mmsi": "271044493",
-      "name": "MIP- 3",
-      "lat": 36.7919,
-      "lon": 34.6361,
+      "mmsi": "518903000",
+      "name": "ANNABEL II",
+      "lat": 37.7459,
+      "lon": 23.4283,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-09-03 08:14:59.48101375 +0000 UTC"
+    },
+    {
+      "mmsi": "235080649",
+      "name": "ONWARD N107",
+      "lat": 54.1793,
+      "lon": -5.3863,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-03 08:15:07.284071398 +0000 UTC"
+    },
+    {
+      "mmsi": "240796900",
+      "name": "SEALINK VII",
+      "lat": 37.6956,
+      "lon": 23.4367,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 1,
+      "last_update": "2026-09-03 08:15:09.965367079 +0000 UTC"
+    },
+    {
+      "mmsi": "367434210",
+      "name": "FIORELLO LAGUARDIA",
+      "lat": 40.7715,
+      "lon": -74.0125,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-03 07:49:36.394460612 +0000 UTC"
+      "last_update": "2026-09-03 08:15:22.344180745 +0000 UTC"
+    },
+    {
+      "mmsi": "211270850",
+      "name": "PIONIER",
+      "lat": 53.7253,
+      "lon": 7.4955,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-03 08:15:23.513077567 +0000 UTC"
     },
     {
       "mmsi": "246445000",
@@ -50,157 +90,117 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-03 07:49:47.177123531 +0000 UTC"
+      "last_update": "2026-09-03 08:15:26.910741258 +0000 UTC"
     },
     {
-      "mmsi": "261007705",
-      "name": "FAIRPLAY-83",
-      "lat": 53.9073,
-      "lon": 14.2599,
-      "sog": 102.3,
-      "cog": 360,
+      "mmsi": "210977000",
+      "name": "TERA JET 2",
+      "lat": 37.2699,
+      "lon": 25.2231,
+      "sog": 38,
+      "cog": 203.6,
       "nav_status": 0,
-      "last_update": "2026-09-03 07:49:54.635571822 +0000 UTC"
+      "last_update": "2026-09-03 08:14:53.512702807 +0000 UTC"
     },
     {
-      "mmsi": "636023497",
-      "name": "BOSPHORUS-M",
-      "lat": 60.0322,
-      "lon": 29.4149,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-03 07:50:00.980748255 +0000 UTC"
-    },
-    {
-      "mmsi": "229360000",
-      "name": "ERMIS2",
-      "lat": 37.911,
-      "lon": 23.7046,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-03 07:50:01.325012996 +0000 UTC"
-    },
-    {
-      "mmsi": "210588000",
-      "name": "LEDRA PRIDE",
-      "lat": 34.6452,
-      "lon": 33.018,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-09-03 07:50:01.789656234 +0000 UTC"
-    },
-    {
-      "mmsi": "211270850",
-      "name": "PIONIER",
-      "lat": 53.6922,
-      "lon": 7.5525,
-      "sog": 102.3,
-      "cog": 360,
+      "mmsi": "246893000",
+      "name": "KNRM-R&J VAN WIJK",
+      "lat": 52.3959,
+      "lon": 5.0825,
+      "sog": 33.2,
+      "cog": 241.3,
       "nav_status": 0,
-      "last_update": "2026-09-03 07:50:12.342105837 +0000 UTC"
+      "last_update": "2026-09-03 08:14:55.733747718 +0000 UTC"
     },
     {
-      "mmsi": "210052000",
-      "name": "EUROCHAMPION JET 2",
-      "lat": 37.2873,
-      "lon": 25.3111,
-      "sog": 37,
-      "cog": 162.7,
+      "mmsi": "241881000",
+      "name": "SUPEREXPRESS",
+      "lat": 37.4746,
+      "lon": 25.2827,
+      "sog": 32.9,
+      "cog": 302.6,
       "nav_status": 0,
-      "last_update": "2026-09-03 07:49:40.795741702 +0000 UTC"
+      "last_update": "2026-09-03 08:14:53.844186746 +0000 UTC"
     },
     {
-      "mmsi": "219022903",
-      "name": "EXPRESS 3",
-      "lat": 56.0207,
-      "lon": 10.748,
-      "sog": 36.5,
-      "cog": 98.1,
+      "mmsi": "209074000",
+      "name": "CHAMPION JET 2",
+      "lat": 37.3308,
+      "lon": 25.0454,
+      "sog": 32,
+      "cog": 342.3,
+      "nav_status": 0,
+      "last_update": "2026-09-03 08:15:13.562096961 +0000 UTC"
+    },
+    {
+      "mmsi": "247091800",
+      "name": "VESUVIO JET",
+      "lat": 40.5898,
+      "lon": 14.5083,
+      "sog": 26.6,
+      "cog": 77,
+      "nav_status": 0,
+      "last_update": "2026-09-03 08:14:41.431803748 +0000 UTC"
+    },
+    {
+      "mmsi": "511101443",
+      "name": "SEA STAR KOS",
+      "lat": 36.9576,
+      "lon": 27.36,
+      "sog": 25.8,
+      "cog": 221.6,
       "nav_status": 9,
-      "last_update": "2026-09-03 07:50:01.155890033 +0000 UTC"
+      "last_update": "2026-09-03 08:14:44.099976543 +0000 UTC"
     },
     {
-      "mmsi": "219705000",
-      "name": "EXPRESS 4",
-      "lat": 55.9974,
-      "lon": 11.0105,
-      "sog": 31.4,
-      "cog": 283,
-      "nav_status": 9,
-      "last_update": "2026-09-03 07:49:48.929395697 +0000 UTC"
-    },
-    {
-      "mmsi": "210049000",
-      "name": "ELEANOR ROOSEVELT",
-      "lat": 38.9598,
-      "lon": 1.6339,
-      "sog": 30.9,
-      "cog": 237,
+      "mmsi": "244407000",
+      "name": "MIRA (PILOTS)",
+      "lat": 53.1913,
+      "lon": 5.3206,
+      "sog": 25.7,
+      "cog": 298.2,
       "nav_status": 0,
-      "last_update": "2026-09-03 07:49:40.946896172 +0000 UTC"
+      "last_update": "2026-09-03 08:15:22.224072451 +0000 UTC"
     },
     {
-      "mmsi": "477997251",
-      "name": "XIN MING ZHU XIII",
-      "lat": 22.2909,
-      "lon": 114.1319,
-      "sog": 30.6,
-      "cog": 77.9,
-      "nav_status": 5,
-      "last_update": "2026-09-03 07:49:48.882987697 +0000 UTC"
-    },
-    {
-      "mmsi": "247139400",
-      "name": "VITTORIA M",
-      "lat": 37.9649,
-      "lon": 12.3972,
-      "sog": 28,
-      "cog": 242.1,
+      "mmsi": "247270100",
+      "name": "ANGELINA LAURO JET",
+      "lat": 40.7742,
+      "lon": 14.0963,
+      "sog": 25.3,
+      "cog": 265,
       "nav_status": 0,
-      "last_update": "2026-09-03 07:50:07.219542031 +0000 UTC"
+      "last_update": "2026-09-03 08:15:27.319693423 +0000 UTC"
     },
     {
-      "mmsi": "235116836",
-      "name": "SC AGATE",
-      "lat": 53.8738,
-      "lon": 9.2675,
-      "sog": 27.2,
-      "cog": 291,
+      "mmsi": "247051300",
+      "name": "CAPRI JET",
+      "lat": 40.7948,
+      "lon": 14.3,
+      "sog": 25,
+      "cog": 150.3,
       "nav_status": 0,
-      "last_update": "2026-09-03 07:49:37.221451047 +0000 UTC"
+      "last_update": "2026-09-03 08:15:21.799020055 +0000 UTC"
     },
     {
-      "mmsi": "266445000",
-      "name": "VISBY",
-      "lat": 58.756,
-      "lon": 18.121,
-      "sog": 26.1,
-      "cog": 354.5,
+      "mmsi": "366576000",
+      "name": "RJ PFEIFFER",
+      "lat": 48.0212,
+      "lon": -122.618,
+      "sog": 24.8,
+      "cog": 332,
       "nav_status": 0,
-      "last_update": "2026-09-03 07:49:46.709604174 +0000 UTC"
+      "last_update": "2026-09-03 08:15:21.14355503 +0000 UTC"
     },
     {
-      "mmsi": "241803000",
-      "name": "AERO 2 HIGHSPEED",
-      "lat": 37.9329,
-      "lon": 23.6145,
-      "sog": 25.5,
-      "cog": 204.2,
+      "mmsi": "265080520",
+      "name": "HYDRA",
+      "lat": 57.6332,
+      "lon": 11.8162,
+      "sog": 24.7,
+      "cog": 7.8,
       "nav_status": 0,
-      "last_update": "2026-09-03 07:49:27.999275441 +0000 UTC"
-    },
-    {
-      "mmsi": "235056986",
-      "name": "TYPHOON CLIPPER",
-      "lat": 51.4917,
-      "lon": -0.0285,
-      "sog": 25.4,
-      "cog": 323.9,
-      "nav_status": 0,
-      "last_update": "2026-09-03 07:49:58.428796855 +0000 UTC"
+      "last_update": "2026-09-03 08:15:02.107510545 +0000 UTC"
     }
   ]
 }
