@@ -1,170 +1,100 @@
 {
-  "updated_at": "2026-09-03T19:28:52Z",
-  "count": 9004,
+  "updated_at": "2026-09-03T19:48:24Z",
+  "count": 8946,
   "vessels": [
     {
-      "mmsi": "244374235",
-      "name": "NT 11 WATERTRAPPER",
-      "lat": 52.3996,
-      "lon": 4.8999,
+      "mmsi": "224013220",
+      "name": "POMBO CUATRO",
+      "lat": 43.3513,
+      "lon": -8.3816,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-03 19:27:41.876454667 +0000 UTC"
+      "last_update": "2026-09-03 19:47:16.735656047 +0000 UTC"
     },
     {
-      "mmsi": "428067000",
-      "name": "BAT GALIM",
-      "lat": 32.8202,
-      "lon": 35.0073,
+      "mmsi": "228436800",
+      "name": "F/V LAREDO",
+      "lat": 42.2298,
+      "lon": -8.7512,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-03 19:27:42.574984654 +0000 UTC"
-    },
-    {
-      "mmsi": "993692249",
-      "name": "",
-      "lat": 48.3297,
-      "lon": -122.9772,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-03 19:27:43.3304047 +0000 UTC"
-    },
-    {
-      "mmsi": "245382000",
-      "name": "",
-      "lat": 51.6217,
-      "lon": 3.6879,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-03 19:28:26.789353811 +0000 UTC"
-    },
-    {
-      "mmsi": "636011247",
-      "name": "SAGITTA",
-      "lat": 37.9296,
-      "lon": 23.6816,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-03 19:27:45.744216903 +0000 UTC"
+      "last_update": "2026-09-03 19:47:17.962205702 +0000 UTC"
     },
     {
       "mmsi": "235080649",
       "name": "ONWARD N107",
-      "lat": 54.2395,
-      "lon": -5.4074,
+      "lat": 54.2564,
+      "lon": -5.4009,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-09-03 19:27:47.380594322 +0000 UTC",
-      "ship_type": 0,
-      "destination": ""
-    },
-    {
-      "mmsi": "271044493",
-      "name": "MIP- 3",
-      "lat": 36.7919,
-      "lon": 34.636,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-03 19:28:14.963269889 +0000 UTC"
-    },
-    {
-      "mmsi": "247130800",
-      "name": "SVEZIA",
-      "lat": 44.4113,
-      "lon": 8.9201,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-03 19:28:31.360449434 +0000 UTC",
-      "ship_type": 52,
-      "destination": ""
-    },
-    {
-      "mmsi": "244045000",
-      "name": "HEBO-CAT 15",
-      "lat": 53.1875,
-      "lon": 5.4319,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-03 19:27:54.800407483 +0000 UTC"
+      "last_update": "2026-09-03 19:47:18.157966832 +0000 UTC"
     },
     {
       "mmsi": "224627000",
       "name": "OMVAC CATORCE",
-      "lat": 32.1093,
-      "lon": -9.453,
+      "lat": 32.1358,
+      "lon": -9.429,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-03 19:27:58.402999803 +0000 UTC"
+      "last_update": "2026-09-03 19:47:27.047440586 +0000 UTC",
+      "ship_type": 33,
+      "destination": "MA SFI"
     },
     {
-      "mmsi": "367434220",
-      "name": "YOGI BERRA",
-      "lat": 40.7717,
-      "lon": -74.011,
+      "mmsi": "224081150",
+      "name": "MARIA DOS ANXOS",
+      "ship_type": 30,
+      "destination": "",
+      "lat": 43.3608,
+      "lon": -8.4026,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-03 19:27:59.144930682 +0000 UTC"
+      "nav_status": 7,
+      "last_update": "2026-09-03 19:47:47.197877556 +0000 UTC"
     },
     {
-      "mmsi": "211357210",
-      "name": "STETTIN",
-      "lat": 53.5434,
-      "lon": 9.9152,
+      "mmsi": "636023497",
+      "name": "BOSPHORUS-M",
+      "lat": 60.0322,
+      "lon": 29.4149,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-03 19:27:59.146156186 +0000 UTC"
+      "last_update": "2026-09-03 19:47:22.735637834 +0000 UTC"
     },
     {
-      "mmsi": "257863000",
-      "name": "ROSESUND",
-      "lat": 60.3844,
-      "lon": 5.3129,
+      "mmsi": "993692209",
+      "name": "",
+      "lat": 48.7551,
+      "lon": -122.7752,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-03 19:47:23.321837582 +0000 UTC"
+    },
+    {
+      "mmsi": "228296900",
+      "name": "CAPT. LOUIS THOMAS",
+      "lat": 49.4591,
+      "lon": 0.5508,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-03 19:28:03.763363306 +0000 UTC"
+      "last_update": "2026-09-03 19:47:24.418774754 +0000 UTC"
     },
     {
-      "mmsi": "235034368",
-      "name": "MULTI-SURVEY 4",
-      "lat": 52.9549,
-      "lon": 4.7791,
+      "mmsi": "210920000",
+      "name": "VTS PENTADAKTYLOS",
+      "lat": 34.7185,
+      "lon": 33.3178,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-03 19:28:04.261396039 +0000 UTC"
-    },
-    {
-      "mmsi": "235070403",
-      "name": "WINDCAT 14",
-      "lat": 57.1435,
-      "lon": -2.0902,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-03 19:28:04.395188497 +0000 UTC"
-    },
-    {
-      "mmsi": "538071607",
-      "name": "CHECKMATE",
-      "lat": 43.5405,
-      "lon": 7.0193,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-03 19:28:05.987216907 +0000 UTC"
+      "last_update": "2026-09-03 19:47:26.090943503 +0000 UTC"
     },
     {
       "mmsi": "244060365",
@@ -174,29 +104,37 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-03 19:28:06.557201938 +0000 UTC"
+      "last_update": "2026-09-03 19:47:26.984047197 +0000 UTC"
     },
     {
-      "mmsi": "247195660",
-      "name": "FAO",
-      "lat": 41.738,
-      "lon": 12.2418,
+      "mmsi": "246445000",
+      "name": "KNRM-ALIES EN EVERT",
+      "lat": 53.1739,
+      "lon": 4.8694,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-03 19:28:06.593076972 +0000 UTC"
+      "last_update": "2026-09-03 19:47:27.257439435 +0000 UTC"
     },
     {
-      "mmsi": "375369000",
-      "name": "ZAYYAN K",
-      "ship_type": 70,
-      "destination": "ELARISH  EGP",
-      "lat": 31.9264,
-      "lon": 34.4548,
+      "mmsi": "250101900",
+      "name": "GUIDING STAR 2",
+      "lat": 51.6509,
+      "lon": -9.9082,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-09-03 19:28:11.117400188 +0000 UTC"
+      "nav_status": 0,
+      "last_update": "2026-09-03 19:47:27.926332729 +0000 UTC"
+    },
+    {
+      "mmsi": "273354450",
+      "name": "POSEIDON S",
+      "lat": 36.0053,
+      "lon": 28.496,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-03 19:47:28.145927559 +0000 UTC"
     },
     {
       "mmsi": "518903000",
@@ -206,7 +144,71 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 8,
-      "last_update": "2026-09-03 19:28:08.699830199 +0000 UTC"
+      "last_update": "2026-09-03 19:47:28.171515607 +0000 UTC"
+    },
+    {
+      "mmsi": "263701380",
+      "name": "FERNANDO NAMORA",
+      "lat": 38.6526,
+      "lon": -9.081,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-09-03 19:47:28.870488278 +0000 UTC",
+      "ship_type": 68,
+      "destination": "LISBOA TAGUS RIVER"
+    },
+    {
+      "mmsi": "210588000",
+      "name": "LEDRA PRIDE",
+      "lat": 34.6452,
+      "lon": 33.018,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-09-03 19:47:32.092221593 +0000 UTC"
+    },
+    {
+      "mmsi": "367434220",
+      "name": "YOGI BERRA",
+      "lat": 40.7717,
+      "lon": -74.0109,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-03 19:47:37.772284109 +0000 UTC"
+    },
+    {
+      "mmsi": "225370000",
+      "name": "ARTEAGA NM",
+      "ship_type": 70,
+      "destination": "ESSDR",
+      "lat": 44.1696,
+      "lon": -4.0284,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-03 19:47:56.430622455 +0000 UTC"
+    },
+    {
+      "mmsi": "503000080",
+      "name": "MANNING",
+      "lat": -33.8683,
+      "lon": 151.222,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-03 19:47:46.599477249 +0000 UTC"
+    },
+    {
+      "mmsi": "993692250",
+      "name": "",
+      "lat": 48.676,
+      "lon": -122.7134,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-03 19:47:47.375994721 +0000 UTC"
     }
   ]
 }
