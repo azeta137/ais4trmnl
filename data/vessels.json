@@ -1,28 +1,16 @@
 {
-  "updated_at": "2026-09-03T21:31:00Z",
-  "count": 8028,
+  "updated_at": "2026-09-03T21:47:57Z",
+  "count": 7868,
   "vessels": [
     {
-      "mmsi": "367388530",
-      "name": "FT BRAGG",
-      "lat": 43.0562,
-      "lon": -70.7026,
+      "mmsi": "235080649",
+      "name": "ONWARD N107",
+      "lat": 54.2579,
+      "lon": -5.4065,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-03 21:30:01.809455579 +0000 UTC"
-    },
-    {
-      "mmsi": "263701380",
-      "name": "FERNANDO NAMORA",
-      "ship_type": 68,
-      "destination": "LISBOA TAGUS RIVER",
-      "lat": 38.6526,
-      "lon": -9.081,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-09-03 21:29:59.428628155 +0000 UTC"
+      "nav_status": 15,
+      "last_update": "2026-09-03 21:46:47.46009675 +0000 UTC"
     },
     {
       "mmsi": "211337780",
@@ -32,151 +20,121 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-03 21:29:58.857946024 +0000 UTC"
+      "last_update": "2026-09-03 21:46:47.600499694 +0000 UTC"
     },
     {
-      "mmsi": "244710626",
-      "name": "BENCKES",
-      "lat": 51.8863,
-      "lon": 4.4503,
+      "mmsi": "240059300",
+      "name": "ACIONNA",
+      "lat": 37.5678,
+      "lon": 22.7956,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 1,
+      "last_update": "2026-09-03 21:46:50.126341311 +0000 UTC"
+    },
+    {
+      "mmsi": "210588000",
+      "name": "LEDRA PRIDE",
+      "lat": 34.6452,
+      "lon": 33.018,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-09-03 21:46:50.654384768 +0000 UTC",
+      "ship_type": 52,
+      "destination": "CYLIM"
+    },
+    {
+      "mmsi": "261007705",
+      "name": "FAIRPLAY-83",
+      "lat": 53.9074,
+      "lon": 14.2599,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-03 21:30:01.827042419 +0000 UTC"
+      "last_update": "2026-09-03 21:46:51.633609883 +0000 UTC"
     },
     {
-      "mmsi": "247130800",
-      "name": "SVEZIA",
-      "lat": 44.4113,
-      "lon": 8.9201,
+      "mmsi": "367388530",
+      "name": "FT BRAGG",
+      "lat": 43.0757,
+      "lon": -70.7121,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-03 21:30:02.189769703 +0000 UTC"
+      "nav_status": 0,
+      "last_update": "2026-09-03 21:46:52.645615242 +0000 UTC"
     },
     {
-      "mmsi": "993692248",
-      "name": "",
-      "lat": 48.3671,
-      "lon": -123.0365,
+      "mmsi": "246445000",
+      "name": "KNRM-ALIES EN EVERT",
+      "ship_type": 51,
+      "destination": "",
+      "lat": 53.1739,
+      "lon": 4.8692,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-03 21:47:26.656136214 +0000 UTC"
+    },
+    {
+      "mmsi": "367434210",
+      "name": "FIORELLO LAGUARDIA",
+      "lat": 40.7139,
+      "lon": -74.0327,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-03 21:47:07.990651712 +0000 UTC"
+    },
+    {
+      "mmsi": "316014014",
+      "name": "TAKAYA",
+      "lat": 49.2863,
+      "lon": -123.1005,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-09-03 21:30:03.88495972 +0000 UTC"
+      "last_update": "2026-09-03 21:47:01.072431967 +0000 UTC"
     },
     {
-      "mmsi": "247195660",
-      "name": "FAO",
-      "lat": 41.738,
-      "lon": 12.2418,
+      "mmsi": "993692422",
+      "name": "",
+      "lat": 48.2737,
+      "lon": -123.1096,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-03 21:47:07.328077431 +0000 UTC"
+    },
+    {
+      "mmsi": "367434220",
+      "name": "YOGI BERRA",
+      "lat": 40.7717,
+      "lon": -74.011,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-03 21:30:05.728142075 +0000 UTC"
-    },
-    {
-      "mmsi": "244374235",
-      "name": "NT 11 WATERTRAPPER",
-      "lat": 52.3996,
-      "lon": 4.8999,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-03 21:30:10.206864373 +0000 UTC"
+      "last_update": "2026-09-03 21:47:08.175735908 +0000 UTC"
     },
     {
       "mmsi": "244108000",
       "name": "ZK46 ZEEMEEUW",
-      "ship_type": 30,
-      "destination": "LAUWERSOOG",
       "lat": 53.4099,
       "lon": 6.207,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-03 21:30:38.544567435 +0000 UTC"
+      "last_update": "2026-09-03 21:47:18.902938294 +0000 UTC"
     },
     {
-      "mmsi": "224013220",
-      "name": "POMBO CUATRO",
-      "lat": 43.3513,
-      "lon": -8.3816,
+      "mmsi": "244870700",
+      "name": "METTE MARIA",
+      "lat": 53.7765,
+      "lon": 8.0429,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-03 21:30:13.366816503 +0000 UTC"
-    },
-    {
-      "mmsi": "244045000",
-      "name": "HEBO-CAT 15",
-      "lat": 53.1875,
-      "lon": 5.4319,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-03 21:30:44.146966073 +0000 UTC"
-    },
-    {
-      "mmsi": "244615506",
-      "name": "ZUID-HOLLAND-ZUID",
-      "lat": 51.7999,
-      "lon": 4.6394,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-03 21:30:13.718714014 +0000 UTC"
-    },
-    {
-      "mmsi": "259046050",
-      "name": "FREMAD",
-      "lat": 66.3729,
-      "lon": 12.361,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-03 21:30:14.937224032 +0000 UTC"
-    },
-    {
-      "mmsi": "601126900",
-      "name": "SEA EXPRESS",
-      "lat": -29.8681,
-      "lon": 31.0141,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-09-03 21:30:33.675284331 +0000 UTC",
-      "ship_type": 52,
-      "destination": ""
-    },
-    {
-      "mmsi": "993692424",
-      "name": "",
-      "lat": 48.0303,
-      "lon": -122.6364,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-03 21:30:27.334955494 +0000 UTC"
-    },
-    {
-      "mmsi": "993692423",
-      "name": "",
-      "lat": 48.2059,
-      "lon": -123.1096,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-03 21:30:31.544052468 +0000 UTC"
-    },
-    {
-      "mmsi": "261007705",
-      "name": "FAIRPLAY-83",
-      "lat": 53.9073,
-      "lon": 14.2599,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-03 21:30:32.361430795 +0000 UTC"
+      "nav_status": 3,
+      "last_update": "2026-09-03 21:47:19.097038695 +0000 UTC"
     },
     {
       "mmsi": "993692209",
@@ -186,27 +144,67 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-09-03 21:30:35.330996503 +0000 UTC"
+      "last_update": "2026-09-03 21:47:23.333302186 +0000 UTC"
     },
     {
-      "mmsi": "235080649",
-      "name": "ONWARD N107",
-      "lat": 54.2692,
-      "lon": -5.3915,
+      "mmsi": "244615506",
+      "name": "ZUID-HOLLAND-ZUID",
+      "lat": 51.8,
+      "lon": 4.6394,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-03 21:47:24.634846104 +0000 UTC"
+    },
+    {
+      "mmsi": "993692022",
+      "name": "",
+      "lat": 48.1131,
+      "lon": -122.6613,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-09-03 21:30:35.486137738 +0000 UTC"
+      "last_update": "2026-09-03 21:47:27.335672261 +0000 UTC"
     },
     {
-      "mmsi": "245382000",
-      "name": "",
-      "lat": 51.6217,
-      "lon": 3.6879,
+      "mmsi": "228296900",
+      "name": "CAPT. LOUIS THOMAS",
+      "lat": 49.4592,
+      "lon": 0.5508,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-03 21:47:28.835991609 +0000 UTC"
+    },
+    {
+      "mmsi": "244374235",
+      "name": "NT 11 WATERTRAPPER",
+      "lat": 52.3996,
+      "lon": 4.8999,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-03 21:47:30.131201094 +0000 UTC"
+    },
+    {
+      "mmsi": "367318750",
+      "name": "SUSQUEHANNA",
+      "lat": 39.554,
+      "lon": -75.5479,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 1,
+      "last_update": "2026-09-03 21:47:41.319664113 +0000 UTC"
+    },
+    {
+      "mmsi": "210920000",
+      "name": "VTS PENTADAKTYLOS",
+      "lat": 34.7185,
+      "lon": 33.3178,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-03 21:30:35.993683556 +0000 UTC"
+      "last_update": "2026-09-03 21:47:33.767378822 +0000 UTC"
     }
   ]
 }
