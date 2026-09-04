@@ -1,118 +1,26 @@
 {
-  "updated_at": "2026-09-04T13:32:59Z",
-  "count": 6890,
+  "updated_at": "2026-09-04T13:50:07Z",
+  "count": 2669,
   "vessels": [
     {
-      "mmsi": "244045000",
-      "name": "HEBO-CAT 15",
-      "lat": 53.1875,
-      "lon": 5.4319,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-04 13:31:48.833762488 +0000 UTC"
-    },
-    {
-      "mmsi": "428067000",
-      "name": "BAT GALIM",
-      "lat": 32.8202,
-      "lon": 35.0073,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-04 13:31:49.552263907 +0000 UTC",
-      "ship_type": 97,
-      "destination": "HAIFA"
-    },
-    {
-      "mmsi": "244013441",
-      "name": "DE MIENT",
-      "lat": 52.633,
-      "lon": 4.7515,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-04 13:31:51.280352678 +0000 UTC"
-    },
-    {
-      "mmsi": "993692421",
-      "name": "",
-      "lat": 48.2159,
-      "lon": -123.4781,
+      "mmsi": "316014014",
+      "name": "TAKAYA",
+      "lat": 49.2863,
+      "lon": -123.1005,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-09-04 13:31:51.310915003 +0000 UTC"
-    },
-    {
-      "mmsi": "601126900",
-      "name": "SEA EXPRESS",
-      "lat": -29.8681,
-      "lon": 31.0142,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-09-04 13:31:54.772676538 +0000 UTC"
-    },
-    {
-      "mmsi": "368400270",
-      "name": "GYSGT BASILONE",
-      "lat": 29.7865,
-      "lon": -93.3441,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-04 13:31:57.617721647 +0000 UTC"
-    },
-    {
-      "mmsi": "993692423",
-      "name": "",
-      "lat": 48.2059,
-      "lon": -123.1096,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-04 13:31:59.333036812 +0000 UTC"
-    },
-    {
-      "mmsi": "370789000",
-      "name": "SEA HUNTER (GUARD)",
-      "lat": 54.4379,
-      "lon": 16.3843,
-      "sog": 102.3,
-      "cog": 139.2,
-      "nav_status": 5,
-      "last_update": "2026-09-04 13:32:02.543263862 +0000 UTC"
-    },
-    {
-      "mmsi": "993692424",
-      "name": "",
-      "lat": 48.0303,
-      "lon": -122.6364,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-04 13:32:03.320731503 +0000 UTC"
+      "last_update": "2026-09-04 13:49:40.293870744 +0000 UTC"
     },
     {
       "mmsi": "210588000",
       "name": "LEDRA PRIDE",
       "lat": 34.6452,
-      "lon": 33.018,
+      "lon": 33.0181,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 8,
-      "last_update": "2026-09-04 13:32:05.81296314 +0000 UTC"
-    },
-    {
-      "mmsi": "229360000",
-      "name": "ERMIS2",
-      "lat": 37.911,
-      "lon": 23.7046,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-04 13:32:11.124328203 +0000 UTC"
+      "last_update": "2026-09-04 13:49:41.260570588 +0000 UTC"
     },
     {
       "mmsi": "993692209",
@@ -122,87 +30,179 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-09-04 13:32:11.347397729 +0000 UTC"
+      "last_update": "2026-09-04 13:49:47.3370316 +0000 UTC"
     },
     {
-      "mmsi": "993692022",
-      "name": "",
-      "lat": 48.1131,
-      "lon": -122.6613,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-04 13:32:15.334464504 +0000 UTC"
-    },
-    {
-      "mmsi": "319720000",
-      "name": "STARDUST",
-      "lat": 32.7101,
-      "lon": -117.2336,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-04 13:32:17.895242637 +0000 UTC"
-    },
-    {
-      "mmsi": "228436800",
-      "name": "F/V LAREDO",
-      "lat": 42.2298,
-      "lon": -8.7512,
+      "mmsi": "244045000",
+      "name": "HEBO-CAT 15",
+      "lat": 53.1875,
+      "lon": 5.4319,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-04 13:32:19.509137662 +0000 UTC"
+      "last_update": "2026-09-04 13:49:48.898466649 +0000 UTC"
     },
     {
-      "mmsi": "367434220",
-      "name": "YOGI BERRA",
-      "lat": 40.7718,
-      "lon": -74.0115,
+      "mmsi": "503745900",
+      "name": "EGS INDEPENDENCE",
+      "lat": -32.0641,
+      "lon": 115.7472,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-04 13:32:23.038363662 +0000 UTC"
+      "last_update": "2026-09-04 13:49:53.359714271 +0000 UTC"
     },
     {
-      "mmsi": "993692247",
-      "name": "",
-      "lat": 47.984,
-      "lon": -122.2462,
+      "mmsi": "259046050",
+      "name": "FREMAD",
+      "lat": 66.3729,
+      "lon": 12.361,
       "sog": 102.3,
       "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-04 13:49:54.225592798 +0000 UTC"
+    },
+    {
+      "mmsi": "210052000",
+      "name": "EUROCHAMPION JET 2",
+      "lat": 37.5249,
+      "lon": 25.1081,
+      "sog": 37.3,
+      "cog": 237,
+      "nav_status": 0,
+      "last_update": "2026-09-04 13:49:52.115153907 +0000 UTC"
+    },
+    {
+      "mmsi": "219018172",
+      "name": "EXPRESS 2",
+      "lat": 56.1118,
+      "lon": 10.3806,
+      "sog": 35.7,
+      "cog": 119.5,
+      "nav_status": 0,
+      "last_update": "2026-09-04 13:49:37.676957866 +0000 UTC"
+    },
+    {
+      "mmsi": "257095920",
+      "name": "FJORDJARL",
+      "lat": 69.0183,
+      "lon": 17.4937,
+      "sog": 34.3,
+      "cog": 217.2,
+      "nav_status": 0,
+      "last_update": "2026-09-04 13:49:52.658989513 +0000 UTC"
+    },
+    {
+      "mmsi": "366970020",
+      "name": "MENDOCINO",
+      "lat": 37.883,
+      "lon": -122.4302,
+      "sog": 33.8,
+      "cog": 141,
+      "nav_status": 0,
+      "last_update": "2026-09-04 13:49:53.104377137 +0000 UTC"
+    },
+    {
+      "mmsi": "224131000",
+      "name": "BAJAMAR EXPRESS",
+      "lat": 28.2377,
+      "lon": -15.9282,
+      "sog": 31,
+      "cog": 126.6,
+      "nav_status": 0,
+      "last_update": "2026-09-04 13:49:44.733017867 +0000 UTC"
+    },
+    {
+      "mmsi": "367397270",
+      "name": "WHALE WATCHER",
+      "lat": 41.9831,
+      "lon": -70.271,
+      "sog": 30.7,
+      "cog": 8.6,
+      "nav_status": 0,
+      "last_update": "2026-09-04 13:49:49.450369954 +0000 UTC"
+    },
+    {
+      "mmsi": "247047400",
+      "name": "NETTUNO JET",
+      "lat": 40.7622,
+      "lon": 13.9782,
+      "sog": 30.2,
+      "cog": 64.3,
+      "nav_status": 0,
+      "last_update": "2026-09-04 13:49:43.787045483 +0000 UTC"
+    },
+    {
+      "mmsi": "265762830",
+      "name": "GANNDUL",
+      "lat": 59.4547,
+      "lon": 18.8187,
+      "sog": 30.1,
+      "cog": 26.7,
+      "nav_status": 0,
+      "last_update": "2026-09-04 13:49:53.68289401 +0000 UTC"
+    },
+    {
+      "mmsi": "477997084",
+      "name": "XIN MING ZHU IX",
+      "lat": 22.2901,
+      "lon": 114.1225,
+      "sog": 29.2,
+      "cog": 84.1,
+      "nav_status": 5,
+      "last_update": "2026-09-04 13:49:46.32721336 +0000 UTC"
+    },
+    {
+      "mmsi": "503053460",
+      "name": "PILOT VESSEL TAKOKO",
+      "lat": -23.885,
+      "lon": 151.3772,
+      "sog": 27.9,
+      "cog": 253,
+      "nav_status": 0,
+      "last_update": "2026-09-04 13:49:45.44230137 +0000 UTC"
+    },
+    {
+      "mmsi": "366740280",
+      "name": "LADY MARTHA",
+      "ship_type": 40,
+      "destination": "",
+      "lat": 41.4008,
+      "lon": -70.191,
+      "sog": 27.2,
+      "cog": 134.9,
       "nav_status": 15,
-      "last_update": "2026-09-04 13:32:23.325416024 +0000 UTC"
+      "last_update": "2026-09-04 13:49:50.748061165 +0000 UTC"
     },
     {
-      "mmsi": "213181000",
-      "name": "ELITA",
-      "lat": 41.6532,
-      "lon": 41.6445,
-      "sog": 102.3,
-      "cog": 360,
+      "mmsi": "247083700",
+      "name": "LA SUPREMA",
+      "lat": 43.2468,
+      "lon": 9.4926,
+      "sog": 26.3,
+      "cog": 154.1,
       "nav_status": 0,
-      "last_update": "2026-09-04 13:32:24.209455862 +0000 UTC"
+      "last_update": "2026-09-04 13:49:51.28468846 +0000 UTC"
     },
     {
-      "mmsi": "245382000",
-      "name": "",
-      "lat": 51.6218,
-      "lon": 3.688,
-      "sog": 102.3,
-      "cog": 360,
+      "mmsi": "367036190",
+      "name": "MARTHA'S VINEYARD EX",
+      "lat": 41.6193,
+      "lon": -70.9023,
+      "sog": 25.6,
+      "cog": 332.1,
       "nav_status": 0,
-      "last_update": "2026-09-04 13:32:26.921645012 +0000 UTC"
+      "last_update": "2026-09-04 13:49:44.399080539 +0000 UTC"
     },
     {
-      "mmsi": "244870700",
-      "name": "METTE MARIA",
-      "lat": 53.7199,
-      "lon": 8.0643,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 3,
-      "last_update": "2026-09-04 13:32:28.068958237 +0000 UTC"
+      "mmsi": "367719150",
+      "name": "VINEYARD LADY",
+      "lat": 41.4814,
+      "lon": -70.5051,
+      "sog": 24.3,
+      "cog": 238.4,
+      "nav_status": 0,
+      "last_update": "2026-09-04 13:49:41.805838808 +0000 UTC"
     }
   ]
 }
