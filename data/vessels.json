@@ -1,7 +1,17 @@
 {
-  "updated_at": "2026-09-04T08:34:13Z",
-  "count": 7080,
+  "updated_at": "2026-09-04T08:51:44Z",
+  "count": 5820,
   "vessels": [
+    {
+      "mmsi": "993692209",
+      "name": "",
+      "lat": 48.7551,
+      "lon": -122.7752,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-04 08:50:35.330357091 +0000 UTC"
+    },
     {
       "mmsi": "993692022",
       "name": "",
@@ -10,87 +20,17 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-09-04 08:33:03.326229526 +0000 UTC"
+      "last_update": "2026-09-04 08:50:39.434371875 +0000 UTC"
     },
     {
-      "mmsi": "245382000",
-      "name": "",
-      "lat": 51.6218,
-      "lon": 3.6879,
+      "mmsi": "338250000",
+      "name": "ALASKA WARRIOR",
+      "lat": 47.6459,
+      "lon": -122.3393,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-04 08:33:05.46485688 +0000 UTC"
-    },
-    {
-      "mmsi": "271044493",
-      "name": "MIP- 3",
-      "lat": 36.7919,
-      "lon": 34.6361,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-04 08:33:10.042741805 +0000 UTC"
-    },
-    {
-      "mmsi": "367434210",
-      "name": "FIORELLO LAGUARDIA",
-      "lat": 40.7715,
-      "lon": -74.0125,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-04 08:33:10.90230201 +0000 UTC"
-    },
-    {
-      "mmsi": "211337780",
-      "name": "ATALANTA",
-      "lat": 53.8992,
-      "lon": 11.4571,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-04 08:33:16.142777939 +0000 UTC"
-    },
-    {
-      "mmsi": "224102850",
-      "name": "NUEVO DESEADO",
-      "lat": 36.8029,
-      "lon": -6.3372,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-04 08:33:21.377008673 +0000 UTC"
-    },
-    {
-      "mmsi": "244353000",
-      "name": "ROTTERDAM",
-      "lat": 51.3724,
-      "lon": 3.9394,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-04 08:33:22.269853498 +0000 UTC"
-    },
-    {
-      "mmsi": "235080649",
-      "name": "ONWARD N107",
-      "lat": 54.1742,
-      "lon": -5.377,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-04 08:33:23.436482617 +0000 UTC"
-    },
-    {
-      "mmsi": "503745900",
-      "name": "EGS INDEPENDENCE",
-      "lat": -32.0641,
-      "lon": 115.7472,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-04 08:33:23.690866937 +0000 UTC"
+      "nav_status": 7,
+      "last_update": "2026-09-04 08:50:42.671062205 +0000 UTC"
     },
     {
       "mmsi": "636023497",
@@ -100,47 +40,27 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-04 08:33:29.296062962 +0000 UTC"
+      "last_update": "2026-09-04 08:50:49.72113387 +0000 UTC"
     },
     {
-      "mmsi": "319720000",
-      "name": "STARDUST",
-      "lat": 32.7101,
-      "lon": -117.2336,
+      "mmsi": "316014014",
+      "name": "TAKAYA",
+      "lat": 49.2863,
+      "lon": -123.1005,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-04 08:50:50.335000901 +0000 UTC"
+    },
+    {
+      "mmsi": "271044493",
+      "name": "MIP- 3",
+      "lat": 36.7919,
+      "lon": 34.6361,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-04 08:33:38.318816493 +0000 UTC"
-    },
-    {
-      "mmsi": "218767000",
-      "name": "FAIRPLAY-64",
-      "lat": 55.0958,
-      "lon": 14.694,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-04 08:33:40.638145342 +0000 UTC"
-    },
-    {
-      "mmsi": "368243940",
-      "name": "CAPTAIN ROB",
-      "lat": 32.8887,
-      "lon": -79.9663,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 12,
-      "last_update": "2026-09-04 08:33:42.43325376 +0000 UTC"
-    },
-    {
-      "mmsi": "601126900",
-      "name": "SEA EXPRESS",
-      "lat": -29.8681,
-      "lon": 31.0142,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-09-04 08:33:44.515286551 +0000 UTC"
+      "last_update": "2026-09-04 08:51:11.243896498 +0000 UTC"
     },
     {
       "mmsi": "244615506",
@@ -150,57 +70,143 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-04 08:33:44.610735717 +0000 UTC"
+      "last_update": "2026-09-04 08:51:13.437894327 +0000 UTC"
     },
     {
-      "mmsi": "244045000",
-      "name": "HEBO-CAT 15",
-      "lat": 53.1865,
-      "lon": 5.1649,
-      "sog": 102.3,
+      "mmsi": "525601086",
+      "name": "WIRA CAMELIA",
+      "lat": -2.3625,
+      "lon": -174.8066,
+      "sog": 50.8,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-04 08:33:45.769503735 +0000 UTC"
+      "last_update": "2026-09-04 08:51:06.089931351 +0000 UTC"
     },
     {
-      "mmsi": "518903000",
-      "name": "ANNABEL II",
-      "lat": 37.7459,
-      "lon": 23.4283,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-09-04 08:33:49.609625308 +0000 UTC"
+      "mmsi": "219022903",
+      "name": "EXPRESS 3",
+      "lat": 55.9619,
+      "lon": 11.1407,
+      "sog": 35.9,
+      "cog": 264.3,
+      "nav_status": 9,
+      "last_update": "2026-09-04 08:50:54.980205457 +0000 UTC",
+      "ship_type": 45,
+      "destination": "AAR-ODD-AAR"
     },
     {
-      "mmsi": "316014014",
-      "name": "TAKAYA",
-      "lat": 49.2863,
-      "lon": -123.1005,
-      "sog": 102.2,
-      "cog": 360,
+      "mmsi": "209653000",
+      "name": "CHAMPION JET 3",
+      "ship_type": 40,
+      "destination": "RATMTRMTR",
+      "lat": 37.9411,
+      "lon": 24.4007,
+      "sog": 34.5,
+      "cog": 99.8,
       "nav_status": 0,
-      "last_update": "2026-09-04 08:33:30.202816149 +0000 UTC"
+      "last_update": "2026-09-04 08:50:42.276961737 +0000 UTC"
     },
     {
-      "mmsi": "342503856",
-      "name": "",
-      "lat": 40.6645,
-      "lon": -74.1239,
-      "sog": 65.3,
-      "cog": 89.8,
+      "mmsi": "235117926",
+      "name": "RED JET 6",
+      "lat": 50.8583,
+      "lon": -1.3564,
+      "sog": 32.9,
+      "cog": 308.8,
       "nav_status": 0,
-      "last_update": "2026-09-04 08:33:20.967674498 +0000 UTC"
+      "last_update": "2026-09-04 08:51:08.641485203 +0000 UTC"
     },
     {
-      "mmsi": "210977000",
-      "name": "TERA JET 2",
-      "lat": 37.3057,
-      "lon": 25.2426,
-      "sog": 37.6,
-      "cog": 202.3,
+      "mmsi": "413308110",
+      "name": "HAI ZHU WAN",
+      "lat": 22.3654,
+      "lon": 113.917,
+      "sog": 31.6,
+      "cog": 142,
       "nav_status": 0,
-      "last_update": "2026-09-04 08:33:33.348432711 +0000 UTC"
+      "last_update": "2026-09-04 08:50:38.007904543 +0000 UTC"
+    },
+    {
+      "mmsi": "235117772",
+      "name": "ISLAND FLYER",
+      "lat": 50.7567,
+      "lon": -1.1322,
+      "sog": 31.1,
+      "cog": 36.3,
+      "nav_status": 0,
+      "last_update": "2026-09-04 08:50:59.704005023 +0000 UTC"
+    },
+    {
+      "mmsi": "219028133",
+      "name": "EXPRESS 5",
+      "lat": 55.1597,
+      "lon": 14.443,
+      "sog": 30.5,
+      "cog": 295.7,
+      "nav_status": 0,
+      "last_update": "2026-09-04 08:51:03.907989438 +0000 UTC"
+    },
+    {
+      "mmsi": "210658000",
+      "name": "MAGIC 5",
+      "lat": 37.8768,
+      "lon": 23.5722,
+      "sog": 29.8,
+      "cog": 216.6,
+      "nav_status": 0,
+      "last_update": "2026-09-04 08:50:45.527146353 +0000 UTC"
+    },
+    {
+      "mmsi": "247070800",
+      "name": "CITTA' DI SORRENTO",
+      "lat": 40.6337,
+      "lon": 14.3667,
+      "sog": 29.6,
+      "cog": 106.9,
+      "nav_status": 0,
+      "last_update": "2026-09-04 08:50:41.61781573 +0000 UTC"
+    },
+    {
+      "mmsi": "237023800",
+      "name": "FLYING DOLPHIN XIX",
+      "lat": 37.739,
+      "lon": 23.42,
+      "sog": 29.5,
+      "cog": 219.9,
+      "nav_status": 5,
+      "last_update": "2026-09-04 08:50:40.338487903 +0000 UTC"
+    },
+    {
+      "mmsi": "247128500",
+      "name": "SNAV ORION",
+      "lat": 40.7671,
+      "lon": 14.2808,
+      "sog": 29.4,
+      "cog": 3.3,
+      "nav_status": 0,
+      "last_update": "2026-09-04 08:51:14.039709984 +0000 UTC",
+      "ship_type": 69,
+      "destination": "NAPOLI/CAPRI VIC."
+    },
+    {
+      "mmsi": "247058800",
+      "name": "SNAV ALTAIR",
+      "lat": 40.7707,
+      "lon": 14.0832,
+      "sog": 27.5,
+      "cog": 91.2,
+      "nav_status": 0,
+      "last_update": "2026-09-04 08:51:05.164481552 +0000 UTC"
+    },
+    {
+      "mmsi": "512003229",
+      "name": "CLIPPER IV",
+      "lat": -36.8344,
+      "lon": 174.8573,
+      "sog": 27.5,
+      "cog": 283.9,
+      "nav_status": 0,
+      "last_update": "2026-09-04 08:51:06.860067802 +0000 UTC"
     }
   ]
 }
