@@ -1,7 +1,59 @@
 {
-  "updated_at": "2026-09-05T12:16:16Z",
-  "count": 7082,
+  "updated_at": "2026-09-05T12:35:13Z",
+  "count": 6963,
   "vessels": [
+    {
+      "mmsi": "518903000",
+      "name": "ANNABEL II",
+      "lat": 37.9271,
+      "lon": 23.652,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-09-05 12:34:08.961503903 +0000 UTC"
+    },
+    {
+      "mmsi": "263701380",
+      "name": "FERNANDO NAMORA",
+      "lat": 38.6516,
+      "lon": -9.0797,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-09-05 12:34:10.950120982 +0000 UTC"
+    },
+    {
+      "mmsi": "224569880",
+      "name": "VB SAJA",
+      "lat": 39.9712,
+      "lon": 0.0206,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-05 12:34:15.625710358 +0000 UTC"
+    },
+    {
+      "mmsi": "244108000",
+      "name": "ZK46 ZEEMEEUW",
+      "lat": 53.4099,
+      "lon": 6.207,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-05 12:34:17.94648704 +0000 UTC"
+    },
+    {
+      "mmsi": "312345000",
+      "name": "PARTNERS",
+      "lat": -12.0443,
+      "lon": -77.0573,
+      "sog": 102.3,
+      "cog": 329.3,
+      "nav_status": 1,
+      "last_update": "2026-09-05 12:34:19.581824933 +0000 UTC",
+      "ship_type": 0,
+      "destination": "TO ORDER"
+    },
     {
       "mmsi": "244374235",
       "name": "NT 11 WATERTRAPPER",
@@ -10,47 +62,29 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-05 12:16:01.27451557 +0000 UTC"
+      "last_update": "2026-09-05 12:34:22.429282682 +0000 UTC"
     },
     {
-      "mmsi": "636011247",
-      "name": "SAGITTA",
-      "lat": 37.9297,
-      "lon": 23.6815,
+      "mmsi": "503745900",
+      "name": "EGS INDEPENDENCE",
+      "lat": -32.0641,
+      "lon": 115.7472,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-05 12:15:13.2927699 +0000 UTC"
+      "nav_status": 0,
+      "last_update": "2026-09-05 12:34:24.464384037 +0000 UTC"
     },
     {
-      "mmsi": "244690816",
-      "name": "ANNE GABRIELLE",
-      "lat": 52.3661,
-      "lon": 4.9569,
+      "mmsi": "241367000",
+      "name": "KRITI VERANO",
+      "lat": -12.0414,
+      "lon": -77.0586,
       "sog": 102.3,
-      "cog": 360,
-      "nav_status": 6,
-      "last_update": "2026-09-05 12:15:13.386698884 +0000 UTC"
-    },
-    {
-      "mmsi": "244615506",
-      "name": "ZUID-HOLLAND-ZUID",
-      "lat": 51.8,
-      "lon": 4.6394,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-05 12:15:14.424145542 +0000 UTC"
-    },
-    {
-      "mmsi": "993692424",
-      "name": "",
-      "lat": 48.0303,
-      "lon": -122.6364,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-05 12:15:15.325301354 +0000 UTC"
+      "cog": 344.5,
+      "nav_status": 0,
+      "last_update": "2026-09-05 12:34:24.809012414 +0000 UTC",
+      "ship_type": 89,
+      "destination": "ISTANBUL"
     },
     {
       "mmsi": "993692574",
@@ -60,39 +94,47 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-09-05 12:15:19.331071179 +0000 UTC"
+      "last_update": "2026-09-05 12:34:31.345701274 +0000 UTC"
     },
     {
-      "mmsi": "636020407",
-      "name": "MUSTAFA NECATI",
-      "lat": -12.036,
-      "lon": -77.0408,
+      "mmsi": "271044493",
+      "name": "MIP- 3",
+      "lat": 36.7919,
+      "lon": 34.636,
       "sog": 102.3,
-      "cog": 146.4,
+      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-05 12:15:21.565130311 +0000 UTC",
-      "ship_type": 80,
-      "destination": "BGBOJ"
+      "last_update": "2026-09-05 12:34:32.467741487 +0000 UTC"
     },
     {
-      "mmsi": "273418880",
-      "name": "BAKHTEMIR",
-      "lat": 46.6228,
-      "lon": 142.7689,
+      "mmsi": "244615506",
+      "name": "ZUID-HOLLAND-ZUID",
+      "lat": 51.8,
+      "lon": 4.6394,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-05 12:15:23.222883635 +0000 UTC"
+      "last_update": "2026-09-05 12:34:34.017913467 +0000 UTC"
     },
     {
-      "mmsi": "993692051",
-      "name": "",
-      "lat": 48.1906,
-      "lon": -122.8301,
+      "mmsi": "366986380",
+      "name": "DREDGE OREGON",
+      "lat": 46.2015,
+      "lon": -123.4297,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-05 12:15:31.328948789 +0000 UTC"
+      "nav_status": 3,
+      "last_update": "2026-09-05 12:34:37.576946224 +0000 UTC"
+    },
+    {
+      "mmsi": "636011247",
+      "name": "SAGITTA",
+      "lat": 37.9296,
+      "lon": 23.6814,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-05 12:34:42.793425824 +0000 UTC"
     },
     {
       "mmsi": "235034368",
@@ -102,29 +144,17 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-05 12:15:34.470238531 +0000 UTC"
+      "last_update": "2026-09-05 12:34:44.326316041 +0000 UTC"
     },
     {
-      "mmsi": "210920000",
-      "name": "VTS PENTADAKTYLOS",
-      "lat": 34.7185,
-      "lon": 33.3178,
+      "mmsi": "244730564",
+      "name": "WADDENZEE II",
+      "lat": 53.1744,
+      "lon": 5.4509,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-05 12:15:35.245176185 +0000 UTC"
-    },
-    {
-      "mmsi": "211337780",
-      "name": "ATALANTA",
-      "lat": 53.8992,
-      "lon": 11.4571,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-05 12:15:37.763922976 +0000 UTC",
-      "ship_type": 0,
-      "destination": "WISMAR"
+      "nav_status": 5,
+      "last_update": "2026-09-05 12:34:49.018345588 +0000 UTC"
     },
     {
       "mmsi": "993692248",
@@ -134,77 +164,47 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-09-05 12:15:39.328399325 +0000 UTC"
+      "last_update": "2026-09-05 12:34:51.336343517 +0000 UTC"
     },
     {
-      "mmsi": "257409900",
-      "name": "ANNE KATHRINE",
-      "lat": 59.0613,
-      "lon": 5.7066,
+      "mmsi": "261007705",
+      "name": "FAIRPLAY-83",
+      "lat": 53.9073,
+      "lon": 14.2599,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-05 12:15:42.863272872 +0000 UTC"
+      "last_update": "2026-09-05 12:34:52.347663398 +0000 UTC"
     },
     {
-      "mmsi": "993692250",
+      "mmsi": "273418880",
+      "name": "BAKHTEMIR",
+      "lat": 46.6228,
+      "lon": 142.7689,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-05 12:34:52.352678704 +0000 UTC"
+    },
+    {
+      "mmsi": "993692249",
       "name": "",
-      "lat": 48.676,
-      "lon": -122.7134,
+      "lat": 48.3297,
+      "lon": -122.9772,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-09-05 12:15:47.329221941 +0000 UTC"
+      "last_update": "2026-09-05 12:34:55.334041676 +0000 UTC"
     },
     {
-      "mmsi": "636022080",
-      "name": "MAZU",
-      "lat": -12.0479,
-      "lon": -77.0467,
-      "sog": 102.3,
-      "cog": 251,
-      "nav_status": 0,
-      "last_update": "2026-09-05 12:15:48.927369437 +0000 UTC"
-    },
-    {
-      "mmsi": "210330000",
-      "name": "LEDRA EXPLORER",
-      "lat": -12.0483,
-      "lon": -77.0511,
-      "sog": 102.3,
-      "cog": 278.5,
-      "nav_status": 0,
-      "last_update": "2026-09-05 12:15:57.515781905 +0000 UTC"
-    },
-    {
-      "mmsi": "563259500",
-      "name": "BARILOCHE",
-      "lat": -12.0472,
-      "lon": -77.0542,
+      "mmsi": "316014014",
+      "name": "TAKAYA",
+      "lat": 49.2863,
+      "lon": -123.1005,
       "sog": 102.2,
-      "cog": 286.3,
+      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-05 12:16:03.591284826 +0000 UTC"
-    },
-    {
-      "mmsi": "245278000",
-      "name": "EEMSBORG",
-      "lat": -12.0416,
-      "lon": -77.0408,
-      "sog": 102.2,
-      "cog": 192.2,
-      "nav_status": 0,
-      "last_update": "2026-09-05 12:15:30.996807034 +0000 UTC"
-    },
-    {
-      "mmsi": "111219518",
-      "name": "",
-      "lat": 57.325,
-      "lon": 10.5465,
-      "sog": 102.2,
-      "cog": 177.1,
-      "nav_status": 0,
-      "last_update": "2026-09-05 12:15:37.104309848 +0000 UTC"
+      "last_update": "2026-09-05 12:34:51.18144745 +0000 UTC"
     }
   ]
 }
