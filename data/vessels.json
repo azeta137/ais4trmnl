@@ -1,120 +1,48 @@
 {
-  "updated_at": "2026-09-05T02:31:56Z",
-  "count": 8119,
+  "updated_at": "2026-09-05T02:48:25Z",
+  "count": 4059,
   "vessels": [
     {
-      "mmsi": "701076000",
-      "name": "DR E HOLMBERG",
-      "lat": -37.9841,
-      "lon": -57.5009,
+      "mmsi": "224025440",
+      "name": "OTZARRI BERRIA",
+      "lat": 44.4262,
+      "lon": -2.7335,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-09-05 02:30:57.071166369 +0000 UTC",
-      "ship_type": 54,
-      "destination": "ZONA DE INVESTIGACIO"
+      "nav_status": 7,
+      "last_update": "2026-09-05 02:47:49.118773885 +0000 UTC"
     },
     {
-      "mmsi": "241926000",
-      "name": "LYBOUSSAKIS ATLAS",
-      "lat": 37.9575,
-      "lon": 23.6102,
+      "mmsi": "244710626",
+      "name": "BENCKES",
+      "ship_type": 90,
+      "destination": "ROTTERDAM HARTELHAVE",
+      "lat": 51.9387,
+      "lon": 4.0343,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-05 02:30:48.914006168 +0000 UTC"
+      "last_update": "2026-09-05 02:48:10.379440644 +0000 UTC"
     },
     {
-      "mmsi": "518903000",
-      "name": "ANNABEL II",
-      "lat": 37.7459,
-      "lon": 23.4283,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-09-05 02:30:49.436516218 +0000 UTC"
-    },
-    {
-      "mmsi": "338449112",
-      "name": "BAYWATCH 21",
-      "lat": 33.9712,
-      "lon": -118.4467,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-05 02:30:52.137148825 +0000 UTC"
-    },
-    {
-      "mmsi": "601126900",
-      "name": "SEA EXPRESS",
-      "lat": -29.8681,
-      "lon": 31.0141,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-09-05 02:31:14.238801232 +0000 UTC"
-    },
-    {
-      "mmsi": "259046050",
-      "name": "FREMAD",
-      "lat": 66.3729,
-      "lon": 12.361,
+      "mmsi": "257409900",
+      "name": "ANNE KATHRINE",
+      "lat": 59.0613,
+      "lon": 5.7066,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-05 02:30:54.15567241 +0000 UTC"
+      "last_update": "2026-09-05 02:47:53.096933262 +0000 UTC"
     },
     {
-      "mmsi": "244615506",
-      "name": "ZUID-HOLLAND-ZUID",
-      "lat": 51.8,
-      "lon": 4.6394,
+      "mmsi": "503000080",
+      "name": "MANNING",
+      "lat": -33.8682,
+      "lon": 151.222,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-05 02:31:23.605937029 +0000 UTC",
-      "ship_type": 99,
-      "destination": ""
-    },
-    {
-      "mmsi": "210588000",
-      "name": "LEDRA PRIDE",
-      "lat": 34.6451,
-      "lon": 33.018,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-09-05 02:31:00.541994641 +0000 UTC"
-    },
-    {
-      "mmsi": "244870700",
-      "name": "METTE MARIA",
-      "lat": 53.5282,
-      "lon": 8.1493,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-05 02:31:03.930837047 +0000 UTC"
-    },
-    {
-      "mmsi": "235080649",
-      "name": "ONWARD N107",
-      "lat": 54.3284,
-      "lon": -5.3005,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-05 02:31:04.794269275 +0000 UTC"
-    },
-    {
-      "mmsi": "235070403",
-      "name": "WINDCAT 14",
-      "lat": 57.1434,
-      "lon": -2.0901,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-05 02:31:05.249316837 +0000 UTC"
+      "last_update": "2026-09-05 02:47:54.194423641 +0000 UTC"
     },
     {
       "mmsi": "244060365",
@@ -124,87 +52,161 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-05 02:31:07.5361691 +0000 UTC"
+      "last_update": "2026-09-05 02:47:56.793511715 +0000 UTC"
     },
     {
-      "mmsi": "319720000",
-      "name": "STARDUST",
-      "lat": 32.7101,
-      "lon": -117.2336,
+      "mmsi": "338449112",
+      "name": "BAYWATCH 21",
+      "lat": 33.9712,
+      "lon": -118.4467,
       "sog": 102.3,
       "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-05 02:48:02.563337072 +0000 UTC"
+    },
+    {
+      "mmsi": "210588000",
+      "name": "LEDRA PRIDE",
+      "lat": 34.6452,
+      "lon": 33.018,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-09-05 02:48:11.265859874 +0000 UTC"
+    },
+    {
+      "mmsi": "244374235",
+      "name": "NT 11 WATERTRAPPER",
+      "lat": 52.3996,
+      "lon": 4.8999,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-05 02:48:11.309881609 +0000 UTC"
+    },
+    {
+      "mmsi": "232008636",
+      "name": "VOE VANGUARD",
+      "lat": 54.4351,
+      "lon": 16.3884,
+      "sog": 102.3,
+      "cog": 104.3,
+      "nav_status": 5,
+      "last_update": "2026-09-05 02:48:14.033486696 +0000 UTC"
+    },
+    {
+      "mmsi": "210888000",
+      "name": "ISLAND POLARIS",
+      "lat": -12.0318,
+      "lon": -77.0446,
+      "sog": 102.3,
+      "cog": 121.7,
       "nav_status": 0,
-      "last_update": "2026-09-05 02:31:08.430431356 +0000 UTC"
+      "last_update": "2026-09-05 02:48:14.417186283 +0000 UTC"
     },
     {
-      "mmsi": "244120000",
-      "name": "ANTEOS",
-      "lat": 51.4446,
-      "lon": 3.5839,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 3,
-      "last_update": "2026-09-05 02:31:28.112744813 +0000 UTC"
+      "mmsi": "249856000",
+      "name": "TIGANI",
+      "lat": -12.0293,
+      "lon": -77.0492,
+      "sog": 102.2,
+      "cog": 88.8,
+      "nav_status": 0,
+      "last_update": "2026-09-05 02:48:06.002424787 +0000 UTC"
     },
     {
       "mmsi": "316014014",
       "name": "TAKAYA",
       "lat": 49.2864,
       "lon": -123.1005,
-      "sog": 102.3,
+      "sog": 102.2,
       "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-05 02:48:10.730490917 +0000 UTC"
+    },
+    {
+      "mmsi": "636022626",
+      "name": "DELTA COMMANDER",
+      "lat": -12.0307,
+      "lon": -77.0529,
+      "sog": 46.3,
+      "cog": 59.4,
+      "nav_status": 0,
+      "last_update": "2026-09-05 02:47:59.770355645 +0000 UTC"
+    },
+    {
+      "mmsi": "368151810",
+      "name": "ENETAI",
+      "lat": 47.5532,
+      "lon": -122.4844,
+      "sog": 31.7,
+      "cog": 300.9,
+      "nav_status": 0,
+      "last_update": "2026-09-05 02:48:01.423789559 +0000 UTC"
+    },
+    {
+      "mmsi": "368053730",
+      "name": "PYXIS",
+      "lat": 37.9211,
+      "lon": -122.4252,
+      "sog": 31,
+      "cog": 352.1,
+      "nav_status": 0,
+      "last_update": "2026-09-05 02:48:02.519881211 +0000 UTC",
+      "ship_type": 60,
+      "destination": "US^0V0P>0V0P"
+    },
+    {
+      "mmsi": "338224000",
+      "name": "DOC MAYNARD",
+      "ship_type": 60,
+      "destination": "P50 & VASHON ISLAND",
+      "lat": 47.5276,
+      "lon": -122.4593,
+      "sog": 28.9,
+      "cog": 202.8,
+      "nav_status": 0,
+      "last_update": "2026-09-05 02:48:12.836196503 +0000 UTC"
+    },
+    {
+      "mmsi": "503053460",
+      "name": "PILOT VESSEL TAKOKO",
+      "lat": -23.8532,
+      "lon": 151.3229,
+      "sog": 28.9,
+      "cog": 300.1,
+      "nav_status": 0,
+      "last_update": "2026-09-05 02:48:12.858780563 +0000 UTC"
+    },
+    {
+      "mmsi": "239737000",
+      "name": "BLUE STAR 2",
+      "lat": 36.6318,
+      "lon": 27.432,
+      "sog": 24.6,
+      "cog": 103.8,
+      "nav_status": 0,
+      "last_update": "2026-09-05 02:48:13.475315709 +0000 UTC"
+    },
+    {
+      "mmsi": "247486400",
+      "name": "GNV POLARIS",
+      "lat": 40.5851,
+      "lon": 11.4352,
+      "sog": 24,
+      "cog": 328.2,
+      "nav_status": 0,
+      "last_update": "2026-09-05 02:47:54.960369516 +0000 UTC"
+    },
+    {
+      "mmsi": "367199310",
+      "name": "CATALINA JET",
+      "lat": 33.621,
+      "lon": -118.2306,
+      "sog": 23.7,
+      "cog": 196.3,
       "nav_status": 15,
-      "last_update": "2026-09-05 02:31:40.660930127 +0000 UTC"
-    },
-    {
-      "mmsi": "244710626",
-      "name": "BENCKES",
-      "lat": 51.9387,
-      "lon": 4.0343,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-05 02:31:11.335675112 +0000 UTC"
-    },
-    {
-      "mmsi": "261007705",
-      "name": "FAIRPLAY-83",
-      "lat": 53.9074,
-      "lon": 14.2599,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-05 02:31:12.578358284 +0000 UTC"
-    },
-    {
-      "mmsi": "503745900",
-      "name": "EGS INDEPENDENCE",
-      "lat": -32.0641,
-      "lon": 115.7472,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-05 02:31:13.712959382 +0000 UTC"
-    },
-    {
-      "mmsi": "210920000",
-      "name": "VTS PENTADAKTYLOS",
-      "lat": 34.7185,
-      "lon": 33.3178,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-05 02:31:14.352957036 +0000 UTC"
-    },
-    {
-      "mmsi": "224025440",
-      "name": "OTZARRI BERRIA",
-      "lat": 44.4614,
-      "lon": -2.7452,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 7,
-      "last_update": "2026-09-05 02:31:21.063088275 +0000 UTC"
+      "last_update": "2026-09-05 02:48:14.498011222 +0000 UTC"
     }
   ]
 }
