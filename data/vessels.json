@@ -1,76 +1,80 @@
 {
-  "updated_at": "2026-09-05T09:47:54Z",
-  "count": 6746,
+  "updated_at": "2026-09-05T10:12:48Z",
+  "count": 7505,
   "vessels": [
     {
-      "mmsi": "210920000",
-      "name": "VTS PENTADAKTYLOS",
-      "lat": 34.7185,
-      "lon": 33.3178,
+      "mmsi": "503745900",
+      "name": "EGS INDEPENDENCE",
+      "lat": -32.0641,
+      "lon": 115.7472,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-05 09:46:44.262568147 +0000 UTC"
+      "last_update": "2026-09-05 10:11:42.783727295 +0000 UTC",
+      "ship_type": 40,
+      "destination": ""
     },
     {
-      "mmsi": "244615506",
-      "name": "ZUID-HOLLAND-ZUID",
-      "lat": 51.8,
-      "lon": 4.6394,
+      "mmsi": "257409900",
+      "name": "ANNE KATHRINE",
+      "lat": 59.0613,
+      "lon": 5.7066,
       "sog": 102.3,
       "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-05 10:11:42.78649589 +0000 UTC"
+    },
+    {
+      "mmsi": "235034368",
+      "name": "MULTI-SURVEY 4",
+      "lat": 52.9549,
+      "lon": 4.7791,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-05 10:11:44.284514832 +0000 UTC"
+    },
+    {
+      "mmsi": "370789000",
+      "name": "SEA HUNTER (GUARD)",
+      "lat": 54.4379,
+      "lon": 16.3843,
+      "sog": 102.3,
+      "cog": 356,
       "nav_status": 5,
-      "last_update": "2026-09-05 09:46:44.778004271 +0000 UTC"
+      "last_update": "2026-09-05 10:11:45.089850664 +0000 UTC"
     },
     {
-      "mmsi": "245382000",
-      "name": "",
-      "lat": 51.6217,
-      "lon": 3.6878,
+      "mmsi": "219385000",
+      "name": "BJOERNSHOLM",
+      "ship_type": 60,
+      "destination": "COPENHAGEN",
+      "lat": 55.6793,
+      "lon": 12.593,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-05 09:46:45.540435269 +0000 UTC"
+      "last_update": "2026-09-05 10:12:26.113563644 +0000 UTC"
     },
     {
-      "mmsi": "366986380",
-      "name": "DREDGE OREGON",
-      "lat": 46.2015,
-      "lon": -123.4297,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 3,
-      "last_update": "2026-09-05 09:46:47.423035593 +0000 UTC"
-    },
-    {
-      "mmsi": "993692022",
-      "name": "",
-      "lat": 48.1131,
-      "lon": -122.6613,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-05 09:46:47.539513298 +0000 UTC"
-    },
-    {
-      "mmsi": "205088000",
-      "name": "J. BREYDEL SURVEY",
-      "lat": 51.2226,
-      "lon": 2.9363,
+      "mmsi": "244050915",
+      "name": "FADAM II",
+      "lat": 52.3786,
+      "lon": 4.8974,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-05 09:46:48.177218923 +0000 UTC"
+      "last_update": "2026-09-05 10:11:48.076745599 +0000 UTC"
     },
     {
       "mmsi": "210588000",
       "name": "LEDRA PRIDE",
       "lat": 34.6452,
-      "lon": 33.018,
+      "lon": 33.0179,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 8,
-      "last_update": "2026-09-05 09:46:51.850427462 +0000 UTC"
+      "last_update": "2026-09-05 10:11:52.418427487 +0000 UTC"
     },
     {
       "mmsi": "213181000",
@@ -80,127 +84,127 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-05 09:46:52.741440987 +0000 UTC"
+      "last_update": "2026-09-05 10:11:53.584853055 +0000 UTC"
     },
     {
-      "mmsi": "211357210",
-      "name": "STETTIN",
-      "lat": 53.5434,
-      "lon": 9.9152,
+      "mmsi": "503000080",
+      "name": "MANNING",
+      "lat": -33.8683,
+      "lon": 151.222,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-05 09:46:52.981931681 +0000 UTC"
+      "last_update": "2026-09-05 10:11:54.924080196 +0000 UTC"
     },
     {
-      "mmsi": "244060365",
-      "name": "KNRM ARBOR VITAE",
-      "lat": 53.4088,
-      "lon": 6.1974,
+      "mmsi": "205088000",
+      "name": "J. BREYDEL SURVEY",
+      "lat": 51.2226,
+      "lon": 2.9363,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-05 09:46:56.492386436 +0000 UTC"
+      "last_update": "2026-09-05 10:11:56.526548264 +0000 UTC"
     },
     {
-      "mmsi": "428067000",
-      "name": "BAT GALIM",
-      "lat": 32.8202,
-      "lon": 35.0073,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-05 09:47:02.802202746 +0000 UTC"
-    },
-    {
-      "mmsi": "370789000",
-      "name": "SEA HUNTER (GUARD)",
-      "lat": 54.4379,
-      "lon": 16.3843,
-      "sog": 102.3,
-      "cog": 98.5,
-      "nav_status": 5,
-      "last_update": "2026-09-05 09:47:05.048352693 +0000 UTC"
-    },
-    {
-      "mmsi": "319720000",
-      "name": "STARDUST",
-      "lat": 32.7101,
-      "lon": -117.2336,
+      "mmsi": "563070140",
+      "name": "PSA TAURUS YS52",
+      "lat": 1.254,
+      "lon": 103.7871,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-05 09:47:07.984070446 +0000 UTC"
+      "last_update": "2026-09-05 10:11:56.560919904 +0000 UTC"
     },
     {
-      "mmsi": "244374235",
-      "name": "NT 11 WATERTRAPPER",
-      "lat": 52.3996,
-      "lon": 4.8999,
+      "mmsi": "338329000",
+      "name": "KINGS POINT",
+      "lat": 39.2439,
+      "lon": -76.569,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 12,
+      "last_update": "2026-09-05 10:12:05.884373991 +0000 UTC"
+    },
+    {
+      "mmsi": "563147700",
+      "name": "PSA VISION (NN27)",
+      "lat": 1.2608,
+      "lon": 103.8511,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-05 09:47:11.572857104 +0000 UTC"
+      "last_update": "2026-09-05 10:12:06.204892504 +0000 UTC"
     },
     {
-      "mmsi": "259046050",
-      "name": "FREMAD",
-      "lat": 66.3952,
-      "lon": 12.4065,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-05 09:47:14.280749036 +0000 UTC"
-    },
-    {
-      "mmsi": "261002090",
-      "name": "SM PRC 106",
-      "lat": 54.4291,
-      "lon": 16.3928,
-      "sog": 102.3,
-      "cog": 195,
-      "nav_status": 5,
-      "last_update": "2026-09-05 09:47:15.055188467 +0000 UTC"
-    },
-    {
-      "mmsi": "993692424",
+      "mmsi": "993692574",
       "name": "",
-      "lat": 48.0303,
-      "lon": -122.6364,
+      "lat": 48.569,
+      "lon": -122.8446,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-09-05 09:47:15.334254 +0000 UTC"
+      "last_update": "2026-09-05 10:12:07.526041321 +0000 UTC"
     },
     {
-      "mmsi": "247130800",
-      "name": "SVEZIA",
-      "lat": 44.4114,
-      "lon": 8.9202,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-05 09:47:18.782695967 +0000 UTC"
-    },
-    {
-      "mmsi": "244108000",
-      "name": "ZK46 ZEEMEEUW",
-      "lat": 53.4099,
-      "lon": 6.207,
+      "mmsi": "211337780",
+      "name": "ATALANTA",
+      "lat": 53.8992,
+      "lon": 11.4571,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-05 09:47:19.244130773 +0000 UTC"
+      "last_update": "2026-09-05 10:12:07.820140265 +0000 UTC"
     },
     {
-      "mmsi": "601126900",
-      "name": "SEA EXPRESS",
-      "lat": -29.8681,
-      "lon": 31.0141,
+      "mmsi": "993692022",
+      "name": "",
+      "lat": 48.1131,
+      "lon": -122.6613,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-09-05 09:47:22.57522156 +0000 UTC"
+      "nav_status": 15,
+      "last_update": "2026-09-05 10:12:15.319889217 +0000 UTC"
+    },
+    {
+      "mmsi": "244120000",
+      "name": "ANTEOS",
+      "lat": 51.4447,
+      "lon": 3.5831,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 3,
+      "last_update": "2026-09-05 10:12:19.115827848 +0000 UTC"
+    },
+    {
+      "mmsi": "993692051",
+      "name": "",
+      "lat": 48.1906,
+      "lon": -122.8301,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-05 10:12:19.467556035 +0000 UTC"
+    },
+    {
+      "mmsi": "271044493",
+      "name": "MIP- 3",
+      "lat": 36.7919,
+      "lon": 34.636,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-05 10:12:19.815159572 +0000 UTC"
+    },
+    {
+      "mmsi": "232002350",
+      "name": "GNH CRUSADER",
+      "lat": 51.9459,
+      "lon": 1.0891,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 3,
+      "last_update": "2026-09-05 10:12:21.757690667 +0000 UTC"
     }
   ]
 }
