@@ -1,110 +1,68 @@
 {
-  "updated_at": "2026-09-05T04:31:32Z",
-  "count": 7473,
+  "updated_at": "2026-09-05T04:48:04Z",
+  "count": 8440,
   "vessels": [
     {
-      "mmsi": "261007705",
-      "name": "FAIRPLAY-83",
-      "lat": 53.9073,
-      "lon": 14.2599,
+      "mmsi": "636022080",
+      "name": "MAZU",
+      "lat": -12.0375,
+      "lon": -77.0406,
+      "sog": 102.3,
+      "cog": 167.5,
+      "nav_status": 0,
+      "last_update": "2026-09-05 04:46:54.210079283 +0000 UTC"
+    },
+    {
+      "mmsi": "235034368",
+      "name": "MULTI-SURVEY 4",
+      "lat": 52.9549,
+      "lon": 4.7791,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-05 04:30:22.538087621 +0000 UTC"
+      "last_update": "2026-09-05 04:46:55.057746904 +0000 UTC"
     },
     {
-      "mmsi": "636011247",
-      "name": "SAGITTA",
-      "lat": 37.9297,
-      "lon": 23.6815,
+      "mmsi": "247130800",
+      "name": "SVEZIA",
+      "lat": 44.4113,
+      "lon": 8.9201,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-05 04:30:23.824085405 +0000 UTC"
+      "last_update": "2026-09-05 04:46:58.169364361 +0000 UTC"
     },
     {
-      "mmsi": "701076000",
-      "name": "DR E HOLMBERG",
-      "lat": -37.984,
-      "lon": -57.501,
+      "mmsi": "235080649",
+      "name": "ONWARD N107",
+      "lat": 54.3356,
+      "lon": -5.273,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-09-05 04:30:46.178244964 +0000 UTC",
-      "ship_type": 54,
-      "destination": "ZONA DE INVESTIGACIO"
+      "nav_status": 15,
+      "last_update": "2026-09-05 04:47:39.526927007 +0000 UTC"
     },
     {
-      "mmsi": "263701380",
-      "name": "FERNANDO NAMORA",
-      "lat": 38.6516,
-      "lon": -9.0797,
+      "mmsi": "210588000",
+      "name": "LEDRA PRIDE",
+      "lat": 34.6452,
+      "lon": 33.018,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 8,
-      "last_update": "2026-09-05 04:30:29.776016238 +0000 UTC"
+      "last_update": "2026-09-05 04:47:00.438821969 +0000 UTC",
+      "ship_type": 52,
+      "destination": "CYLIM"
     },
     {
-      "mmsi": "503745900",
-      "name": "EGS INDEPENDENCE",
-      "ship_type": 40,
-      "destination": "",
-      "lat": -32.0641,
-      "lon": 115.7472,
+      "mmsi": "319720000",
+      "name": "STARDUST",
+      "lat": 32.71,
+      "lon": -117.2336,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-05 04:31:03.950212999 +0000 UTC"
-    },
-    {
-      "mmsi": "261182860",
-      "name": "HYDROBUD 1",
-      "lat": 54.436,
-      "lon": 16.3863,
-      "sog": 102.3,
-      "cog": 294,
-      "nav_status": 2,
-      "last_update": "2026-09-05 04:30:34.287534402 +0000 UTC"
-    },
-    {
-      "mmsi": "210920000",
-      "name": "VTS PENTADAKTYLOS",
-      "lat": 34.7185,
-      "lon": 33.3178,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-05 04:30:39.192354167 +0000 UTC"
-    },
-    {
-      "mmsi": "244108000",
-      "name": "ZK46 ZEEMEEUW",
-      "lat": 53.4099,
-      "lon": 6.2069,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-05 04:30:39.675438473 +0000 UTC"
-    },
-    {
-      "mmsi": "259046050",
-      "name": "FREMAD",
-      "lat": 66.3729,
-      "lon": 12.361,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-05 04:30:45.002379216 +0000 UTC"
-    },
-    {
-      "mmsi": "273130400",
-      "name": "YURIY ARSHENEVSKIY",
-      "lat": 36.179,
-      "lon": -8.2632,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-05 04:30:52.861687226 +0000 UTC"
+      "last_update": "2026-09-05 04:47:07.921469482 +0000 UTC"
     },
     {
       "mmsi": "257409900",
@@ -114,37 +72,7 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-05 04:30:53.649640691 +0000 UTC"
-    },
-    {
-      "mmsi": "235080649",
-      "name": "ONWARD N107",
-      "lat": 54.3327,
-      "lon": -5.2628,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-05 04:31:04.707839107 +0000 UTC"
-    },
-    {
-      "mmsi": "235087611",
-      "name": "ARGYLL FLYER",
-      "lat": 55.9445,
-      "lon": -4.7322,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-05 04:30:57.943996716 +0000 UTC"
-    },
-    {
-      "mmsi": "211337780",
-      "name": "ATALANTA",
-      "lat": 53.8992,
-      "lon": 11.4571,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-05 04:30:58.569226177 +0000 UTC"
+      "last_update": "2026-09-05 04:47:14.296226995 +0000 UTC"
     },
     {
       "mmsi": "244120000",
@@ -154,17 +82,7 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 3,
-      "last_update": "2026-09-05 04:30:59.16834699 +0000 UTC"
-    },
-    {
-      "mmsi": "367739710",
-      "name": "HURON SPIRIT",
-      "lat": 43.044,
-      "lon": -82.4159,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-05 04:31:12.571650873 +0000 UTC"
+      "last_update": "2026-09-05 04:47:19.347873508 +0000 UTC"
     },
     {
       "mmsi": "244374235",
@@ -174,37 +92,117 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-05 04:31:02.513654251 +0000 UTC"
+      "last_update": "2026-09-05 04:47:22.555135712 +0000 UTC"
     },
     {
-      "mmsi": "244615506",
-      "name": "ZUID-HOLLAND-ZUID",
-      "lat": 51.8,
-      "lon": 4.6394,
+      "mmsi": "636011247",
+      "name": "SAGITTA",
+      "lat": 37.9296,
+      "lon": 23.6815,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-05 04:31:03.772715992 +0000 UTC"
+      "last_update": "2026-09-05 04:47:32.433348678 +0000 UTC"
     },
     {
-      "mmsi": "366986380",
-      "name": "DREDGE OREGON",
-      "lat": 46.2015,
-      "lon": -123.4297,
+      "mmsi": "503745900",
+      "name": "EGS INDEPENDENCE",
+      "lat": -32.0641,
+      "lon": 115.7472,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 3,
-      "last_update": "2026-09-05 04:31:08.440314897 +0000 UTC"
+      "nav_status": 0,
+      "last_update": "2026-09-05 04:47:43.83914851 +0000 UTC"
     },
     {
-      "mmsi": "235070403",
-      "name": "WINDCAT 14",
-      "lat": 57.1435,
-      "lon": -2.0902,
+      "mmsi": "601126900",
+      "name": "SEA EXPRESS",
+      "lat": -29.8682,
+      "lon": 31.0141,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-05 04:31:08.930382444 +0000 UTC"
+      "nav_status": 8,
+      "last_update": "2026-09-05 04:47:32.907820028 +0000 UTC"
+    },
+    {
+      "mmsi": "259046050",
+      "name": "FREMAD",
+      "lat": 66.3729,
+      "lon": 12.361,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-05 04:47:34.585425025 +0000 UTC"
+    },
+    {
+      "mmsi": "244108000",
+      "name": "ZK46 ZEEMEEUW",
+      "lat": 53.4099,
+      "lon": 6.207,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-05 04:47:39.438320084 +0000 UTC"
+    },
+    {
+      "mmsi": "210920000",
+      "name": "VTS PENTADAKTYLOS",
+      "lat": 34.7185,
+      "lon": 33.3178,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-05 04:47:39.447097417 +0000 UTC"
+    },
+    {
+      "mmsi": "210052000",
+      "name": "EUROCHAMPION JET 2",
+      "lat": 37.6271,
+      "lon": 23.8569,
+      "sog": 37.7,
+      "cog": 112,
+      "nav_status": 0,
+      "last_update": "2026-09-05 04:47:00.193078918 +0000 UTC"
+    },
+    {
+      "mmsi": "209653000",
+      "name": "CHAMPION JET 3",
+      "lat": 37.8735,
+      "lon": 24.3899,
+      "sog": 34.4,
+      "cog": 116.6,
+      "nav_status": 0,
+      "last_update": "2026-09-05 04:46:58.425667223 +0000 UTC"
+    },
+    {
+      "mmsi": "257125290",
+      "name": "FREDRIKKE T-OLSEN",
+      "lat": 66.374,
+      "lon": 12.4032,
+      "sog": 30.9,
+      "cog": 49.1,
+      "nav_status": 0,
+      "last_update": "2026-09-05 04:47:19.595781082 +0000 UTC"
+    },
+    {
+      "mmsi": "247055900",
+      "name": "",
+      "lat": 40.7747,
+      "lon": 14.0748,
+      "sog": 29.4,
+      "cog": 88,
+      "nav_status": 0,
+      "last_update": "2026-09-05 04:47:46.727283013 +0000 UTC"
+    },
+    {
+      "mmsi": "316016131",
+      "name": "PACIFIC GUARDIAN",
+      "lat": 48.3551,
+      "lon": -123.4031,
+      "sog": 27.8,
+      "cog": 177.2,
+      "nav_status": 0,
+      "last_update": "2026-09-05 04:47:49.282908405 +0000 UTC"
     }
   ]
 }
