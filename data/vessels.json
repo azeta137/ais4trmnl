@@ -1,148 +1,86 @@
 {
-  "updated_at": "2026-09-06T21:48:06Z",
-  "count": 7760,
+  "updated_at": "2026-09-06T22:13:01Z",
+  "count": 6892,
   "vessels": [
     {
-      "mmsi": "235070403",
-      "name": "WINDCAT 14",
-      "lat": 57.1435,
-      "lon": -2.0901,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 9,
-      "last_update": "2026-09-06 21:46:58.637076599 +0000 UTC"
-    },
-    {
-      "mmsi": "368400270",
-      "name": "GYSGT BASILONE",
-      "lat": 29.7846,
-      "lon": -93.3441,
+      "mmsi": "261007705",
+      "name": "FAIRPLAY-83",
+      "lat": 53.9073,
+      "lon": 14.2599,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-06 21:46:58.810238742 +0000 UTC"
+      "last_update": "2026-09-06 22:11:51.326827681 +0000 UTC"
     },
     {
-      "mmsi": "316014014",
-      "name": "TAKAYA",
-      "lat": 49.2864,
-      "lon": -123.1005,
+      "mmsi": "993692421",
+      "name": "",
+      "lat": 48.2159,
+      "lon": -123.4781,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-09-06 21:47:00.342762771 +0000 UTC"
+      "last_update": "2026-09-06 22:11:51.361963841 +0000 UTC"
     },
     {
-      "mmsi": "244010956",
-      "name": "P93",
-      "lat": 51.893,
-      "lon": 4.2306,
+      "mmsi": "244108000",
+      "name": "ZK46 ZEEMEEUW",
+      "lat": 53.4242,
+      "lon": 6.1746,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-06 21:47:00.748366222 +0000 UTC"
+      "last_update": "2026-09-06 22:12:18.097577569 +0000 UTC"
     },
     {
-      "mmsi": "235034368",
-      "name": "MULTI-SURVEY 4",
-      "lat": 52.9549,
-      "lon": 4.7791,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-06 21:47:03.404660983 +0000 UTC"
-    },
-    {
-      "mmsi": "244060365",
-      "name": "KNRM ARBOR VITAE",
-      "lat": 53.4087,
-      "lon": 6.1974,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-06 21:47:03.40834191 +0000 UTC",
-      "ship_type": 51,
-      "destination": ""
-    },
-    {
-      "mmsi": "368000880",
-      "name": "HEATHER JOE",
-      "lat": 41.6265,
-      "lon": -70.9153,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-06 21:47:24.092099647 +0000 UTC"
-    },
-    {
-      "mmsi": "366986380",
-      "name": "DREDGE OREGON",
-      "lat": 46.2015,
-      "lon": -123.4297,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 3,
-      "last_update": "2026-09-06 21:47:17.479733695 +0000 UTC"
-    },
-    {
-      "mmsi": "352002481",
-      "name": "BARU SIERRA NEVADA",
-      "lat": -22.8476,
-      "lon": -43.1298,
+      "mmsi": "413493080",
+      "name": "TIAN HUI",
+      "lat": 31.7305,
+      "lon": 32.2354,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 1,
-      "last_update": "2026-09-06 21:47:07.475103974 +0000 UTC"
+      "last_update": "2026-09-06 22:11:53.44546243 +0000 UTC"
+    },
+    {
+      "mmsi": "518903000",
+      "name": "ANNABEL II",
+      "lat": 38.6272,
+      "lon": 20.598,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-09-06 22:12:06.742922199 +0000 UTC"
     },
     {
       "mmsi": "273354450",
       "name": "POSEIDON S",
-      "lat": 36.0432,
+      "lat": 36.0388,
       "lon": 28.4869,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-06 21:47:07.831295647 +0000 UTC"
+      "last_update": "2026-09-06 22:12:06.889888796 +0000 UTC"
     },
     {
-      "mmsi": "249698000",
-      "name": "INS LAND",
-      "lat": 41.3805,
-      "lon": 2.1844,
+      "mmsi": "244870700",
+      "name": "METTE MARIA",
+      "lat": 53.7909,
+      "lon": 8.0437,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-06 21:47:08.161469972 +0000 UTC"
+      "nav_status": 3,
+      "last_update": "2026-09-06 22:12:11.010834821 +0000 UTC"
     },
     {
-      "mmsi": "245382000",
-      "name": "",
-      "lat": 51.6217,
-      "lon": 3.6877,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-06 21:47:16.045924784 +0000 UTC"
-    },
-    {
-      "mmsi": "366969970",
-      "name": "SONOMA",
-      "lat": 37.8532,
-      "lon": -122.4695,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-09-06 21:47:37.218943123 +0000 UTC"
-    },
-    {
-      "mmsi": "368338990",
-      "name": "ALEOLI",
-      "lat": 47.5301,
-      "lon": -122.4943,
+      "mmsi": "205088000",
+      "name": "J. BREYDEL SURVEY",
+      "lat": 51.2226,
+      "lon": 2.9363,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-06 21:47:28.784139779 +0000 UTC"
+      "last_update": "2026-09-06 22:12:11.32818869 +0000 UTC"
     },
     {
       "mmsi": "263701380",
@@ -152,59 +90,117 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 8,
-      "last_update": "2026-09-06 21:47:31.461878959 +0000 UTC"
+      "last_update": "2026-09-06 22:12:11.858758228 +0000 UTC"
     },
     {
-      "mmsi": "273418880",
-      "name": "BAKHTEMIR",
-      "lat": 46.6228,
-      "lon": 142.7689,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-06 21:47:32.741665651 +0000 UTC"
-    },
-    {
-      "mmsi": "241926000",
-      "name": "LYBOUSSAKIS ATLAS",
-      "lat": 37.9575,
-      "lon": 23.6102,
+      "mmsi": "235034368",
+      "name": "MULTI-SURVEY 4",
+      "lat": 52.9549,
+      "lon": 4.7792,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-06 21:47:38.936715683 +0000 UTC"
+      "last_update": "2026-09-06 22:12:13.949504748 +0000 UTC"
     },
     {
-      "mmsi": "993692248",
+      "mmsi": "245382000",
       "name": "",
-      "lat": 48.3671,
-      "lon": -123.0365,
+      "lat": 51.6217,
+      "lon": 3.688,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-06 22:12:16.772137206 +0000 UTC"
+    },
+    {
+      "mmsi": "235070403",
+      "name": "WINDCAT 14",
+      "lat": 57.1435,
+      "lon": -2.0902,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 9,
+      "last_update": "2026-09-06 22:12:18.237457749 +0000 UTC"
+    },
+    {
+      "mmsi": "368000880",
+      "name": "HEATHER JOE",
+      "lat": 41.6265,
+      "lon": -70.9153,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-09-06 21:47:39.414815388 +0000 UTC"
+      "last_update": "2026-09-06 22:12:25.63283463 +0000 UTC"
     },
     {
-      "mmsi": "210588000",
-      "name": "LEDRA PRIDE",
-      "lat": 34.6452,
-      "lon": 33.018,
+      "mmsi": "224049290",
+      "name": "NUEVO AYACAM",
+      "lat": 36.985,
+      "lon": -7.5553,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-09-06 21:47:42.127573154 +0000 UTC",
-      "ship_type": 52,
-      "destination": "CYLIM"
+      "nav_status": 15,
+      "last_update": "2026-09-06 22:12:29.364777753 +0000 UTC"
     },
     {
-      "mmsi": "240451900",
-      "name": "WHITECAPS",
-      "lat": 37.5679,
-      "lon": 22.7999,
+      "mmsi": "244374235",
+      "name": "NT 11 WATERTRAPPER",
+      "lat": 52.3996,
+      "lon": 4.8999,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-06 22:12:31.187544025 +0000 UTC"
+    },
+    {
+      "mmsi": "993692247",
+      "name": "",
+      "lat": 47.984,
+      "lon": -122.2462,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-06 22:12:31.549958326 +0000 UTC"
+    },
+    {
+      "mmsi": "244615506",
+      "name": "ZUID-HOLLAND-ZUID",
+      "lat": 51.8,
+      "lon": 4.6394,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-06 22:12:34.522864443 +0000 UTC"
+    },
+    {
+      "mmsi": "232022059",
+      "name": "CRIMSON ARROW KY142",
+      "lat": 55.9732,
+      "lon": -2.9554,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-06 22:12:36.882287984 +0000 UTC"
+    },
+    {
+      "mmsi": "244045000",
+      "name": "HEBO-CAT 15",
+      "lat": 53.1875,
+      "lon": 5.4319,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-06 21:47:42.133902534 +0000 UTC"
+      "last_update": "2026-09-06 22:12:39.054946785 +0000 UTC"
+    },
+    {
+      "mmsi": "368338990",
+      "name": "ALEOLI",
+      "lat": 47.53,
+      "lon": -122.4942,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-06 22:12:40.541734416 +0000 UTC"
     }
   ]
 }
