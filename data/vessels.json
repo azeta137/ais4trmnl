@@ -1,152 +1,128 @@
 {
-  "updated_at": "2026-09-06T17:47:44Z",
-  "count": 6594,
+  "updated_at": "2026-09-06T18:15:44Z",
+  "count": 7599,
   "vessels": [
     {
-      "mmsi": "368173000",
-      "name": "FISHING CREEK",
-      "lat": 37.9178,
-      "lon": -122.3638,
+      "mmsi": "993692209",
+      "name": "",
+      "lat": 48.7551,
+      "lon": -122.7752,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-06 18:14:35.375290089 +0000 UTC"
+    },
+    {
+      "mmsi": "428009088",
+      "name": "DANCHOR X",
+      "lat": 31.8243,
+      "lon": 34.6451,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-06 17:46:34.447635215 +0000 UTC",
-      "ship_type": 31,
-      "destination": "ANCHORAGE 26"
+      "last_update": "2026-09-06 18:14:36.514392974 +0000 UTC"
     },
     {
-      "mmsi": "261182860",
-      "name": "HYDROBUD 1",
-      "lat": 54.436,
-      "lon": 16.3863,
-      "sog": 102.3,
-      "cog": 7.9,
-      "nav_status": 2,
-      "last_update": "2026-09-06 17:46:38.786071607 +0000 UTC"
-    },
-    {
-      "mmsi": "316014014",
-      "name": "TAKAYA",
-      "lat": 49.2863,
-      "lon": -123.1005,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-06 17:46:39.85751714 +0000 UTC"
-    },
-    {
-      "mmsi": "210588000",
-      "name": "LEDRA PRIDE",
-      "lat": 34.6452,
-      "lon": 33.018,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-09-06 17:46:43.004917792 +0000 UTC"
-    },
-    {
-      "mmsi": "304219000",
-      "name": "SPLITTNES",
-      "ship_type": 79,
-      "destination": "DERSK",
-      "lat": 54.9886,
-      "lon": 11.0108,
-      "sog": 102.3,
-      "cog": 190.3,
-      "nav_status": 0,
-      "last_update": "2026-09-06 17:47:12.805142444 +0000 UTC"
-    },
-    {
-      "mmsi": "319720000",
-      "name": "STARDUST",
-      "lat": 32.7101,
-      "lon": -117.2336,
+      "mmsi": "244710626",
+      "name": "BENCKES",
+      "lat": 53.188,
+      "lon": 5.7638,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-06 17:46:47.662214779 +0000 UTC"
+      "last_update": "2026-09-06 18:14:37.126106484 +0000 UTC"
     },
     {
-      "mmsi": "263701380",
-      "name": "FERNANDO NAMORA",
-      "lat": 38.6516,
-      "lon": -9.0797,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-09-06 17:46:52.678989236 +0000 UTC"
-    },
-    {
-      "mmsi": "205088000",
-      "name": "J. BREYDEL SURVEY",
-      "lat": 51.2225,
-      "lon": 2.9363,
+      "mmsi": "244108000",
+      "name": "ZK46 ZEEMEEUW",
+      "lat": 53.4099,
+      "lon": 6.207,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-06 17:46:52.82037169 +0000 UTC",
-      "ship_type": 90,
-      "destination": "BEOST"
+      "last_update": "2026-09-06 18:14:39.304402742 +0000 UTC"
     },
     {
-      "mmsi": "240451900",
-      "name": "WHITECAPS",
-      "lat": 37.5679,
-      "lon": 22.7999,
+      "mmsi": "244870700",
+      "name": "METTE MARIA",
+      "lat": 53.7511,
+      "lon": 8.0489,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-06 17:46:52.880403889 +0000 UTC"
-    },
-    {
-      "mmsi": "993692249",
-      "name": "",
-      "lat": 48.3297,
-      "lon": -122.9772,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-06 17:46:55.327606386 +0000 UTC"
-    },
-    {
-      "mmsi": "601126900",
-      "name": "SEA EXPRESS",
-      "lat": -29.8682,
-      "lon": 31.0142,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-09-06 17:46:58.701649539 +0000 UTC"
+      "nav_status": 3,
+      "last_update": "2026-09-06 18:14:40.099480466 +0000 UTC",
+      "ship_type": 33,
+      "destination": "DREDGING JADE RIVER"
     },
     {
       "mmsi": "567002520",
       "name": "NP CHUMPHON",
-      "lat": 13.657,
-      "lon": 100.5681,
+      "lat": 13.6573,
+      "lon": 100.5688,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-06 17:47:03.15215271 +0000 UTC"
+      "last_update": "2026-09-06 18:14:42.406952386 +0000 UTC"
     },
     {
-      "mmsi": "235034368",
-      "name": "MULTI-SURVEY 4",
-      "lat": 52.9549,
-      "lon": 4.7791,
+      "mmsi": "210920000",
+      "name": "VTS PENTADAKTYLOS",
+      "lat": 34.7185,
+      "lon": 33.3178,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-06 17:47:04.03382891 +0000 UTC"
+      "last_update": "2026-09-06 18:14:42.672667439 +0000 UTC"
     },
     {
-      "mmsi": "244615506",
-      "name": "ZUID-HOLLAND-ZUID",
-      "lat": 51.8,
-      "lon": 4.6394,
+      "mmsi": "366986380",
+      "name": "DREDGE OREGON",
+      "lat": 46.2015,
+      "lon": -123.4298,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 3,
+      "last_update": "2026-09-06 18:14:47.392517873 +0000 UTC"
+    },
+    {
+      "mmsi": "232022059",
+      "name": "CRIMSON ARROW KY142",
+      "lat": 55.9732,
+      "lon": -2.9554,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-06 17:47:04.725056377 +0000 UTC"
+      "last_update": "2026-09-06 18:14:47.792084101 +0000 UTC"
+    },
+    {
+      "mmsi": "368338990",
+      "name": "ALEOLI",
+      "lat": 47.5382,
+      "lon": -122.413,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-06 18:14:50.598516056 +0000 UTC"
+    },
+    {
+      "mmsi": "993692248",
+      "name": "",
+      "lat": 48.3671,
+      "lon": -123.0365,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-06 18:14:51.321496526 +0000 UTC"
+    },
+    {
+      "mmsi": "352006167",
+      "name": "MEDKON TEN",
+      "lat": -26.7094,
+      "lon": 153.2489,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 1,
+      "last_update": "2026-09-06 18:14:53.194643932 +0000 UTC"
     },
     {
       "mmsi": "368000880",
@@ -156,57 +132,77 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-09-06 17:47:15.002319832 +0000 UTC"
+      "last_update": "2026-09-06 18:14:53.612091477 +0000 UTC"
     },
     {
-      "mmsi": "993692422",
+      "mmsi": "993692249",
       "name": "",
-      "lat": 48.2737,
-      "lon": -123.1096,
+      "lat": 48.3297,
+      "lon": -122.9772,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-09-06 17:47:07.330684516 +0000 UTC"
+      "last_update": "2026-09-06 18:14:55.321377764 +0000 UTC"
     },
     {
-      "mmsi": "271044493",
-      "name": "MIP- 3",
-      "lat": 36.7919,
-      "lon": 34.636,
+      "mmsi": "245382000",
+      "name": "",
+      "lat": 51.6217,
+      "lon": 3.6877,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-06 17:47:15.471710486 +0000 UTC"
+      "last_update": "2026-09-06 18:14:56.641778534 +0000 UTC"
     },
     {
-      "mmsi": "701076000",
-      "name": "DR E HOLMBERG",
-      "lat": -37.9833,
-      "lon": -57.5021,
+      "mmsi": "235070403",
+      "name": "WINDCAT 14",
+      "lat": 57.1435,
+      "lon": -2.0901,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-09-06 17:47:15.931743383 +0000 UTC"
+      "nav_status": 9,
+      "last_update": "2026-09-06 18:15:08.286617892 +0000 UTC"
     },
     {
-      "mmsi": "518903000",
-      "name": "ANNABEL II",
-      "lat": 38.6277,
-      "lon": 20.5979,
+      "mmsi": "241926000",
+      "name": "LYBOUSSAKIS ATLAS",
+      "lat": 37.9575,
+      "lon": 23.6102,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-09-06 17:47:17.022260926 +0000 UTC"
+      "nav_status": 0,
+      "last_update": "2026-09-06 18:15:17.975608747 +0000 UTC"
     },
     {
-      "mmsi": "228436800",
-      "name": "F/V LAREDO",
-      "lat": 42.2297,
-      "lon": -8.7512,
+      "mmsi": "319720000",
+      "name": "STARDUST",
+      "lat": 32.71,
+      "lon": -117.2336,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-06 18:15:08.703736063 +0000 UTC"
+    },
+    {
+      "mmsi": "244615506",
+      "name": "ZUID-HOLLAND-ZUID",
+      "lat": 51.8,
+      "lon": 4.6394,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-06 17:47:18.436450228 +0000 UTC"
+      "last_update": "2026-09-06 18:15:13.805182934 +0000 UTC"
+    },
+    {
+      "mmsi": "993692424",
+      "name": "",
+      "lat": 48.0303,
+      "lon": -122.6364,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-06 18:15:15.323478297 +0000 UTC"
     }
   ]
 }
