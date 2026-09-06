@@ -1,148 +1,128 @@
 {
-  "updated_at": "2026-09-06T20:48:44Z",
-  "count": 6968,
+  "updated_at": "2026-09-06T21:12:49Z",
+  "count": 7546,
   "vessels": [
     {
-      "mmsi": "235034368",
-      "name": "MULTI-SURVEY 4",
-      "lat": 52.9549,
-      "lon": 4.7791,
+      "mmsi": "244108000",
+      "name": "ZK46 ZEEMEEUW",
+      "lat": 53.4099,
+      "lon": 6.2069,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-06 20:47:34.058766035 +0000 UTC"
+      "last_update": "2026-09-06 21:11:38.5852444 +0000 UTC"
     },
     {
-      "mmsi": "245382000",
-      "name": "",
-      "lat": 51.6217,
-      "lon": 3.6878,
+      "mmsi": "211337780",
+      "name": "ATALANTA",
+      "lat": 53.8992,
+      "lon": 11.4571,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-06 20:47:37.056933521 +0000 UTC"
+      "last_update": "2026-09-06 21:11:38.702097666 +0000 UTC"
     },
     {
-      "mmsi": "244710626",
-      "name": "BENCKES",
-      "lat": 53.188,
-      "lon": 5.7638,
+      "mmsi": "210920000",
+      "name": "VTS PENTADAKTYLOS",
+      "lat": 34.7185,
+      "lon": 33.3178,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-06 20:47:37.517356614 +0000 UTC"
+      "last_update": "2026-09-06 21:11:43.531746763 +0000 UTC"
     },
     {
-      "mmsi": "244045000",
-      "name": "HEBO-CAT 15",
-      "lat": 53.1875,
-      "lon": 5.4319,
+      "mmsi": "241926000",
+      "name": "LYBOUSSAKIS ATLAS",
+      "lat": 37.9575,
+      "lon": 23.6102,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-06 20:47:39.059580955 +0000 UTC"
+      "last_update": "2026-09-06 21:11:48.784056712 +0000 UTC"
     },
     {
-      "mmsi": "993692248",
-      "name": "",
-      "lat": 48.3671,
-      "lon": -123.0365,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-06 20:47:39.327020932 +0000 UTC"
-    },
-    {
-      "mmsi": "244060365",
-      "name": "KNRM ARBOR VITAE",
-      "lat": 53.4088,
-      "lon": 6.1974,
+      "mmsi": "368338990",
+      "name": "ALEOLI",
+      "lat": 47.5301,
+      "lon": -122.4941,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-06 20:47:42.904588138 +0000 UTC"
+      "last_update": "2026-09-06 21:11:49.102235628 +0000 UTC"
     },
     {
-      "mmsi": "240451900",
-      "name": "WHITECAPS",
-      "lat": 37.5679,
-      "lon": 22.7999,
+      "mmsi": "431004341",
+      "name": "OKUNI MARU",
+      "lat": 34.125,
+      "lon": 132.9531,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-06 20:47:43.193811422 +0000 UTC"
+      "last_update": "2026-09-06 21:11:50.051202311 +0000 UTC"
     },
     {
-      "mmsi": "993692250",
-      "name": "",
-      "lat": 48.676,
-      "lon": -122.7134,
+      "mmsi": "244870700",
+      "name": "METTE MARIA",
+      "lat": 53.753,
+      "lon": 8.0499,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-06 20:47:47.32538838 +0000 UTC"
+      "nav_status": 3,
+      "last_update": "2026-09-06 21:11:50.358722392 +0000 UTC"
     },
     {
-      "mmsi": "244374235",
-      "name": "NT 11 WATERTRAPPER",
-      "lat": 52.3996,
-      "lon": 4.8999,
+      "mmsi": "244615506",
+      "name": "ZUID-HOLLAND-ZUID",
+      "lat": 51.8,
+      "lon": 4.6394,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-06 20:47:51.417281127 +0000 UTC"
+      "last_update": "2026-09-06 21:11:53.292755813 +0000 UTC"
     },
     {
-      "mmsi": "263701380",
-      "name": "FERNANDO NAMORA",
-      "lat": 38.6516,
-      "lon": -9.0797,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-09-06 20:47:51.546576914 +0000 UTC"
-    },
-    {
-      "mmsi": "993692249",
-      "name": "",
-      "lat": 48.3297,
-      "lon": -122.9772,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-06 20:47:51.595014348 +0000 UTC"
-    },
-    {
-      "mmsi": "244730564",
-      "name": "WADDENZEE II",
-      "lat": 53.1744,
-      "lon": 5.4509,
+      "mmsi": "273418880",
+      "name": "BAKHTEMIR",
+      "lat": 46.6228,
+      "lon": 142.7689,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-06 20:47:59.608341223 +0000 UTC",
-      "ship_type": 52,
-      "destination": "HARLINGEN"
+      "last_update": "2026-09-06 21:11:53.632645771 +0000 UTC"
     },
     {
-      "mmsi": "210588000",
-      "name": "LEDRA PRIDE",
-      "lat": 34.6452,
-      "lon": 33.018,
+      "mmsi": "518903000",
+      "name": "ANNABEL II",
+      "lat": 38.6272,
+      "lon": 20.598,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 8,
-      "last_update": "2026-09-06 20:48:02.294504368 +0000 UTC"
+      "last_update": "2026-09-06 21:11:56.806964317 +0000 UTC"
     },
     {
-      "mmsi": "567002520",
-      "name": "NP CHUMPHON",
-      "lat": 13.6573,
-      "lon": 100.5688,
+      "mmsi": "636016143",
+      "name": "VALARIS 72",
+      "ship_type": 99,
+      "destination": "HAMLITION PLATFORM",
+      "lat": 53.5664,
+      "lon": -3.4538,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-06 21:12:23.495672442 +0000 UTC"
+    },
+    {
+      "mmsi": "213181000",
+      "name": "ELITA",
+      "lat": 41.6531,
+      "lon": 41.6444,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-06 20:48:03.025099238 +0000 UTC"
+      "last_update": "2026-09-06 21:12:03.118446952 +0000 UTC"
     },
     {
       "mmsi": "993692424",
@@ -152,37 +132,57 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-09-06 20:48:03.326892114 +0000 UTC"
-    },
-    {
-      "mmsi": "993692574",
-      "name": "",
-      "lat": 48.569,
-      "lon": -122.8446,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-06 20:48:07.326770788 +0000 UTC"
+      "last_update": "2026-09-06 21:12:03.337249174 +0000 UTC"
     },
     {
       "mmsi": "205088000",
       "name": "J. BREYDEL SURVEY",
-      "lat": 51.2225,
+      "lat": 51.2226,
       "lon": 2.9363,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-06 20:48:11.300331638 +0000 UTC"
+      "last_update": "2026-09-06 21:12:06.953000041 +0000 UTC"
     },
     {
-      "mmsi": "993692209",
-      "name": "",
-      "lat": 48.7551,
-      "lon": -122.7752,
+      "mmsi": "366986380",
+      "name": "DREDGE OREGON",
+      "lat": 46.2015,
+      "lon": -123.4298,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 3,
+      "last_update": "2026-09-06 21:12:08.121385062 +0000 UTC"
+    },
+    {
+      "mmsi": "316014014",
+      "name": "TAKAYA",
+      "lat": 49.2863,
+      "lon": -123.1005,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-09-06 20:48:11.329168973 +0000 UTC"
+      "last_update": "2026-09-06 21:12:10.721801122 +0000 UTC"
+    },
+    {
+      "mmsi": "240451900",
+      "name": "WHITECAPS",
+      "lat": 37.5678,
+      "lon": 22.7999,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-06 21:12:11.444923773 +0000 UTC"
+    },
+    {
+      "mmsi": "367415390",
+      "name": "EMPIRE STATE",
+      "lat": 40.7139,
+      "lon": -74.0319,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-06 21:12:26.681269266 +0000 UTC"
     },
     {
       "mmsi": "235070403",
@@ -192,17 +192,17 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 9,
-      "last_update": "2026-09-06 20:48:17.865471173 +0000 UTC"
+      "last_update": "2026-09-06 21:12:18.018393678 +0000 UTC"
     },
     {
-      "mmsi": "352002481",
-      "name": "BARU SIERRA NEVADA",
-      "lat": -22.8478,
-      "lon": -43.1299,
+      "mmsi": "244060365",
+      "name": "KNRM ARBOR VITAE",
+      "lat": 53.4088,
+      "lon": 6.1974,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-09-06 20:48:18.241952121 +0000 UTC"
+      "nav_status": 0,
+      "last_update": "2026-09-06 21:12:21.600071457 +0000 UTC"
     }
   ]
 }
