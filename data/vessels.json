@@ -1,96 +1,48 @@
 {
-  "updated_at": "2026-09-06T21:12:49Z",
-  "count": 7546,
+  "updated_at": "2026-09-06T21:30:11Z",
+  "count": 6380,
   "vessels": [
     {
-      "mmsi": "244108000",
-      "name": "ZK46 ZEEMEEUW",
-      "lat": 53.4099,
-      "lon": 6.2069,
+      "mmsi": "244374235",
+      "name": "NT 11 WATERTRAPPER",
+      "lat": 52.3996,
+      "lon": 4.8999,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-06 21:11:38.5852444 +0000 UTC"
+      "nav_status": 5,
+      "last_update": "2026-09-06 21:29:01.402736413 +0000 UTC"
     },
     {
-      "mmsi": "211337780",
-      "name": "ATALANTA",
-      "lat": 53.8992,
-      "lon": 11.4571,
+      "mmsi": "993692022",
+      "name": "",
+      "lat": 48.1131,
+      "lon": -122.6613,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-06 21:11:38.702097666 +0000 UTC"
+      "nav_status": 15,
+      "last_update": "2026-09-06 21:29:03.462787622 +0000 UTC"
+    },
+    {
+      "mmsi": "368000880",
+      "name": "HEATHER JOE",
+      "lat": 41.6265,
+      "lon": -70.9153,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-06 21:29:03.604972212 +0000 UTC",
+      "ship_type": 30,
+      "destination": ""
     },
     {
       "mmsi": "210920000",
       "name": "VTS PENTADAKTYLOS",
       "lat": 34.7185,
-      "lon": 33.3178,
+      "lon": 33.3176,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-06 21:11:43.531746763 +0000 UTC"
-    },
-    {
-      "mmsi": "241926000",
-      "name": "LYBOUSSAKIS ATLAS",
-      "lat": 37.9575,
-      "lon": 23.6102,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-06 21:11:48.784056712 +0000 UTC"
-    },
-    {
-      "mmsi": "368338990",
-      "name": "ALEOLI",
-      "lat": 47.5301,
-      "lon": -122.4941,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-06 21:11:49.102235628 +0000 UTC"
-    },
-    {
-      "mmsi": "431004341",
-      "name": "OKUNI MARU",
-      "lat": 34.125,
-      "lon": 132.9531,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-06 21:11:50.051202311 +0000 UTC"
-    },
-    {
-      "mmsi": "244870700",
-      "name": "METTE MARIA",
-      "lat": 53.753,
-      "lon": 8.0499,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 3,
-      "last_update": "2026-09-06 21:11:50.358722392 +0000 UTC"
-    },
-    {
-      "mmsi": "244615506",
-      "name": "ZUID-HOLLAND-ZUID",
-      "lat": 51.8,
-      "lon": 4.6394,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-06 21:11:53.292755813 +0000 UTC"
-    },
-    {
-      "mmsi": "273418880",
-      "name": "BAKHTEMIR",
-      "lat": 46.6228,
-      "lon": 142.7689,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-06 21:11:53.632645771 +0000 UTC"
+      "last_update": "2026-09-06 21:29:04.296259709 +0000 UTC"
     },
     {
       "mmsi": "518903000",
@@ -100,39 +52,87 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 8,
-      "last_update": "2026-09-06 21:11:56.806964317 +0000 UTC"
+      "last_update": "2026-09-06 21:29:06.791323151 +0000 UTC"
     },
     {
-      "mmsi": "636016143",
-      "name": "VALARIS 72",
-      "ship_type": 99,
-      "destination": "HAMLITION PLATFORM",
-      "lat": 53.5664,
-      "lon": -3.4538,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-06 21:12:23.495672442 +0000 UTC"
-    },
-    {
-      "mmsi": "213181000",
-      "name": "ELITA",
-      "lat": 41.6531,
-      "lon": 41.6444,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-06 21:12:03.118446952 +0000 UTC"
-    },
-    {
-      "mmsi": "993692424",
+      "mmsi": "993692051",
       "name": "",
-      "lat": 48.0303,
-      "lon": -122.6364,
+      "lat": 48.1906,
+      "lon": -122.8301,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-09-06 21:12:03.337249174 +0000 UTC"
+      "last_update": "2026-09-06 21:29:07.321375467 +0000 UTC"
+    },
+    {
+      "mmsi": "368338990",
+      "name": "ALEOLI",
+      "lat": 47.5301,
+      "lon": -122.4942,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-06 21:29:10.304603338 +0000 UTC"
+    },
+    {
+      "mmsi": "244615506",
+      "name": "ZUID-HOLLAND-ZUID",
+      "lat": 51.8,
+      "lon": 4.6394,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-06 21:29:13.545510837 +0000 UTC"
+    },
+    {
+      "mmsi": "244710626",
+      "name": "BENCKES",
+      "lat": 53.188,
+      "lon": 5.7639,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-06 21:29:15.861594404 +0000 UTC"
+    },
+    {
+      "mmsi": "219385000",
+      "name": "BJOERNSHOLM",
+      "lat": 55.6793,
+      "lon": 12.593,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-06 21:29:16.806622948 +0000 UTC"
+    },
+    {
+      "mmsi": "241926000",
+      "name": "LYBOUSSAKIS ATLAS",
+      "lat": 37.9575,
+      "lon": 23.6102,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-06 21:29:17.848997535 +0000 UTC"
+    },
+    {
+      "mmsi": "993692249",
+      "name": "",
+      "lat": 48.3297,
+      "lon": -122.9772,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-06 21:29:19.322672292 +0000 UTC"
+    },
+    {
+      "mmsi": "567002520",
+      "name": "NP CHUMPHON",
+      "lat": 13.6573,
+      "lon": 100.5688,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-06 21:29:21.54322882 +0000 UTC"
     },
     {
       "mmsi": "205088000",
@@ -142,47 +142,9 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-06 21:12:06.953000041 +0000 UTC"
-    },
-    {
-      "mmsi": "366986380",
-      "name": "DREDGE OREGON",
-      "lat": 46.2015,
-      "lon": -123.4298,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 3,
-      "last_update": "2026-09-06 21:12:08.121385062 +0000 UTC"
-    },
-    {
-      "mmsi": "316014014",
-      "name": "TAKAYA",
-      "lat": 49.2863,
-      "lon": -123.1005,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-06 21:12:10.721801122 +0000 UTC"
-    },
-    {
-      "mmsi": "240451900",
-      "name": "WHITECAPS",
-      "lat": 37.5678,
-      "lon": 22.7999,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-06 21:12:11.444923773 +0000 UTC"
-    },
-    {
-      "mmsi": "367415390",
-      "name": "EMPIRE STATE",
-      "lat": 40.7139,
-      "lon": -74.0319,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-06 21:12:26.681269266 +0000 UTC"
+      "last_update": "2026-09-06 21:29:31.806678959 +0000 UTC",
+      "ship_type": 90,
+      "destination": "BEOST"
     },
     {
       "mmsi": "235070403",
@@ -192,7 +154,37 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 9,
-      "last_update": "2026-09-06 21:12:18.018393678 +0000 UTC"
+      "last_update": "2026-09-06 21:29:38.216259731 +0000 UTC"
+    },
+    {
+      "mmsi": "244045000",
+      "name": "HEBO-CAT 15",
+      "lat": 53.1875,
+      "lon": 5.4319,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-06 21:29:39.061746663 +0000 UTC"
+    },
+    {
+      "mmsi": "993692422",
+      "name": "",
+      "lat": 48.2737,
+      "lon": -123.1096,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-06 21:29:39.531957579 +0000 UTC"
+    },
+    {
+      "mmsi": "431004341",
+      "name": "OKUNI MARU",
+      "lat": 34.1263,
+      "lon": 132.9536,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-06 21:29:39.886405304 +0000 UTC"
     },
     {
       "mmsi": "244060365",
@@ -202,7 +194,17 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-06 21:12:21.600071457 +0000 UTC"
+      "last_update": "2026-09-06 21:29:42.265172159 +0000 UTC"
+    },
+    {
+      "mmsi": "366986380",
+      "name": "DREDGE OREGON",
+      "lat": 46.2015,
+      "lon": -123.4298,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 3,
+      "last_update": "2026-09-06 21:29:47.364184332 +0000 UTC"
     }
   ]
 }
