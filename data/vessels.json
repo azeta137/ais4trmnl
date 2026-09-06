@@ -1,147 +1,7 @@
 {
-  "updated_at": "2026-09-06T12:16:49Z",
-  "count": 6723,
+  "updated_at": "2026-09-06T12:36:36Z",
+  "count": 6804,
   "vessels": [
-    {
-      "mmsi": "210920000",
-      "name": "VTS PENTADAKTYLOS",
-      "lat": 34.7067,
-      "lon": 33.3197,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-06 12:15:45.015796273 +0000 UTC"
-    },
-    {
-      "mmsi": "249698000",
-      "name": "INS LAND",
-      "lat": 41.3805,
-      "lon": 2.1844,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-06 12:15:49.038291264 +0000 UTC"
-    },
-    {
-      "mmsi": "261007705",
-      "name": "FAIRPLAY-83",
-      "lat": 53.9073,
-      "lon": 14.2599,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-06 12:15:52.708263588 +0000 UTC"
-    },
-    {
-      "mmsi": "993692422",
-      "name": "",
-      "lat": 48.2737,
-      "lon": -123.1096,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-06 12:15:55.332925339 +0000 UTC"
-    },
-    {
-      "mmsi": "368000880",
-      "name": "HEATHER JOE",
-      "lat": 41.7753,
-      "lon": -70.553,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-06 12:15:55.377452101 +0000 UTC"
-    },
-    {
-      "mmsi": "701076000",
-      "name": "DR E HOLMBERG",
-      "lat": -37.9832,
-      "lon": -57.5019,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-09-06 12:15:56.106412924 +0000 UTC"
-    },
-    {
-      "mmsi": "244045000",
-      "name": "HEBO-CAT 15",
-      "lat": 53.1769,
-      "lon": 5.4119,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-06 12:16:21.595702387 +0000 UTC"
-    },
-    {
-      "mmsi": "370789000",
-      "name": "SEA HUNTER (GUARD)",
-      "lat": 54.4379,
-      "lon": 16.3843,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-06 12:15:58.009290877 +0000 UTC"
-    },
-    {
-      "mmsi": "241926000",
-      "name": "LYBOUSSAKIS ATLAS",
-      "lat": 37.9575,
-      "lon": 23.6102,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-06 12:15:58.779959205 +0000 UTC"
-    },
-    {
-      "mmsi": "993692423",
-      "name": "",
-      "lat": 48.2059,
-      "lon": -123.1096,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-06 12:15:59.342433898 +0000 UTC"
-    },
-    {
-      "mmsi": "316014014",
-      "name": "TAKAYA",
-      "lat": 49.2862,
-      "lon": -123.1006,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-06 12:16:00.45483994 +0000 UTC"
-    },
-    {
-      "mmsi": "244374235",
-      "name": "NT 11 WATERTRAPPER",
-      "lat": 52.3996,
-      "lon": 4.8999,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-06 12:16:02.102955886 +0000 UTC"
-    },
-    {
-      "mmsi": "567002520",
-      "name": "NP CHUMPHON",
-      "lat": 13.7021,
-      "lon": 100.5814,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-06 12:16:02.941250033 +0000 UTC"
-    },
-    {
-      "mmsi": "247204000",
-      "name": "GENUA",
-      "lat": 40.9253,
-      "lon": 9.5152,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-06 12:16:09.042421341 +0000 UTC"
-    },
     {
       "mmsi": "263701380",
       "name": "FERNANDO NAMORA",
@@ -150,37 +10,27 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 8,
-      "last_update": "2026-09-06 12:16:12.553702235 +0000 UTC"
+      "last_update": "2026-09-06 12:35:31.801953313 +0000 UTC"
     },
     {
-      "mmsi": "235034368",
-      "name": "MULTI-SURVEY 4",
-      "lat": 52.9549,
-      "lon": 4.7791,
+      "mmsi": "259046050",
+      "name": "FREMAD",
+      "lat": 66.3717,
+      "lon": 12.3723,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-06 12:16:14.817864314 +0000 UTC"
+      "last_update": "2026-09-06 12:36:20.900356401 +0000 UTC"
     },
     {
-      "mmsi": "240499300",
-      "name": "ALEXIA",
-      "lat": 37.5679,
-      "lon": 22.7977,
+      "mmsi": "354668000",
+      "name": "LADY MONICA",
+      "lat": 54.8037,
+      "lon": 16.7491,
       "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-06 12:16:15.683898987 +0000 UTC"
-    },
-    {
-      "mmsi": "245382000",
-      "name": "",
-      "lat": 51.6217,
-      "lon": 3.6879,
-      "sog": 102.3,
-      "cog": 360,
+      "cog": 81.4,
       "nav_status": 0,
-      "last_update": "2026-09-06 12:16:15.940573967 +0000 UTC"
+      "last_update": "2026-09-06 12:35:38.056691198 +0000 UTC"
     },
     {
       "mmsi": "271000677",
@@ -190,17 +40,171 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-06 12:16:18.892398446 +0000 UTC"
+      "last_update": "2026-09-06 12:35:38.55675839 +0000 UTC"
+    },
+    {
+      "mmsi": "241926000",
+      "name": "LYBOUSSAKIS ATLAS",
+      "lat": 37.9575,
+      "lon": 23.6102,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-06 12:35:38.627572182 +0000 UTC"
     },
     {
       "mmsi": "244870700",
       "name": "METTE MARIA",
-      "lat": 53.7573,
-      "lon": 8.049,
+      "lat": 53.7552,
+      "lon": 8.0515,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 3,
-      "last_update": "2026-09-06 12:16:29.398975845 +0000 UTC"
+      "last_update": "2026-09-06 12:35:39.883273753 +0000 UTC"
+    },
+    {
+      "mmsi": "368338990",
+      "name": "ALEOLI",
+      "lat": 47.5951,
+      "lon": -122.5088,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-06 12:35:40.471006762 +0000 UTC"
+    },
+    {
+      "mmsi": "368000880",
+      "name": "HEATHER JOE",
+      "ship_type": 30,
+      "destination": "",
+      "lat": 41.7412,
+      "lon": -70.6168,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-06 12:36:05.781300846 +0000 UTC"
+    },
+    {
+      "mmsi": "219385000",
+      "name": "BJOERNSHOLM",
+      "lat": 55.6793,
+      "lon": 12.593,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-06 12:35:46.304820184 +0000 UTC",
+      "ship_type": 60,
+      "destination": "COPENHAGEN"
+    },
+    {
+      "mmsi": "319720000",
+      "name": "STARDUST",
+      "lat": 32.7101,
+      "lon": -117.2336,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-06 12:35:46.872903707 +0000 UTC"
+    },
+    {
+      "mmsi": "240796900",
+      "name": "SEALINK VII",
+      "lat": 37.862,
+      "lon": 23.744,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 1,
+      "last_update": "2026-09-06 12:35:48.455345621 +0000 UTC"
+    },
+    {
+      "mmsi": "235070403",
+      "name": "WINDCAT 14",
+      "lat": 57.1434,
+      "lon": -2.0901,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 9,
+      "last_update": "2026-09-06 12:35:48.661972317 +0000 UTC"
+    },
+    {
+      "mmsi": "993692421",
+      "name": "",
+      "lat": 48.2159,
+      "lon": -123.4781,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-06 12:35:51.319602704 +0000 UTC"
+    },
+    {
+      "mmsi": "244374235",
+      "name": "NT 11 WATERTRAPPER",
+      "lat": 52.3995,
+      "lon": 4.8999,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-06 12:35:52.270388414 +0000 UTC"
+    },
+    {
+      "mmsi": "261007705",
+      "name": "FAIRPLAY-83",
+      "lat": 53.9073,
+      "lon": 14.2599,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-06 12:36:03.355097776 +0000 UTC"
+    },
+    {
+      "mmsi": "701076000",
+      "name": "DR E HOLMBERG",
+      "lat": -37.9832,
+      "lon": -57.502,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 1,
+      "last_update": "2026-09-06 12:36:06.966329909 +0000 UTC"
+    },
+    {
+      "mmsi": "993692574",
+      "name": "",
+      "lat": 48.569,
+      "lon": -122.8446,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-06 12:36:07.329550901 +0000 UTC"
+    },
+    {
+      "mmsi": "567002520",
+      "name": "NP CHUMPHON",
+      "lat": 13.7014,
+      "lon": 100.5816,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-06 12:36:11.734182274 +0000 UTC"
+    },
+    {
+      "mmsi": "993692022",
+      "name": "",
+      "lat": 48.1131,
+      "lon": -122.6613,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-06 12:36:15.332666583 +0000 UTC"
+    },
+    {
+      "mmsi": "316014014",
+      "name": "TAKAYA",
+      "lat": 49.2863,
+      "lon": -123.1005,
+      "sog": 102.2,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-06 12:36:11.16012859 +0000 UTC"
     }
   ]
 }
