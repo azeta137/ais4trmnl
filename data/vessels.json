@@ -1,193 +1,7 @@
 {
-  "updated_at": "2026-09-06T05:47:44Z",
-  "count": 9075,
+  "updated_at": "2026-09-06T06:16:03Z",
+  "count": 3132,
   "vessels": [
-    {
-      "mmsi": "205088000",
-      "name": "J. BREYDEL SURVEY",
-      "ship_type": 90,
-      "destination": "BEOST",
-      "lat": 51.2225,
-      "lon": 2.9363,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-06 05:46:45.605498858 +0000 UTC"
-    },
-    {
-      "mmsi": "993692209",
-      "name": "",
-      "lat": 48.7551,
-      "lon": -122.7752,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-06 05:46:35.334337256 +0000 UTC"
-    },
-    {
-      "mmsi": "368338990",
-      "name": "ALEOLI",
-      "ship_type": 37,
-      "destination": "ANACORTES,WA",
-      "lat": 47.595,
-      "lon": -122.5086,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-06 05:46:50.334766575 +0000 UTC"
-    },
-    {
-      "mmsi": "219385000",
-      "name": "BJOERNSHOLM",
-      "lat": 55.6793,
-      "lon": 12.593,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-06 05:46:37.474847671 +0000 UTC"
-    },
-    {
-      "mmsi": "352002481",
-      "name": "BARU SIERRA NEVADA",
-      "lat": -22.8481,
-      "lon": -43.1297,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-09-06 05:46:37.52707435 +0000 UTC"
-    },
-    {
-      "mmsi": "271000677",
-      "name": "VENTO DI MELTEMI",
-      "lat": 43.346,
-      "lon": 5.3392,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-06 05:46:49.280895434 +0000 UTC"
-    },
-    {
-      "mmsi": "228436800",
-      "name": "F/V LAREDO",
-      "ship_type": 30,
-      "destination": "VIGO",
-      "lat": 42.2297,
-      "lon": -8.7512,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-06 05:47:17.511073283 +0000 UTC"
-    },
-    {
-      "mmsi": "235084204",
-      "name": "RONA",
-      "lat": 57.1434,
-      "lon": -2.0892,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-06 05:46:41.114754668 +0000 UTC"
-    },
-    {
-      "mmsi": "235070403",
-      "name": "WINDCAT 14",
-      "lat": 57.1435,
-      "lon": -2.0902,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 9,
-      "last_update": "2026-09-06 05:47:21.040148411 +0000 UTC"
-    },
-    {
-      "mmsi": "213181000",
-      "name": "ELITA",
-      "lat": 41.6532,
-      "lon": 41.6445,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-06 05:46:42.451269621 +0000 UTC"
-    },
-    {
-      "mmsi": "261007705",
-      "name": "FAIRPLAY-83",
-      "lat": 53.9073,
-      "lon": 14.2599,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-06 05:46:42.504675768 +0000 UTC"
-    },
-    {
-      "mmsi": "244615506",
-      "name": "ZUID-HOLLAND-ZUID",
-      "lat": 51.8,
-      "lon": 4.6394,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-06 05:46:44.226851409 +0000 UTC"
-    },
-    {
-      "mmsi": "240059300",
-      "name": "ACIONNA",
-      "lat": 37.2617,
-      "lon": 23.1641,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-09-06 05:46:46.922268529 +0000 UTC"
-    },
-    {
-      "mmsi": "366986380",
-      "name": "DREDGE OREGON",
-      "lat": 46.2015,
-      "lon": -123.4297,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 3,
-      "last_update": "2026-09-06 05:47:27.259832862 +0000 UTC"
-    },
-    {
-      "mmsi": "232028036",
-      "name": "GARRION OWL",
-      "lat": 55.8907,
-      "lon": -4.3942,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-06 05:46:50.07127011 +0000 UTC"
-    },
-    {
-      "mmsi": "244870700",
-      "name": "METTE MARIA",
-      "lat": 53.7826,
-      "lon": 8.0441,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 3,
-      "last_update": "2026-09-06 05:46:50.476503892 +0000 UTC"
-    },
-    {
-      "mmsi": "244374235",
-      "name": "NT 11 WATERTRAPPER",
-      "lat": 52.3996,
-      "lon": 4.8999,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-06 05:46:51.058372762 +0000 UTC"
-    },
-    {
-      "mmsi": "263701380",
-      "name": "FERNANDO NAMORA",
-      "lat": 38.6516,
-      "lon": -9.0797,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-09-06 05:46:51.780558023 +0000 UTC"
-    },
     {
       "mmsi": "257409900",
       "name": "ANNE KATHRINE",
@@ -196,17 +10,199 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-06 05:46:54.099389723 +0000 UTC"
+      "last_update": "2026-09-06 06:15:44.352118064 +0000 UTC"
     },
     {
-      "mmsi": "235034368",
-      "name": "MULTI-SURVEY 4",
-      "lat": 52.9549,
-      "lon": 4.7791,
+      "mmsi": "205088000",
+      "name": "J. BREYDEL SURVEY",
+      "lat": 51.2226,
+      "lon": 2.9363,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-06 05:46:54.912440334 +0000 UTC"
+      "last_update": "2026-09-06 06:15:47.151794248 +0000 UTC"
+    },
+    {
+      "mmsi": "319720000",
+      "name": "STARDUST",
+      "lat": 32.7101,
+      "lon": -117.2336,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-06 06:15:48.182723727 +0000 UTC"
+    },
+    {
+      "mmsi": "993692421",
+      "name": "",
+      "lat": 48.2159,
+      "lon": -123.4781,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-06 06:15:51.331316601 +0000 UTC"
+    },
+    {
+      "mmsi": "259046050",
+      "name": "FREMAD",
+      "lat": 66.3763,
+      "lon": 12.3836,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-06 06:15:54.002902246 +0000 UTC"
+    },
+    {
+      "mmsi": "244730564",
+      "name": "WADDENZEE II",
+      "lat": 53.1744,
+      "lon": 5.4509,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-06 06:15:54.416744919 +0000 UTC"
+    },
+    {
+      "mmsi": "210920000",
+      "name": "VTS PENTADAKTYLOS",
+      "lat": 34.7187,
+      "lon": 33.3167,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-06 06:15:55.043643458 +0000 UTC"
+    },
+    {
+      "mmsi": "563045300",
+      "name": "EAGLE BARCELONA",
+      "lat": 54.8803,
+      "lon": 18.9039,
+      "sog": 102.2,
+      "cog": 158.3,
+      "nav_status": 0,
+      "last_update": "2026-09-06 06:15:54.56571816 +0000 UTC"
+    },
+    {
+      "mmsi": "247679000",
+      "name": "FIAMMETTA M",
+      "lat": 37.9798,
+      "lon": 12.4411,
+      "sog": 33.7,
+      "cog": 252.6,
+      "nav_status": 0,
+      "last_update": "2026-09-06 06:15:48.95764402 +0000 UTC",
+      "ship_type": 60,
+      "destination": "ITTPS FAV - MRT"
+    },
+    {
+      "mmsi": "368612000",
+      "name": "RICH PASSAGE 1",
+      "lat": 47.6009,
+      "lon": -122.3837,
+      "sog": 32.5,
+      "cog": 91.3,
+      "nav_status": 0,
+      "last_update": "2026-09-06 06:15:51.827347032 +0000 UTC"
+    },
+    {
+      "mmsi": "237247600",
+      "name": "F/D ATHINA",
+      "lat": 37.8228,
+      "lon": 23.4963,
+      "sog": 32.5,
+      "cog": 56,
+      "nav_status": 0,
+      "last_update": "2026-09-06 06:15:54.014450979 +0000 UTC"
+    },
+    {
+      "mmsi": "210049000",
+      "name": "ELEANOR ROOSEVELT",
+      "lat": 39.4082,
+      "lon": 2.492,
+      "sog": 31.6,
+      "cog": 234.7,
+      "nav_status": 0,
+      "last_update": "2026-09-06 06:15:44.626666389 +0000 UTC"
+    },
+    {
+      "mmsi": "477997211",
+      "name": "XIN MING ZHU XI",
+      "lat": 22.2861,
+      "lon": 114.092,
+      "sog": 29.5,
+      "cog": 64.4,
+      "nav_status": 0,
+      "last_update": "2026-09-06 06:15:50.409696581 +0000 UTC"
+    },
+    {
+      "mmsi": "237176400",
+      "name": "DODEKANISOS EXPRESS",
+      "lat": 36.6452,
+      "lon": 27.6704,
+      "sog": 28.7,
+      "cog": 274,
+      "nav_status": 0,
+      "last_update": "2026-09-06 06:15:45.332504847 +0000 UTC"
+    },
+    {
+      "mmsi": "247058800",
+      "name": "SNAV ALTAIR",
+      "lat": 40.777,
+      "lon": 14.1233,
+      "sog": 27.9,
+      "cog": 261.2,
+      "nav_status": 0,
+      "last_update": "2026-09-06 06:15:53.023255218 +0000 UTC"
+    },
+    {
+      "mmsi": "227658910",
+      "name": "LE CHATELET",
+      "lat": 46.8048,
+      "lon": -2.2735,
+      "sog": 27.5,
+      "cog": 32.1,
+      "nav_status": 0,
+      "last_update": "2026-09-06 06:15:45.743907276 +0000 UTC"
+    },
+    {
+      "mmsi": "247049400",
+      "name": "EUROPA JET",
+      "lat": 40.6384,
+      "lon": 14.3717,
+      "sog": 26,
+      "cog": 198,
+      "nav_status": 0,
+      "last_update": "2026-09-06 06:15:47.220085454 +0000 UTC"
+    },
+    {
+      "mmsi": "413482110",
+      "name": "PENGXING 18",
+      "lat": 22.3825,
+      "lon": 113.8604,
+      "sog": 25.6,
+      "cog": 39.8,
+      "nav_status": 0,
+      "last_update": "2026-09-06 06:15:46.476629679 +0000 UTC"
+    },
+    {
+      "mmsi": "232005083",
+      "name": "RAMA",
+      "lat": 37.5064,
+      "lon": 16.1976,
+      "sog": 25.6,
+      "cog": 57.7,
+      "nav_status": 0,
+      "last_update": "2026-09-06 06:15:53.926788715 +0000 UTC"
+    },
+    {
+      "mmsi": "368302170",
+      "name": "PV GOLDEN GATE",
+      "lat": 37.8027,
+      "lon": -122.3594,
+      "sog": 24.7,
+      "cog": 100,
+      "nav_status": 0,
+      "last_update": "2026-09-06 06:15:48.017826909 +0000 UTC"
     }
   ]
 }
