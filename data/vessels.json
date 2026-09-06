@@ -1,5 +1,210 @@
 {
-  "updated_at": "2026-09-06T16:47:01Z",
-  "count": 0,
-  "vessels": []
+  "updated_at": "2026-09-06T17:12:14Z",
+  "count": 7227,
+  "vessels": [
+    {
+      "mmsi": "368000880",
+      "name": "HEATHER JOE",
+      "lat": 41.6265,
+      "lon": -70.9153,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-06 17:11:33.972012436 +0000 UTC"
+    },
+    {
+      "mmsi": "240796900",
+      "name": "SEALINK VII",
+      "lat": 37.862,
+      "lon": 23.7439,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 1,
+      "last_update": "2026-09-06 17:11:48.110256802 +0000 UTC"
+    },
+    {
+      "mmsi": "210920000",
+      "name": "VTS PENTADAKTYLOS",
+      "lat": 34.7185,
+      "lon": 33.3178,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-06 17:11:14.542756793 +0000 UTC"
+    },
+    {
+      "mmsi": "993692422",
+      "name": "",
+      "lat": 48.2737,
+      "lon": -123.1096,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-06 17:11:15.595093438 +0000 UTC"
+    },
+    {
+      "mmsi": "518903000",
+      "name": "ANNABEL II",
+      "lat": 38.6184,
+      "lon": 20.5977,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-09-06 17:11:57.069141764 +0000 UTC",
+      "ship_type": 37,
+      "destination": "PORTONOUI"
+    },
+    {
+      "mmsi": "367434210",
+      "name": "FIORELLO LAGUARDIA",
+      "lat": 40.7714,
+      "lon": -74.0126,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-06 17:11:27.345012635 +0000 UTC",
+      "ship_type": 60,
+      "destination": "FORCING THE 2"
+    },
+    {
+      "mmsi": "366986380",
+      "name": "DREDGE OREGON",
+      "lat": 46.2015,
+      "lon": -123.4297,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 3,
+      "last_update": "2026-09-06 17:11:18.278316593 +0000 UTC"
+    },
+    {
+      "mmsi": "215064000",
+      "name": "CGAS MARINER",
+      "lat": 54.7491,
+      "lon": 16.0838,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-06 17:11:18.699068021 +0000 UTC"
+    },
+    {
+      "mmsi": "232008636",
+      "name": "VOE VANGUARD",
+      "lat": 54.4351,
+      "lon": 16.3884,
+      "sog": 102.3,
+      "cog": 120.4,
+      "nav_status": 5,
+      "last_update": "2026-09-06 17:11:18.701181707 +0000 UTC"
+    },
+    {
+      "mmsi": "259046050",
+      "name": "FREMAD",
+      "lat": 66.3729,
+      "lon": 12.361,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-06 17:11:25.381960698 +0000 UTC"
+    },
+    {
+      "mmsi": "319720000",
+      "name": "STARDUST",
+      "lat": 32.71,
+      "lon": -117.2336,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-06 17:11:27.554342552 +0000 UTC"
+    },
+    {
+      "mmsi": "261008020",
+      "name": "NORTH STAR",
+      "lat": 54.4375,
+      "lon": 16.3874,
+      "sog": 102.3,
+      "cog": 337.3,
+      "nav_status": 5,
+      "last_update": "2026-09-06 17:11:28.724708625 +0000 UTC"
+    },
+    {
+      "mmsi": "366750000",
+      "name": "MAJ RICHARD WINTERS",
+      "lat": 54.7228,
+      "lon": 15.895,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-06 17:11:28.725248149 +0000 UTC"
+    },
+    {
+      "mmsi": "316014014",
+      "name": "TAKAYA",
+      "lat": 49.2863,
+      "lon": -123.1005,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-06 17:11:30.529698685 +0000 UTC"
+    },
+    {
+      "mmsi": "993692051",
+      "name": "",
+      "lat": 48.1906,
+      "lon": -122.8301,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-06 17:11:31.332492023 +0000 UTC"
+    },
+    {
+      "mmsi": "213181000",
+      "name": "ELITA",
+      "lat": 41.6532,
+      "lon": 41.6444,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-06 17:11:33.891407786 +0000 UTC"
+    },
+    {
+      "mmsi": "235034368",
+      "name": "MULTI-SURVEY 4",
+      "lat": 52.9549,
+      "lon": 4.7791,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-06 17:11:34.54967101 +0000 UTC"
+    },
+    {
+      "mmsi": "993692247",
+      "name": "",
+      "lat": 47.984,
+      "lon": -122.2462,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-06 17:11:35.333526157 +0000 UTC"
+    },
+    {
+      "mmsi": "244108000",
+      "name": "ZK46 ZEEMEEUW",
+      "lat": 53.4099,
+      "lon": 6.207,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-06 17:11:38.345789123 +0000 UTC"
+    },
+    {
+      "mmsi": "993692249",
+      "name": "",
+      "lat": 48.3297,
+      "lon": -122.9772,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-06 17:11:43.331015966 +0000 UTC"
+    }
+  ]
 }
