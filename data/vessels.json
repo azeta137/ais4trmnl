@@ -1,108 +1,58 @@
 {
-  "updated_at": "2026-09-06T19:12:00Z",
-  "count": 6479,
+  "updated_at": "2026-09-06T19:29:09Z",
+  "count": 7767,
   "vessels": [
     {
-      "mmsi": "263701380",
-      "name": "FERNANDO NAMORA",
-      "lat": 38.6516,
-      "lon": -9.0797,
+      "mmsi": "352002481",
+      "name": "BARU SIERRA NEVADA",
+      "lat": -22.8476,
+      "lon": -43.1298,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-09-06 19:10:51.056169413 +0000 UTC"
-    },
-    {
-      "mmsi": "205088000",
-      "name": "J. BREYDEL SURVEY",
-      "lat": 51.2226,
-      "lon": 2.9363,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-06 19:10:52.287329366 +0000 UTC"
-    },
-    {
-      "mmsi": "370789000",
-      "name": "SEA HUNTER (GUARD)",
-      "lat": 54.4379,
-      "lon": 16.3843,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-06 19:10:52.805642634 +0000 UTC",
-      "ship_type": 0,
-      "destination": ""
-    },
-    {
-      "mmsi": "244615506",
-      "name": "ZUID-HOLLAND-ZUID",
-      "lat": 51.8,
-      "lon": 4.6394,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-06 19:10:54.85940573 +0000 UTC"
+      "nav_status": 1,
+      "last_update": "2026-09-06 19:27:58.452125388 +0000 UTC"
     },
     {
       "mmsi": "601126900",
       "name": "SEA EXPRESS",
       "lat": -29.8682,
-      "lon": 31.0141,
+      "lon": 31.0142,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 8,
-      "last_update": "2026-09-06 19:10:56.938047103 +0000 UTC"
+      "last_update": "2026-09-06 19:28:38.636630162 +0000 UTC"
     },
     {
-      "mmsi": "244710626",
-      "name": "BENCKES",
-      "lat": 53.188,
-      "lon": 5.7638,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-06 19:10:57.728108505 +0000 UTC"
-    },
-    {
-      "mmsi": "211337780",
-      "name": "ATALANTA",
-      "lat": 53.8992,
-      "lon": 11.4571,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-06 19:10:58.782816064 +0000 UTC"
-    },
-    {
-      "mmsi": "244730564",
-      "name": "WADDENZEE II",
-      "lat": 53.1744,
-      "lon": 5.4509,
+      "mmsi": "244374235",
+      "name": "NT 11 WATERTRAPPER",
+      "lat": 52.3996,
+      "lon": 4.8999,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-06 19:10:59.04837857 +0000 UTC"
+      "last_update": "2026-09-06 19:28:03.599627355 +0000 UTC",
+      "ship_type": 99,
+      "destination": "AMSTERDAM"
     },
     {
-      "mmsi": "993692250",
-      "name": "",
-      "lat": 48.676,
-      "lon": -122.7134,
+      "mmsi": "219385000",
+      "name": "BJOERNSHOLM",
+      "lat": 55.6793,
+      "lon": 12.593,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-06 19:10:59.368546698 +0000 UTC"
+      "nav_status": 0,
+      "last_update": "2026-09-06 19:28:07.229275442 +0000 UTC"
     },
     {
-      "mmsi": "993692421",
-      "name": "",
-      "lat": 48.2159,
-      "lon": -123.4781,
+      "mmsi": "210588000",
+      "name": "LEDRA PRIDE",
+      "lat": 34.6452,
+      "lon": 33.018,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-06 19:11:03.324071637 +0000 UTC"
+      "nav_status": 8,
+      "last_update": "2026-09-06 19:28:11.875380794 +0000 UTC"
     },
     {
       "mmsi": "368000880",
@@ -112,99 +62,149 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-09-06 19:11:04.789030771 +0000 UTC"
+      "last_update": "2026-09-06 19:28:14.046082713 +0000 UTC"
+    },
+    {
+      "mmsi": "244615506",
+      "name": "ZUID-HOLLAND-ZUID",
+      "lat": 51.8,
+      "lon": 4.6394,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-06 19:28:14.855932377 +0000 UTC"
+    },
+    {
+      "mmsi": "993692022",
+      "name": "",
+      "lat": 48.1131,
+      "lon": -122.6613,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-06 19:28:15.323165882 +0000 UTC"
+    },
+    {
+      "mmsi": "211337780",
+      "name": "ATALANTA",
+      "lat": 53.8992,
+      "lon": 11.4571,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-06 19:28:18.464861504 +0000 UTC"
+    },
+    {
+      "mmsi": "244045000",
+      "name": "HEBO-CAT 15",
+      "ship_type": 99,
+      "destination": "HARLINGEN ZUIDWAL",
+      "lat": 53.1875,
+      "lon": 5.4319,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-06 19:28:39.041093635 +0000 UTC"
+    },
+    {
+      "mmsi": "993692247",
+      "name": "",
+      "lat": 47.984,
+      "lon": -122.2462,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-06 19:28:23.328045913 +0000 UTC"
+    },
+    {
+      "mmsi": "273418880",
+      "name": "BAKHTEMIR",
+      "lat": 46.6228,
+      "lon": 142.7689,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-06 19:28:23.536911919 +0000 UTC"
+    },
+    {
+      "mmsi": "367739710",
+      "name": "HURON SPIRIT",
+      "lat": 42.983,
+      "lon": -82.4195,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-06 19:28:24.847424625 +0000 UTC"
     },
     {
       "mmsi": "245382000",
       "name": "",
       "lat": 51.6218,
-      "lon": 3.6879,
+      "lon": 3.6878,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-06 19:11:06.127870936 +0000 UTC"
-    },
-    {
-      "mmsi": "244870700",
-      "name": "METTE MARIA",
-      "lat": 53.7639,
-      "lon": 8.0477,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 3,
-      "last_update": "2026-09-06 19:11:10.841901891 +0000 UTC"
-    },
-    {
-      "mmsi": "993692424",
-      "name": "",
-      "lat": 48.0303,
-      "lon": -122.6364,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-06 19:11:15.312939687 +0000 UTC"
-    },
-    {
-      "mmsi": "228436800",
-      "name": "F/V LAREDO",
-      "lat": 42.2298,
-      "lon": -8.7512,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-06 19:11:17.902645408 +0000 UTC"
-    },
-    {
-      "mmsi": "244108000",
-      "name": "ZK46 ZEEMEEUW",
-      "lat": 53.4099,
-      "lon": 6.2069,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-06 19:11:18.63805168 +0000 UTC"
-    },
-    {
-      "mmsi": "240451900",
-      "name": "WHITECAPS",
-      "lat": 37.5678,
-      "lon": 22.7998,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-06 19:11:21.75385564 +0000 UTC"
-    },
-    {
-      "mmsi": "244060365",
-      "name": "KNRM ARBOR VITAE",
-      "lat": 53.4088,
-      "lon": 6.1974,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-06 19:11:22.287876283 +0000 UTC",
-      "ship_type": 51,
-      "destination": ""
+      "last_update": "2026-09-06 19:28:36.417989123 +0000 UTC"
     },
     {
       "mmsi": "701076000",
       "name": "DR E HOLMBERG",
-      "lat": -37.9746,
-      "lon": -57.4993,
+      "lat": -37.9544,
+      "lon": -57.4999,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 1,
-      "last_update": "2026-09-06 19:11:25.625728898 +0000 UTC"
+      "last_update": "2026-09-06 19:28:26.452907301 +0000 UTC"
     },
     {
-      "mmsi": "240796900",
-      "name": "SEALINK VII",
-      "lat": 37.862,
-      "lon": 23.744,
+      "mmsi": "367131000",
+      "name": "ALASKA",
+      "lat": 29.7187,
+      "lon": -93.8632,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-09-06 19:11:38.215088072 +0000 UTC"
+      "nav_status": 5,
+      "last_update": "2026-09-06 19:28:28.173678718 +0000 UTC"
+    },
+    {
+      "mmsi": "503000080",
+      "name": "MANNING",
+      "lat": -33.8683,
+      "lon": 151.222,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-06 19:28:31.673178678 +0000 UTC"
+    },
+    {
+      "mmsi": "271044493",
+      "name": "MIP- 3",
+      "lat": 36.7919,
+      "lon": 34.6361,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-06 19:28:35.932254042 +0000 UTC"
+    },
+    {
+      "mmsi": "518903000",
+      "name": "ANNABEL II",
+      "lat": 38.6273,
+      "lon": 20.5981,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-09-06 19:28:36.912848944 +0000 UTC"
+    },
+    {
+      "mmsi": "366986380",
+      "name": "DREDGE OREGON",
+      "lat": 46.2015,
+      "lon": -123.4298,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 3,
+      "last_update": "2026-09-06 19:28:46.509926472 +0000 UTC"
     }
   ]
 }
