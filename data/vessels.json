@@ -1,150 +1,28 @@
 {
-  "updated_at": "2026-09-06T06:52:28Z",
-  "count": 7835,
+  "updated_at": "2026-09-06T07:13:06Z",
+  "count": 7973,
   "vessels": [
     {
-      "mmsi": "241926000",
-      "name": "LYBOUSSAKIS ATLAS",
-      "lat": 37.9575,
-      "lon": 23.6102,
+      "mmsi": "235070403",
+      "name": "WINDCAT 14",
+      "ship_type": 48,
+      "destination": "ABZ/KOWF/ABZ",
+      "lat": 57.1435,
+      "lon": -2.0902,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 9,
+      "last_update": "2026-09-06 07:12:42.127880139 +0000 UTC"
+    },
+    {
+      "mmsi": "247204000",
+      "name": "GENUA",
+      "lat": 40.9253,
+      "lon": 9.5152,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-06 06:51:48.246953525 +0000 UTC"
-    },
-    {
-      "mmsi": "366986380",
-      "name": "DREDGE OREGON",
-      "lat": 46.2015,
-      "lon": -123.4297,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 3,
-      "last_update": "2026-09-06 06:51:18.368112541 +0000 UTC"
-    },
-    {
-      "mmsi": "244870700",
-      "name": "METTE MARIA",
-      "lat": 53.7576,
-      "lon": 8.0468,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 3,
-      "last_update": "2026-09-06 06:51:19.290148306 +0000 UTC",
-      "ship_type": 33,
-      "destination": "DREDGING JADE RIVER"
-    },
-    {
-      "mmsi": "368338990",
-      "name": "ALEOLI",
-      "lat": 47.5949,
-      "lon": -122.5087,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-06 06:51:40.631906656 +0000 UTC"
-    },
-    {
-      "mmsi": "205088000",
-      "name": "J. BREYDEL SURVEY",
-      "lat": 51.2226,
-      "lon": 2.9363,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-06 06:51:21.60973524 +0000 UTC"
-    },
-    {
-      "mmsi": "993692209",
-      "name": "",
-      "lat": 48.7551,
-      "lon": -122.7752,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-06 06:51:23.317675061 +0000 UTC"
-    },
-    {
-      "mmsi": "210920000",
-      "name": "VTS PENTADAKTYLOS",
-      "lat": 34.7071,
-      "lon": 33.3213,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-06 06:51:35.055770469 +0000 UTC"
-    },
-    {
-      "mmsi": "701076000",
-      "name": "DR E HOLMBERG",
-      "lat": -37.9832,
-      "lon": -57.5015,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-09-06 06:51:26.006631684 +0000 UTC"
-    },
-    {
-      "mmsi": "993692022",
-      "name": "",
-      "lat": 48.1131,
-      "lon": -122.6613,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-06 06:51:27.327185615 +0000 UTC"
-    },
-    {
-      "mmsi": "219385000",
-      "name": "BJOERNSHOLM",
-      "lat": 55.6793,
-      "lon": 12.593,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-06 06:51:27.530782689 +0000 UTC"
-    },
-    {
-      "mmsi": "244045000",
-      "name": "HEBO-CAT 15",
-      "lat": 53.1865,
-      "lon": 5.1642,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-06 06:52:14.767773163 +0000 UTC",
-      "ship_type": 99,
-      "destination": "HARLINGEN ZUIDWAL"
-    },
-    {
-      "mmsi": "271000677",
-      "name": "VENTO DI MELTEMI",
-      "lat": 43.3461,
-      "lon": 5.3392,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-06 06:51:29.997224102 +0000 UTC"
-    },
-    {
-      "mmsi": "271044493",
-      "name": "MIP- 3",
-      "lat": 36.7919,
-      "lon": 34.636,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-06 06:51:32.658059903 +0000 UTC"
-    },
-    {
-      "mmsi": "636011247",
-      "name": "SAGITTA",
-      "lat": 37.9298,
-      "lon": 23.6814,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-06 06:51:33.288687109 +0000 UTC"
+      "last_update": "2026-09-06 07:11:58.481970482 +0000 UTC"
     },
     {
       "mmsi": "319720000",
@@ -154,27 +32,149 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-06 06:51:38.24317684 +0000 UTC"
+      "last_update": "2026-09-06 07:11:58.684790662 +0000 UTC"
+    },
+    {
+      "mmsi": "247177600",
+      "name": "CITTA DI CAMOGLI",
+      "lat": 44.4084,
+      "lon": 8.9261,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-06 07:11:58.69999952 +0000 UTC"
+    },
+    {
+      "mmsi": "993692423",
+      "name": "",
+      "lat": 48.2059,
+      "lon": -123.1096,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-06 07:11:59.324634636 +0000 UTC"
+    },
+    {
+      "mmsi": "701076000",
+      "name": "DR E HOLMBERG",
+      "lat": -37.9832,
+      "lon": -57.5019,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 1,
+      "last_update": "2026-09-06 07:12:06.444330795 +0000 UTC"
+    },
+    {
+      "mmsi": "993692421",
+      "name": "",
+      "lat": 48.2159,
+      "lon": -123.4781,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-06 07:11:59.542550689 +0000 UTC"
+    },
+    {
+      "mmsi": "368173000",
+      "name": "FISHING CREEK",
+      "lat": 37.9042,
+      "lon": -122.4268,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 1,
+      "last_update": "2026-09-06 07:12:05.888917064 +0000 UTC"
+    },
+    {
+      "mmsi": "244045000",
+      "name": "HEBO-CAT 15",
+      "lat": 53.1865,
+      "lon": 5.1651,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-06 07:12:05.976178862 +0000 UTC",
+      "ship_type": 99,
+      "destination": "HARLINGEN ZUIDWAL"
     },
     {
       "mmsi": "316014014",
       "name": "TAKAYA",
-      "lat": 49.2863,
-      "lon": -123.1003,
+      "lat": 49.2862,
+      "lon": -123.1005,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-09-06 06:51:40.063903622 +0000 UTC"
+      "last_update": "2026-09-06 07:12:09.37568682 +0000 UTC"
     },
     {
-      "mmsi": "235070403",
-      "name": "WINDCAT 14",
-      "lat": 57.1435,
-      "lon": -2.0902,
+      "mmsi": "271000677",
+      "name": "VENTO DI MELTEMI",
+      "lat": 43.3461,
+      "lon": 5.3392,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 9,
-      "last_update": "2026-09-06 06:51:40.847667631 +0000 UTC"
+      "nav_status": 5,
+      "last_update": "2026-09-06 07:12:09.636481079 +0000 UTC"
+    },
+    {
+      "mmsi": "244108000",
+      "name": "ZK46 ZEEMEEUW",
+      "lat": 53.4099,
+      "lon": 6.207,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-06 07:12:09.677932675 +0000 UTC"
+    },
+    {
+      "mmsi": "263701380",
+      "name": "FERNANDO NAMORA",
+      "lat": 38.6516,
+      "lon": -9.0797,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-09-06 07:12:11.98980206 +0000 UTC"
+    },
+    {
+      "mmsi": "235034368",
+      "name": "MULTI-SURVEY 4",
+      "lat": 52.9549,
+      "lon": 4.7791,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-06 07:12:14.328604232 +0000 UTC"
+    },
+    {
+      "mmsi": "227958090",
+      "name": "SNS146",
+      "lat": 47.2483,
+      "lon": -2.2515,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-06 07:12:17.461418615 +0000 UTC"
+    },
+    {
+      "mmsi": "235084204",
+      "name": "RONA",
+      "lat": 57.1433,
+      "lon": -2.0892,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-06 07:12:20.704098368 +0000 UTC"
+    },
+    {
+      "mmsi": "244374235",
+      "name": "NT 11 WATERTRAPPER",
+      "lat": 52.3996,
+      "lon": 4.8999,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-06 07:12:22.981303241 +0000 UTC"
     },
     {
       "mmsi": "993692247",
@@ -184,27 +184,27 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-09-06 06:51:43.616560763 +0000 UTC"
+      "last_update": "2026-09-06 07:12:23.349205347 +0000 UTC"
     },
     {
-      "mmsi": "518903000",
-      "name": "ANNABEL II",
-      "lat": 37.9016,
-      "lon": 23.0936,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-09-06 06:51:49.245157824 +0000 UTC"
-    },
-    {
-      "mmsi": "244108000",
-      "name": "ZK46 ZEEMEEUW",
-      "lat": 53.4099,
-      "lon": 6.2069,
+      "mmsi": "205088000",
+      "name": "J. BREYDEL SURVEY",
+      "lat": 51.2226,
+      "lon": 2.9362,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-06 06:51:57.784675576 +0000 UTC"
+      "last_update": "2026-09-06 07:12:24.188268015 +0000 UTC"
+    },
+    {
+      "mmsi": "366986380",
+      "name": "DREDGE OREGON",
+      "lat": 46.2015,
+      "lon": -123.4297,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 3,
+      "last_update": "2026-09-06 07:12:28.213339216 +0000 UTC"
     }
   ]
 }
