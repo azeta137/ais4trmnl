@@ -1,138 +1,26 @@
 {
-  "updated_at": "2026-09-07T18:16:33Z",
-  "count": 8057,
+  "updated_at": "2026-09-07T18:36:40Z",
+  "count": 6967,
   "vessels": [
-    {
-      "mmsi": "244120000",
-      "name": "ANTEOS",
-      "lat": 52.0991,
-      "lon": 4.2627,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-07 18:15:21.012434838 +0000 UTC"
-    },
-    {
-      "mmsi": "244615506",
-      "name": "ZUID-HOLLAND-ZUID",
-      "lat": 51.8,
-      "lon": 4.6394,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-07 18:15:24.091050966 +0000 UTC"
-    },
-    {
-      "mmsi": "205088000",
-      "name": "J. BREYDEL SURVEY",
-      "lat": 51.2225,
-      "lon": 2.9363,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-07 18:15:31.646075776 +0000 UTC"
-    },
-    {
-      "mmsi": "601126900",
-      "name": "SEA EXPRESS",
-      "lat": -29.8682,
-      "lon": 31.0142,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-09-07 18:15:38.468316407 +0000 UTC"
-    },
-    {
-      "mmsi": "213181000",
-      "name": "ELITA",
-      "lat": 41.6531,
-      "lon": 41.6444,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-07 18:15:43.152064902 +0000 UTC"
-    },
-    {
-      "mmsi": "245382000",
-      "name": "",
-      "lat": 51.6217,
-      "lon": 3.6877,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-07 18:15:45.724351066 +0000 UTC"
-    },
-    {
-      "mmsi": "219385000",
-      "name": "BJOERNSHOLM",
-      "lat": 55.6793,
-      "lon": 12.593,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-07 18:15:46.375410169 +0000 UTC"
-    },
-    {
-      "mmsi": "367415390",
-      "name": "EMPIRE STATE",
-      "lat": 40.7351,
-      "lon": -74.0264,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-07 18:16:18.478081933 +0000 UTC"
-    },
-    {
-      "mmsi": "211337780",
-      "name": "ATALANTA",
-      "ship_type": 0,
-      "destination": "WISMAR",
-      "lat": 53.8992,
-      "lon": 11.4571,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-07 18:16:08.024043704 +0000 UTC"
-    },
-    {
-      "mmsi": "259046050",
-      "name": "FREMAD",
-      "lat": 66.4003,
-      "lon": 12.4083,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-07 18:15:55.064377832 +0000 UTC"
-    },
     {
       "mmsi": "368338990",
       "name": "ALEOLI",
-      "lat": 47.739,
-      "lon": -122.4655,
+      "lat": 47.743,
+      "lon": -122.4615,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-07 18:15:59.101458504 +0000 UTC"
+      "last_update": "2026-09-07 18:35:29.746557672 +0000 UTC"
     },
     {
-      "mmsi": "244710626",
-      "name": "BENCKES",
-      "lat": 53.1745,
-      "lon": 6.6889,
+      "mmsi": "636011247",
+      "name": "SAGITTA",
+      "lat": 37.9296,
+      "lon": 23.6815,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-07 18:16:00.351045178 +0000 UTC"
-    },
-    {
-      "mmsi": "244374235",
-      "name": "NT 11 WATERTRAPPER",
-      "lat": 51.8329,
-      "lon": 4.935,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-07 18:16:13.211342636 +0000 UTC"
+      "nav_status": 5,
+      "last_update": "2026-09-07 18:35:35.141515223 +0000 UTC"
     },
     {
       "mmsi": "244850108",
@@ -142,27 +30,169 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-07 18:16:15.78846369 +0000 UTC"
+      "last_update": "2026-09-07 18:35:35.877486406 +0000 UTC"
     },
     {
-      "mmsi": "273354450",
-      "name": "POSEIDON S",
-      "lat": 35.879,
-      "lon": 28.4876,
+      "mmsi": "211337780",
+      "name": "ATALANTA",
+      "lat": 53.8992,
+      "lon": 11.4571,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-07 18:16:16.49621835 +0000 UTC"
+      "last_update": "2026-09-07 18:35:36.927449824 +0000 UTC"
     },
     {
-      "mmsi": "369713000",
-      "name": "TRIBUTE",
-      "lat": 0,
-      "lon": 0,
-      "sog": 102.2,
+      "mmsi": "338449112",
+      "name": "BAYWATCH 21",
+      "lat": 33.9911,
+      "lon": -118.4833,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-07 18:35:38.91007058 +0000 UTC"
+    },
+    {
+      "mmsi": "219033720",
+      "name": "DBB IDEFIX",
+      "lat": 55.2989,
+      "lon": 10.809,
+      "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-07 18:16:20.947401516 +0000 UTC"
+      "last_update": "2026-09-07 18:35:39.995585865 +0000 UTC"
+    },
+    {
+      "mmsi": "428009088",
+      "name": "DANCHOR X",
+      "lat": 31.8243,
+      "lon": 34.6451,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-07 18:35:40.746998365 +0000 UTC"
+    },
+    {
+      "mmsi": "210920000",
+      "name": "VTS PENTADAKTYLOS",
+      "lat": 34.7185,
+      "lon": 33.3178,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-07 18:35:47.104383794 +0000 UTC"
+    },
+    {
+      "mmsi": "993692250",
+      "name": "",
+      "lat": 48.676,
+      "lon": -122.7134,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-07 18:35:47.334443465 +0000 UTC"
+    },
+    {
+      "mmsi": "205088000",
+      "name": "J. BREYDEL SURVEY",
+      "lat": 51.2226,
+      "lon": 2.9363,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-07 18:36:02.525673455 +0000 UTC"
+    },
+    {
+      "mmsi": "219385000",
+      "name": "BJOERNSHOLM",
+      "lat": 55.6793,
+      "lon": 12.593,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-07 18:35:57.436642717 +0000 UTC"
+    },
+    {
+      "mmsi": "993692423",
+      "name": "",
+      "lat": 48.2059,
+      "lon": -123.1096,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-07 18:35:59.330359772 +0000 UTC"
+    },
+    {
+      "mmsi": "240796900",
+      "name": "SEALINK VII",
+      "lat": 37.862,
+      "lon": 23.744,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 1,
+      "last_update": "2026-09-07 18:35:59.844572867 +0000 UTC"
+    },
+    {
+      "mmsi": "210564000",
+      "name": "KASSOS",
+      "lat": 35.9359,
+      "lon": -5.5247,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-07 18:36:01.437619293 +0000 UTC"
+    },
+    {
+      "mmsi": "244730564",
+      "name": "WADDENZEE II",
+      "ship_type": 52,
+      "destination": "HARLINGEN",
+      "lat": 53.1744,
+      "lon": 5.4509,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-07 18:36:12.128238401 +0000 UTC"
+    },
+    {
+      "mmsi": "219814000",
+      "name": "TERN SEA",
+      "lat": 60.0202,
+      "lon": 25.4941,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 1,
+      "last_update": "2026-09-07 18:36:05.204123497 +0000 UTC"
+    },
+    {
+      "mmsi": "601126900",
+      "name": "SEA EXPRESS",
+      "lat": -29.8681,
+      "lon": 31.0142,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-09-07 18:36:06.821491896 +0000 UTC"
+    },
+    {
+      "mmsi": "247177600",
+      "name": "CITTA DI CAMOGLI",
+      "lat": 44.4084,
+      "lon": 8.9261,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-07 18:36:09.179761953 +0000 UTC"
+    },
+    {
+      "mmsi": "993692424",
+      "name": "",
+      "lat": 48.0303,
+      "lon": -122.6364,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-07 18:36:11.580782217 +0000 UTC"
     },
     {
       "mmsi": "316014014",
@@ -172,37 +202,7 @@
       "sog": 102.2,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-07 18:15:31.110856966 +0000 UTC"
-    },
-    {
-      "mmsi": "368111610",
-      "name": "FDNY M8A",
-      "lat": 40.5024,
-      "lon": -74.1298,
-      "sog": 40,
-      "cog": 345,
-      "nav_status": 0,
-      "last_update": "2026-09-07 18:16:04.526322484 +0000 UTC"
-    },
-    {
-      "mmsi": "228495900",
-      "name": "JIF LEVIATHAN",
-      "lat": 41.3287,
-      "lon": 9.53,
-      "sog": 36.5,
-      "cog": 279.6,
-      "nav_status": 8,
-      "last_update": "2026-09-07 18:16:18.307037296 +0000 UTC"
-    },
-    {
-      "mmsi": "368013770",
-      "name": "COMMODORE",
-      "lat": 40.4194,
-      "lon": -74.0043,
-      "sog": 35.8,
-      "cog": 163.1,
-      "nav_status": 0,
-      "last_update": "2026-09-07 18:15:35.645662607 +0000 UTC"
+      "last_update": "2026-09-07 18:35:49.405679548 +0000 UTC"
     }
   ]
 }
