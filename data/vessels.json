@@ -1,40 +1,58 @@
 {
-  "updated_at": "2026-09-08T12:18:51Z",
-  "count": 8154,
+  "updated_at": "2026-09-08T12:41:25Z",
+  "count": 5685,
   "vessels": [
     {
-      "mmsi": "210588000",
-      "name": "LEDRA PRIDE",
-      "ship_type": 52,
-      "destination": "CYLIM",
-      "lat": 34.6452,
-      "lon": 33.018,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-09-08 12:18:21.282814931 +0000 UTC"
-    },
-    {
-      "mmsi": "993692423",
-      "name": "",
-      "lat": 48.2059,
-      "lon": -123.1096,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-08 12:17:43.533745694 +0000 UTC"
-    },
-    {
-      "mmsi": "247214700",
-      "name": "BONITA",
-      "ship_type": 33,
-      "destination": "",
-      "lat": 45.2024,
-      "lon": 12.2644,
+      "mmsi": "210920000",
+      "name": "VTS PENTADAKTYLOS",
+      "ship_type": 36,
+      "destination": "OPL LIMASSOL",
+      "lat": 34.7185,
+      "lon": 33.3178,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-08 12:18:00.984303386 +0000 UTC"
+      "last_update": "2026-09-08 12:40:48.793128952 +0000 UTC"
+    },
+    {
+      "mmsi": "245382000",
+      "name": "KNRM-FRED",
+      "lat": 51.6216,
+      "lon": 3.6878,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-08 12:40:26.924876011 +0000 UTC"
+    },
+    {
+      "mmsi": "244108000",
+      "name": "ZK46 ZEEMEEUW",
+      "lat": 53.3141,
+      "lon": 7.065,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-08 12:40:28.568688089 +0000 UTC"
+    },
+    {
+      "mmsi": "244045000",
+      "name": "HEBO-CAT 15",
+      "lat": 53.1884,
+      "lon": 5.3388,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-08 12:40:35.263463601 +0000 UTC"
+    },
+    {
+      "mmsi": "412473310",
+      "name": "SHENGPING82",
+      "lat": 22.2889,
+      "lon": 114.2288,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-08 12:40:30.460910234 +0000 UTC"
     },
     {
       "mmsi": "993692247",
@@ -44,69 +62,47 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-09-08 12:17:44.203689842 +0000 UTC"
+      "last_update": "2026-09-08 12:40:31.537223506 +0000 UTC"
     },
     {
-      "mmsi": "259046050",
-      "name": "FREMAD",
-      "lat": 66.3729,
-      "lon": 12.361,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-08 12:17:44.482591035 +0000 UTC"
-    },
-    {
-      "mmsi": "244045000",
-      "name": "HEBO-CAT 15",
-      "lat": 53.2158,
-      "lon": 5.2949,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-08 12:17:45.248679733 +0000 UTC"
-    },
-    {
-      "mmsi": "211270850",
-      "name": "PIONIER",
-      "lat": 53.677,
-      "lon": 7.5736,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-08 12:17:47.351896675 +0000 UTC",
-      "ship_type": 70,
-      "destination": "BENSERSIEL"
-    },
-    {
-      "mmsi": "993692424",
+      "mmsi": "993692425",
       "name": "",
-      "lat": 48.0303,
-      "lon": -122.6364,
+      "lat": 47.9645,
+      "lon": -122.5796,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-09-08 12:17:47.52655084 +0000 UTC"
+      "last_update": "2026-09-08 12:40:36.204277832 +0000 UTC"
     },
     {
-      "mmsi": "244374235",
-      "name": "NT 11 WATERTRAPPER",
-      "lat": 51.8339,
-      "lon": 4.9355,
+      "mmsi": "366986380",
+      "name": "DREDGE OREGON",
+      "lat": 46.2015,
+      "lon": -123.4297,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 3,
+      "last_update": "2026-09-08 12:40:36.726051283 +0000 UTC"
+    },
+    {
+      "mmsi": "247214700",
+      "name": "BONITA",
+      "lat": 45.2024,
+      "lon": 12.2644,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-08 12:17:52.226575362 +0000 UTC"
+      "last_update": "2026-09-08 12:40:40.477693617 +0000 UTC"
     },
     {
-      "mmsi": "261003910",
-      "name": "HEL-150",
-      "lat": 54.5059,
-      "lon": 19.1982,
+      "mmsi": "367131000",
+      "name": "ALASKA",
+      "lat": 29.7187,
+      "lon": -93.8632,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 7,
-      "last_update": "2026-09-08 12:17:54.75003044 +0000 UTC"
+      "nav_status": 5,
+      "last_update": "2026-09-08 12:40:43.995670665 +0000 UTC"
     },
     {
       "mmsi": "993692426",
@@ -116,77 +112,77 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-09-08 12:17:56.20244015 +0000 UTC"
+      "last_update": "2026-09-08 12:40:44.192487628 +0000 UTC"
     },
     {
-      "mmsi": "993692022",
-      "name": "",
-      "lat": 48.1131,
-      "lon": -122.6613,
+      "mmsi": "316014014",
+      "name": "TAKAYA",
+      "lat": 49.2863,
+      "lon": -123.1005,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-09-08 12:17:59.589791486 +0000 UTC"
+      "last_update": "2026-09-08 12:40:50.578787443 +0000 UTC"
     },
     {
-      "mmsi": "210920000",
-      "name": "VTS PENTADAKTYLOS",
-      "lat": 34.7185,
-      "lon": 33.3178,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-08 12:17:59.626358117 +0000 UTC"
-    },
-    {
-      "mmsi": "993692428",
+      "mmsi": "993692430",
       "name": "",
-      "lat": 47.5759,
-      "lon": -122.4513,
+      "lat": 47.3248,
+      "lon": -122.4565,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-09-08 12:18:00.27284908 +0000 UTC"
+      "last_update": "2026-09-08 12:40:56.203992185 +0000 UTC"
     },
     {
-      "mmsi": "366986380",
-      "name": "DREDGE OREGON",
-      "lat": 46.2015,
-      "lon": -123.4298,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 3,
-      "last_update": "2026-09-08 12:18:07.77684232 +0000 UTC"
-    },
-    {
-      "mmsi": "245382000",
-      "name": "KNRM-FRED",
-      "lat": 51.6217,
-      "lon": 3.6878,
+      "mmsi": "219008904",
+      "name": "SEAWORKER",
+      "lat": 55.4668,
+      "lon": 8.4309,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-08 12:18:15.746011407 +0000 UTC"
+      "last_update": "2026-09-08 12:40:59.057269616 +0000 UTC"
     },
     {
-      "mmsi": "244850108",
-      "name": "RIO GRANDE",
-      "lat": 52.4568,
-      "lon": 5.8248,
+      "mmsi": "219033720",
+      "name": "DBB IDEFIX",
+      "lat": 55.2791,
+      "lon": 10.854,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-08 12:18:16.052930971 +0000 UTC"
+      "nav_status": 0,
+      "last_update": "2026-09-08 12:40:59.961472999 +0000 UTC"
     },
     {
-      "mmsi": "428067000",
-      "name": "BAT GALIM",
-      "lat": 32.3375,
-      "lon": 34.6258,
+      "mmsi": "993692050",
+      "name": "",
+      "lat": 47.6614,
+      "lon": -122.4645,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 3,
-      "last_update": "2026-09-08 12:18:23.22696764 +0000 UTC"
+      "nav_status": 15,
+      "last_update": "2026-09-08 12:41:00.203412637 +0000 UTC"
+    },
+    {
+      "mmsi": "235111618",
+      "name": "S/Y TENAZ",
+      "lat": 37.2842,
+      "lon": 23.1591,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-08 12:41:00.586536104 +0000 UTC"
+    },
+    {
+      "mmsi": "244060365",
+      "name": "KNRM ARBOR VITAE",
+      "lat": 53.4088,
+      "lon": 6.1974,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-08 12:41:00.609357553 +0000 UTC"
     },
     {
       "mmsi": "235034368",
@@ -196,17 +192,17 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-08 12:18:26.193233011 +0000 UTC"
+      "last_update": "2026-09-08 12:41:07.09197232 +0000 UTC"
     },
     {
-      "mmsi": "368024740",
-      "name": "LB PILOT BOAT  ORION",
-      "lat": 33.7472,
-      "lon": -118.2157,
+      "mmsi": "244120000",
+      "name": "ANTEOS",
+      "lat": 51.8894,
+      "lon": 4.4001,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-08 12:18:27.496912849 +0000 UTC"
+      "nav_status": 5,
+      "last_update": "2026-09-08 12:41:07.748974085 +0000 UTC"
     }
   ]
 }
