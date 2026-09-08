@@ -1,78 +1,66 @@
 {
-  "updated_at": "2026-09-08T06:39:43Z",
-  "count": 7998,
+  "updated_at": "2026-09-08T06:57:54Z",
+  "count": 6274,
   "vessels": [
     {
-      "mmsi": "244850108",
-      "name": "RIO GRANDE",
-      "lat": 52.4568,
-      "lon": 5.8248,
+      "mmsi": "273354450",
+      "name": "POSEIDON S",
+      "lat": 35.7823,
+      "lon": 28.4565,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-08 06:56:46.958586422 +0000 UTC"
+    },
+    {
+      "mmsi": "232013230",
+      "name": "NJORD ZENITH",
+      "lat": 54.4373,
+      "lon": 16.3855,
+      "sog": 102.3,
+      "cog": 16.7,
+      "nav_status": 5,
+      "last_update": "2026-09-08 06:56:47.929964062 +0000 UTC"
+    },
+    {
+      "mmsi": "219033720",
+      "name": "DBB IDEFIX",
+      "lat": 55.2978,
+      "lon": 10.8124,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-08 06:56:48.914403584 +0000 UTC"
+    },
+    {
+      "mmsi": "244108000",
+      "name": "ZK46 ZEEMEEUW",
+      "lat": 53.3121,
+      "lon": 7.0564,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-08 06:56:48.995482181 +0000 UTC"
+    },
+    {
+      "mmsi": "232015678",
+      "name": "LT-43 ANNALIJDIA",
+      "lat": 54.0546,
+      "lon": 0.1097,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 7,
+      "last_update": "2026-09-08 06:56:51.627513232 +0000 UTC"
+    },
+    {
+      "mmsi": "244615506",
+      "name": "ZUID-HOLLAND-ZUID",
+      "lat": 51.8,
+      "lon": 4.6394,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-08 06:38:45.30695433 +0000 UTC"
-    },
-    {
-      "mmsi": "367482250",
-      "name": "JERSEY",
-      "lat": 40.7717,
-      "lon": -74.011,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-08 06:38:48.05866623 +0000 UTC",
-      "ship_type": 60,
-      "destination": "NY,NY"
-    },
-    {
-      "mmsi": "477996369",
-      "name": "HYDRO1",
-      "lat": 22.2843,
-      "lon": 114.2312,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-08 06:38:51.014433485 +0000 UTC"
-    },
-    {
-      "mmsi": "338329000",
-      "name": "KINGS POINT",
-      "lat": 39.2435,
-      "lon": -76.5704,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-08 06:38:54.126650231 +0000 UTC"
-    },
-    {
-      "mmsi": "211270850",
-      "name": "PIONIER",
-      "lat": 53.677,
-      "lon": 7.5736,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-08 06:38:57.991025097 +0000 UTC"
-    },
-    {
-      "mmsi": "240010000",
-      "name": "NAXOS",
-      "lat": 37.9577,
-      "lon": 23.6116,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-08 06:38:58.083473528 +0000 UTC"
-    },
-    {
-      "mmsi": "477997158",
-      "name": "PORT WORKS 5",
-      "lat": 22.2941,
-      "lon": 114.1826,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-08 06:39:04.617223035 +0000 UTC"
+      "last_update": "2026-09-08 06:56:53.974925954 +0000 UTC"
     },
     {
       "mmsi": "245382000",
@@ -82,7 +70,29 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-08 06:39:07.062851512 +0000 UTC"
+      "last_update": "2026-09-08 06:56:56.173034441 +0000 UTC"
+    },
+    {
+      "mmsi": "367482250",
+      "name": "JERSEY",
+      "lat": 40.7717,
+      "lon": -74.011,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-08 06:56:56.32129269 +0000 UTC",
+      "ship_type": 60,
+      "destination": "NY,NY"
+    },
+    {
+      "mmsi": "232008636",
+      "name": "VOE VANGUARD",
+      "lat": 54.6059,
+      "lon": 16.7984,
+      "sog": 102.3,
+      "cog": 81.4,
+      "nav_status": 15,
+      "last_update": "2026-09-08 06:57:07.656755553 +0000 UTC"
     },
     {
       "mmsi": "993692430",
@@ -92,37 +102,39 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-09-08 06:39:08.208380431 +0000 UTC"
+      "last_update": "2026-09-08 06:57:08.210894357 +0000 UTC"
     },
     {
-      "mmsi": "265522230",
-      "name": "GOTA",
-      "lat": 57.7022,
-      "lon": 11.6779,
+      "mmsi": "241926000",
+      "name": "LYBOUSSAKIS ATLAS",
+      "lat": 37.9575,
+      "lon": 23.6102,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-08 06:39:11.195452656 +0000 UTC"
+      "last_update": "2026-09-08 06:57:08.615096832 +0000 UTC"
     },
     {
-      "mmsi": "244108000",
-      "name": "ZK46 ZEEMEEUW",
-      "lat": 53.3125,
-      "lon": 7.0757,
+      "mmsi": "993692050",
+      "name": "",
+      "lat": 47.6614,
+      "lon": -122.4645,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-08 06:57:12.213423905 +0000 UTC"
+    },
+    {
+      "mmsi": "261007705",
+      "name": "FAIRPLAY-83",
+      "ship_type": 52,
+      "destination": "PLSWI",
+      "lat": 53.9073,
+      "lon": 14.2599,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-08 06:39:17.479136211 +0000 UTC"
-    },
-    {
-      "mmsi": "319276200",
-      "name": "KASIF",
-      "lat": 36.843,
-      "lon": 28.2669,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-08 06:39:17.792126194 +0000 UTC"
+      "last_update": "2026-09-08 06:57:23.250471872 +0000 UTC"
     },
     {
       "mmsi": "993692247",
@@ -132,29 +144,29 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-09-08 06:39:20.409041491 +0000 UTC"
+      "last_update": "2026-09-08 06:57:20.628555642 +0000 UTC"
     },
     {
-      "mmsi": "219008904",
-      "name": "SEAWORKER",
-      "lat": 55.4717,
-      "lon": 8.4225,
+      "mmsi": "316014014",
+      "name": "TAKAYA",
+      "lat": 49.2863,
+      "lon": -123.1004,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-08 06:57:21.019346634 +0000 UTC"
+    },
+    {
+      "mmsi": "213181000",
+      "name": "ELITA",
+      "ship_type": 90,
+      "destination": "BATUMI",
+      "lat": 41.6532,
+      "lon": 41.6444,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-08 06:39:21.62442263 +0000 UTC"
-    },
-    {
-      "mmsi": "261007705",
-      "name": "FAIRPLAY-83",
-      "lat": 53.9073,
-      "lon": 14.2599,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-08 06:39:22.421952952 +0000 UTC",
-      "ship_type": 52,
-      "destination": "PLSWI"
+      "last_update": "2026-09-08 06:57:23.997182674 +0000 UTC"
     },
     {
       "mmsi": "993692425",
@@ -164,47 +176,37 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-09-08 06:39:24.208101951 +0000 UTC"
+      "last_update": "2026-09-08 06:57:24.208780356 +0000 UTC"
     },
     {
-      "mmsi": "993692427",
-      "name": "",
-      "lat": 47.7651,
-      "lon": -122.4376,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-08 06:39:28.310663341 +0000 UTC"
-    },
-    {
-      "mmsi": "563147700",
-      "name": "PSA VISION (NN27)",
-      "lat": 1.2065,
-      "lon": 103.7997,
+      "mmsi": "244850108",
+      "name": "RIO GRANDE",
+      "lat": 52.4567,
+      "lon": 5.8248,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-08 06:39:29.87482769 +0000 UTC"
+      "last_update": "2026-09-08 06:57:25.402294881 +0000 UTC"
     },
     {
-      "mmsi": "232015678",
-      "name": "LT-43 ANNALIJDIA",
-      "lat": 54.037,
-      "lon": 0.0878,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 7,
-      "last_update": "2026-09-08 06:39:30.64721107 +0000 UTC"
-    },
-    {
-      "mmsi": "213181000",
-      "name": "ELITA",
-      "lat": 41.6532,
-      "lon": 41.6444,
-      "sog": 102.3,
+      "mmsi": "369713000",
+      "name": "TRIBUTE",
+      "lat": 0,
+      "lon": 0,
+      "sog": 102.2,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-08 06:39:33.040788561 +0000 UTC"
+      "last_update": "2026-09-08 06:56:50.226256753 +0000 UTC"
+    },
+    {
+      "mmsi": "244511000",
+      "name": "FRISC RHIBC-19",
+      "lat": 53.0034,
+      "lon": 4.7662,
+      "sog": 43.8,
+      "cog": 260.6,
+      "nav_status": 0,
+      "last_update": "2026-09-08 06:57:23.430433046 +0000 UTC"
     }
   ]
 }
