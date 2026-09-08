@@ -1,110 +1,46 @@
 {
-  "updated_at": "2026-09-08T00:22:38Z",
-  "count": 6940,
+  "updated_at": "2026-09-08T00:55:15Z",
+  "count": 7192,
   "vessels": [
     {
-      "mmsi": "338449112",
-      "name": "BAYWATCH 21",
-      "lat": 33.9712,
-      "lon": -118.4467,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-08 00:21:29.167066048 +0000 UTC"
-    },
-    {
-      "mmsi": "338329000",
-      "name": "KINGS POINT",
-      "lat": 39.2435,
-      "lon": -76.5704,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-08 00:21:32.552980611 +0000 UTC",
-      "ship_type": 0,
-      "destination": "BALTIMORE MD"
-    },
-    {
-      "mmsi": "261007705",
-      "name": "FAIRPLAY-83",
-      "lat": 53.9073,
-      "lon": 14.2599,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-08 00:21:33.149979006 +0000 UTC"
-    },
-    {
-      "mmsi": "259046050",
-      "name": "FREMAD",
-      "lat": 66.3729,
-      "lon": 12.361,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-08 00:21:34.074681717 +0000 UTC"
-    },
-    {
-      "mmsi": "441943000",
-      "name": "SJ HOPE",
-      "lat": 37.4502,
-      "lon": 126.5908,
+      "mmsi": "255802940",
+      "name": "CGAS MATE",
+      "lat": 47.3055,
+      "lon": -2.0667,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-08 00:21:36.070055518 +0000 UTC"
+      "last_update": "2026-09-08 00:54:06.745454615 +0000 UTC"
     },
     {
-      "mmsi": "366986380",
-      "name": "DREDGE OREGON",
-      "lat": 46.2015,
-      "lon": -123.4297,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 3,
-      "last_update": "2026-09-08 00:21:37.181021366 +0000 UTC"
-    },
-    {
-      "mmsi": "263701380",
-      "name": "FERNANDO NAMORA",
-      "lat": 38.6526,
-      "lon": -9.0811,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-09-08 00:21:43.075412451 +0000 UTC"
-    },
-    {
-      "mmsi": "205088000",
-      "name": "J. BREYDEL SURVEY",
-      "lat": 51.2226,
-      "lon": 2.9363,
+      "mmsi": "244060365",
+      "name": "KNRM ARBOR VITAE",
+      "lat": 53.4088,
+      "lon": 6.1974,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-08 00:21:44.784730626 +0000 UTC"
+      "last_update": "2026-09-08 00:54:07.194367217 +0000 UTC"
     },
     {
-      "mmsi": "636011247",
-      "name": "SAGITTA",
-      "lat": 37.9296,
-      "lon": 23.6815,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-08 00:21:45.300545384 +0000 UTC"
-    },
-    {
-      "mmsi": "241926000",
-      "name": "LYBOUSSAKIS ATLAS",
-      "lat": 37.9575,
-      "lon": 23.6102,
+      "mmsi": "367482250",
+      "name": "JERSEY",
+      "lat": 40.7717,
+      "lon": -74.011,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-08 00:22:18.324105351 +0000 UTC",
-      "ship_type": 52,
-      "destination": "KERATSINI GR"
+      "last_update": "2026-09-08 00:54:07.940217395 +0000 UTC"
+    },
+    {
+      "mmsi": "244108000",
+      "name": "ZK46 ZEEMEEUW",
+      "lat": 53.3299,
+      "lon": 6.9317,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-08 00:54:08.169018669 +0000 UTC"
     },
     {
       "mmsi": "210920000",
@@ -114,7 +50,27 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-08 00:21:48.400012264 +0000 UTC"
+      "last_update": "2026-09-08 00:54:11.177753382 +0000 UTC"
+    },
+    {
+      "mmsi": "338329000",
+      "name": "KINGS POINT",
+      "lat": 39.2435,
+      "lon": -76.5704,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-08 00:54:13.05970408 +0000 UTC"
+    },
+    {
+      "mmsi": "563070140",
+      "name": "PSA TAURUS YS52",
+      "lat": 1.2629,
+      "lon": 103.7916,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-08 00:54:16.075968342 +0000 UTC"
     },
     {
       "mmsi": "993692021",
@@ -124,7 +80,39 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-09-08 00:21:52.43645663 +0000 UTC"
+      "last_update": "2026-09-08 00:54:16.202558752 +0000 UTC"
+    },
+    {
+      "mmsi": "244045000",
+      "name": "HEBO-CAT 15",
+      "lat": 53.1875,
+      "lon": 5.4319,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-08 00:54:16.246505622 +0000 UTC"
+    },
+    {
+      "mmsi": "366986380",
+      "name": "DREDGE OREGON",
+      "lat": 46.2015,
+      "lon": -123.4297,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 3,
+      "last_update": "2026-09-08 00:54:17.099648706 +0000 UTC",
+      "ship_type": 33,
+      "destination": ""
+    },
+    {
+      "mmsi": "235087611",
+      "name": "ARGYLL FLYER",
+      "lat": 55.9445,
+      "lon": -4.7322,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-08 00:54:19.865704239 +0000 UTC"
     },
     {
       "mmsi": "993692247",
@@ -134,69 +122,37 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-09-08 00:21:56.208413194 +0000 UTC"
+      "last_update": "2026-09-08 00:54:20.485093397 +0000 UTC"
     },
     {
-      "mmsi": "428067000",
-      "name": "BAT GALIM",
-      "lat": 32.8202,
-      "lon": 35.0073,
+      "mmsi": "220043000",
+      "name": "HM120 MONICA VEST",
+      "lat": 57.5934,
+      "lon": 9.9622,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-08 00:21:57.500160258 +0000 UTC"
+      "nav_status": 7,
+      "last_update": "2026-09-08 00:54:21.770616161 +0000 UTC"
     },
     {
-      "mmsi": "304642000",
-      "name": "MIRIAM BORCHARD",
-      "lat": 32.8288,
-      "lon": 35.0207,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-08 00:21:57.969712687 +0000 UTC",
-      "ship_type": 70,
-      "destination": "TRISK"
-    },
-    {
-      "mmsi": "993692425",
-      "name": "",
-      "lat": 47.9645,
-      "lon": -122.5796,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-08 00:22:00.472102587 +0000 UTC"
-    },
-    {
-      "mmsi": "240451900",
-      "name": "WHITECAPS",
-      "lat": 37.323,
-      "lon": 23.1447,
+      "mmsi": "213181000",
+      "name": "ELITA",
+      "lat": 41.6532,
+      "lon": 41.6445,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-08 00:22:02.717957738 +0000 UTC"
+      "last_update": "2026-09-08 00:54:23.481026886 +0000 UTC"
     },
     {
-      "mmsi": "993692427",
-      "name": "",
-      "lat": 47.7651,
-      "lon": -122.4376,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-08 00:22:04.210165433 +0000 UTC"
-    },
-    {
-      "mmsi": "273354450",
-      "name": "POSEIDON S",
-      "lat": 35.8132,
-      "lon": 28.4841,
+      "mmsi": "271044493",
+      "name": "MIP- 3",
+      "lat": 36.7919,
+      "lon": 34.636,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-08 00:22:07.718317868 +0000 UTC"
+      "last_update": "2026-09-08 00:54:27.602723584 +0000 UTC"
     },
     {
       "mmsi": "993692426",
@@ -206,7 +162,49 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-09-08 00:22:08.213043711 +0000 UTC"
+      "last_update": "2026-09-08 00:54:32.20841306 +0000 UTC"
+    },
+    {
+      "mmsi": "993692428",
+      "name": "",
+      "lat": 47.5759,
+      "lon": -122.4513,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-08 00:54:36.243276625 +0000 UTC"
+    },
+    {
+      "mmsi": "338449112",
+      "name": "BAYWATCH 21",
+      "lat": 33.9712,
+      "lon": -118.4467,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-08 00:54:39.052804949 +0000 UTC"
+    },
+    {
+      "mmsi": "993692429",
+      "name": "",
+      "lat": 47.3851,
+      "lon": -122.3535,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-08 00:54:40.261893747 +0000 UTC"
+    },
+    {
+      "mmsi": "263701380",
+      "name": "FERNANDO NAMORA",
+      "ship_type": 68,
+      "destination": "LISBOA TAGUS RIVER",
+      "lat": 38.6526,
+      "lon": -9.0811,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-09-08 00:54:42.17049949 +0000 UTC"
     }
   ]
 }
