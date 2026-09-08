@@ -1,156 +1,126 @@
 {
-  "updated_at": "2026-09-08T23:30:27Z",
-  "count": 8342,
+  "updated_at": "2026-09-08T23:48:06Z",
+  "count": 6134,
   "vessels": [
     {
-      "mmsi": "366651000",
-      "name": "HENRY HUDSON",
-      "lat": 40.7349,
-      "lon": -74.0265,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-08 23:29:27.399872762 +0000 UTC"
-    },
-    {
-      "mmsi": "367415390",
-      "name": "EMPIRE STATE",
-      "lat": 40.7153,
-      "lon": -74.0176,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-08 23:29:17.591055824 +0000 UTC"
-    },
-    {
-      "mmsi": "993692426",
+      "mmsi": "993692430",
       "name": "",
-      "lat": 47.9234,
-      "lon": -122.4921,
+      "lat": 47.3248,
+      "lon": -122.4565,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-09-08 23:29:20.355588231 +0000 UTC"
+      "last_update": "2026-09-08 23:46:56.20907584 +0000 UTC"
     },
     {
-      "mmsi": "228436800",
-      "name": "F/V LAREDO",
-      "lat": 42.2298,
-      "lon": -8.7512,
+      "mmsi": "341896001",
+      "name": "IBRAHIM B",
+      "lat": 10.3578,
+      "lon": 65.9818,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-08 23:29:20.420297757 +0000 UTC"
-    },
-    {
-      "mmsi": "993692428",
-      "name": "",
-      "lat": 47.5759,
-      "lon": -122.4513,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-08 23:29:24.205433732 +0000 UTC"
-    },
-    {
-      "mmsi": "235034368",
-      "name": "MULTI-SURVEY 4",
-      "lat": 52.9549,
-      "lon": 4.7792,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-08 23:29:26.600462528 +0000 UTC"
-    },
-    {
-      "mmsi": "244374235",
-      "name": "NT 11 WATERTRAPPER",
-      "lat": 51.8337,
-      "lon": 4.9358,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-08 23:29:32.138247923 +0000 UTC"
-    },
-    {
-      "mmsi": "244710626",
-      "name": "BENCKES",
-      "lat": 52.0108,
-      "lon": 5.1074,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-08 23:30:15.155391833 +0000 UTC"
-    },
-    {
-      "mmsi": "636026289",
-      "name": "PUFFIN S",
-      "lat": 54.8178,
-      "lon": 16.5482,
-      "sog": 102.3,
-      "cog": 263.1,
-      "nav_status": 0,
-      "last_update": "2026-09-08 23:29:37.381033209 +0000 UTC"
-    },
-    {
-      "mmsi": "244120000",
-      "name": "ANTEOS",
-      "lat": 51.8894,
-      "lon": 4.4002,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-08 23:29:37.573306444 +0000 UTC"
-    },
-    {
-      "mmsi": "245382000",
-      "name": "KNRM-FRED",
-      "lat": 51.6217,
-      "lon": 3.6879,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-08 23:29:37.96495304 +0000 UTC"
-    },
-    {
-      "mmsi": "211337780",
-      "name": "ATALANTA",
-      "lat": 53.8992,
-      "lon": 11.4571,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-08 23:29:37.986640997 +0000 UTC"
+      "nav_status": 1,
+      "last_update": "2026-09-08 23:46:56.238819328 +0000 UTC"
     },
     {
       "mmsi": "375369000",
       "name": "ZAYYAN K",
-      "lat": 31.8278,
-      "lon": 34.647,
+      "lat": 31.8279,
+      "lon": 34.6468,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-08 23:29:38.621193209 +0000 UTC"
-    },
-    {
-      "mmsi": "993692021",
-      "name": "",
-      "lat": 47.4479,
-      "lon": -122.4046,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-08 23:29:40.204991544 +0000 UTC"
+      "last_update": "2026-09-08 23:46:58.207861388 +0000 UTC"
     },
     {
       "mmsi": "244060365",
       "name": "KNRM ARBOR VITAE",
-      "lat": 53.4087,
+      "lat": 53.4088,
       "lon": 6.1974,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-08 23:29:41.382144865 +0000 UTC"
+      "last_update": "2026-09-08 23:47:21.782777437 +0000 UTC"
+    },
+    {
+      "mmsi": "993692247",
+      "name": "",
+      "lat": 47.984,
+      "lon": -122.2462,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-08 23:47:08.20613118 +0000 UTC"
+    },
+    {
+      "mmsi": "244870700",
+      "name": "METTE MARIA",
+      "lat": 53.7925,
+      "lon": 8.0384,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 3,
+      "last_update": "2026-09-08 23:47:10.542202678 +0000 UTC"
+    },
+    {
+      "mmsi": "235070403",
+      "name": "WINDCAT 14",
+      "lat": 57.1435,
+      "lon": -2.0901,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-08 23:47:10.769966119 +0000 UTC"
+    },
+    {
+      "mmsi": "210588000",
+      "name": "LEDRA PRIDE",
+      "lat": 34.6452,
+      "lon": 33.0179,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-09-08 23:47:11.874342114 +0000 UTC"
+    },
+    {
+      "mmsi": "232015678",
+      "name": "LT-43 ANNALIJDIA",
+      "lat": 54.1463,
+      "lon": 0.2033,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 7,
+      "last_update": "2026-09-08 23:47:12.007252997 +0000 UTC"
+    },
+    {
+      "mmsi": "993692425",
+      "name": "",
+      "lat": 47.9645,
+      "lon": -122.5796,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-08 23:47:12.232101111 +0000 UTC"
+    },
+    {
+      "mmsi": "244374235",
+      "name": "NT 11 WATERTRAPPER",
+      "lat": 51.8339,
+      "lon": 4.936,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-08 23:47:12.437604566 +0000 UTC"
+    },
+    {
+      "mmsi": "240451900",
+      "name": "WHITECAPS",
+      "lat": 37.3267,
+      "lon": 23.4141,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-08 23:47:13.015251229 +0000 UTC"
     },
     {
       "mmsi": "259046050",
@@ -160,49 +130,77 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-08 23:29:44.747363544 +0000 UTC"
+      "last_update": "2026-09-08 23:47:13.906721618 +0000 UTC"
     },
     {
-      "mmsi": "244850108",
-      "name": "RIO GRANDE",
-      "lat": 52.4568,
-      "lon": 5.8249,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-08 23:29:45.599010502 +0000 UTC"
-    },
-    {
-      "mmsi": "219385000",
-      "name": "BJOERNSHOLM",
-      "lat": 55.6793,
-      "lon": 12.593,
+      "mmsi": "244710626",
+      "name": "BENCKES",
+      "lat": 52.0107,
+      "lon": 5.1074,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-08 23:29:47.225672997 +0000 UTC",
-      "ship_type": 60,
-      "destination": "COPENHAGEN"
+      "last_update": "2026-09-08 23:47:15.592017765 +0000 UTC"
     },
     {
-      "mmsi": "240796900",
-      "name": "SEALINK VII",
-      "lat": 37.862,
-      "lon": 23.744,
+      "mmsi": "224049290",
+      "name": "NUEVO AYACAM",
+      "lat": 37.2051,
+      "lon": -7.3299,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-09-08 23:29:49.515671187 +0000 UTC"
+      "nav_status": 15,
+      "last_update": "2026-09-08 23:47:24.59526706 +0000 UTC"
     },
     {
-      "mmsi": "210920000",
-      "name": "VTS PENTADAKTYLOS",
-      "lat": 34.7185,
-      "lon": 33.3178,
+      "mmsi": "701000936",
+      "name": "ROCIO DEL MAR",
+      "lat": -38.0354,
+      "lon": -57.5099,
       "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-09-08 23:47:29.439341196 +0000 UTC"
+    },
+    {
+      "mmsi": "366986380",
+      "name": "DREDGE OREGON",
+      "lat": 46.2019,
+      "lon": -123.429,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 3,
+      "last_update": "2026-09-08 23:47:30.407114565 +0000 UTC"
+    },
+    {
+      "mmsi": "369713000",
+      "name": "TRIBUTE",
+      "lat": 0,
+      "lon": 0,
+      "sog": 102.2,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-08 23:29:57.106379871 +0000 UTC"
+      "last_update": "2026-09-08 23:47:11.527743062 +0000 UTC"
+    },
+    {
+      "mmsi": "368088610",
+      "name": "LYRA",
+      "lat": 37.9244,
+      "lon": -122.4452,
+      "sog": 34.6,
+      "cog": 178,
+      "nav_status": 0,
+      "last_update": "2026-09-08 23:47:09.260695071 +0000 UTC"
+    },
+    {
+      "mmsi": "368612000",
+      "name": "RICH PASSAGE 1",
+      "lat": 47.5742,
+      "lon": -122.5352,
+      "sog": 33.9,
+      "cog": 321,
+      "nav_status": 0,
+      "last_update": "2026-09-08 23:47:13.665226958 +0000 UTC"
     }
   ]
 }
