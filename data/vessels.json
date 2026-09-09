@@ -1,202 +1,46 @@
 {
-  "updated_at": "2026-09-09T09:34:45Z",
-  "count": 8955,
+  "updated_at": "2026-09-09T09:52:03Z",
+  "count": 4811,
   "vessels": [
     {
-      "mmsi": "261007705",
-      "name": "FAIRPLAY-83",
-      "ship_type": 52,
-      "destination": "PLSWI",
-      "lat": 53.9073,
-      "lon": 14.2599,
+      "mmsi": "244374235",
+      "name": "NT 11 WATERTRAPPER",
+      "lat": 51.8338,
+      "lon": 4.9361,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-09 09:34:31.993696866 +0000 UTC"
+      "last_update": "2026-09-09 09:50:52.685798578 +0000 UTC"
     },
     {
-      "mmsi": "235034368",
-      "name": "MULTI-SURVEY 4",
-      "lat": 52.9549,
-      "lon": 4.7791,
+      "mmsi": "244615506",
+      "name": "ZUID-HOLLAND-ZUID",
+      "lat": 51.8,
+      "lon": 4.6394,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-09 09:33:37.089778162 +0000 UTC"
+      "nav_status": 5,
+      "last_update": "2026-09-09 09:50:54.576021549 +0000 UTC"
     },
     {
       "mmsi": "366986380",
       "name": "DREDGE OREGON",
-      "lat": 46.2023,
-      "lon": -123.429,
+      "lat": 46.2022,
+      "lon": -123.4285,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 3,
-      "last_update": "2026-09-09 09:33:37.913687926 +0000 UTC"
+      "last_update": "2026-09-09 09:51:03.930868157 +0000 UTC"
     },
     {
-      "mmsi": "993692429",
-      "name": "",
-      "lat": 47.3851,
-      "lon": -122.3535,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-09 09:33:40.242635049 +0000 UTC"
-    },
-    {
-      "mmsi": "319276200",
-      "name": "KASIF",
-      "lat": 36.8448,
-      "lon": 28.2693,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-09 09:33:40.275151569 +0000 UTC"
-    },
-    {
-      "mmsi": "993692430",
-      "name": "",
-      "lat": 47.3248,
-      "lon": -122.4565,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-09 09:33:44.211776193 +0000 UTC"
-    },
-    {
-      "mmsi": "244108000",
-      "name": "ZK46 ZEEMEEUW",
-      "lat": 53.3176,
-      "lon": 7.148,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-09 09:33:58.50742193 +0000 UTC"
-    },
-    {
-      "mmsi": "503000080",
-      "name": "MANNING",
-      "lat": -33.8683,
-      "lon": 151.222,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-09 09:33:47.067206371 +0000 UTC"
-    },
-    {
-      "mmsi": "210920000",
-      "name": "VTS PENTADAKTYLOS",
-      "lat": 34.7185,
-      "lon": 33.3178,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-09 09:34:16.940259381 +0000 UTC",
-      "ship_type": 36,
-      "destination": "OPL LIMASSOL"
-    },
-    {
-      "mmsi": "636023990",
-      "name": "SUPRA SOVEREIGN",
-      "lat": 54.7314,
-      "lon": 15.988,
-      "sog": 102.3,
-      "cog": 78.5,
-      "nav_status": 0,
-      "last_update": "2026-09-09 09:33:48.313012986 +0000 UTC"
-    },
-    {
-      "mmsi": "240796900",
-      "name": "SEALINK VII",
-      "lat": 37.862,
-      "lon": 23.744,
+      "mmsi": "503125000",
+      "name": "AUSTRALIAN WARSHIP",
+      "lat": -33.86,
+      "lon": 151.2335,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 1,
-      "last_update": "2026-09-09 09:33:49.566278061 +0000 UTC"
-    },
-    {
-      "mmsi": "271000677",
-      "name": "VENTO DI MELTEMI",
-      "lat": 44.4054,
-      "lon": 8.8852,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-09 09:33:54.271699676 +0000 UTC",
-      "ship_type": 72,
-      "destination": "ITGOA"
-    },
-    {
-      "mmsi": "993692247",
-      "name": "",
-      "lat": 47.984,
-      "lon": -122.2462,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-09 09:33:56.22918295 +0000 UTC"
-    },
-    {
-      "mmsi": "247214700",
-      "name": "BONITA",
-      "lat": 45.2024,
-      "lon": 12.2644,
-      "sog": 102.3,
-      "cog": 364.3,
-      "nav_status": 0,
-      "last_update": "2026-09-09 09:33:56.402056912 +0000 UTC"
-    },
-    {
-      "mmsi": "235084204",
-      "name": "RONA",
-      "lat": 57.1431,
-      "lon": -2.0891,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-09 09:33:58.238428798 +0000 UTC"
-    },
-    {
-      "mmsi": "211337780",
-      "name": "ATALANTA",
-      "lat": 53.8992,
-      "lon": 11.4571,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-09 09:33:58.793658368 +0000 UTC"
-    },
-    {
-      "mmsi": "367482990",
-      "name": "YORK",
-      "lat": 40.7716,
-      "lon": -74.0112,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-09 09:33:59.699143085 +0000 UTC"
-    },
-    {
-      "mmsi": "993692426",
-      "name": "",
-      "lat": 47.9234,
-      "lon": -122.4921,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-09 09:34:08.266899452 +0000 UTC"
-    },
-    {
-      "mmsi": "273418880",
-      "name": "BAKHTEMIR",
-      "lat": 46.6228,
-      "lon": 142.7689,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-09 09:34:11.70651712 +0000 UTC"
+      "last_update": "2026-09-09 09:51:08.338311479 +0000 UTC"
     },
     {
       "mmsi": "993692428",
@@ -206,7 +50,159 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-09-09 09:34:12.201287366 +0000 UTC"
+      "last_update": "2026-09-09 09:51:08.470696036 +0000 UTC"
+    },
+    {
+      "mmsi": "240796900",
+      "name": "SEALINK VII",
+      "lat": 37.862,
+      "lon": 23.744,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 1,
+      "last_update": "2026-09-09 09:51:08.51784443 +0000 UTC"
+    },
+    {
+      "mmsi": "993692050",
+      "name": "",
+      "lat": 47.6614,
+      "lon": -122.4645,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-09 09:51:12.206959826 +0000 UTC"
+    },
+    {
+      "mmsi": "367434210",
+      "name": "FIORELLO LAGUARDIA",
+      "lat": 40.7113,
+      "lon": -74.0434,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-09 09:51:14.043232017 +0000 UTC"
+    },
+    {
+      "mmsi": "240499300",
+      "name": "ALEXIA",
+      "lat": 37.6447,
+      "lon": 23.3949,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-09 09:51:15.47880015 +0000 UTC"
+    },
+    {
+      "mmsi": "211337780",
+      "name": "ATALANTA",
+      "lat": 53.8992,
+      "lon": 11.4571,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-09 09:51:18.550109368 +0000 UTC"
+    },
+    {
+      "mmsi": "993692247",
+      "name": "",
+      "lat": 47.984,
+      "lon": -122.2462,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-09 09:51:20.2064033 +0000 UTC"
+    },
+    {
+      "mmsi": "232015678",
+      "name": "LT-43 ANNALIJDIA",
+      "lat": 54.1359,
+      "lon": 0.2074,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 7,
+      "last_update": "2026-09-09 09:51:20.816062432 +0000 UTC"
+    },
+    {
+      "mmsi": "273418880",
+      "name": "BAKHTEMIR",
+      "lat": 46.6228,
+      "lon": 142.7689,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-09 09:51:21.034015432 +0000 UTC"
+    },
+    {
+      "mmsi": "261007705",
+      "name": "FAIRPLAY-83",
+      "lat": 53.9073,
+      "lon": 14.2599,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-09 09:51:21.896086831 +0000 UTC"
+    },
+    {
+      "mmsi": "993692021",
+      "name": "",
+      "lat": 47.4479,
+      "lon": -122.4046,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-09 09:51:24.4737412 +0000 UTC"
+    },
+    {
+      "mmsi": "259046050",
+      "name": "FREMAD",
+      "lat": 66.4014,
+      "lon": 12.4174,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-09 09:51:24.502913113 +0000 UTC"
+    },
+    {
+      "mmsi": "232015629",
+      "name": "RED JET 7",
+      "lat": 50.8126,
+      "lon": -1.2926,
+      "sog": 33.3,
+      "cog": 160.4,
+      "nav_status": 0,
+      "last_update": "2026-09-09 09:51:14.267146614 +0000 UTC"
+    },
+    {
+      "mmsi": "212859000",
+      "name": "MERCEDES PINTO",
+      "lat": 28.261,
+      "lon": -15.5867,
+      "sog": 31.9,
+      "cog": 291.1,
+      "nav_status": 0,
+      "last_update": "2026-09-09 09:50:58.835022454 +0000 UTC",
+      "ship_type": 40,
+      "destination": "ESMJB-ESTCI-ESLPA"
+    },
+    {
+      "mmsi": "367677670",
+      "name": "SANCTUARY",
+      "lat": 42.3052,
+      "lon": -70.9761,
+      "sog": 31.9,
+      "cog": 325,
+      "nav_status": 0,
+      "last_update": "2026-09-09 09:51:21.314218871 +0000 UTC"
+    },
+    {
+      "mmsi": "241804000",
+      "name": "AERO 3 HIGHSPEED",
+      "lat": 37.8418,
+      "lon": 23.5316,
+      "sog": 29.8,
+      "cog": 220.5,
+      "nav_status": 0,
+      "last_update": "2026-09-09 09:51:00.814200442 +0000 UTC"
     }
   ]
 }
