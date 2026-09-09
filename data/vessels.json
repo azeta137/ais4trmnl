@@ -1,206 +1,208 @@
 {
-  "updated_at": "2026-09-09T18:51:40Z",
-  "count": 1985,
+  "updated_at": "2026-09-09T19:12:15Z",
+  "count": 2905,
   "vessels": [
     {
-      "mmsi": "993692247",
-      "name": "",
-      "lat": 47.984,
-      "lon": -122.2462,
+      "mmsi": "241926000",
+      "name": "LYBOUSSAKIS ATLAS",
+      "lat": 37.9575,
+      "lon": 23.6102,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-09 18:51:20.239367986 +0000 UTC"
+      "nav_status": 0,
+      "last_update": "2026-09-09 19:11:47.271594844 +0000 UTC"
     },
     {
-      "mmsi": "366921420",
-      "name": "HUGH S MONSTEAD",
-      "lat": 30.4729,
-      "lon": -91.1939,
+      "mmsi": "244374235",
+      "name": "NT 11 WATERTRAPPER",
+      "lat": 51.8338,
+      "lon": 4.9359,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-09 18:51:26.733118357 +0000 UTC"
+      "nav_status": 0,
+      "last_update": "2026-09-09 19:11:51.585397247 +0000 UTC"
     },
     {
-      "mmsi": "366986380",
-      "name": "DREDGE OREGON",
-      "lat": 46.2026,
-      "lon": -123.4293,
+      "mmsi": "367434210",
+      "name": "FIORELLO LAGUARDIA",
+      "lat": 40.7112,
+      "lon": -74.0433,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 3,
-      "last_update": "2026-09-09 18:51:27.310777864 +0000 UTC"
+      "nav_status": 0,
+      "last_update": "2026-09-09 19:11:54.015754671 +0000 UTC"
+    },
+    {
+      "mmsi": "259046050",
+      "name": "FREMAD",
+      "lat": 66.3729,
+      "lon": 12.361,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-09 19:11:54.669850373 +0000 UTC"
+    },
+    {
+      "mmsi": "205088000",
+      "name": "J. BREYDEL SURVEY",
+      "lat": 51.223,
+      "lon": 2.9356,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-09 19:12:02.445993843 +0000 UTC"
+    },
+    {
+      "mmsi": "538009102",
+      "name": "ENERGEAN STAR",
+      "lat": 33.2753,
+      "lon": 34.2186,
+      "sog": 97.1,
+      "cog": 50.6,
+      "nav_status": 0,
+      "last_update": "2026-09-09 19:12:01.991743505 +0000 UTC"
+    },
+    {
+      "mmsi": "219705000",
+      "name": "EXPRESS 4",
+      "lat": 56.0456,
+      "lon": 10.6334,
+      "sog": 36.5,
+      "cog": 292.8,
+      "nav_status": 9,
+      "last_update": "2026-09-09 19:12:03.37793371 +0000 UTC"
+    },
+    {
+      "mmsi": "368247160",
+      "name": "CONSTITUTION V",
+      "lat": 29.8977,
+      "lon": -93.9038,
+      "sog": 34.9,
+      "cog": 225.4,
+      "nav_status": 15,
+      "last_update": "2026-09-09 19:11:45.524075022 +0000 UTC",
+      "ship_type": 33,
+      "destination": ""
+    },
+    {
+      "mmsi": "367347670",
+      "name": "SEASTREAK HIGHLANDS",
+      "lat": 40.4898,
+      "lon": -74.0298,
+      "sog": 33.4,
+      "cog": 350.1,
+      "nav_status": 15,
+      "last_update": "2026-09-09 19:12:03.268409511 +0000 UTC"
+    },
+    {
+      "mmsi": "366970020",
+      "name": "MENDOCINO",
+      "lat": 37.8499,
+      "lon": -122.4102,
+      "sog": 33.1,
+      "cog": 169.7,
+      "nav_status": 0,
+      "last_update": "2026-09-09 19:11:55.323168383 +0000 UTC"
+    },
+    {
+      "mmsi": "368457860",
+      "name": "EMERALD CLIPPER",
+      "lat": 47.8566,
+      "lon": -122.4095,
+      "sog": 32.9,
+      "cog": 197.4,
+      "nav_status": 0,
+      "last_update": "2026-09-09 19:12:03.656458841 +0000 UTC"
+    },
+    {
+      "mmsi": "316052438",
+      "name": "STHUQI",
+      "lat": 49.2787,
+      "lon": -123.4926,
+      "sog": 32.8,
+      "cog": 77.6,
+      "nav_status": 9,
+      "last_update": "2026-09-09 19:12:03.57618002 +0000 UTC"
     },
     {
       "mmsi": "368013770",
       "name": "COMMODORE",
-      "lat": 40.7037,
-      "lon": -74.0003,
-      "sog": 34.3,
-      "cog": 223,
+      "lat": 40.6351,
+      "lon": -74.0446,
+      "sog": 31.6,
+      "cog": 190.9,
       "nav_status": 0,
-      "last_update": "2026-09-09 18:51:29.572100494 +0000 UTC"
+      "last_update": "2026-09-09 19:11:59.350315265 +0000 UTC"
     },
     {
-      "mmsi": "224984000",
-      "name": "VOLCAN DE TAIDIA",
-      "lat": 28.3899,
-      "lon": -15.9868,
-      "sog": 29.9,
-      "cog": 111.6,
+      "mmsi": "224836000",
+      "name": "VOLCAN DE TIRAJANA",
+      "lat": 27.9946,
+      "lon": -16.8013,
+      "sog": 29.4,
+      "cog": 266.6,
       "nav_status": 0,
-      "last_update": "2026-09-09 18:51:19.349459914 +0000 UTC"
+      "last_update": "2026-09-09 19:12:00.987259649 +0000 UTC"
     },
     {
-      "mmsi": "367531670",
-      "name": "FDNY M9 ALPHA",
-      "lat": 40.5882,
-      "lon": -74.0334,
-      "sog": 29.1,
-      "cog": 154.7,
-      "nav_status": 5,
-      "last_update": "2026-09-09 18:51:20.247477827 +0000 UTC"
-    },
-    {
-      "mmsi": "247055900",
-      "name": "ROSARIA LAURO",
-      "lat": 40.7739,
-      "lon": 14.0301,
-      "sog": 28.8,
-      "cog": 261,
+      "mmsi": "257123900",
+      "name": "RESCUE SJOMANN",
+      "lat": 59.1418,
+      "lon": 11.1654,
+      "sog": 27.2,
+      "cog": 8.5,
       "nav_status": 0,
-      "last_update": "2026-09-09 18:51:17.811655381 +0000 UTC"
+      "last_update": "2026-09-09 19:11:51.570154082 +0000 UTC"
     },
     {
-      "mmsi": "367192940",
-      "name": "AVALON EXPRESS",
-      "lat": 33.4731,
-      "lon": -118.4769,
-      "sog": 26.1,
-      "cog": 32,
+      "mmsi": "316053378",
+      "name": "NAVARK ATLANTIS",
+      "lat": 45.646,
+      "lon": -73.478,
+      "sog": 26.6,
+      "cog": 27.7,
       "nav_status": 0,
-      "last_update": "2026-09-09 18:51:26.250697644 +0000 UTC"
+      "last_update": "2026-09-09 19:11:52.381885817 +0000 UTC"
     },
     {
-      "mmsi": "316017161",
-      "name": "CCGS CAPE DAUPHIN",
-      "lat": 48.7991,
-      "lon": -125.3024,
+      "mmsi": "367436230",
+      "name": "TAURUS",
+      "lat": 37.7754,
+      "lon": -122.3206,
+      "sog": 25.7,
+      "cog": 96.9,
+      "nav_status": 0,
+      "last_update": "2026-09-09 19:11:56.534575837 +0000 UTC"
+    },
+    {
+      "mmsi": "503432000",
+      "name": "SPIRIT OF TASMANIA I",
+      "lat": -41.0178,
+      "lon": 146.2907,
       "sog": 24.6,
-      "cog": 298.4,
+      "cog": 154.3,
       "nav_status": 0,
-      "last_update": "2026-09-09 18:51:23.549884537 +0000 UTC"
-    },
-    {
-      "mmsi": "368091960",
-      "name": "JEWEL OF THE HARBOR",
-      "lat": 40.61,
-      "lon": -74.0416,
-      "sog": 24.2,
-      "cog": 348,
-      "nav_status": 0,
-      "last_update": "2026-09-09 18:51:18.732515565 +0000 UTC"
-    },
-    {
-      "mmsi": "259026700",
-      "name": "FJORDSTROEM",
-      "lat": 67.2085,
-      "lon": 14.16,
-      "sog": 23.8,
-      "cog": 46.2,
-      "nav_status": 0,
-      "last_update": "2026-09-09 18:51:21.479231089 +0000 UTC"
-    },
-    {
-      "mmsi": "367036190",
-      "name": "MARTHA'S VINEYARD EX",
-      "lat": 41.488,
-      "lon": -70.5854,
-      "sog": 23.2,
-      "cog": 119.3,
-      "nav_status": 0,
-      "last_update": "2026-09-09 18:51:30.358373685 +0000 UTC"
-    },
-    {
-      "mmsi": "263701370",
-      "name": "MIGUEL TORGA",
-      "lat": 38.6636,
-      "lon": -9.1107,
-      "sog": 22.5,
-      "cog": 107.5,
-      "nav_status": 0,
-      "last_update": "2026-09-09 18:51:26.972123688 +0000 UTC"
-    },
-    {
-      "mmsi": "249667000",
-      "name": "CELEBRITY EQUINOX",
-      "lat": 38.0842,
-      "lon": -9.4686,
-      "sog": 21.6,
-      "cog": 188,
-      "nav_status": 0,
-      "last_update": "2026-09-09 18:51:26.268118987 +0000 UTC"
+      "last_update": "2026-09-09 19:11:44.193273324 +0000 UTC"
     },
     {
       "mmsi": "368043070",
       "name": "OCEANQUEENROCKSTAR",
-      "lat": 40.5841,
-      "lon": -74.0273,
-      "sog": 21.5,
-      "cog": 147,
+      "lat": 40.5775,
+      "lon": -73.8683,
+      "sog": 24.3,
+      "cog": 72.6,
       "nav_status": 0,
-      "last_update": "2026-09-09 18:51:27.435986573 +0000 UTC"
+      "last_update": "2026-09-09 19:11:57.746566035 +0000 UTC"
     },
     {
-      "mmsi": "257491500",
-      "name": "LOS 123",
-      "lat": 58.8868,
-      "lon": 5.5271,
-      "sog": 21.4,
-      "cog": 197.1,
+      "mmsi": "368081160",
+      "name": "TRAVERSITY",
+      "lat": 40.7063,
+      "lon": -73.996,
+      "sog": 23.2,
+      "cog": 242.6,
       "nav_status": 0,
-      "last_update": "2026-09-09 18:51:29.421285061 +0000 UTC"
-    },
-    {
-      "mmsi": "316001269",
-      "name": "SPIRIT OF VI",
-      "lat": 48.8794,
-      "lon": -123.2965,
-      "sog": 20.7,
-      "cog": 41.4,
-      "nav_status": 0,
-      "last_update": "2026-09-09 18:51:19.460650155 +0000 UTC"
-    },
-    {
-      "mmsi": "354277000",
-      "name": "CARNIVAL MIRACLE",
-      "lat": 48.953,
-      "lon": -126.3729,
-      "sog": 20.5,
-      "cog": 119,
-      "nav_status": 0,
-      "last_update": "2026-09-09 18:51:25.080917927 +0000 UTC"
-    },
-    {
-      "mmsi": "240521000",
-      "name": "THEOLOGOS P .",
-      "lat": 37.1487,
-      "lon": 25.1467,
-      "sog": 19.6,
-      "cog": 201,
-      "nav_status": 0,
-      "last_update": "2026-09-09 18:51:18.661051502 +0000 UTC"
-    },
-    {
-      "mmsi": "259222000",
-      "name": "COLOR MAGIC",
-      "lat": 57.7534,
-      "lon": 11.1772,
-      "sog": 19.4,
-      "cog": 171.5,
-      "nav_status": 0,
-      "last_update": "2026-09-09 18:51:26.348909068 +0000 UTC"
+      "last_update": "2026-09-09 19:11:49.024342565 +0000 UTC"
     }
   ]
 }
