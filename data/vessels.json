@@ -1,38 +1,88 @@
 {
-  "updated_at": "2026-09-09T04:14:26Z",
-  "count": 8254,
+  "updated_at": "2026-09-09T04:33:43Z",
+  "count": 6972,
   "vessels": [
     {
-      "mmsi": "367739710",
-      "name": "HURON SPIRIT",
-      "lat": 42.9844,
-      "lon": -82.4216,
+      "mmsi": "244374235",
+      "name": "NT 11 WATERTRAPPER",
+      "lat": 51.8337,
+      "lon": 4.9356,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-09 04:13:16.436504897 +0000 UTC"
+      "last_update": "2026-09-09 04:32:32.401638496 +0000 UTC"
     },
     {
       "mmsi": "245382000",
       "name": "KNRM-FRED",
       "lat": 51.6218,
-      "lon": 3.6879,
+      "lon": 3.6878,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-09 04:13:18.87354972 +0000 UTC"
+      "last_update": "2026-09-09 04:32:37.437085064 +0000 UTC"
     },
     {
-      "mmsi": "428067000",
-      "name": "BAT GALIM",
-      "lat": 32.2821,
-      "lon": 34.8081,
+      "mmsi": "503125000",
+      "name": "AUSTRALIAN WARSHIP",
+      "lat": -33.8606,
+      "lon": 151.2336,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 3,
-      "last_update": "2026-09-09 04:13:21.652682087 +0000 UTC",
-      "ship_type": 97,
-      "destination": "HAIFA"
+      "nav_status": 1,
+      "last_update": "2026-09-09 04:32:40.648392671 +0000 UTC"
+    },
+    {
+      "mmsi": "319276200",
+      "name": "KASIF",
+      "lat": 36.8443,
+      "lon": 28.2699,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-09 04:32:45.004729329 +0000 UTC"
+    },
+    {
+      "mmsi": "244108000",
+      "name": "ZK46 ZEEMEEUW",
+      "lat": 53.3188,
+      "lon": 7.0381,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-09 04:33:17.42410341 +0000 UTC",
+      "ship_type": 30,
+      "destination": "LAUWERSOOG"
+    },
+    {
+      "mmsi": "636012905",
+      "name": "LORRAINE",
+      "lat": 24.878,
+      "lon": -15.9275,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-09 04:32:52.011128488 +0000 UTC"
+    },
+    {
+      "mmsi": "993692427",
+      "name": "",
+      "lat": 47.7651,
+      "lon": -122.4376,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-09 04:32:52.258448623 +0000 UTC"
+    },
+    {
+      "mmsi": "263701380",
+      "name": "FERNANDO NAMORA",
+      "lat": 38.6526,
+      "lon": -9.0811,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-09-09 04:32:53.261746909 +0000 UTC"
     },
     {
       "mmsi": "244615506",
@@ -42,127 +92,37 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-09 04:13:33.290939223 +0000 UTC"
-    },
-    {
-      "mmsi": "211270850",
-      "name": "PIONIER",
-      "lat": 53.6771,
-      "lon": 7.5736,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-09 04:13:32.050884775 +0000 UTC"
-    },
-    {
-      "mmsi": "428009088",
-      "name": "DANCHOR X",
-      "lat": 31.8243,
-      "lon": 34.6451,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-09 04:13:34.351727656 +0000 UTC"
-    },
-    {
-      "mmsi": "316014014",
-      "name": "TAKAYA",
-      "ship_type": 99,
-      "destination": "",
-      "lat": 49.2863,
-      "lon": -123.1005,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-09 04:14:10.406025088 +0000 UTC"
-    },
-    {
-      "mmsi": "244060365",
-      "name": "KNRM ARBOR VITAE",
-      "lat": 53.4088,
-      "lon": 6.1974,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-09 04:13:41.568986924 +0000 UTC"
-    },
-    {
-      "mmsi": "259473000",
-      "name": "BERGEN KREDS",
-      "lat": 59.6071,
-      "lon": 5.2313,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-09 04:13:41.738624269 +0000 UTC",
-      "ship_type": 52,
-      "destination": ""
-    },
-    {
-      "mmsi": "244374235",
-      "name": "NT 11 WATERTRAPPER",
-      "ship_type": 99,
-      "destination": "AMSTERDAM",
-      "lat": 51.8335,
-      "lon": 4.9355,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-09 04:14:12.287434704 +0000 UTC"
-    },
-    {
-      "mmsi": "235089224",
-      "name": "WINDCAT 29",
-      "lat": 51.3296,
-      "lon": 1.4217,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-09 04:13:45.348727684 +0000 UTC"
-    },
-    {
-      "mmsi": "367131000",
-      "name": "ALASKA",
-      "lat": 29.7187,
-      "lon": -93.8632,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-09 04:13:45.888259136 +0000 UTC"
+      "last_update": "2026-09-09 04:32:54.841335626 +0000 UTC"
     },
     {
       "mmsi": "211337780",
       "name": "ATALANTA",
-      "lat": 53.8993,
+      "lat": 53.8992,
       "lon": 11.4571,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-09 04:13:47.069780419 +0000 UTC",
-      "ship_type": 0,
-      "destination": "WISMAR"
+      "last_update": "2026-09-09 04:32:57.788105883 +0000 UTC"
     },
     {
       "mmsi": "210920000",
       "name": "VTS PENTADAKTYLOS",
-      "lat": 34.7186,
-      "lon": 33.3148,
+      "lat": 34.7175,
+      "lon": 33.3146,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-09 04:13:47.787340427 +0000 UTC"
+      "last_update": "2026-09-09 04:32:58.126252656 +0000 UTC"
     },
     {
-      "mmsi": "366986380",
-      "name": "DREDGE OREGON",
-      "lat": 46.2021,
-      "lon": -123.4294,
+      "mmsi": "993692430",
+      "name": "",
+      "lat": 47.3248,
+      "lon": -122.4565,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 3,
-      "last_update": "2026-09-09 04:13:57.958588833 +0000 UTC",
-      "ship_type": 33,
-      "destination": ""
+      "nav_status": 15,
+      "last_update": "2026-09-09 04:33:08.236609923 +0000 UTC"
     },
     {
       "mmsi": "244120000",
@@ -172,7 +132,29 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-09 04:13:58.745181937 +0000 UTC"
+      "last_update": "2026-09-09 04:33:13.004650051 +0000 UTC",
+      "ship_type": 52,
+      "destination": "NL SCH"
+    },
+    {
+      "mmsi": "428067000",
+      "name": "BAT GALIM",
+      "lat": 32.2821,
+      "lon": 34.8081,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 3,
+      "last_update": "2026-09-09 04:33:11.626926428 +0000 UTC"
+    },
+    {
+      "mmsi": "993692050",
+      "name": "",
+      "lat": 47.6614,
+      "lon": -122.4645,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-09 04:33:12.200515302 +0000 UTC"
     },
     {
       "mmsi": "993692021",
@@ -182,7 +164,7 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-09-09 04:14:04.339774409 +0000 UTC"
+      "last_update": "2026-09-09 04:33:16.228180142 +0000 UTC"
     },
     {
       "mmsi": "993692247",
@@ -192,27 +174,37 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-09-09 04:14:08.200772989 +0000 UTC"
+      "last_update": "2026-09-09 04:33:20.207182509 +0000 UTC"
     },
     {
-      "mmsi": "235070403",
-      "name": "WINDCAT 14",
-      "lat": 57.1435,
-      "lon": -2.0902,
+      "mmsi": "993692425",
+      "name": "",
+      "lat": 47.9645,
+      "lon": -122.5796,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-09 04:14:09.704615079 +0000 UTC"
+      "nav_status": 15,
+      "last_update": "2026-09-09 04:33:24.20000292 +0000 UTC"
     },
     {
-      "mmsi": "261007705",
-      "name": "FAIRPLAY-83",
-      "lat": 53.9073,
-      "lon": 14.2599,
-      "sog": 102.3,
-      "cog": 360,
+      "mmsi": "413496590",
+      "name": "ZHONG SHAN 6",
+      "lat": 22.3635,
+      "lon": 113.9206,
+      "sog": 30.7,
+      "cog": 305.6,
       "nav_status": 0,
-      "last_update": "2026-09-09 04:14:11.642854103 +0000 UTC"
+      "last_update": "2026-09-09 04:32:50.256139739 +0000 UTC"
+    },
+    {
+      "mmsi": "512000741",
+      "name": "CLIPPER 3",
+      "lat": -36.8358,
+      "lon": 174.8452,
+      "sog": 30.5,
+      "cog": 92.3,
+      "nav_status": 0,
+      "last_update": "2026-09-09 04:33:26.136769684 +0000 UTC"
     }
   ]
 }
