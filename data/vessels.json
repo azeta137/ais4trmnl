@@ -1,78 +1,28 @@
 {
-  "updated_at": "2026-09-09T13:37:06Z",
-  "count": 3984,
+  "updated_at": "2026-09-09T13:53:35Z",
+  "count": 6629,
   "vessels": [
     {
-      "mmsi": "244108000",
-      "name": "ZK46 ZEEMEEUW",
-      "lat": 53.3196,
-      "lon": 7.0389,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-09 13:36:37.677552771 +0000 UTC"
-    },
-    {
-      "mmsi": "993692428",
-      "name": "",
-      "lat": 47.5759,
-      "lon": -122.4513,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-09 13:36:36.208828548 +0000 UTC"
-    },
-    {
-      "mmsi": "368227810",
-      "name": "SEA CHANGE",
-      "lat": 37.7623,
-      "lon": -122.3844,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-09 13:36:36.392149887 +0000 UTC"
-    },
-    {
-      "mmsi": "244060365",
-      "name": "KNRM ARBOR VITAE",
-      "lat": 53.4088,
-      "lon": 6.1974,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-09 13:36:41.597243633 +0000 UTC"
-    },
-    {
-      "mmsi": "503000080",
-      "name": "MANNING",
-      "ship_type": 80,
-      "destination": "",
-      "lat": -33.8683,
-      "lon": 151.222,
+      "mmsi": "368173000",
+      "name": "FISHING CREEK",
+      "lat": 37.7739,
+      "lon": -122.2416,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-09 13:36:51.39491387 +0000 UTC"
+      "last_update": "2026-09-09 13:52:25.958760957 +0000 UTC",
+      "ship_type": 31,
+      "destination": "ALAMEDA NGZ 9"
     },
     {
-      "mmsi": "219033720",
-      "name": "DBB IDEFIX",
-      "lat": 55.3431,
-      "lon": 11.0593,
+      "mmsi": "366986380",
+      "name": "DREDGE OREGON",
+      "lat": 46.2024,
+      "lon": -123.4294,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-09 13:36:50.012362037 +0000 UTC"
-    },
-    {
-      "mmsi": "273418880",
-      "name": "BAKHTEMIR",
-      "lat": 46.6228,
-      "lon": 142.7689,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-09 13:36:51.059605145 +0000 UTC"
+      "nav_status": 3,
+      "last_update": "2026-09-09 13:52:58.03182469 +0000 UTC"
     },
     {
       "mmsi": "993692021",
@@ -82,37 +32,7 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-09-09 13:36:52.212539803 +0000 UTC"
-    },
-    {
-      "mmsi": "244615506",
-      "name": "ZUID-HOLLAND-ZUID",
-      "lat": 51.8,
-      "lon": 4.6394,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-09 13:36:53.475161713 +0000 UTC"
-    },
-    {
-      "mmsi": "259046050",
-      "name": "FREMAD",
-      "lat": 66.3668,
-      "lon": 12.4002,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-09 13:36:55.126092937 +0000 UTC"
-    },
-    {
-      "mmsi": "210588000",
-      "name": "LEDRA PRIDE",
-      "lat": 34.6452,
-      "lon": 33.018,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-09-09 13:36:55.279405084 +0000 UTC"
+      "last_update": "2026-09-09 13:52:28.207498452 +0000 UTC"
     },
     {
       "mmsi": "993692247",
@@ -122,87 +42,169 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-09-09 13:36:56.210823963 +0000 UTC"
+      "last_update": "2026-09-09 13:52:32.206409521 +0000 UTC"
     },
     {
-      "mmsi": "368206330",
-      "name": "SOLANO",
-      "lat": 47.7513,
-      "lon": -122.4305,
-      "sog": 36.6,
-      "cog": 8,
+      "mmsi": "257052800",
+      "name": "TORNEROSE",
+      "lat": 59.833,
+      "lon": 5.7218,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-09 13:52:33.258336643 +0000 UTC",
+      "ship_type": 60,
+      "destination": "LEIRVIK"
+    },
+    {
+      "mmsi": "205088000",
+      "name": "J. BREYDEL SURVEY",
+      "lat": 51.2231,
+      "lon": 2.9356,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-09 13:36:46.568828201 +0000 UTC"
+      "last_update": "2026-09-09 13:52:33.934351592 +0000 UTC"
     },
     {
-      "mmsi": "258999000",
-      "name": "FJORDBRIS",
-      "lat": 59.8306,
-      "lon": 5.7026,
-      "sog": 32.7,
-      "cog": 254.4,
-      "nav_status": 9,
-      "last_update": "2026-09-09 13:36:53.100297714 +0000 UTC"
+      "mmsi": "428009088",
+      "name": "DANCHOR X",
+      "lat": 31.8243,
+      "lon": 34.6451,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-09 13:52:34.715216946 +0000 UTC"
     },
     {
-      "mmsi": "244870352",
-      "name": "KNRM-JOHANNA MARIA",
-      "lat": 52.3234,
-      "lon": 5.2353,
-      "sog": 32.6,
-      "cog": 115.5,
+      "mmsi": "993692248",
+      "name": "",
+      "lat": 48.3671,
+      "lon": -123.0365,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-09 13:52:35.537868282 +0000 UTC"
+    },
+    {
+      "mmsi": "1073741823",
+      "name": "",
+      "lat": 86.4466,
+      "lon": 1.0,
+      "sog": 102.3,
+      "cog": 360.3,
+      "nav_status": 15,
+      "last_update": "2026-09-09 13:52:36.148376299 +0000 UTC"
+    },
+    {
+      "mmsi": "993692250",
+      "name": "",
+      "lat": 48.676,
+      "lon": -122.7134,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-09 13:52:43.538370757 +0000 UTC"
+    },
+    {
+      "mmsi": "367482250",
+      "name": "JERSEY",
+      "lat": 40.7148,
+      "lon": -74.0179,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-09 13:36:51.6866283 +0000 UTC"
+      "last_update": "2026-09-09 13:52:43.748511403 +0000 UTC"
     },
     {
-      "mmsi": "237247600",
-      "name": "F/D ATHINA",
-      "lat": 37.747,
-      "lon": 23.4157,
-      "sog": 32.4,
-      "cog": 167,
-      "nav_status": 0,
-      "last_update": "2026-09-09 13:36:50.048564924 +0000 UTC"
+      "mmsi": "993692429",
+      "name": "",
+      "lat": 47.3851,
+      "lon": -122.3535,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-09 13:52:52.210548958 +0000 UTC"
     },
     {
-      "mmsi": "368341690",
-      "name": "DELPHINUS",
-      "lat": 37.7364,
-      "lon": -122.2697,
-      "sog": 32.3,
-      "cog": 280.9,
-      "nav_status": 0,
-      "last_update": "2026-09-09 13:36:57.109498336 +0000 UTC"
+      "mmsi": "244850108",
+      "name": "RIO GRANDE",
+      "lat": 52.4568,
+      "lon": 5.8247,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-09 13:52:54.853112397 +0000 UTC"
     },
     {
-      "mmsi": "368151810",
-      "name": "ENETAI",
-      "lat": 47.5988,
-      "lon": -122.3698,
-      "sog": 30.8,
-      "cog": 100,
+      "mmsi": "567002520",
+      "name": "NP CHUMPHON",
+      "lat": 13.6082,
+      "lon": 100.5752,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-09 13:36:40.52539166 +0000 UTC"
+      "last_update": "2026-09-09 13:52:56.82956733 +0000 UTC"
     },
     {
-      "mmsi": "235056993",
-      "name": "CYCLONE CLIPPER",
-      "lat": 51.506,
-      "lon": -0.0487,
-      "sog": 29,
-      "cog": 50.9,
-      "nav_status": 0,
-      "last_update": "2026-09-09 13:36:56.246183311 +0000 UTC"
+      "mmsi": "659218000",
+      "name": "KOMUKANDI",
+      "lat": -26.642,
+      "lon": 15.155,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-09 13:52:58.22058749 +0000 UTC"
     },
     {
-      "mmsi": "240383000",
-      "name": "DODEKANISOS PRIDE",
-      "lat": 36.3028,
-      "lon": 27.804,
-      "sog": 28.9,
-      "cog": 52.3,
+      "mmsi": "245382000",
+      "name": "",
+      "lat": 51.6217,
+      "lon": 3.6877,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-09 13:36:41.470155276 +0000 UTC"
+      "last_update": "2026-09-09 13:53:07.342394133 +0000 UTC"
+    },
+    {
+      "mmsi": "244108000",
+      "name": "ZK46 ZEEMEEUW",
+      "lat": 53.3197,
+      "lon": 7.0536,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-09 13:53:08.680439172 +0000 UTC"
+    },
+    {
+      "mmsi": "210588000",
+      "name": "LEDRA PRIDE",
+      "lat": 34.6452,
+      "lon": 33.018,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-09-09 13:53:11.113035218 +0000 UTC"
+    },
+    {
+      "mmsi": "259046050",
+      "name": "FREMAD",
+      "lat": 66.3729,
+      "lon": 12.361,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-09 13:53:15.373410565 +0000 UTC"
+    },
+    {
+      "mmsi": "993692426",
+      "name": "",
+      "lat": 47.9234,
+      "lon": -122.4921,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-09 13:53:20.220509151 +0000 UTC"
     }
   ]
 }
