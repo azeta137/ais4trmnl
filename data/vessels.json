@@ -1,29 +1,7 @@
 {
-  "updated_at": "2026-09-09T12:40:57Z",
-  "count": 6969,
+  "updated_at": "2026-09-09T12:58:35Z",
+  "count": 5800,
   "vessels": [
-    {
-      "mmsi": "271000677",
-      "name": "VENTO DI MELTEMI",
-      "ship_type": 72,
-      "destination": "ITGOA",
-      "lat": 44.4054,
-      "lon": 8.8852,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-09 12:40:33.684386147 +0000 UTC"
-    },
-    {
-      "mmsi": "367415390",
-      "name": "EMPIRE STATE",
-      "lat": 40.7352,
-      "lon": -74.0265,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-09 12:39:47.108740044 +0000 UTC"
-    },
     {
       "mmsi": "205088000",
       "name": "J. BREYDEL SURVEY",
@@ -32,173 +10,7 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-09 12:39:47.904581368 +0000 UTC"
-    },
-    {
-      "mmsi": "244710626",
-      "name": "BENCKES",
-      "lat": 51.9433,
-      "lon": 4.0339,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-09 12:39:48.489131394 +0000 UTC"
-    },
-    {
-      "mmsi": "375369000",
-      "name": "ZAYYAN K",
-      "lat": 31.8279,
-      "lon": 34.6469,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-09 12:39:49.631279548 +0000 UTC",
-      "ship_type": 70,
-      "destination": "ASHDOD IL"
-    },
-    {
-      "mmsi": "503000080",
-      "name": "MANNING",
-      "lat": -33.8683,
-      "lon": 151.222,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-09 12:39:51.083193386 +0000 UTC"
-    },
-    {
-      "mmsi": "366986380",
-      "name": "DREDGE OREGON",
-      "lat": 46.2025,
-      "lon": -123.4291,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 3,
-      "last_update": "2026-09-09 12:39:57.953330313 +0000 UTC"
-    },
-    {
-      "mmsi": "244108000",
-      "name": "ZK46 ZEEMEEUW",
-      "lat": 53.3109,
-      "lon": 7.0584,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-09 12:40:08.045237054 +0000 UTC"
-    },
-    {
-      "mmsi": "533371000",
-      "name": "CASPIAN SEA",
-      "lat": 1.2753,
-      "lon": 103.9173,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-09-09 12:40:04.427100833 +0000 UTC",
-      "ship_type": 80,
-      "destination": "SNGAPORE"
-    },
-    {
-      "mmsi": "993692426",
-      "name": "",
-      "lat": 47.9234,
-      "lon": -122.4921,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-09 12:40:08.28885089 +0000 UTC"
-    },
-    {
-      "mmsi": "244870700",
-      "name": "METTE MARIA",
-      "lat": 53.8143,
-      "lon": 7.9411,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 3,
-      "last_update": "2026-09-09 12:40:09.933178313 +0000 UTC"
-    },
-    {
-      "mmsi": "316014014",
-      "name": "TAKAYA",
-      "lat": 49.2864,
-      "lon": -123.1005,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-09 12:40:31.116664607 +0000 UTC"
-    },
-    {
-      "mmsi": "368173000",
-      "name": "FISHING CREEK",
-      "lat": 37.7739,
-      "lon": -122.2416,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-09 12:40:19.480271751 +0000 UTC"
-    },
-    {
-      "mmsi": "232015678",
-      "name": "LT-43 ANNALIJDIA",
-      "lat": 54.1025,
-      "lon": 0.1362,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 7,
-      "last_update": "2026-09-09 12:40:32.297810277 +0000 UTC",
-      "ship_type": 30,
-      "destination": "FISHINGGROUNDS"
-    },
-    {
-      "mmsi": "601126900",
-      "name": "SEA EXPRESS",
-      "lat": -29.8682,
-      "lon": 31.0142,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-09-09 12:40:21.241613585 +0000 UTC"
-    },
-    {
-      "mmsi": "259046050",
-      "name": "FREMAD",
-      "lat": 66.351,
-      "lon": 12.4706,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-09 12:40:33.802634249 +0000 UTC"
-    },
-    {
-      "mmsi": "244374235",
-      "name": "NT 11 WATERTRAPPER",
-      "lat": 51.8338,
-      "lon": 4.9359,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-09 12:40:32.251892864 +0000 UTC"
-    },
-    {
-      "mmsi": "244615506",
-      "name": "ZUID-HOLLAND-ZUID",
-      "lat": 51.8,
-      "lon": 4.6394,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-09 12:40:34.614601979 +0000 UTC"
-    },
-    {
-      "mmsi": "428009088",
-      "name": "DANCHOR X",
-      "lat": 31.8243,
-      "lon": 34.6451,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-09 12:40:35.206297124 +0000 UTC"
+      "last_update": "2026-09-09 12:57:24.166034812 +0000 UTC"
     },
     {
       "mmsi": "993692425",
@@ -208,7 +20,189 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-09-09 12:40:36.206060176 +0000 UTC"
+      "last_update": "2026-09-09 12:57:24.31571831 +0000 UTC"
+    },
+    {
+      "mmsi": "210920000",
+      "name": "VTS PENTADAKTYLOS",
+      "lat": 34.7185,
+      "lon": 33.3178,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-09 12:57:28.868786644 +0000 UTC"
+    },
+    {
+      "mmsi": "244870700",
+      "name": "METTE MARIA",
+      "ship_type": 33,
+      "destination": "DREDGING JADE RIVER",
+      "lat": 53.8134,
+      "lon": 7.9436,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 3,
+      "last_update": "2026-09-09 12:57:40.775232126 +0000 UTC"
+    },
+    {
+      "mmsi": "244108000",
+      "name": "ZK46 ZEEMEEUW",
+      "lat": 53.3104,
+      "lon": 7.054,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-09 12:57:57.460191551 +0000 UTC"
+    },
+    {
+      "mmsi": "367745820",
+      "name": "COOPER MORAN",
+      "lat": 32.082,
+      "lon": -81.0637,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-09 12:57:36.10517727 +0000 UTC"
+    },
+    {
+      "mmsi": "659218000",
+      "name": "KOMUKANDI",
+      "lat": -26.642,
+      "lon": 15.1551,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-09 12:57:38.378666401 +0000 UTC"
+    },
+    {
+      "mmsi": "271044493",
+      "name": "MIP- 3",
+      "lat": 36.7919,
+      "lon": 34.636,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-09 12:57:39.05640712 +0000 UTC"
+    },
+    {
+      "mmsi": "993692429",
+      "name": "",
+      "lat": 47.3851,
+      "lon": -122.3535,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-09 12:57:40.218620175 +0000 UTC"
+    },
+    {
+      "mmsi": "210588000",
+      "name": "LEDRA PRIDE",
+      "lat": 34.6452,
+      "lon": 33.018,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-09-09 12:57:41.320937137 +0000 UTC"
+    },
+    {
+      "mmsi": "367388530",
+      "name": "FT BRAGG",
+      "lat": 43.0792,
+      "lon": -70.7572,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-09 12:57:45.817077144 +0000 UTC"
+    },
+    {
+      "mmsi": "1073741823",
+      "name": "",
+      "lat": 84.8895,
+      "lon": 1.0,
+      "sog": 102.3,
+      "cog": 360.3,
+      "nav_status": 15,
+      "last_update": "2026-09-09 12:57:45.83448702 +0000 UTC"
+    },
+    {
+      "mmsi": "503000080",
+      "name": "MANNING",
+      "lat": -33.8683,
+      "lon": 151.222,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-09 12:57:49.74814063 +0000 UTC"
+    },
+    {
+      "mmsi": "273418880",
+      "name": "BAKHTEMIR",
+      "lat": 46.6228,
+      "lon": 142.7689,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-09 12:57:51.407364433 +0000 UTC"
+    },
+    {
+      "mmsi": "244374235",
+      "name": "NT 11 WATERTRAPPER",
+      "lat": 51.8336,
+      "lon": 4.9356,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-09 12:57:51.479095025 +0000 UTC"
+    },
+    {
+      "mmsi": "224162880",
+      "name": "TERCERO DOS MEROS",
+      "lat": 42.5189,
+      "lon": -8.8272,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-09 12:57:53.961393065 +0000 UTC"
+    },
+    {
+      "mmsi": "235034368",
+      "name": "MULTI-SURVEY 4",
+      "lat": 52.9549,
+      "lon": 4.7791,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-09 12:57:58.723576357 +0000 UTC"
+    },
+    {
+      "mmsi": "375369000",
+      "name": "ZAYYAN K",
+      "lat": 31.8278,
+      "lon": 34.6469,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-09 12:57:58.806503298 +0000 UTC"
+    },
+    {
+      "mmsi": "244615506",
+      "name": "ZUID-HOLLAND-ZUID",
+      "lat": 51.8,
+      "lon": 4.6394,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-09 12:58:03.473659604 +0000 UTC"
+    },
+    {
+      "mmsi": "368248520",
+      "name": "DORADO",
+      "lat": 37.8548,
+      "lon": -122.3943,
+      "sog": 36.7,
+      "cog": 355.5,
+      "nav_status": 0,
+      "last_update": "2026-09-09 12:57:24.797588959 +0000 UTC"
     }
   ]
 }
