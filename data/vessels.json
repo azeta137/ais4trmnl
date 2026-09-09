@@ -1,7 +1,151 @@
 {
-  "updated_at": "2026-09-09T06:40:09Z",
-  "count": 4035,
+  "updated_at": "2026-09-09T06:57:47Z",
+  "count": 7717,
   "vessels": [
+    {
+      "mmsi": "244108000",
+      "name": "ZK46 ZEEMEEUW",
+      "lat": 53.3197,
+      "lon": 7.1003,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-09 06:56:38.409579844 +0000 UTC"
+    },
+    {
+      "mmsi": "240796900",
+      "name": "SEALINK VII",
+      "lat": 37.862,
+      "lon": 23.744,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 1,
+      "last_update": "2026-09-09 06:56:39.208231328 +0000 UTC"
+    },
+    {
+      "mmsi": "993692247",
+      "name": "",
+      "lat": 47.984,
+      "lon": -122.2462,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-09 06:56:44.250296346 +0000 UTC"
+    },
+    {
+      "mmsi": "428067000",
+      "name": "BAT GALIM",
+      "lat": 32.297,
+      "lon": 34.7199,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 3,
+      "last_update": "2026-09-09 06:56:51.672348966 +0000 UTC"
+    },
+    {
+      "mmsi": "367415390",
+      "name": "EMPIRE STATE",
+      "ship_type": 60,
+      "destination": "HOB\\WFC",
+      "lat": 40.7711,
+      "lon": -74.0116,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-09 06:57:34.365691391 +0000 UTC"
+    },
+    {
+      "mmsi": "993692428",
+      "name": "",
+      "lat": 47.5759,
+      "lon": -122.4513,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-09 06:57:00.202558491 +0000 UTC"
+    },
+    {
+      "mmsi": "366986380",
+      "name": "DREDGE OREGON",
+      "lat": 46.2023,
+      "lon": -123.4289,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 3,
+      "last_update": "2026-09-09 06:57:08.452056389 +0000 UTC"
+    },
+    {
+      "mmsi": "316014014",
+      "name": "TAKAYA",
+      "lat": 49.2863,
+      "lon": -123.1004,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-09 06:57:10.109689988 +0000 UTC"
+    },
+    {
+      "mmsi": "993692050",
+      "name": "",
+      "lat": 47.6614,
+      "lon": -122.4645,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-09 06:57:12.20759343 +0000 UTC"
+    },
+    {
+      "mmsi": "993692021",
+      "name": "",
+      "lat": 47.4479,
+      "lon": -122.4046,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-09 06:57:16.298678104 +0000 UTC"
+    },
+    {
+      "mmsi": "235070403",
+      "name": "WINDCAT 14",
+      "lat": 57.1435,
+      "lon": -2.0898,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 9,
+      "last_update": "2026-09-09 06:57:16.369768118 +0000 UTC"
+    },
+    {
+      "mmsi": "245382000",
+      "name": "KNRM-FRED",
+      "lat": 51.6218,
+      "lon": 3.6877,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-09 06:57:18.093688635 +0000 UTC"
+    },
+    {
+      "mmsi": "271000677",
+      "name": "VENTO DI MELTEMI",
+      "lat": 44.4054,
+      "lon": 8.8853,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-09 06:57:33.123599187 +0000 UTC",
+      "ship_type": 72,
+      "destination": "ITGOA"
+    },
+    {
+      "mmsi": "219385000",
+      "name": "BJOERNSHOLM",
+      "lat": 55.6793,
+      "lon": 12.593,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-09 06:57:26.044922903 +0000 UTC"
+    },
     {
       "mmsi": "993692427",
       "name": "",
@@ -10,199 +154,57 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-09-09 06:39:28.211223572 +0000 UTC"
+      "last_update": "2026-09-09 06:57:28.308446227 +0000 UTC"
     },
     {
-      "mmsi": "245382000",
-      "name": "KNRM-FRED",
-      "lat": 51.6218,
-      "lon": 3.6878,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-09 06:39:38.049293672 +0000 UTC"
-    },
-    {
-      "mmsi": "993692429",
+      "mmsi": "972419789",
       "name": "",
-      "lat": 47.3851,
-      "lon": -122.3535,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-09 06:39:40.214066807 +0000 UTC"
+      "lat": 51.1983,
+      "lon": 2.8506,
+      "sog": 60.1,
+      "cog": 11.2,
+      "nav_status": 14,
+      "last_update": "2026-09-09 06:57:22.908366405 +0000 UTC"
     },
     {
-      "mmsi": "316014014",
-      "name": "TAKAYA",
-      "lat": 49.2863,
-      "lon": -123.1003,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-09 06:39:40.839068388 +0000 UTC"
-    },
-    {
-      "mmsi": "503000080",
-      "name": "MANNING",
-      "lat": -33.8683,
-      "lon": 151.222,
-      "sog": 102.3,
-      "cog": 360,
+      "mmsi": "210967000",
+      "name": "CHAMPIONSLEAGUE JET1",
+      "lat": 37.7571,
+      "lon": 23.6588,
+      "sog": 35.8,
+      "cog": 160.2,
       "nav_status": 5,
-      "last_update": "2026-09-09 06:39:48.342008636 +0000 UTC"
+      "last_update": "2026-09-09 06:57:25.918470565 +0000 UTC"
     },
     {
-      "mmsi": "271053066",
-      "name": "NAIM TUGAY",
-      "lat": 36.4698,
-      "lon": 28.234,
-      "sog": 36.1,
-      "cog": 192,
+      "mmsi": "210052000",
+      "name": "EUROCHAMPION JET 2",
+      "lat": 37.4706,
+      "lon": 25.1912,
+      "sog": 35.7,
+      "cog": 77.8,
       "nav_status": 0,
-      "last_update": "2026-09-09 06:39:44.516453839 +0000 UTC"
+      "last_update": "2026-09-09 06:57:19.185018252 +0000 UTC"
     },
     {
-      "mmsi": "224781000",
-      "name": "VOLCAN DE TAGORO",
-      "lat": 28.4215,
-      "lon": -16.0723,
-      "sog": 33.7,
-      "cog": 111.7,
-      "nav_status": 9,
-      "last_update": "2026-09-09 06:39:34.829038319 +0000 UTC"
-    },
-    {
-      "mmsi": "257605000",
-      "name": "FROYA",
-      "lat": 60.6025,
-      "lon": 5.2063,
-      "sog": 31.9,
-      "cog": 330.5,
-      "nav_status": 9,
-      "last_update": "2026-09-09 06:39:52.7288857 +0000 UTC"
-    },
-    {
-      "mmsi": "224984000",
-      "name": "VOLCAN DE TAIDIA",
-      "lat": 28.217,
-      "lon": -15.4679,
-      "sog": 31.1,
-      "cog": 280.1,
+      "mmsi": "244120002",
+      "name": "",
+      "lat": 51.8965,
+      "lon": 4.3912,
+      "sog": 35.6,
+      "cog": 287.2,
       "nav_status": 0,
-      "last_update": "2026-09-09 06:39:54.53599039 +0000 UTC"
+      "last_update": "2026-09-09 06:57:05.412595833 +0000 UTC"
     },
     {
-      "mmsi": "241804000",
-      "name": "AERO 3 HIGHSPEED",
-      "lat": 37.7205,
-      "lon": 23.3577,
-      "sog": 30.2,
-      "cog": 48.7,
+      "mmsi": "212859000",
+      "name": "MERCEDES PINTO",
+      "lat": 28.0332,
+      "lon": -14.4211,
+      "sog": 34.8,
+      "cog": 269,
       "nav_status": 0,
-      "last_update": "2026-09-09 06:39:32.098880419 +0000 UTC"
-    },
-    {
-      "mmsi": "244190013",
-      "name": "SKUA",
-      "lat": 53.3129,
-      "lon": 5.1182,
-      "sog": 28.9,
-      "cog": 48.3,
-      "nav_status": 0,
-      "last_update": "2026-09-09 06:39:55.069947295 +0000 UTC"
-    },
-    {
-      "mmsi": "257015600",
-      "name": "RYGERSKYSS__",
-      "lat": 59.0961,
-      "lon": 5.8803,
-      "sog": 28.2,
-      "cog": 350,
-      "nav_status": 0,
-      "last_update": "2026-09-09 06:39:51.792677222 +0000 UTC"
-    },
-    {
-      "mmsi": "244700416",
-      "name": "KOEGELWIECK",
-      "lat": 53.2317,
-      "lon": 5.2212,
-      "sog": 27.9,
-      "cog": 272.7,
-      "nav_status": 0,
-      "last_update": "2026-09-09 06:39:41.355065651 +0000 UTC"
-    },
-    {
-      "mmsi": "210658000",
-      "name": "MAGIC 5",
-      "lat": 37.817,
-      "lon": 23.5009,
-      "sog": 27.8,
-      "cog": 229.3,
-      "nav_status": 0,
-      "last_update": "2026-09-09 06:39:43.384914715 +0000 UTC"
-    },
-    {
-      "mmsi": "247270100",
-      "name": "ANGELINA LAURO JET",
-      "lat": 40.791,
-      "lon": 14.2285,
-      "sog": 27.6,
-      "cog": 66,
-      "nav_status": 0,
-      "last_update": "2026-09-09 06:39:54.579150641 +0000 UTC"
-    },
-    {
-      "mmsi": "224200000",
-      "name": "FORMENTERA JET",
-      "lat": 38.8309,
-      "lon": 1.4236,
-      "sog": 26.3,
-      "cog": 13,
-      "nav_status": 0,
-      "last_update": "2026-09-09 06:39:28.920114159 +0000 UTC"
-    },
-    {
-      "mmsi": "235117926",
-      "name": "RED JET 6",
-      "lat": 50.8764,
-      "lon": -1.3875,
-      "sog": 26.1,
-      "cog": 305.3,
-      "nav_status": 0,
-      "last_update": "2026-09-09 06:39:42.789572622 +0000 UTC"
-    },
-    {
-      "mmsi": "232067379",
-      "name": "ARTEMIS",
-      "lat": 54.6673,
-      "lon": -5.8217,
-      "sog": 26,
-      "cog": 350.1,
-      "nav_status": 0,
-      "last_update": "2026-09-09 06:39:38.806211603 +0000 UTC"
-    },
-    {
-      "mmsi": "261008236",
-      "name": "PILOT20",
-      "lat": 54.4251,
-      "lon": 18.7187,
-      "sog": 25.9,
-      "cog": 80.8,
-      "nav_status": 15,
-      "last_update": "2026-09-09 06:39:46.456807208 +0000 UTC",
-      "ship_type": 50,
-      "destination": ""
-    },
-    {
-      "mmsi": "512006292",
-      "name": "WLG PILOT TE HAA",
-      "lat": -41.2744,
-      "lon": 174.8343,
-      "sog": 25.5,
-      "cog": 252.1,
-      "nav_status": 0,
-      "last_update": "2026-09-09 06:39:37.013272866 +0000 UTC"
+      "last_update": "2026-09-09 06:57:13.693010684 +0000 UTC"
     }
   ]
 }
