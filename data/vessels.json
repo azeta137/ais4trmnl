@@ -1,190 +1,16 @@
 {
-  "updated_at": "2026-09-10T02:33:29Z",
-  "count": 5963,
+  "updated_at": "2026-09-10T02:51:14Z",
+  "count": 6537,
   "vessels": [
     {
-      "mmsi": "240796900",
-      "name": "SEALINK VII",
-      "lat": 37.862,
-      "lon": 23.744,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-09-10 02:32:18.83291415 +0000 UTC"
-    },
-    {
-      "mmsi": "247130800",
-      "name": "SVEZIA",
-      "lat": 44.4112,
-      "lon": 8.9201,
+      "mmsi": "271000677",
+      "name": "VENTO DI MELTEMI",
+      "lat": 44.4054,
+      "lon": 8.8853,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-10 02:32:18.896794555 +0000 UTC"
-    },
-    {
-      "mmsi": "211103530",
-      "name": "",
-      "lat": 53.0352,
-      "lon": 7.3182,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-10 02:32:20.51257305 +0000 UTC"
-    },
-    {
-      "mmsi": "244374235",
-      "name": "NT 11 WATERTRAPPER",
-      "lat": 51.8338,
-      "lon": 4.936,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-10 02:32:22.662350001 +0000 UTC"
-    },
-    {
-      "mmsi": "319276200",
-      "name": "KASIF",
-      "lat": 36.8443,
-      "lon": 28.27,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-10 02:32:23.690660055 +0000 UTC"
-    },
-    {
-      "mmsi": "244108000",
-      "name": "ZK46 ZEEMEEUW",
-      "lat": 53.3294,
-      "lon": 6.9314,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-10 02:32:28.760062521 +0000 UTC"
-    },
-    {
-      "mmsi": "261002090",
-      "name": "SM PRC 106",
-      "lat": 54.429,
-      "lon": 16.393,
-      "sog": 102.3,
-      "cog": 54.9,
-      "nav_status": 5,
-      "last_update": "2026-09-10 02:32:29.247424067 +0000 UTC"
-    },
-    {
-      "mmsi": "368173000",
-      "name": "FISHING CREEK",
-      "lat": 37.7739,
-      "lon": -122.2415,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-10 02:32:33.188333043 +0000 UTC",
-      "ship_type": 31,
-      "destination": "ANCHORAGE 5"
-    },
-    {
-      "mmsi": "993692050",
-      "name": "",
-      "lat": 47.6614,
-      "lon": -122.4645,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-10 02:32:36.197781904 +0000 UTC"
-    },
-    {
-      "mmsi": "246281000",
-      "name": "KNRM-FRANS HOGEWIND",
-      "lat": 53.3989,
-      "lon": 5.2492,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-10 02:32:40.314507098 +0000 UTC"
-    },
-    {
-      "mmsi": "246602000",
-      "name": "FRISIANA",
-      "ship_type": 70,
-      "destination": "FOR ORDER",
-      "lat": 54.4649,
-      "lon": 18.6497,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-09-10 02:32:55.630409815 +0000 UTC"
-    },
-    {
-      "mmsi": "244750526",
-      "name": "KLASINA",
-      "lat": 49.1631,
-      "lon": 9.2121,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-10 02:32:45.71554558 +0000 UTC"
-    },
-    {
-      "mmsi": "244850108",
-      "name": "RIO GRANDE",
-      "lat": 52.4569,
-      "lon": 5.8249,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-10 02:32:46.536272486 +0000 UTC"
-    },
-    {
-      "mmsi": "241926000",
-      "name": "LYBOUSSAKIS ATLAS",
-      "lat": 37.9575,
-      "lon": 23.6102,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-10 02:32:48.378216548 +0000 UTC"
-    },
-    {
-      "mmsi": "601126900",
-      "name": "SEA EXPRESS",
-      "lat": -29.8682,
-      "lon": 31.0142,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-09-10 02:32:49.107905662 +0000 UTC"
-    },
-    {
-      "mmsi": "370789000",
-      "name": "SEA HUNTER (GUARD)",
-      "lat": 54.4379,
-      "lon": 16.3842,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-10 02:32:49.27339046 +0000 UTC"
-    },
-    {
-      "mmsi": "244120000",
-      "name": "ANTEOS",
-      "lat": 51.3118,
-      "lon": 4.3208,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 3,
-      "last_update": "2026-09-10 02:32:49.47550569 +0000 UTC"
-    },
-    {
-      "mmsi": "205088000",
-      "name": "J. BREYDEL SURVEY",
-      "lat": 51.2231,
-      "lon": 2.9356,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-10 02:32:52.316112024 +0000 UTC"
+      "last_update": "2026-09-10 02:50:04.221901167 +0000 UTC"
     },
     {
       "mmsi": "244615506",
@@ -194,17 +20,187 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-10 02:32:54.473163459 +0000 UTC"
+      "last_update": "2026-09-10 02:50:04.841703333 +0000 UTC"
     },
     {
-      "mmsi": "235034368",
-      "name": "MULTI-SURVEY 4",
-      "lat": 53.0425,
-      "lon": 4.8557,
+      "mmsi": "1073741823",
+      "name": "",
+      "lat": 89.9952,
+      "lon": -179.0,
+      "sog": 102.3,
+      "cog": 360.3,
+      "nav_status": 15,
+      "last_update": "2026-09-10 02:50:07.670393951 +0000 UTC"
+    },
+    {
+      "mmsi": "993692247",
+      "name": "",
+      "lat": 47.984,
+      "lon": -122.2462,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-10 02:50:08.243757546 +0000 UTC"
+    },
+    {
+      "mmsi": "244120000",
+      "name": "ANTEOS",
+      "lat": 51.3118,
+      "lon": 4.3208,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 3,
+      "last_update": "2026-09-10 02:50:08.519467187 +0000 UTC"
+    },
+    {
+      "mmsi": "601126900",
+      "name": "SEA EXPRESS",
+      "lat": -29.8681,
+      "lon": 31.0141,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-09-10 02:50:08.61313186 +0000 UTC"
+    },
+    {
+      "mmsi": "993692425",
+      "name": "",
+      "lat": 47.9645,
+      "lon": -122.5796,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-10 02:50:12.207160111 +0000 UTC"
+    },
+    {
+      "mmsi": "240451900",
+      "name": "WHITECAPS",
+      "lat": 37.7409,
+      "lon": 23.4261,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-10 02:32:56.296845101 +0000 UTC"
+      "last_update": "2026-09-10 02:50:13.330148143 +0000 UTC"
+    },
+    {
+      "mmsi": "246602000",
+      "name": "FRISIANA",
+      "lat": 54.4648,
+      "lon": 18.6499,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 1,
+      "last_update": "2026-09-10 02:50:14.751100328 +0000 UTC"
+    },
+    {
+      "mmsi": "244850108",
+      "name": "RIO GRANDE",
+      "lat": 52.4568,
+      "lon": 5.8248,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-10 02:50:16.106157164 +0000 UTC"
+    },
+    {
+      "mmsi": "993692427",
+      "name": "",
+      "lat": 47.7651,
+      "lon": -122.4376,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-10 02:50:16.295971869 +0000 UTC"
+    },
+    {
+      "mmsi": "636011247",
+      "name": "SAGITTA",
+      "lat": 37.9297,
+      "lon": 23.6816,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-10 02:50:17.099764142 +0000 UTC"
+    },
+    {
+      "mmsi": "563070140",
+      "name": "PSA TAURUS YS52",
+      "lat": 1.2217,
+      "lon": 103.7911,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-10 02:50:17.941371049 +0000 UTC"
+    },
+    {
+      "mmsi": "245382000",
+      "name": "KNRM-FRED",
+      "lat": 51.6218,
+      "lon": 3.6878,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-10 02:50:20.016737762 +0000 UTC"
+    },
+    {
+      "mmsi": "210920000",
+      "name": "VTS PENTADAKTYLOS",
+      "lat": 34.7185,
+      "lon": 33.3178,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-10 02:50:21.252226103 +0000 UTC"
+    },
+    {
+      "mmsi": "525300489",
+      "name": "JAZEEL",
+      "lat": -6.8445,
+      "lon": 112.4031,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-10 02:50:23.435915603 +0000 UTC"
+    },
+    {
+      "mmsi": "240796900",
+      "name": "SEALINK VII",
+      "lat": 37.862,
+      "lon": 23.744,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 1,
+      "last_update": "2026-09-10 02:50:28.195646184 +0000 UTC"
+    },
+    {
+      "mmsi": "261182860",
+      "name": "HYDROBUD 1",
+      "lat": 54.4361,
+      "lon": 16.3862,
+      "sog": 102.3,
+      "cog": 255.4,
+      "nav_status": 2,
+      "last_update": "2026-09-10 02:50:29.307808477 +0000 UTC"
+    },
+    {
+      "mmsi": "319276200",
+      "name": "KASIF",
+      "lat": 36.8443,
+      "lon": 28.2699,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-10 02:50:33.559731286 +0000 UTC"
+    },
+    {
+      "mmsi": "368000880",
+      "name": "HEATHER JOE",
+      "lat": 41.6391,
+      "lon": -70.9202,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-10 02:50:36.183896091 +0000 UTC"
     }
   ]
 }
