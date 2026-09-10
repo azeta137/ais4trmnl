@@ -1,208 +1,208 @@
 {
-  "updated_at": "2026-09-10T00:56:13Z",
-  "count": 2218,
+  "updated_at": "2026-09-10T01:14:21Z",
+  "count": 1884,
   "vessels": [
     {
-      "mmsi": "240451900",
-      "name": "WHITECAPS",
-      "lat": 37.7409,
-      "lon": 23.4261,
+      "mmsi": "205088000",
+      "name": "J. BREYDEL SURVEY",
+      "lat": 51.2231,
+      "lon": 2.9355,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-10 00:55:53.211415048 +0000 UTC"
+      "last_update": "2026-09-10 01:13:55.816911195 +0000 UTC"
     },
     {
-      "mmsi": "235034368",
-      "name": "MULTI-SURVEY 4",
-      "lat": 53.0425,
-      "lon": 4.8557,
+      "mmsi": "241926000",
+      "name": "LYBOUSSAKIS ATLAS",
+      "lat": 37.9575,
+      "lon": 23.6102,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-10 00:55:55.762765392 +0000 UTC"
+      "last_update": "2026-09-10 01:13:58.915499853 +0000 UTC"
     },
     {
-      "mmsi": "240796900",
-      "name": "SEALINK VII",
-      "lat": 37.862,
-      "lon": 23.744,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-09-10 00:55:59.130716223 +0000 UTC"
-    },
-    {
-      "mmsi": "477997158",
-      "name": "PORT WORKS 5",
-      "lat": 22.3235,
-      "lon": 114.1415,
+      "mmsi": "316014014",
+      "name": "TAKAYA",
+      "lat": 49.2863,
+      "lon": -123.1005,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-09-10 00:56:00.487407928 +0000 UTC"
+      "last_update": "2026-09-10 01:14:00.010726478 +0000 UTC"
     },
     {
-      "mmsi": "244615506",
-      "name": "ZUID-HOLLAND-ZUID",
-      "ship_type": 99,
-      "destination": "",
-      "lat": 51.7999,
-      "lon": 4.6394,
+      "mmsi": "210588000",
+      "name": "LEDRA PRIDE",
+      "lat": 34.6452,
+      "lon": 33.018,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-09-10 01:14:02.198182342 +0000 UTC"
+    },
+    {
+      "mmsi": "636023461",
+      "name": "FIONA",
+      "lat": 39.4387,
+      "lon": -0.324,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-10 00:56:03.133544561 +0000 UTC"
-    },
-    {
-      "mmsi": "261007705",
-      "name": "FAIRPLAY-83",
-      "lat": 53.9073,
-      "lon": 14.2599,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-10 00:56:01.599057127 +0000 UTC"
-    },
-    {
-      "mmsi": "244353000",
-      "name": "ROTTERDAM",
-      "lat": 51.9132,
-      "lon": 4.2397,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-10 00:56:05.61995589 +0000 UTC"
-    },
-    {
-      "mmsi": "316033546",
-      "name": "A GREAT ESCAPE",
-      "lat": 49.0888,
-      "lon": -123.1094,
-      "sog": 54.4,
-      "cog": 104.6,
-      "nav_status": 5,
-      "last_update": "2026-09-10 00:56:04.829060969 +0000 UTC"
+      "last_update": "2026-09-10 01:14:05.070456596 +0000 UTC"
     },
     {
       "mmsi": "316052438",
       "name": "STHUQI",
-      "lat": 49.3224,
-      "lon": -123.1995,
-      "sog": 34.5,
-      "cog": 279.7,
+      "lat": 49.304,
+      "lon": -123.462,
+      "sog": 34.7,
+      "cog": 249,
       "nav_status": 9,
-      "last_update": "2026-09-10 00:55:57.148943517 +0000 UTC"
+      "last_update": "2026-09-10 01:14:03.089411828 +0000 UTC"
     },
     {
-      "mmsi": "261008236",
-      "name": "PILOT20",
-      "lat": 54.4326,
-      "lon": 18.657,
-      "sog": 25.9,
-      "cog": 345.9,
+      "mmsi": "368206330",
+      "name": "SOLANO",
+      "lat": 47.6534,
+      "lon": -122.4632,
+      "sog": 30.7,
+      "cog": 153,
+      "nav_status": 0,
+      "last_update": "2026-09-10 01:14:05.778013497 +0000 UTC"
+    },
+    {
+      "mmsi": "367347130",
+      "name": "SEASTREAK NEW YORK",
+      "lat": 40.4416,
+      "lon": -74.0272,
+      "sog": 30.2,
+      "cog": 179,
+      "nav_status": 0,
+      "last_update": "2026-09-10 01:14:02.052868165 +0000 UTC"
+    },
+    {
+      "mmsi": "367347670",
+      "name": "SEASTREAK HIGHLANDS",
+      "lat": 40.6955,
+      "lon": -74.0053,
+      "sog": 27.3,
+      "cog": 25,
       "nav_status": 15,
-      "last_update": "2026-09-10 00:56:04.563364397 +0000 UTC"
+      "last_update": "2026-09-10 01:14:02.372124039 +0000 UTC"
     },
     {
-      "mmsi": "367380880",
-      "name": "GEMINI",
-      "lat": 37.7982,
-      "lon": -122.3373,
-      "sog": 25.8,
-      "cog": 74.1,
+      "mmsi": "239918000",
+      "name": "SUPERFAST XI",
+      "lat": 40.5827,
+      "lon": 18.5212,
+      "sog": 27.2,
+      "cog": 126,
       "nav_status": 0,
-      "last_update": "2026-09-10 00:56:03.18855197 +0000 UTC"
+      "last_update": "2026-09-10 01:13:59.994677334 +0000 UTC"
     },
     {
-      "mmsi": "244730125",
-      "name": "KRVE 62",
-      "lat": 51.9663,
-      "lon": 4.1182,
-      "sog": 25.2,
-      "cog": 118.1,
+      "mmsi": "237280000",
+      "name": "SUPERFAST III",
+      "lat": 40.0298,
+      "lon": 19.6386,
+      "sog": 26.9,
+      "cog": 309.1,
       "nav_status": 0,
-      "last_update": "2026-09-10 00:56:05.011923547 +0000 UTC"
+      "last_update": "2026-09-10 01:13:56.005280385 +0000 UTC"
     },
     {
-      "mmsi": "503106740",
-      "name": "LIZ ELLIS",
-      "lat": -33.8524,
-      "lon": 151.2007,
+      "mmsi": "338332477",
+      "name": "TOWBOATUS_ALAMEDA",
+      "lat": 37.804,
+      "lon": -122.366,
+      "sog": 26.9,
+      "cog": 105.7,
+      "nav_status": 0,
+      "last_update": "2026-09-10 01:14:00.68207351 +0000 UTC"
+    },
+    {
+      "mmsi": "512000532",
+      "name": "STARFLYTE",
+      "lat": -36.8355,
+      "lon": 174.8177,
+      "sog": 24.8,
+      "cog": 67.5,
+      "nav_status": 0,
+      "last_update": "2026-09-10 01:14:06.573999326 +0000 UTC"
+    },
+    {
+      "mmsi": "367605150",
+      "name": "ASTORIA",
+      "lat": 46.2274,
+      "lon": -123.9647,
       "sog": 24.5,
-      "cog": 229.9,
-      "nav_status": 0,
-      "last_update": "2026-09-10 00:56:00.396496878 +0000 UTC"
+      "cog": 132.7,
+      "nav_status": 5,
+      "last_update": "2026-09-10 01:13:59.648562081 +0000 UTC"
     },
     {
-      "mmsi": "316042213",
-      "name": "SALISH SEA FREEDOM",
-      "lat": 49.2834,
-      "lon": -123.3959,
-      "sog": 24.3,
-      "cog": 145.7,
+      "mmsi": "672269000",
+      "name": "CARTHAGE",
+      "lat": 42.8985,
+      "lon": 9.6018,
+      "sog": 21.8,
+      "cog": 173.3,
       "nav_status": 0,
-      "last_update": "2026-09-10 00:55:57.60143972 +0000 UTC"
+      "last_update": "2026-09-10 01:14:04.060746129 +0000 UTC"
     },
     {
-      "mmsi": "235090769",
-      "name": "ESTUARY ELAN",
-      "lat": 51.4005,
-      "lon": 1.5026,
-      "sog": 24.3,
-      "cog": 216.6,
+      "mmsi": "503261100",
+      "name": "PALM CAT",
+      "lat": -19.1969,
+      "lon": 146.8471,
+      "sog": 21.7,
+      "cog": 201.8,
       "nav_status": 0,
-      "last_update": "2026-09-10 00:56:05.677979739 +0000 UTC"
+      "last_update": "2026-09-10 01:13:56.436187326 +0000 UTC"
     },
     {
-      "mmsi": "512001265",
-      "name": "TIRIKAT",
-      "lat": -36.8268,
-      "lon": 174.8344,
-      "sog": 23.3,
-      "cog": 230.4,
+      "mmsi": "311042900",
+      "name": "DISNEY DREAM",
+      "ship_type": 60,
+      "destination": "GBGRK",
+      "lat": 54.4726,
+      "lon": -5.2432,
+      "sog": 21.3,
+      "cog": 1.9,
       "nav_status": 0,
-      "last_update": "2026-09-10 00:56:03.844879978 +0000 UTC"
-    },
-    {
-      "mmsi": "257089530",
-      "name": "LOS 135",
-      "lat": 59.0819,
-      "lon": 10.5255,
-      "sog": 22,
-      "cog": 107.4,
-      "nav_status": 0,
-      "last_update": "2026-09-10 00:56:00.910044069 +0000 UTC"
-    },
-    {
-      "mmsi": "239923000",
-      "name": "BLUE STAR NAXOS",
-      "lat": 37.8467,
-      "lon": 23.6611,
-      "sog": 21.2,
-      "cog": 334.1,
-      "nav_status": 0,
-      "last_update": "2026-09-10 00:55:58.86063962 +0000 UTC"
+      "last_update": "2026-09-10 01:14:05.833218039 +0000 UTC"
     },
     {
       "mmsi": "311062900",
       "name": "PRIDE OF HULL",
-      "lat": 53.0597,
-      "lon": 1.6258,
-      "sog": 21,
-      "cog": 307.6,
+      "lat": 53.129,
+      "lon": 1.4953,
+      "sog": 21.1,
+      "cog": 315.9,
       "nav_status": 0,
-      "last_update": "2026-09-10 00:56:05.542502823 +0000 UTC"
+      "last_update": "2026-09-10 01:14:06.258576515 +0000 UTC"
     },
     {
-      "mmsi": "345090028",
-      "name": "XCARET",
-      "lat": 20.539,
-      "lon": -86.9781,
+      "mmsi": "224675000",
+      "name": "BUENAVISTA EXPRESS",
+      "lat": 36.3114,
+      "lon": -7.6986,
       "sog": 20.9,
-      "cog": 135.6,
+      "cog": 42.6,
       "nav_status": 0,
-      "last_update": "2026-09-10 00:56:03.814117994 +0000 UTC"
+      "last_update": "2026-09-10 01:14:01.364173876 +0000 UTC"
+    },
+    {
+      "mmsi": "316011407",
+      "name": "COASTAL RENAISSANCE",
+      "lat": 49.2161,
+      "lon": -123.8173,
+      "sog": 20.7,
+      "cog": 71,
+      "nav_status": 0,
+      "last_update": "2026-09-10 01:14:01.541129767 +0000 UTC"
     }
   ]
 }
