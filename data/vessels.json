@@ -1,118 +1,16 @@
 {
-  "updated_at": "2026-09-14T22:21:39Z",
-  "count": 5429,
+  "updated_at": "2026-09-15T00:54:45Z",
+  "count": 6283,
   "vessels": [
-    {
-      "mmsi": "227075560",
-      "name": "MAJESTY",
-      "lat": 51.3266,
-      "lon": 4.3197,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-14 22:20:33.695186023 +0000 UTC"
-    },
-    {
-      "mmsi": "310862000",
-      "name": "URIEL",
-      "lat": 39.8903,
-      "lon": 4.2771,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-09-14 22:20:34.193699351 +0000 UTC"
-    },
     {
       "mmsi": "366941780",
       "name": "PROVIDER",
-      "ship_type": 30,
-      "destination": "",
       "lat": 47.6674,
-      "lon": -122.3904,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-14 22:20:54.022246575 +0000 UTC"
-    },
-    {
-      "mmsi": "366081959",
-      "name": "FIREBOAT 3",
-      "lat": 33.7644,
-      "lon": -118.2557,
+      "lon": -122.3905,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-14 22:20:40.022686638 +0000 UTC"
-    },
-    {
-      "mmsi": "259046050",
-      "name": "FREMAD",
-      "lat": 66.3729,
-      "lon": 12.361,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-14 22:20:44.043082346 +0000 UTC"
-    },
-    {
-      "mmsi": "367757690",
-      "name": "ELGERCLIFF",
-      "lat": 39.278,
-      "lon": -81.6493,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-14 22:20:45.030230084 +0000 UTC"
-    },
-    {
-      "mmsi": "244108000",
-      "name": "ZK46 ZEEMEEUW",
-      "lat": 53.3297,
-      "lon": 6.9315,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-14 22:20:46.134576473 +0000 UTC"
-    },
-    {
-      "mmsi": "273418880",
-      "name": "BAKHTEMIR",
-      "lat": 46.6228,
-      "lon": 142.7689,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-14 22:20:50.743508295 +0000 UTC"
-    },
-    {
-      "mmsi": "244615506",
-      "name": "ZUID-HOLLAND-ZUID",
-      "lat": 51.8,
-      "lon": 4.6394,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-14 22:21:04.581330796 +0000 UTC"
-    },
-    {
-      "mmsi": "244850108",
-      "name": "RIO GRANDE",
-      "lat": 52.4567,
-      "lon": 5.8248,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-14 22:21:06.454915409 +0000 UTC"
-    },
-    {
-      "mmsi": "428067000",
-      "name": "BAT GALIM",
-      "lat": 32.468,
-      "lon": 34.8077,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 3,
-      "last_update": "2026-09-14 22:21:07.930493919 +0000 UTC"
+      "last_update": "2026-09-15 00:53:35.146286419 +0000 UTC"
     },
     {
       "mmsi": "993692050",
@@ -122,89 +20,187 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-09-14 22:21:12.439214147 +0000 UTC"
+      "last_update": "2026-09-15 00:53:36.440077381 +0000 UTC"
+    },
+    {
+      "mmsi": "230632000",
+      "name": "FINNWAVE",
+      "lat": 50.3659,
+      "lon": 0.1837,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-15 00:53:40.372853351 +0000 UTC"
+    },
+    {
+      "mmsi": "210920000",
+      "name": "VTS PENTADAKTYLOS",
+      "lat": 34.7186,
+      "lon": 33.3185,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-15 00:53:42.139306927 +0000 UTC"
+    },
+    {
+      "mmsi": "993692247",
+      "name": "",
+      "lat": 47.984,
+      "lon": -122.2462,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-15 00:53:44.401033621 +0000 UTC"
+    },
+    {
+      "mmsi": "261011633",
+      "name": "HYDROCAT MURRAY",
+      "lat": 54.3461,
+      "lon": 18.7893,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-09-15 00:53:46.670942028 +0000 UTC"
+    },
+    {
+      "mmsi": "210588000",
+      "name": "LEDRA PRIDE",
+      "lat": 34.6451,
+      "lon": 33.018,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-09-15 00:53:49.158099709 +0000 UTC"
+    },
+    {
+      "mmsi": "245382000",
+      "name": "KNRM-FRED",
+      "lat": 51.6218,
+      "lon": 3.6879,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-15 00:53:49.921920407 +0000 UTC"
+    },
+    {
+      "mmsi": "235034368",
+      "name": "MULTI-SURVEY 4",
+      "lat": 51.9773,
+      "lon": 4.1218,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-15 00:53:55.621035211 +0000 UTC"
+    },
+    {
+      "mmsi": "232008636",
+      "name": "VOE VANGUARD",
+      "lat": 54.5911,
+      "lon": 16.8088,
+      "sog": 102.3,
+      "cog": 149.5,
+      "nav_status": 0,
+      "last_update": "2026-09-15 00:53:58.410476883 +0000 UTC"
+    },
+    {
+      "mmsi": "241926000",
+      "name": "LYBOUSSAKIS ATLAS",
+      "lat": 37.9573,
+      "lon": 23.611,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-15 00:53:59.072192403 +0000 UTC"
+    },
+    {
+      "mmsi": "244615506",
+      "name": "ZUID-HOLLAND-ZUID",
+      "lat": 51.8,
+      "lon": 4.6394,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-15 00:54:13.031016025 +0000 UTC"
+    },
+    {
+      "mmsi": "224627000",
+      "name": "OMVAC CATORCE",
+      "lat": 36.14,
+      "lon": -5.3297,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 1,
+      "last_update": "2026-09-15 00:54:18.419597098 +0000 UTC"
+    },
+    {
+      "mmsi": "273418880",
+      "name": "BAKHTEMIR",
+      "lat": 46.6228,
+      "lon": 142.7689,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-15 00:54:21.672593642 +0000 UTC"
     },
     {
       "mmsi": "258955000",
       "name": "NORTH SEA ATLANTIC",
-      "lat": 33.2504,
-      "lon": 34.1889,
-      "sog": 97,
-      "cog": 28.4,
+      "lat": 33.2298,
+      "lon": 34.1763,
+      "sog": 97.1,
+      "cog": 13.4,
       "nav_status": 3,
-      "last_update": "2026-09-14 22:20:37.475945772 +0000 UTC"
+      "last_update": "2026-09-15 00:54:15.015154829 +0000 UTC"
+    },
+    {
+      "mmsi": "667002348",
+      "name": "KAPITAN MISKOV",
+      "lat": 60.1168,
+      "lon": 31.3968,
+      "sog": 64.4,
+      "cog": 50.2,
+      "nav_status": 5,
+      "last_update": "2026-09-15 00:54:02.681248814 +0000 UTC"
+    },
+    {
+      "mmsi": "368434280",
+      "name": "ZALOPHUS",
+      "lat": 38.0425,
+      "lon": -122.3291,
+      "sog": 34.2,
+      "cog": 69.1,
+      "nav_status": 0,
+      "last_update": "2026-09-15 00:53:36.255037667 +0000 UTC"
+    },
+    {
+      "mmsi": "316052438",
+      "name": "STHUQI",
+      "lat": 49.3076,
+      "lon": -123.4862,
+      "sog": 33.9,
+      "cog": 260,
+      "nav_status": 9,
+      "last_update": "2026-09-15 00:54:23.042117746 +0000 UTC"
     },
     {
       "mmsi": "368067090",
       "name": "RELIANCE",
-      "lat": 47.5711,
-      "lon": -122.491,
+      "lat": 47.5884,
+      "lon": -122.5662,
       "sog": 33.4,
-      "cog": 62.3,
+      "cog": 69,
       "nav_status": 0,
-      "last_update": "2026-09-14 22:20:50.680749985 +0000 UTC",
-      "ship_type": 40,
-      "destination": "USPWT>USSEA>USPWT"
+      "last_update": "2026-09-15 00:53:34.993266831 +0000 UTC"
     },
     {
-      "mmsi": "316023437",
-      "name": "PACIFIC ECHO",
-      "lat": 49.1093,
-      "lon": -123.1184,
-      "sog": 31.5,
-      "cog": 70.9,
+      "mmsi": "368341690",
+      "name": "DELPHINUS",
+      "lat": 37.7436,
+      "lon": -122.2897,
+      "sog": 32.1,
+      "cog": 118,
       "nav_status": 0,
-      "last_update": "2026-09-14 22:20:41.259642866 +0000 UTC"
-    },
-    {
-      "mmsi": "316023273",
-      "name": "MU21",
-      "lat": 43.6122,
-      "lon": -79.3769,
-      "sog": 31.1,
-      "cog": 235.9,
-      "nav_status": 15,
-      "last_update": "2026-09-14 22:20:31.713681472 +0000 UTC"
-    },
-    {
-      "mmsi": "368317740",
-      "name": "BEAVER",
-      "lat": 45.8268,
-      "lon": -122.7939,
-      "sog": 30.5,
-      "cog": 188.3,
-      "nav_status": 0,
-      "last_update": "2026-09-14 22:20:28.011504144 +0000 UTC"
-    },
-    {
-      "mmsi": "369990275",
-      "name": "",
-      "lat": 36.8768,
-      "lon": -76.3343,
-      "sog": 30.5,
-      "cog": 147.2,
-      "nav_status": 0,
-      "last_update": "2026-09-14 22:20:35.246467036 +0000 UTC"
-    },
-    {
-      "mmsi": "512004511",
-      "name": "TE KOTUKU",
-      "lat": -36.8252,
-      "lon": 174.8444,
-      "sog": 29.8,
-      "cog": 243.5,
-      "nav_status": 0,
-      "last_update": "2026-09-14 22:20:37.045451843 +0000 UTC"
-    },
-    {
-      "mmsi": "367496010",
-      "name": "DELIVERANCE",
-      "lat": 46.1468,
-      "lon": -123.3658,
-      "sog": 29.1,
-      "cog": 101.1,
-      "nav_status": 0,
-      "last_update": "2026-09-14 22:21:13.880660943 +0000 UTC"
+      "last_update": "2026-09-15 00:53:46.81850945 +0000 UTC"
     }
   ]
 }
