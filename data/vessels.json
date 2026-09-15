@@ -1,60 +1,86 @@
 {
-  "updated_at": "2026-09-15T15:41:35Z",
-  "count": 5696,
+  "updated_at": "2026-09-15T19:35:12Z",
+  "count": 5482,
   "vessels": [
     {
-      "mmsi": "244045000",
-      "name": "HEBO-CAT 15",
-      "ship_type": 99,
-      "destination": "HARLINGEN ZUIDWAL",
-      "lat": 52.6481,
-      "lon": 6.0915,
+      "mmsi": "244120000",
+      "name": "ANTEOS",
+      "lat": 51.8947,
+      "lon": 4.416,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-15 15:40:38.187132229 +0000 UTC"
+      "last_update": "2026-09-15 19:34:01.799041659 +0000 UTC"
     },
     {
-      "mmsi": "228828600",
-      "name": "AZALEE",
-      "lat": 48.3826,
-      "lon": -4.4816,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-15 15:40:41.968273559 +0000 UTC"
-    },
-    {
-      "mmsi": "503000080",
-      "name": "MANNING",
-      "lat": -33.8683,
-      "lon": 151.222,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-15 15:40:31.968716635 +0000 UTC"
-    },
-    {
-      "mmsi": "993692247",
+      "mmsi": "993692427",
       "name": "",
-      "lat": 47.984,
-      "lon": -122.2462,
+      "lat": 47.7651,
+      "lon": -122.4376,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-09-15 15:40:32.467684046 +0000 UTC"
+      "last_update": "2026-09-15 19:34:04.490008652 +0000 UTC"
     },
     {
-      "mmsi": "261011633",
-      "name": "HYDROCAT MURRAY",
-      "lat": 54.3461,
-      "lon": 18.7893,
+      "mmsi": "993692426",
+      "name": "",
+      "lat": 47.9234,
+      "lon": -122.4921,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-09-15 15:40:56.430086576 +0000 UTC",
-      "ship_type": 99,
-      "destination": "GDANSK GORKI ZACH."
+      "nav_status": 15,
+      "last_update": "2026-09-15 19:34:08.480976377 +0000 UTC"
+    },
+    {
+      "mmsi": "257035870",
+      "name": "FEED RANA",
+      "lat": 54.6491,
+      "lon": 16.0108,
+      "sog": 102.3,
+      "cog": 58,
+      "nav_status": 0,
+      "last_update": "2026-09-15 19:34:10.911966458 +0000 UTC"
+    },
+    {
+      "mmsi": "636023497",
+      "name": "BOSPHORUS-M",
+      "lat": 59.8966,
+      "lon": 30.2265,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-15 19:34:11.734574087 +0000 UTC"
+    },
+    {
+      "mmsi": "563147700",
+      "name": "PSA VISION (NN27)",
+      "lat": 1.2633,
+      "lon": 103.8439,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-15 19:34:12.564885815 +0000 UTC"
+    },
+    {
+      "mmsi": "265631550",
+      "name": "HASSLO VARV",
+      "lat": 56.1004,
+      "lon": 15.4734,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 1,
+      "last_update": "2026-09-15 19:34:13.853889622 +0000 UTC"
+    },
+    {
+      "mmsi": "367757690",
+      "name": "ELGERCLIFF",
+      "lat": 39.278,
+      "lon": -81.6493,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-15 19:34:15.736669894 +0000 UTC"
     },
     {
       "mmsi": "210588000",
@@ -64,147 +90,119 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 8,
-      "last_update": "2026-09-15 15:40:37.747689738 +0000 UTC"
+      "last_update": "2026-09-15 19:34:19.096882339 +0000 UTC"
     },
     {
-      "mmsi": "366941780",
-      "name": "PROVIDER",
-      "lat": 47.6674,
-      "lon": -122.3904,
+      "mmsi": "229360000",
+      "name": "ERMIS2",
+      "lat": 37.911,
+      "lon": 23.7046,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-15 15:40:43.552319712 +0000 UTC"
-    },
-    {
-      "mmsi": "235034368",
-      "name": "MULTI-SURVEY 4",
-      "lat": 51.6213,
-      "lon": 3.6895,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-15 15:40:44.712314265 +0000 UTC"
-    },
-    {
-      "mmsi": "205545000",
-      "name": "VB PANDA",
-      "lat": 51.33,
-      "lon": 3.1971,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-15 15:40:48.138205004 +0000 UTC"
-    },
-    {
-      "mmsi": "993692428",
-      "name": "",
-      "lat": 47.5759,
-      "lon": -122.4513,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-15 15:40:48.346813372 +0000 UTC"
-    },
-    {
-      "mmsi": "316014014",
-      "name": "TAKAYA",
-      "lat": 49.2863,
-      "lon": -123.1006,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-15 15:40:56.14008587 +0000 UTC"
-    },
-    {
-      "mmsi": "993692430",
-      "name": "",
-      "lat": 47.3248,
-      "lon": -122.4565,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-15 15:40:56.398503912 +0000 UTC"
-    },
-    {
-      "mmsi": "371827000",
-      "name": "CELAL SAHIN",
-      "lat": 42.8795,
-      "lon": 28.4798,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-15 15:40:57.61481226 +0000 UTC"
-    },
-    {
-      "mmsi": "224627000",
-      "name": "OMVAC CATORCE",
-      "lat": 36.1455,
-      "lon": -5.333,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-09-15 15:40:58.315216012 +0000 UTC"
-    },
-    {
-      "mmsi": "428067000",
-      "name": "BAT GALIM",
-      "lat": 32.3344,
-      "lon": 34.7466,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 3,
-      "last_update": "2026-09-15 15:40:58.596612121 +0000 UTC"
+      "nav_status": 5,
+      "last_update": "2026-09-15 19:34:19.424974602 +0000 UTC"
     },
     {
       "mmsi": "245382000",
       "name": "",
       "lat": 51.6217,
-      "lon": 3.688,
+      "lon": 3.6878,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-15 15:41:00.522593881 +0000 UTC"
+      "last_update": "2026-09-15 19:34:20.446837348 +0000 UTC"
     },
     {
-      "mmsi": "244374235",
-      "name": "NT 11 WATERTRAPPER",
-      "lat": 51.8338,
-      "lon": 4.9359,
+      "mmsi": "244108000",
+      "name": "ZK46 ZEEMEEUW",
+      "ship_type": 30,
+      "destination": "LAUWERSOOG",
+      "lat": 53.3291,
+      "lon": 6.9312,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-15 15:41:04.519142618 +0000 UTC"
+      "last_update": "2026-09-15 19:34:40.61925554 +0000 UTC"
     },
     {
-      "mmsi": "367388530",
-      "name": "FT BRAGG",
-      "lat": 43.0793,
-      "lon": -70.7572,
+      "mmsi": "224627000",
+      "name": "OMVAC CATORCE",
+      "lat": 36.1408,
+      "lon": -5.3374,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 3,
+      "last_update": "2026-09-15 19:34:31.266638621 +0000 UTC"
+    },
+    {
+      "mmsi": "503000080",
+      "name": "MANNING",
+      "lat": -33.8683,
+      "lon": 151.222,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-15 15:41:06.860988198 +0000 UTC"
+      "last_update": "2026-09-15 19:34:37.411893825 +0000 UTC"
     },
     {
-      "mmsi": "232028036",
-      "name": "GARRION OWL",
-      "lat": 55.8907,
-      "lon": -4.3943,
+      "mmsi": "428067000",
+      "name": "BAT GALIM",
+      "lat": 32.2607,
+      "lon": 34.7959,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-15 15:41:09.90912566 +0000 UTC"
+      "nav_status": 3,
+      "last_update": "2026-09-15 19:34:38.495267744 +0000 UTC"
     },
     {
-      "mmsi": "993692425",
-      "name": "",
-      "lat": 47.9645,
-      "lon": -122.5796,
+      "mmsi": "240796900",
+      "name": "SEALINK VII",
+      "lat": 37.862,
+      "lon": 23.744,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 1,
+      "last_update": "2026-09-15 19:34:39.878827009 +0000 UTC"
+    },
+    {
+      "mmsi": "366941780",
+      "name": "PROVIDER",
+      "lat": 47.6674,
+      "lon": -122.3905,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-09-15 15:41:12.519084159 +0000 UTC"
+      "last_update": "2026-09-15 19:34:43.782506549 +0000 UTC"
+    },
+    {
+      "mmsi": "247051410",
+      "name": "AUDACE",
+      "lat": 0,
+      "lon": 0,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-15 19:34:44.534913196 +0000 UTC"
+    },
+    {
+      "mmsi": "244060365",
+      "name": "KNRM ARBOR VITAE",
+      "lat": 53.4088,
+      "lon": 6.1974,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-15 19:34:45.702630728 +0000 UTC"
+    },
+    {
+      "mmsi": "338236286",
+      "name": "SWEET DEBBIE",
+      "lat": 0,
+      "lon": 0,
+      "sog": 102.2,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-09-15 19:34:05.679906685 +0000 UTC"
     }
   ]
 }
