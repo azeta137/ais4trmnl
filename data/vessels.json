@@ -1,146 +1,46 @@
 {
-  "updated_at": "2026-09-15T05:57:40Z",
-  "count": 5236,
+  "updated_at": "2026-09-15T11:31:45Z",
+  "count": 4896,
   "vessels": [
     {
-      "mmsi": "210588000",
-      "name": "LEDRA PRIDE",
-      "lat": 34.6452,
-      "lon": 33.018,
+      "mmsi": "367434210",
+      "name": "FIORELLO LAGUARDIA",
+      "lat": 40.7153,
+      "lon": -74.0178,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-09-15 05:56:30.378302692 +0000 UTC"
+      "nav_status": 0,
+      "last_update": "2026-09-15 11:30:36.065797442 +0000 UTC"
     },
     {
-      "mmsi": "310862000",
-      "name": "URIEL",
-      "lat": 39.8903,
-      "lon": 4.2771,
+      "mmsi": "366651000",
+      "name": "HENRY HUDSON",
+      "lat": 40.7349,
+      "lon": -74.0265,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-09-15 05:56:33.459186445 +0000 UTC"
+      "nav_status": 0,
+      "last_update": "2026-09-15 11:30:40.544408856 +0000 UTC"
     },
     {
-      "mmsi": "249698000",
-      "name": "INS LAND",
-      "lat": 41.3805,
-      "lon": 2.1844,
+      "mmsi": "244615506",
+      "name": "ZUID-HOLLAND-ZUID",
+      "lat": 51.8,
+      "lon": 4.6394,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-15 05:56:38.886566877 +0000 UTC"
+      "last_update": "2026-09-15 11:30:43.621011185 +0000 UTC"
     },
     {
-      "mmsi": "211270850",
-      "name": "PIONIER",
-      "lat": 53.7253,
-      "lon": 7.4954,
+      "mmsi": "240796900",
+      "name": "SEALINK VII",
+      "lat": 37.862,
+      "lon": 23.744,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-15 05:56:47.595162575 +0000 UTC"
-    },
-    {
-      "mmsi": "245382000",
-      "name": "KNRM-FRED",
-      "lat": 51.6217,
-      "lon": 3.6879,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-15 05:56:51.456214454 +0000 UTC"
-    },
-    {
-      "mmsi": "273418880",
-      "name": "BAKHTEMIR",
-      "lat": 46.6228,
-      "lon": 142.7689,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-15 05:56:52.392696617 +0000 UTC"
-    },
-    {
-      "mmsi": "477997158",
-      "name": "PORT WORKS 5",
-      "lat": 22.3236,
-      "lon": 114.1416,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-15 05:56:54.556590423 +0000 UTC"
-    },
-    {
-      "mmsi": "224049290",
-      "name": "NUEVO AYACAM",
-      "lat": 37.2032,
-      "lon": -7.3294,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-15 05:56:55.323808677 +0000 UTC"
-    },
-    {
-      "mmsi": "271044493",
-      "name": "MIP- 3",
-      "lat": 36.7919,
-      "lon": 34.636,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-15 05:56:57.418472275 +0000 UTC"
-    },
-    {
-      "mmsi": "428067000",
-      "name": "BAT GALIM",
-      "lat": 32.2515,
-      "lon": 34.7819,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 3,
-      "last_update": "2026-09-15 05:56:58.607018122 +0000 UTC"
-    },
-    {
-      "mmsi": "232028036",
-      "name": "GARRION OWL",
-      "lat": 55.8907,
-      "lon": -4.3943,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-15 05:56:59.294307423 +0000 UTC"
-    },
-    {
-      "mmsi": "993692428",
-      "name": "",
-      "lat": 47.5759,
-      "lon": -122.4513,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-15 05:57:00.459028947 +0000 UTC"
-    },
-    {
-      "mmsi": "428009088",
-      "name": "DANCHOR X",
-      "lat": 31.8243,
-      "lon": 34.6451,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-15 05:57:04.749843708 +0000 UTC"
-    },
-    {
-      "mmsi": "477996369",
-      "name": "HYDRO1",
-      "lat": 22.2711,
-      "lon": 114.2607,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-15 05:57:06.180639314 +0000 UTC"
+      "nav_status": 1,
+      "last_update": "2026-09-15 11:30:48.304597472 +0000 UTC"
     },
     {
       "mmsi": "261011633",
@@ -150,57 +50,157 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 8,
-      "last_update": "2026-09-15 05:57:06.653946615 +0000 UTC"
+      "last_update": "2026-09-15 11:30:55.257362093 +0000 UTC"
     },
     {
-      "mmsi": "235070403",
-      "name": "WINDCAT 14",
-      "lat": 57.1435,
-      "lon": -2.0901,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 9,
-      "last_update": "2026-09-15 05:57:11.037501479 +0000 UTC"
-    },
-    {
-      "mmsi": "366941860",
-      "name": "SAN RAFAEL",
-      "lat": 29.7741,
-      "lon": -95.1009,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 12,
-      "last_update": "2026-09-15 05:57:11.201152281 +0000 UTC"
-    },
-    {
-      "mmsi": "993692050",
+      "mmsi": "993692247",
       "name": "",
-      "lat": 47.6614,
-      "lon": -122.4645,
+      "lat": 47.984,
+      "lon": -122.2462,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-09-15 05:57:12.513406428 +0000 UTC"
+      "last_update": "2026-09-15 11:30:56.402565796 +0000 UTC"
     },
     {
-      "mmsi": "316014014",
-      "name": "TAKAYA",
-      "lat": 49.2863,
-      "lon": -123.1004,
-      "sog": 102.2,
+      "mmsi": "319279200",
+      "name": "IRON GRYPHON",
+      "lat": 25.7688,
+      "lon": -80.1881,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-15 11:31:10.572584111 +0000 UTC"
+    },
+    {
+      "mmsi": "265631550",
+      "name": "HASSLO VARV",
+      "lat": 56.1004,
+      "lon": 15.4734,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 1,
+      "last_update": "2026-09-15 11:31:13.394341036 +0000 UTC"
+    },
+    {
+      "mmsi": "235034368",
+      "name": "MULTI-SURVEY 4",
+      "lat": 51.6213,
+      "lon": 3.6895,
+      "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-15 05:56:46.089880284 +0000 UTC"
+      "last_update": "2026-09-15 11:31:15.078503408 +0000 UTC"
     },
     {
-      "mmsi": "477324000",
-      "name": "UNIVERSALMK2003",
-      "lat": 22.28,
-      "lon": 114.099,
-      "sog": 36.6,
-      "cog": 47,
-      "nav_status": 9,
-      "last_update": "2026-09-15 05:57:12.541377424 +0000 UTC"
+      "mmsi": "244850108",
+      "name": "RIO GRANDE",
+      "lat": 52.4568,
+      "lon": 5.8248,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-15 11:31:15.38644876 +0000 UTC"
+    },
+    {
+      "mmsi": "512004996",
+      "name": "PILOTVESSEL WAKATERE",
+      "lat": -36.8432,
+      "lon": 174.7759,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-15 11:31:17.06072548 +0000 UTC"
+    },
+    {
+      "mmsi": "428009088",
+      "name": "DANCHOR X",
+      "lat": 31.8243,
+      "lon": 34.6451,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-15 11:31:17.174335113 +0000 UTC"
+    },
+    {
+      "mmsi": "210274000",
+      "name": "PANAMAX NEREID",
+      "lat": 8.5047,
+      "lon": -62.5497,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-15 11:31:17.777210123 +0000 UTC"
+    },
+    {
+      "mmsi": "224627000",
+      "name": "OMVAC CATORCE",
+      "lat": 36.1457,
+      "lon": -5.333,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 1,
+      "last_update": "2026-09-15 11:31:18.331939341 +0000 UTC"
+    },
+    {
+      "mmsi": "428067000",
+      "name": "BAT GALIM",
+      "lat": 32.2561,
+      "lon": 34.7889,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 3,
+      "last_update": "2026-09-15 11:31:18.874643655 +0000 UTC"
+    },
+    {
+      "mmsi": "244620506",
+      "name": "IJ-VEER XI",
+      "lat": 52.4006,
+      "lon": 4.8887,
+      "sog": 64.2,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-15 11:30:40.965862031 +0000 UTC"
+    },
+    {
+      "mmsi": "247151800",
+      "name": "ERACLIDE",
+      "lat": 40.782,
+      "lon": 14.1731,
+      "sog": 34.8,
+      "cog": 264.7,
+      "nav_status": 0,
+      "last_update": "2026-09-15 11:31:15.617975464 +0000 UTC"
+    },
+    {
+      "mmsi": "258999000",
+      "name": "FJORDBRIS",
+      "lat": 59.7594,
+      "lon": 5.8834,
+      "sog": 32.9,
+      "cog": 309.3,
+      "nav_status": 5,
+      "last_update": "2026-09-15 11:30:54.956388818 +0000 UTC"
+    },
+    {
+      "mmsi": "235117926",
+      "name": "RED JET 6",
+      "lat": 50.8723,
+      "lon": -1.3822,
+      "sog": 32.8,
+      "cog": 315.1,
+      "nav_status": 0,
+      "last_update": "2026-09-15 11:31:09.867569412 +0000 UTC"
+    },
+    {
+      "mmsi": "224388000",
+      "name": "BANADEROS EXPRESS",
+      "lat": 28.3499,
+      "lon": -16.0606,
+      "sog": 32.1,
+      "cog": 135.5,
+      "nav_status": 0,
+      "last_update": "2026-09-15 11:30:46.25418061 +0000 UTC"
     }
   ]
 }
