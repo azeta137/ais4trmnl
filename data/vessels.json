@@ -1,56 +1,88 @@
 {
-  "updated_at": "2026-09-17T22:17:18Z",
-  "count": 3893,
+  "updated_at": "2026-09-18T00:29:11Z",
+  "count": 5486,
   "vessels": [
     {
-      "mmsi": "271044493",
-      "name": "MIP- 3",
-      "lat": 36.7919,
-      "lon": 34.6361,
+      "mmsi": "245382000",
+      "name": "KNRM-FRED",
+      "lat": 51.6218,
+      "lon": 3.6879,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-17 22:16:13.118629384 +0000 UTC"
+      "last_update": "2026-09-18 00:28:01.442652594 +0000 UTC"
+    },
+    {
+      "mmsi": "367415390",
+      "name": "EMPIRE STATE",
+      "lat": 40.7153,
+      "lon": -74.0175,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-18 00:28:51.906172302 +0000 UTC"
+    },
+    {
+      "mmsi": "247214700",
+      "name": "BONITA",
+      "lat": 40.8332,
+      "lon": 14.294,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-18 00:28:03.419964644 +0000 UTC"
+    },
+    {
+      "mmsi": "244615506",
+      "name": "ZUID-HOLLAND-ZUID",
+      "lat": 51.8,
+      "lon": 4.6394,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-18 00:28:04.222835626 +0000 UTC"
+    },
+    {
+      "mmsi": "993692426",
+      "name": "",
+      "lat": 47.9234,
+      "lon": -122.4921,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-18 00:28:08.540602054 +0000 UTC"
+    },
+    {
+      "mmsi": "993692428",
+      "name": "",
+      "lat": 47.5759,
+      "lon": -122.4513,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-18 00:28:12.467489786 +0000 UTC"
     },
     {
       "mmsi": "503178080",
       "name": "ENGAGE REAPER",
-      "lat": -16.9296,
+      "lat": -16.9295,
       "lon": 145.7799,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-17 22:16:16.333268071 +0000 UTC"
+      "last_update": "2026-09-18 00:28:14.144183983 +0000 UTC"
     },
     {
-      "mmsi": "244120000",
-      "name": "ANTEOS",
-      "lat": 53.5344,
-      "lon": 9.9594,
+      "mmsi": "244108000",
+      "name": "ZK46 ZEEMEEUW",
+      "lat": 53.4085,
+      "lon": 6.2054,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-17 22:16:30.605226992 +0000 UTC"
-    },
-    {
-      "mmsi": "319279200",
-      "name": "IRON GRYPHON",
-      "lat": 25.7694,
-      "lon": -80.1883,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-17 22:16:31.631178814 +0000 UTC"
-    },
-    {
-      "mmsi": "229360000",
-      "name": "ERMIS2",
-      "lat": 37.911,
-      "lon": 23.7046,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-17 22:16:31.715866033 +0000 UTC"
+      "nav_status": 0,
+      "last_update": "2026-09-18 00:28:14.862380378 +0000 UTC",
+      "ship_type": 30,
+      "destination": "LAUWERSOOG"
     },
     {
       "mmsi": "261011633",
@@ -60,155 +92,117 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 8,
-      "last_update": "2026-09-17 22:16:35.564280404 +0000 UTC",
-      "ship_type": 99,
-      "destination": "GDANSK GORKI ZACH."
+      "last_update": "2026-09-18 00:28:15.967214353 +0000 UTC"
     },
     {
-      "mmsi": "205545000",
-      "name": "VB PANDA",
-      "lat": 51.3301,
-      "lon": 3.1971,
+      "mmsi": "232050866",
+      "name": "MARLIES",
+      "lat": 52.9706,
+      "lon": 5.4306,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-17 22:16:39.071219763 +0000 UTC"
+      "nav_status": 5,
+      "last_update": "2026-09-18 00:28:21.056320896 +0000 UTC"
     },
     {
-      "mmsi": "993692427",
-      "name": "",
-      "lat": 47.7651,
-      "lon": -122.4376,
+      "mmsi": "244120000",
+      "name": "ANTEOS",
+      "lat": 53.5344,
+      "lon": 9.9594,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-17 22:16:40.359051034 +0000 UTC"
+      "nav_status": 5,
+      "last_update": "2026-09-18 00:28:29.806086069 +0000 UTC"
+    },
+    {
+      "mmsi": "319279200",
+      "name": "IRON GRYPHON",
+      "lat": 25.7688,
+      "lon": -80.1894,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-18 00:28:31.244493791 +0000 UTC"
     },
     {
       "mmsi": "316014014",
       "name": "TAKAYA",
       "lat": 49.2863,
-      "lon": -123.1004,
-      "sog": 102.2,
+      "lon": -123.1005,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-18 00:28:33.911700312 +0000 UTC"
+    },
+    {
+      "mmsi": "565395000",
+      "name": "GREEN PIONEER",
+      "lat": 10.6518,
+      "lon": -61.6078,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 1,
+      "last_update": "2026-09-18 00:28:35.514325427 +0000 UTC"
+    },
+    {
+      "mmsi": "244710626",
+      "name": "BENCKES",
+      "lat": 51.8798,
+      "lon": 4.3934,
+      "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-17 22:16:34.264202111 +0000 UTC"
+      "last_update": "2026-09-18 00:28:45.139476708 +0000 UTC"
     },
     {
-      "mmsi": "368088610",
-      "name": "LYRA",
-      "lat": 37.8352,
-      "lon": -122.3996,
-      "sog": 32.6,
-      "cog": 173.7,
-      "nav_status": 0,
-      "last_update": "2026-09-17 22:16:32.734136118 +0000 UTC"
-    },
-    {
-      "mmsi": "512004511",
-      "name": "TE KOTUKU",
-      "lat": -36.813,
-      "lon": 174.88,
-      "sog": 30.3,
-      "cog": 245.7,
-      "nav_status": 0,
-      "last_update": "2026-09-17 22:16:16.542777606 +0000 UTC"
-    },
-    {
-      "mmsi": "367101920",
-      "name": "GREY LADY",
-      "lat": 41.4741,
-      "lon": -70.2216,
-      "sog": 30.2,
-      "cog": 144,
-      "nav_status": 0,
-      "last_update": "2026-09-17 22:16:25.795067096 +0000 UTC"
-    },
-    {
-      "mmsi": "367677670",
-      "name": "SANCTUARY",
-      "lat": 42.1241,
-      "lon": -70.4434,
-      "sog": 29.5,
-      "cog": 303.7,
-      "nav_status": 0,
-      "last_update": "2026-09-17 22:16:22.915176629 +0000 UTC"
-    },
-    {
-      "mmsi": "512003229",
-      "name": "CLIPPER IV",
-      "lat": -36.8399,
-      "lon": 174.8693,
-      "sog": 29.4,
-      "cog": 99.4,
-      "nav_status": 8,
-      "last_update": "2026-09-17 22:16:13.121514589 +0000 UTC"
-    },
-    {
-      "mmsi": "368409350",
-      "name": "OLD DOMINION",
-      "lat": 36.9491,
-      "lon": -76.3959,
-      "sog": 28.8,
-      "cog": 289,
+      "mmsi": "636023497",
+      "name": "BOSPHORUS-M",
+      "lat": 59.8964,
+      "lon": 30.2262,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-17 22:16:36.337977622 +0000 UTC"
+      "last_update": "2026-09-18 00:28:46.580228546 +0000 UTC"
     },
     {
-      "mmsi": "369990145",
-      "name": "CG29145",
-      "lat": 46.2519,
-      "lon": -123.8517,
-      "sog": 27.4,
-      "cog": 229.3,
+      "mmsi": "253686000",
+      "name": "SUD",
+      "lat": 43.6953,
+      "lon": 7.3391,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-17 22:16:28.812236688 +0000 UTC"
+      "last_update": "2026-09-18 00:28:52.494146132 +0000 UTC"
     },
     {
-      "mmsi": "366740280",
-      "name": "LADY MARTHA",
-      "lat": 41.4471,
-      "lon": -70.3928,
-      "sog": 26.5,
-      "cog": 278.6,
-      "nav_status": 15,
-      "last_update": "2026-09-17 22:16:21.577507553 +0000 UTC",
-      "ship_type": 40,
-      "destination": ""
+      "mmsi": "263701380",
+      "name": "FERNANDO NAMORA",
+      "lat": 38.6516,
+      "lon": -9.0797,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-09-18 00:28:53.497657412 +0000 UTC"
     },
     {
-      "mmsi": "367673370",
-      "name": "WHALING CITY EXPRESS",
-      "lat": 41.5498,
-      "lon": -70.7887,
-      "sog": 26.4,
-      "cog": 293.9,
+      "mmsi": "244850108",
+      "name": "RIO GRANDE",
+      "lat": 52.4567,
+      "lon": 5.8248,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-18 00:28:56.479853062 +0000 UTC"
+    },
+    {
+      "mmsi": "368067090",
+      "name": "RELIANCE",
+      "lat": 47.589,
+      "lon": -122.5673,
+      "sog": 35.2,
+      "cog": 248,
       "nav_status": 0,
-      "last_update": "2026-09-17 22:16:18.501027089 +0000 UTC",
-      "ship_type": 40,
-      "destination": ""
-    },
-    {
-      "mmsi": "338790000",
-      "name": "SALLY FOX",
-      "lat": 47.5651,
-      "lon": -122.4343,
-      "sog": 25.9,
-      "cog": 203.8,
-      "nav_status": 0,
-      "last_update": "2026-09-17 22:16:09.825984742 +0000 UTC"
-    },
-    {
-      "mmsi": "368351390",
-      "name": "COMMONWEALTH",
-      "lat": 42.3483,
-      "lon": -71.0249,
-      "sog": 25.8,
-      "cog": 298.4,
-      "nav_status": 0,
-      "last_update": "2026-09-17 22:16:15.310309445 +0000 UTC",
-      "ship_type": 60,
-      "destination": "FAN PIER TO LOVEJOY<"
+      "last_update": "2026-09-18 00:28:05.773506971 +0000 UTC"
     }
   ]
 }
