@@ -1,7 +1,87 @@
 {
-  "updated_at": "2026-09-22T23:16:33Z",
-  "count": 5424,
+  "updated_at": "2026-09-23T01:34:12Z",
+  "count": 3959,
   "vessels": [
+    {
+      "mmsi": "512004996",
+      "name": "PILOTVESSEL WAKATERE",
+      "lat": -36.8432,
+      "lon": 174.776,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-23 01:33:05.768509558 +0000 UTC"
+    },
+    {
+      "mmsi": "352002481",
+      "name": "BARU SIERRA NEVADA",
+      "lat": -22.8479,
+      "lon": -43.1293,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 1,
+      "last_update": "2026-09-23 01:33:08.584589413 +0000 UTC"
+    },
+    {
+      "mmsi": "316014014",
+      "name": "TAKAYA",
+      "lat": 49.2863,
+      "lon": -123.1005,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-09-23 01:33:18.910224028 +0000 UTC"
+    },
+    {
+      "mmsi": "367131000",
+      "name": "ALASKA",
+      "lat": 29.7483,
+      "lon": -93.8942,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-23 01:33:20.450494045 +0000 UTC"
+    },
+    {
+      "mmsi": "271047822",
+      "name": "KANUNI",
+      "lat": 42.8697,
+      "lon": 31.3553,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 3,
+      "last_update": "2026-09-23 01:33:20.665131956 +0000 UTC"
+    },
+    {
+      "mmsi": "232003258",
+      "name": "SV KINGFISHER",
+      "lat": 54.4824,
+      "lon": -0.6106,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-23 01:33:22.187597567 +0000 UTC"
+    },
+    {
+      "mmsi": "235034368",
+      "name": "MULTI-SURVEY 4",
+      "lat": 51.9774,
+      "lon": 4.1219,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-23 01:33:28.134372954 +0000 UTC"
+    },
+    {
+      "mmsi": "367415390",
+      "name": "EMPIRE STATE",
+      "lat": 40.7716,
+      "lon": -74.0109,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-23 01:33:32.573731997 +0000 UTC"
+    },
     {
       "mmsi": "367609130",
       "name": "BELLA K",
@@ -10,127 +90,7 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-22 23:15:33.074929161 +0000 UTC"
-    },
-    {
-      "mmsi": "677069700",
-      "name": "VANGUARD I",
-      "lat": 36.5248,
-      "lon": -6.2577,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-22 23:15:33.350147589 +0000 UTC"
-    },
-    {
-      "mmsi": "367133910",
-      "name": "FIREBOAT 4",
-      "lat": 33.721,
-      "lon": -118.2652,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-22 23:15:34.857283021 +0000 UTC"
-    },
-    {
-      "mmsi": "428009088",
-      "name": "DANCHOR X",
-      "lat": 31.8242,
-      "lon": 34.6452,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-22 23:15:35.90045153 +0000 UTC"
-    },
-    {
-      "mmsi": "366651000",
-      "name": "HENRY HUDSON",
-      "lat": 40.7032,
-      "lon": -74.0067,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-22 23:15:37.27313917 +0000 UTC"
-    },
-    {
-      "mmsi": "241903000",
-      "name": "DON'T WORRY",
-      "lat": 37.9409,
-      "lon": 23.6704,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-22 23:15:37.670464442 +0000 UTC"
-    },
-    {
-      "mmsi": "261002090",
-      "name": "SM PRC 106",
-      "lat": 54.4258,
-      "lon": 16.3977,
-      "sog": 102.3,
-      "cog": 200.3,
-      "nav_status": 5,
-      "last_update": "2026-09-22 23:15:40.565268371 +0000 UTC"
-    },
-    {
-      "mmsi": "368227350",
-      "name": "PHILLIS WHEATLEY",
-      "lat": 42.3675,
-      "lon": -71.06,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-22 23:15:40.637043279 +0000 UTC"
-    },
-    {
-      "mmsi": "310862000",
-      "name": "URIEL",
-      "lat": 39.5634,
-      "lon": 2.6305,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-22 23:15:40.847732576 +0000 UTC"
-    },
-    {
-      "mmsi": "205545000",
-      "name": "VB PANDA",
-      "lat": 51.33,
-      "lon": 3.1971,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-22 23:15:42.402716994 +0000 UTC"
-    },
-    {
-      "mmsi": "271047822",
-      "name": "KANUNI",
-      "lat": 42.8697,
-      "lon": 31.3552,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 3,
-      "last_update": "2026-09-22 23:15:51.740815448 +0000 UTC"
-    },
-    {
-      "mmsi": "352002481",
-      "name": "BARU SIERRA NEVADA",
-      "lat": -22.8481,
-      "lon": -43.1296,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-09-22 23:15:57.739843204 +0000 UTC"
-    },
-    {
-      "mmsi": "244710626",
-      "name": "BENCKES",
-      "lat": 52.4034,
-      "lon": 4.8184,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-22 23:15:59.178475422 +0000 UTC"
+      "last_update": "2026-09-23 01:33:33.268415939 +0000 UTC"
     },
     {
       "mmsi": "428074453",
@@ -140,7 +100,17 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-22 23:16:03.084149089 +0000 UTC"
+      "last_update": "2026-09-23 01:33:35.269703063 +0000 UTC"
+    },
+    {
+      "mmsi": "224569880",
+      "name": "VB SAJA",
+      "lat": 39.6464,
+      "lon": -0.2133,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-23 01:33:35.991638784 +0000 UTC"
     },
     {
       "mmsi": "247214700",
@@ -150,59 +120,87 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-22 23:16:06.780672406 +0000 UTC"
+      "last_update": "2026-09-23 01:33:37.001318162 +0000 UTC"
     },
     {
-      "mmsi": "271044493",
-      "name": "MIP-3",
-      "lat": 36.7919,
-      "lon": 34.636,
+      "mmsi": "371827000",
+      "name": "CELAL SAHIN",
+      "lat": 43.3864,
+      "lon": 28.179,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 1,
+      "last_update": "2026-09-23 01:33:39.07821167 +0000 UTC"
+    },
+    {
+      "mmsi": "244060365",
+      "name": "KNRM ARBOR VITAE",
+      "lat": 53.4088,
+      "lon": 6.1974,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-22 23:16:11.703366281 +0000 UTC"
+      "last_update": "2026-09-23 01:33:39.200934581 +0000 UTC"
     },
     {
-      "mmsi": "431009153",
-      "name": "SEVENISLAND TOMO",
-      "lat": 35.4543,
-      "lon": 139.8005,
-      "sog": 41.1,
-      "cog": 195.3,
-      "nav_status": 0,
-      "last_update": "2026-09-22 23:15:23.847884429 +0000 UTC"
+      "mmsi": "226016380",
+      "name": "O'RANA",
+      "lat": 49.3521,
+      "lon": 0.9757,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 1,
+      "last_update": "2026-09-23 01:33:40.621747601 +0000 UTC"
     },
     {
-      "mmsi": "368013770",
-      "name": "COMMODORE",
-      "lat": 40.7,
-      "lon": -74.0021,
-      "sog": 34.6,
-      "cog": 35.2,
+      "mmsi": "366970020",
+      "name": "MENDOCINO",
+      "lat": 37.8324,
+      "lon": -122.401,
+      "sog": 35.4,
+      "cog": 161.5,
       "nav_status": 0,
-      "last_update": "2026-09-22 23:16:07.56381445 +0000 UTC"
+      "last_update": "2026-09-23 01:33:27.754403712 +0000 UTC"
     },
     {
-      "mmsi": "368206330",
-      "name": "SOLANO",
-      "lat": 47.7803,
-      "lon": -122.4657,
-      "sog": 34.5,
-      "cog": 139.7,
+      "mmsi": "367145870",
+      "name": "IYANOUGH",
+      "lat": 41.6021,
+      "lon": -70.2746,
+      "sog": 34,
+      "cog": 307.7,
       "nav_status": 0,
-      "last_update": "2026-09-22 23:15:38.902000436 +0000 UTC",
-      "ship_type": 69,
-      "destination": "WSFSW>USSEA>WSFSW"
+      "last_update": "2026-09-23 01:33:29.55016493 +0000 UTC"
     },
     {
-      "mmsi": "265587010",
-      "name": "RESCUE M WALLENBERG",
-      "lat": 58.8558,
-      "lon": 17.9478,
-      "sog": 32.4,
-      "cog": 4,
+      "mmsi": "368067090",
+      "name": "RELIANCE",
+      "lat": 47.6038,
+      "lon": -122.3887,
+      "sog": 31.7,
+      "cog": 269,
       "nav_status": 0,
-      "last_update": "2026-09-22 23:16:09.019125612 +0000 UTC"
+      "last_update": "2026-09-23 01:33:22.118406091 +0000 UTC"
+    },
+    {
+      "mmsi": "368151810",
+      "name": "ENETAI",
+      "lat": 47.5249,
+      "lon": -122.4814,
+      "sog": 29.4,
+      "cog": 220.3,
+      "nav_status": 0,
+      "last_update": "2026-09-23 01:33:16.701729931 +0000 UTC"
+    },
+    {
+      "mmsi": "369493676",
+      "name": "CG45676",
+      "lat": 28.9167,
+      "lon": -95.2864,
+      "sog": 28,
+      "cog": 10,
+      "nav_status": 0,
+      "last_update": "2026-09-23 01:33:30.347939616 +0000 UTC"
     }
   ]
 }
