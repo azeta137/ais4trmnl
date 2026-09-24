@@ -1,212 +1,206 @@
 {
-  "updated_at": "2026-09-24T06:44:59Z",
-  "count": 5573,
+  "updated_at": "2026-09-24T12:37:26Z",
+  "count": 4980,
   "vessels": [
-    {
-      "mmsi": "368338990",
-      "name": "ALEOLI",
-      "lat": 48.4009,
-      "lon": -122.4954,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-24 06:44:31.125369754 +0000 UTC"
-    },
-    {
-      "mmsi": "210920000",
-      "name": "VTS PENTADAKTYLOS",
-      "lat": 34.7185,
-      "lon": 33.3178,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-24 06:43:56.081086464 +0000 UTC"
-    },
-    {
-      "mmsi": "229360000",
-      "name": "ERMIS2",
-      "lat": 37.911,
-      "lon": 23.7046,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-24 06:44:04.606176582 +0000 UTC"
-    },
     {
       "mmsi": "247214700",
       "name": "BONITA",
-      "lat": 44.3956,
-      "lon": 8.9168,
+      "lat": 44.3893,
+      "lon": 8.9337,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 3,
-      "last_update": "2026-09-24 06:44:05.026567876 +0000 UTC"
+      "last_update": "2026-09-24 12:36:18.216486426 +0000 UTC"
     },
     {
-      "mmsi": "512004996",
-      "name": "PILOTVESSEL WAKATERE",
-      "lat": -36.8432,
-      "lon": 174.776,
+      "mmsi": "244108000",
+      "name": "ZK46 ZEEMEEUW",
+      "lat": 53.4093,
+      "lon": 6.2039,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-24 06:44:19.797887544 +0000 UTC"
+      "last_update": "2026-09-24 12:36:20.078226785 +0000 UTC"
+    },
+    {
+      "mmsi": "367757690",
+      "name": "ELGERCLIFF",
+      "lat": 39.278,
+      "lon": -81.6492,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-24 12:36:25.911955684 +0000 UTC"
+    },
+    {
+      "mmsi": "244710626",
+      "name": "BENCKES",
+      "lat": 51.9445,
+      "lon": 4.0469,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-24 12:36:32.590500951 +0000 UTC"
+    },
+    {
+      "mmsi": "244374235",
+      "name": "NT 11 WATERTRAPPER",
+      "lat": 51.8341,
+      "lon": 4.9352,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-24 12:36:33.275215023 +0000 UTC"
+    },
+    {
+      "mmsi": "235034368",
+      "name": "MULTI-SURVEY 4",
+      "lat": 52.0977,
+      "lon": 4.2678,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-24 12:36:36.031073627 +0000 UTC"
+    },
+    {
+      "mmsi": "368410790",
+      "name": "HARBOR CHARGER",
+      "lat": 40.6421,
+      "lon": -74.1189,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-24 12:36:36.527347175 +0000 UTC"
+    },
+    {
+      "mmsi": "316046329",
+      "name": "PITT KNIGHT",
+      "lat": 49.2312,
+      "lon": -122.7714,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-24 12:36:39.823944094 +0000 UTC"
     },
     {
       "mmsi": "367609130",
       "name": "BELLA K",
-      "ship_type": 30,
-      "destination": "SEATTLE",
       "lat": 47.663,
       "lon": -122.3884,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-24 06:44:33.087625591 +0000 UTC"
+      "last_update": "2026-09-24 12:36:43.24778978 +0000 UTC"
     },
     {
-      "mmsi": "224057830",
-      "name": "IZURDIA MAITEA",
-      "lat": 46.6059,
-      "lon": -5.1111,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 7,
-      "last_update": "2026-09-24 06:44:31.019408084 +0000 UTC"
-    },
-    {
-      "mmsi": "375369000",
-      "name": "ZAYYAN K",
-      "lat": 31.8255,
-      "lon": 34.6402,
+      "mmsi": "241903000",
+      "name": "DON'T WORRY",
+      "lat": 37.9409,
+      "lon": 23.6704,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-24 06:44:31.147166866 +0000 UTC"
+      "last_update": "2026-09-24 12:36:44.168995788 +0000 UTC"
     },
     {
-      "mmsi": "368410790",
-      "name": "HARBOR CHARGER",
-      "lat": 40.642,
-      "lon": -74.1189,
+      "mmsi": "259046050",
+      "name": "FREMAD",
+      "lat": 66.3508,
+      "lon": 12.4706,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-24 06:44:36.006905094 +0000 UTC"
+      "last_update": "2026-09-24 12:36:53.488335648 +0000 UTC"
     },
     {
-      "mmsi": "428074160",
-      "name": "ENDURANCE",
-      "lat": 32.8262,
-      "lon": 35.002,
+      "mmsi": "563070140",
+      "name": "PSA TAURUS YS52",
+      "lat": 1.2909,
+      "lon": 103.76,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-24 06:44:36.575186646 +0000 UTC"
+      "last_update": "2026-09-24 12:36:59.80935447 +0000 UTC"
     },
     {
-      "mmsi": "247091500",
-      "name": "GRANDE SAN PAOLO",
-      "lat": -23.9283,
-      "lon": -46.333,
-      "sog": 102.3,
+      "mmsi": "369713000",
+      "name": "TRIBUTE",
+      "lat": 0,
+      "lon": 0,
+      "sog": 102.2,
       "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-24 06:44:41.487412777 +0000 UTC"
-    },
-    {
-      "mmsi": "244850108",
-      "name": "RIO GRANDE",
-      "lat": 52.4567,
-      "lon": 5.8248,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-24 06:44:44.80155817 +0000 UTC"
-    },
-    {
-      "mmsi": "244444000",
-      "name": "FRISC RHIBC-15",
-      "lat": 52.8783,
-      "lon": 5.0953,
-      "sog": 46.1,
-      "cog": 142,
       "nav_status": 0,
-      "last_update": "2026-09-24 06:44:05.873976565 +0000 UTC"
+      "last_update": "2026-09-24 12:36:18.715308506 +0000 UTC"
     },
     {
-      "mmsi": "246018000",
-      "name": "FRISC RHIRC-06",
-      "lat": 52.9809,
-      "lon": 4.7763,
-      "sog": 38,
-      "cog": 17.7,
+      "mmsi": "477937500",
+      "name": "THE PARISIAN",
+      "lat": 22.2919,
+      "lon": 114.1123,
+      "sog": 36.2,
+      "cog": 252.7,
+      "nav_status": 9,
+      "last_update": "2026-09-24 12:36:44.851816481 +0000 UTC"
+    },
+    {
+      "mmsi": "369070000",
+      "name": "ALAKAI",
+      "lat": 43.7853,
+      "lon": -66.1821,
+      "sog": 35.1,
+      "cog": 272.6,
       "nav_status": 0,
-      "last_update": "2026-09-24 06:44:38.699322039 +0000 UTC",
-      "ship_type": 35,
-      "destination": "DEN OEVER"
+      "last_update": "2026-09-24 12:36:30.8088351 +0000 UTC"
     },
     {
-      "mmsi": "210052000",
-      "name": "EUROCHAMPION JET 2",
-      "lat": 37.4565,
-      "lon": 25.1055,
-      "sog": 37.4,
-      "cog": 80.7,
+      "mmsi": "368612000",
+      "name": "RICH PASSAGE 1",
+      "lat": 47.5773,
+      "lon": -122.5377,
+      "sog": 34.8,
+      "cog": 161.1,
       "nav_status": 0,
-      "last_update": "2026-09-24 06:44:14.734245528 +0000 UTC"
+      "last_update": "2026-09-24 12:36:37.529724279 +0000 UTC"
     },
     {
-      "mmsi": "210965000",
-      "name": "CHAMPIONSLEAGUEJET2",
-      "lat": 37.6311,
-      "lon": 23.776,
-      "sog": 37.4,
-      "cog": 134,
+      "mmsi": "271053065",
+      "name": "TAYYAR TUGAY",
+      "lat": 36.4764,
+      "lon": 28.2289,
+      "sog": 34.8,
+      "cog": 20,
       "nav_status": 0,
-      "last_update": "2026-09-24 06:44:35.61279901 +0000 UTC"
+      "last_update": "2026-09-24 12:36:45.025317696 +0000 UTC"
     },
     {
-      "mmsi": "210977000",
-      "name": "TERA JET 2",
-      "lat": 37.5371,
-      "lon": 25.1245,
-      "sog": 35.9,
-      "cog": 107.4,
+      "mmsi": "209440000",
+      "name": "CHAMPION JET 1",
+      "lat": 37.7395,
+      "lon": 23.6676,
+      "sog": 34.4,
+      "cog": 153.7,
       "nav_status": 0,
-      "last_update": "2026-09-24 06:44:13.585274324 +0000 UTC"
-    },
-    {
-      "mmsi": "224984000",
-      "name": "VOLCAN DE TAIDIA",
-      "lat": 28.2394,
-      "lon": -15.548,
-      "sog": 35,
-      "cog": 289.9,
-      "nav_status": 0,
-      "last_update": "2026-09-24 06:44:04.178344431 +0000 UTC"
-    },
-    {
-      "mmsi": "237023800",
-      "name": "FLYING DOLPHIN XIX",
-      "lat": 37.7149,
-      "lon": 23.3921,
-      "sog": 33.1,
-      "cog": 255.4,
-      "nav_status": 5,
-      "last_update": "2026-09-24 06:44:33.745510816 +0000 UTC"
+      "last_update": "2026-09-24 12:36:16.777876418 +0000 UTC"
     },
     {
       "mmsi": "237247600",
       "name": "F/D ATHINA",
-      "lat": 37.9173,
-      "lon": 23.5907,
-      "sog": 31.9,
-      "cog": 36,
+      "lat": 37.8738,
+      "lon": 23.557,
+      "sog": 32,
+      "cog": 40,
       "nav_status": 0,
-      "last_update": "2026-09-24 06:43:50.718355656 +0000 UTC",
-      "ship_type": 40,
-      "destination": "PIR-AEG-AGK"
+      "last_update": "2026-09-24 12:36:31.580878945 +0000 UTC"
+    },
+    {
+      "mmsi": "512004996",
+      "name": "PILOTVESSEL WAKATERE",
+      "lat": -36.8415,
+      "lon": 174.7932,
+      "sog": 31.6,
+      "cog": 121.3,
+      "nav_status": 0,
+      "last_update": "2026-09-24 12:36:18.634590521 +0000 UTC"
     }
   ]
 }
