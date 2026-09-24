@@ -1,96 +1,76 @@
 {
-  "updated_at": "2026-09-24T20:47:30Z",
-  "count": 5144,
+  "updated_at": "2026-09-24T23:48:42Z",
+  "count": 5178,
   "vessels": [
     {
-      "mmsi": "258184000",
-      "name": "BB OCTOPUS",
-      "lat": 58.9835,
-      "lon": 5.7109,
+      "mmsi": "224569880",
+      "name": "VB SAJA",
+      "lat": 39.6464,
+      "lon": -0.2133,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-24 23:47:34.880112146 +0000 UTC"
+    },
+    {
+      "mmsi": "368410790",
+      "name": "HARBOR CHARGER",
+      "lat": 40.6421,
+      "lon": -74.1189,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-24 23:47:37.124471816 +0000 UTC"
+    },
+    {
+      "mmsi": "244120000",
+      "name": "ANTEOS",
+      "lat": 53.5345,
+      "lon": 9.9593,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-24 20:46:20.496154324 +0000 UTC"
+      "last_update": "2026-09-24 23:47:39.91260997 +0000 UTC"
     },
     {
-      "mmsi": "210588000",
-      "name": "LEDRA PRIDE",
-      "lat": 34.6452,
-      "lon": 33.018,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-09-24 20:46:21.272050477 +0000 UTC"
-    },
-    {
-      "mmsi": "261011633",
-      "name": "HYDROCAT MURRAY",
-      "lat": 54.3461,
-      "lon": 18.7893,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-09-24 20:46:25.309814542 +0000 UTC"
-    },
-    {
-      "mmsi": "367496240",
-      "name": "PETER R WEISS",
-      "lat": 40.7353,
-      "lon": -74.0263,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-24 20:46:46.625117387 +0000 UTC"
-    },
-    {
-      "mmsi": "245382000",
-      "name": "KNRM-FRED",
-      "lat": 51.6218,
-      "lon": 3.6879,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-24 20:46:30.25206958 +0000 UTC"
-    },
-    {
-      "mmsi": "352002481",
-      "name": "BARU SIERRA NEVADA",
-      "lat": -22.8483,
-      "lon": -43.13,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-09-24 20:46:38.465071723 +0000 UTC"
-    },
-    {
-      "mmsi": "247214700",
-      "name": "BONITA",
-      "lat": 44.4171,
-      "lon": 8.7973,
+      "mmsi": "249698000",
+      "name": "INS LAND",
+      "lat": 41.3804,
+      "lon": 2.1843,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-24 20:46:42.274035989 +0000 UTC"
+      "last_update": "2026-09-24 23:47:42.644615325 +0000 UTC"
     },
     {
-      "mmsi": "565235000",
-      "name": "KST PRIDE",
-      "lat": 1.2407,
-      "lon": 103.7439,
+      "mmsi": "271044493",
+      "name": "MIP- 3",
+      "lat": 36.7919,
+      "lon": 34.636,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-24 20:46:43.912977474 +0000 UTC"
+      "last_update": "2026-09-24 23:47:58.362715047 +0000 UTC"
     },
     {
-      "mmsi": "240451900",
-      "name": "WHITECAPS",
-      "lat": 37.443,
-      "lon": 24.9443,
+      "mmsi": "368368350",
+      "name": "BREEZY DAY",
+      "lat": 26.0928,
+      "lon": -80.1745,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-24 20:46:51.85080351 +0000 UTC"
+      "last_update": "2026-09-24 23:47:59.869629988 +0000 UTC"
+    },
+    {
+      "mmsi": "232003258",
+      "name": "SV KINGFISHER",
+      "lat": 54.4822,
+      "lon": -0.6107,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-24 23:48:01.45434735 +0000 UTC"
     },
     {
       "mmsi": "244374235",
@@ -100,107 +80,127 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-24 20:46:55.051452998 +0000 UTC"
+      "last_update": "2026-09-24 23:48:05.062668135 +0000 UTC"
     },
     {
-      "mmsi": "271044493",
-      "name": "MIP-3",
-      "lat": 36.7919,
-      "lon": 34.636,
+      "mmsi": "428009088",
+      "name": "DANCHOR X",
+      "lat": 31.8242,
+      "lon": 34.6452,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-24 23:48:10.78137894 +0000 UTC"
+    },
+    {
+      "mmsi": "366651000",
+      "name": "HENRY HUDSON",
+      "lat": 40.7712,
+      "lon": -74.0114,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-24 20:47:12.209917039 +0000 UTC"
+      "last_update": "2026-09-24 23:48:10.788211 +0000 UTC"
     },
     {
-      "mmsi": "367609130",
-      "name": "BELLA K",
-      "lat": 47.663,
-      "lon": -122.3884,
+      "mmsi": "258184000",
+      "name": "BB OCTOPUS",
+      "lat": 58.9835,
+      "lon": 5.7109,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-24 23:48:22.007578818 +0000 UTC"
+    },
+    {
+      "mmsi": "240451900",
+      "name": "WHITECAPS",
+      "lat": 37.4429,
+      "lon": 24.9443,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-24 20:47:12.213085974 +0000 UTC"
+      "last_update": "2026-09-24 23:48:23.159226095 +0000 UTC"
     },
     {
-      "mmsi": "316014014",
-      "name": "TAKAYA",
-      "lat": 49.2862,
-      "lon": -123.1004,
+      "mmsi": "369713000",
+      "name": "TRIBUTE",
+      "lat": 0,
+      "lon": 0,
       "sog": 102.2,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-24 20:47:09.430347919 +0000 UTC"
+      "last_update": "2026-09-24 23:48:20.224873557 +0000 UTC"
     },
     {
-      "mmsi": "244190013",
-      "name": "SKUA",
-      "lat": 53.292,
-      "lon": 5.1733,
-      "sog": 36.1,
-      "cog": 178.6,
+      "mmsi": "368341690",
+      "name": "DELPHINUS",
+      "lat": 37.766,
+      "lon": -122.3412,
+      "sog": 31.2,
+      "cog": 125.6,
       "nav_status": 0,
-      "last_update": "2026-09-24 20:46:35.151299671 +0000 UTC"
+      "last_update": "2026-09-24 23:48:14.123268597 +0000 UTC"
     },
     {
-      "mmsi": "369493678",
-      "name": "CG45678",
-      "lat": 41.659,
-      "lon": -69.9804,
-      "sog": 33.8,
-      "cog": 231.3,
+      "mmsi": "368088590",
+      "name": "VELA",
+      "lat": 37.8795,
+      "lon": -122.4054,
+      "sog": 30.3,
+      "cog": 342.5,
       "nav_status": 0,
-      "last_update": "2026-09-24 20:46:26.083362432 +0000 UTC"
+      "last_update": "2026-09-24 23:47:57.269762196 +0000 UTC"
     },
     {
-      "mmsi": "368224850",
-      "name": "COURAGEOUS",
-      "lat": 40.6604,
-      "lon": -74.0495,
-      "sog": 33.7,
-      "cog": 203.9,
-      "nav_status": 0,
-      "last_update": "2026-09-24 20:47:08.921354134 +0000 UTC"
+      "mmsi": "770576517",
+      "name": "COLONIA EXPRESS II",
+      "lat": -34.5561,
+      "lon": -58.0586,
+      "sog": 29.8,
+      "cog": 72.4,
+      "nav_status": 9,
+      "last_update": "2026-09-24 23:47:50.659983566 +0000 UTC"
     },
     {
-      "mmsi": "366989380",
-      "name": "MARE ISLAND",
-      "lat": 37.9653,
-      "lon": -122.4311,
-      "sog": 33.2,
-      "cog": 184.2,
-      "nav_status": 0,
-      "last_update": "2026-09-24 20:46:43.970414692 +0000 UTC"
+      "mmsi": "368473450",
+      "name": "CALCASIEU PILOT",
+      "lat": 29.4776,
+      "lon": -93.2626,
+      "sog": 28,
+      "cog": 339.8,
+      "nav_status": 15,
+      "last_update": "2026-09-24 23:47:52.464405417 +0000 UTC"
     },
     {
-      "mmsi": "512000742",
-      "name": "CLIPPER 2",
-      "lat": -36.8802,
-      "lon": 174.9663,
-      "sog": 33.2,
-      "cog": 311,
+      "mmsi": "338754000",
+      "name": "SPIRIT OF KINGSTON",
+      "lat": 47.5341,
+      "lon": -122.4564,
+      "sog": 27.2,
+      "cog": 207,
       "nav_status": 0,
-      "last_update": "2026-09-24 20:46:26.336705027 +0000 UTC"
+      "last_update": "2026-09-24 23:47:54.800209182 +0000 UTC"
     },
     {
-      "mmsi": "368013770",
-      "name": "COMMODORE",
-      "lat": 40.7098,
-      "lon": -73.976,
-      "sog": 32.2,
-      "cog": 45.8,
+      "mmsi": "431015964",
+      "name": "HAMAYU",
+      "lat": 33.4162,
+      "lon": 135.9522,
+      "sog": 27,
+      "cog": 246,
       "nav_status": 0,
-      "last_update": "2026-09-24 20:46:45.621007925 +0000 UTC"
+      "last_update": "2026-09-24 23:48:11.552496382 +0000 UTC"
     },
     {
-      "mmsi": "232015629",
-      "name": "RED JET 7",
-      "lat": 50.7983,
-      "lon": -1.295,
-      "sog": 31.6,
-      "cog": 27.8,
-      "nav_status": 0,
-      "last_update": "2026-09-24 20:46:57.093638448 +0000 UTC"
+      "mmsi": "366902350",
+      "name": "GOV THOMAS H KEAN",
+      "lat": 40.742,
+      "lon": -74.0208,
+      "sog": 26.2,
+      "cog": 13.3,
+      "nav_status": 5,
+      "last_update": "2026-09-24 23:47:55.741808165 +0000 UTC"
     }
   ]
 }
