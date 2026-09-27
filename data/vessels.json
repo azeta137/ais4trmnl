@@ -1,206 +1,208 @@
 {
-  "updated_at": "2026-09-27T04:21:56Z",
-  "count": 1905,
+  "updated_at": "2026-09-27T10:12:43Z",
+  "count": 4532,
   "vessels": [
     {
-      "mmsi": "249698000",
-      "name": "INS LAND",
-      "lat": 41.3804,
-      "lon": 2.1844,
+      "mmsi": "247214700",
+      "name": "BONITA",
+      "lat": 44.3955,
+      "lon": 8.9169,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-27 04:21:34.217688809 +0000 UTC"
+      "nav_status": 3,
+      "last_update": "2026-09-27 10:11:32.843448455 +0000 UTC"
     },
     {
-      "mmsi": "311001909",
-      "name": "WILSON CLYDE",
-      "lat": 54.7745,
-      "lon": 16.0994,
+      "mmsi": "244045000",
+      "name": "HEBO-CAT 15",
+      "lat": 51.8935,
+      "lon": 4.4116,
       "sog": 102.3,
-      "cog": 259.4,
+      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-27 04:21:35.049399766 +0000 UTC"
+      "last_update": "2026-09-27 10:11:35.927451754 +0000 UTC"
     },
     {
       "mmsi": "210588000",
       "name": "LEDRA PRIDE",
-      "lat": 34.6452,
+      "ship_type": 52,
+      "destination": "CYLIM",
+      "lat": 34.6451,
       "lon": 33.018,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 8,
-      "last_update": "2026-09-27 04:21:38.091935852 +0000 UTC"
+      "last_update": "2026-09-27 10:12:07.715941402 +0000 UTC"
     },
     {
-      "mmsi": "367131000",
-      "name": "ALASKA",
-      "lat": 29.7483,
-      "lon": -93.8941,
+      "mmsi": "244615506",
+      "name": "ZUID-HOLLAND-ZUID",
+      "lat": 51.8,
+      "lon": 4.6394,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-27 04:21:40.386037895 +0000 UTC"
+      "last_update": "2026-09-27 10:11:54.370295077 +0000 UTC"
     },
     {
-      "mmsi": "210920000",
-      "name": "VTS PENTADAKTYLOS",
-      "lat": 34.7169,
-      "lon": 33.3162,
+      "mmsi": "428067000",
+      "name": "BAT GALIM",
+      "lat": 32.8203,
+      "lon": 35.0073,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-27 10:11:58.47207629 +0000 UTC"
+    },
+    {
+      "mmsi": "367609130",
+      "name": "BELLA K",
+      "lat": 47.663,
+      "lon": -122.3884,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-27 04:21:42.600851768 +0000 UTC"
+      "last_update": "2026-09-27 10:12:03.128014285 +0000 UTC"
     },
     {
-      "mmsi": "341141000",
-      "name": "UGAH CONFIDENCE",
-      "lat": 32.8578,
-      "lon": 34.8793,
-      "sog": 39.3,
-      "cog": 268.4,
-      "nav_status": 1,
-      "last_update": "2026-09-27 04:21:38.240647986 +0000 UTC"
+      "mmsi": "368410790",
+      "name": "HARBOR CHARGER",
+      "lat": 40.6421,
+      "lon": -74.1189,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-27 10:12:06.995008679 +0000 UTC"
     },
     {
-      "mmsi": "477937600",
-      "name": "SHOPPES FOUR SEASONS",
-      "lat": 22.2087,
-      "lon": 113.9834,
-      "sog": 37.7,
-      "cog": 263.6,
+      "mmsi": "375369000",
+      "name": "ZAYYAN K",
+      "lat": 31.8255,
+      "lon": 34.6402,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-27 10:12:12.851010005 +0000 UTC"
+    },
+    {
+      "mmsi": "224569880",
+      "name": "VB SAJA",
+      "lat": 39.6464,
+      "lon": -0.2133,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-27 10:12:14.048031832 +0000 UTC"
+    },
+    {
+      "mmsi": "244003316",
+      "name": "NB1 WATERBUFFEL",
+      "lat": 52.3994,
+      "lon": 4.9,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-27 10:12:14.768979436 +0000 UTC"
+    },
+    {
+      "mmsi": "367472880",
+      "name": "NOW OR NEVER",
+      "lat": 26.0983,
+      "lon": -80.1698,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-27 10:12:26.782182719 +0000 UTC"
+    },
+    {
+      "mmsi": "111219516",
+      "name": "M 516",
+      "lat": 55.2903,
+      "lon": 9.0404,
+      "sog": 102.2,
+      "cog": 120.4,
+      "nav_status": 0,
+      "last_update": "2026-09-27 10:12:15.606615835 +0000 UTC"
+    },
+    {
+      "mmsi": "636025853",
+      "name": "AGIA THEKLA",
+      "lat": 60.1186,
+      "lon": 31.3892,
+      "sog": 64.5,
+      "cog": 269.4,
+      "nav_status": 5,
+      "last_update": "2026-09-27 10:12:03.172974522 +0000 UTC"
+    },
+    {
+      "mmsi": "477056200",
+      "name": "UNIVERSAL MK2011",
+      "lat": 22.2082,
+      "lon": 114.0013,
+      "sog": 39.1,
+      "cog": 83,
+      "nav_status": 0,
+      "last_update": "2026-09-27 10:12:15.984658885 +0000 UTC"
+    },
+    {
+      "mmsi": "636025487",
+      "name": "PROMETHEUS",
+      "lat": 60.1183,
+      "lon": 31.383,
+      "sog": 37.3,
+      "cog": 274.2,
+      "nav_status": 5,
+      "last_update": "2026-09-27 10:12:14.108901072 +0000 UTC"
+    },
+    {
+      "mmsi": "219705000",
+      "name": "EXPRESS 4",
+      "lat": 56.0012,
+      "lon": 10.7701,
+      "sog": 35.9,
+      "cog": 110.8,
       "nav_status": 9,
-      "last_update": "2026-09-27 04:21:33.941664655 +0000 UTC"
+      "last_update": "2026-09-27 10:12:27.066727745 +0000 UTC"
     },
     {
-      "mmsi": "477997053",
-      "name": "XIN MING ZHU II",
-      "lat": 22.2377,
-      "lon": 114.0446,
-      "sog": 30.4,
-      "cog": 237.9,
-      "nav_status": 1,
-      "last_update": "2026-09-27 04:21:33.419293632 +0000 UTC"
-    },
-    {
-      "mmsi": "338926017",
-      "name": "CG32117",
-      "lat": 37.6943,
-      "lon": -122.3558,
-      "sog": 29.8,
-      "cog": 189.5,
+      "mmsi": "224984000",
+      "name": "VOLCAN DE TAIDIA",
+      "lat": 28.4538,
+      "lon": -16.1472,
+      "sog": 34.8,
+      "cog": 294.2,
       "nav_status": 0,
-      "last_update": "2026-09-27 04:21:36.869976473 +0000 UTC"
+      "last_update": "2026-09-27 10:11:58.270441931 +0000 UTC"
     },
     {
-      "mmsi": "247445700",
-      "name": "CRISTINA M",
-      "lat": 38.3165,
-      "lon": 15.2699,
-      "sog": 28.3,
-      "cog": 359.1,
+      "mmsi": "224753000",
+      "name": "VOLCAN DE TENO",
+      "lat": 36.1277,
+      "lon": -5.3945,
+      "sog": 32.3,
+      "cog": 346.8,
       "nav_status": 0,
-      "last_update": "2026-09-27 04:21:43.399811686 +0000 UTC"
+      "last_update": "2026-09-27 10:11:51.936814751 +0000 UTC"
     },
     {
-      "mmsi": "413255080",
-      "name": "PENG XING 6",
-      "lat": 22.3771,
-      "lon": 113.8398,
-      "sog": 27.6,
-      "cog": 234.8,
+      "mmsi": "224388000",
+      "name": "BANADEROS EXPRESS",
+      "lat": 28.2703,
+      "lon": -15.9541,
+      "sog": 31.7,
+      "cog": 132.3,
       "nav_status": 0,
-      "last_update": "2026-09-27 04:21:34.642363398 +0000 UTC"
+      "last_update": "2026-09-27 10:11:44.284762762 +0000 UTC"
     },
     {
-      "mmsi": "247294800",
-      "name": "CARLOTTA M",
-      "lat": 38.4165,
-      "lon": 14.9899,
-      "sog": 27.5,
-      "cog": 96.5,
+      "mmsi": "237247600",
+      "name": "F/D ATHINA",
+      "lat": 37.7153,
+      "lon": 23.3912,
+      "sog": 31.6,
+      "cog": 247,
       "nav_status": 0,
-      "last_update": "2026-09-27 04:21:43.396429231 +0000 UTC"
-    },
-    {
-      "mmsi": "265585620",
-      "name": "PILOT 791 SE",
-      "lat": 65.5448,
-      "lon": 22.2671,
-      "sog": 24.4,
-      "cog": 278.2,
-      "nav_status": 0,
-      "last_update": "2026-09-27 04:21:42.88407388 +0000 UTC"
-    },
-    {
-      "mmsi": "368151810",
-      "name": "ENETAI",
-      "lat": 47.5612,
-      "lon": -122.433,
-      "sog": 22.7,
-      "cog": 13.5,
-      "nav_status": 0,
-      "last_update": "2026-09-27 04:21:39.099851905 +0000 UTC"
-    },
-    {
-      "mmsi": "316046641",
-      "name": "OCEAN CHAMPLAIN II",
-      "lat": 46.0499,
-      "lon": -73.1193,
-      "sog": 22.5,
-      "cog": 108.8,
-      "nav_status": 0,
-      "last_update": "2026-09-27 04:21:43.24643034 +0000 UTC"
-    },
-    {
-      "mmsi": "247279000",
-      "name": "EXCELLENT",
-      "lat": 43.9797,
-      "lon": 8.4052,
-      "sog": 22,
-      "cog": 231.9,
-      "nav_status": 0,
-      "last_update": "2026-09-27 04:21:41.432047847 +0000 UTC"
-    },
-    {
-      "mmsi": "354277000",
-      "name": "CARNIVAL MIRACLE",
-      "lat": 48.2295,
-      "lon": -123.467,
-      "sog": 21.3,
-      "cog": 303.6,
-      "nav_status": 0,
-      "last_update": "2026-09-27 04:21:39.528661096 +0000 UTC"
-    },
-    {
-      "mmsi": "257055660",
-      "name": "LOS 134",
-      "lat": 59.1159,
-      "lon": 5.4128,
-      "sog": 20.7,
-      "cog": 32.5,
-      "nav_status": 0,
-      "last_update": "2026-09-27 04:21:42.909285679 +0000 UTC"
-    },
-    {
-      "mmsi": "211514540",
-      "name": "PILOT LABOE",
-      "lat": 54.4352,
-      "lon": 10.1776,
-      "sog": 20.2,
-      "cog": 261.6,
-      "nav_status": 0,
-      "last_update": "2026-09-27 04:21:43.335654365 +0000 UTC"
-    },
-    {
-      "mmsi": "240815000",
-      "name": "SUPERFAST I",
-      "lat": 40.7265,
-      "lon": 18.2375,
-      "sog": 19.8,
-      "cog": 303.8,
-      "nav_status": 0,
-      "last_update": "2026-09-27 04:21:36.314961084 +0000 UTC"
+      "last_update": "2026-09-27 10:12:06.643651912 +0000 UTC"
     }
   ]
 }
