@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-09-28T00:57:16Z",
-  "count": 6718,
+  "updated_at": "2026-09-28T06:34:43Z",
+  "count": 4561,
   "vessels": [
     {
-      "mmsi": "224569880",
-      "name": "VB SAJA",
-      "lat": 39.6464,
-      "lon": -0.2133,
+      "mmsi": "601126900",
+      "name": "SEA EXPRESS",
+      "lat": -29.8682,
+      "lon": 31.0142,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-28 00:56:16.360640881 +0000 UTC"
+      "nav_status": 8,
+      "last_update": "2026-09-28 06:33:32.41408477 +0000 UTC"
     },
     {
       "mmsi": "244045000",
@@ -20,99 +20,17 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-28 00:57:03.918076072 +0000 UTC"
+      "last_update": "2026-09-28 06:33:32.693426881 +0000 UTC"
     },
     {
-      "mmsi": "636011247",
-      "name": "SAGITTA",
-      "lat": 37.9297,
-      "lon": 23.6816,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-28 00:56:25.183295675 +0000 UTC"
-    },
-    {
-      "mmsi": "263701380",
-      "name": "FERNANDO NAMORA",
-      "lat": 38.6526,
-      "lon": -9.0811,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-09-28 00:56:26.917676895 +0000 UTC"
-    },
-    {
-      "mmsi": "211219630",
-      "name": "SELENE PRAHM",
-      "lat": 54.4242,
-      "lon": 16.3971,
-      "sog": 102.3,
-      "cog": 152.2,
-      "nav_status": 5,
-      "last_update": "2026-09-28 00:56:28.015421937 +0000 UTC"
-    },
-    {
-      "mmsi": "367609130",
-      "name": "BELLA K",
-      "ship_type": 30,
-      "destination": "SEATTLE",
-      "lat": 47.663,
-      "lon": -122.3884,
+      "mmsi": "259046050",
+      "name": "FREMAD",
+      "lat": 66.3729,
+      "lon": 12.361,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-28 00:57:13.592134595 +0000 UTC"
-    },
-    {
-      "mmsi": "503000080",
-      "name": "MANNING",
-      "lat": -33.8624,
-      "lon": 151.2272,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-28 00:56:29.150387226 +0000 UTC"
-    },
-    {
-      "mmsi": "319720000",
-      "name": "STARDUST",
-      "lat": 32.7101,
-      "lon": -117.2336,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-28 00:56:31.134381265 +0000 UTC"
-    },
-    {
-      "mmsi": "338329000",
-      "name": "KINGS POINT",
-      "lat": 39.2435,
-      "lon": -76.5703,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-28 00:56:31.284058305 +0000 UTC"
-    },
-    {
-      "mmsi": "368368350",
-      "name": "BREEZY DAY",
-      "lat": 26.0927,
-      "lon": -80.1745,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-28 00:56:39.586722865 +0000 UTC"
-    },
-    {
-      "mmsi": "245382000",
-      "name": "",
-      "lat": 51.6217,
-      "lon": 3.6878,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-09-28 00:56:41.187701116 +0000 UTC"
+      "last_update": "2026-09-28 06:33:35.12585159 +0000 UTC"
     },
     {
       "mmsi": "258184000",
@@ -122,7 +40,27 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-28 00:56:44.320065858 +0000 UTC"
+      "last_update": "2026-09-28 06:33:35.197108269 +0000 UTC"
+    },
+    {
+      "mmsi": "261011633",
+      "name": "HYDROCAT MURRAY",
+      "lat": 54.3461,
+      "lon": 18.7893,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-09-28 06:33:35.790648346 +0000 UTC"
+    },
+    {
+      "mmsi": "367482250",
+      "name": "JERSEY",
+      "lat": 40.7717,
+      "lon": -74.011,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-28 06:33:36.071421469 +0000 UTC"
     },
     {
       "mmsi": "428009088",
@@ -132,77 +70,137 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-28 00:56:48.935156506 +0000 UTC"
+      "last_update": "2026-09-28 06:33:39.496335112 +0000 UTC"
     },
     {
-      "mmsi": "211270850",
-      "name": "PIONIER",
-      "lat": 53.677,
-      "lon": 7.5736,
+      "mmsi": "244615506",
+      "name": "ZUID-HOLLAND-ZUID",
+      "lat": 51.8,
+      "lon": 4.6394,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-09-28 00:56:55.704770198 +0000 UTC"
+      "last_update": "2026-09-28 06:33:44.495614225 +0000 UTC"
     },
     {
-      "mmsi": "367415390",
-      "name": "EMPIRE STATE",
-      "lat": 40.7716,
-      "lon": -74.0109,
+      "mmsi": "352002481",
+      "name": "BARU SIERRA NEVADA",
+      "lat": -22.8478,
+      "lon": -43.1298,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 1,
+      "last_update": "2026-09-28 06:33:58.323350944 +0000 UTC"
+    },
+    {
+      "mmsi": "244120000",
+      "name": "ANTEOS",
+      "lat": 52.099,
+      "lon": 4.2632,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-28 06:34:01.869283758 +0000 UTC"
+    },
+    {
+      "mmsi": "375369000",
+      "name": "ZAYYAN K",
+      "lat": 31.8254,
+      "lon": 34.6403,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-28 06:34:05.253682664 +0000 UTC"
+    },
+    {
+      "mmsi": "224569880",
+      "name": "VB SAJA",
+      "lat": 39.6464,
+      "lon": -0.2133,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-28 00:56:58.78141329 +0000 UTC"
+      "last_update": "2026-09-28 06:34:06.476389558 +0000 UTC"
+    },
+    {
+      "mmsi": "428067000",
+      "name": "BAT GALIM",
+      "lat": 32.8202,
+      "lon": 35.0073,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-28 06:34:06.965039223 +0000 UTC"
+    },
+    {
+      "mmsi": "241903000",
+      "name": "DON'T WORRY",
+      "lat": 37.9409,
+      "lon": 23.6704,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-28 06:34:14.264681457 +0000 UTC"
+    },
+    {
+      "mmsi": "512004996",
+      "name": "PILOTVESSEL WAKATERE",
+      "lat": -36.8432,
+      "lon": 174.776,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-09-28 06:34:16.521578445 +0000 UTC"
+    },
+    {
+      "mmsi": "219011922",
+      "name": "SCANDINAVIA",
+      "lat": 53.5962,
+      "lon": 8.1526,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-09-28 06:34:17.608563754 +0000 UTC"
     },
     {
       "mmsi": "316014014",
       "name": "TAKAYA",
       "lat": 49.2863,
       "lon": -123.1005,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-28 00:56:59.158004126 +0000 UTC"
-    },
-    {
-      "mmsi": "338449111",
-      "name": "BAYWATCH 20",
-      "lat": 33.957,
-      "lon": -118.4562,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-09-28 00:56:59.825731894 +0000 UTC"
-    },
-    {
-      "mmsi": "211337780",
-      "name": "ATALANTA",
-      "lat": 53.8992,
-      "lon": 11.4571,
-      "sog": 102.3,
+      "sog": 102.2,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-09-28 00:57:04.161505501 +0000 UTC"
+      "last_update": "2026-09-28 06:33:48.507488762 +0000 UTC"
     },
     {
-      "mmsi": "339000263",
-      "name": "MEMENTO VIVERE",
-      "lat": 26.0585,
-      "lon": -80.1358,
-      "sog": 102.3,
+      "mmsi": "369713000",
+      "name": "TRIBUTE",
+      "lat": 0,
+      "lon": 0,
+      "sog": 102.2,
       "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-09-28 00:57:05.220330252 +0000 UTC"
+      "nav_status": 0,
+      "last_update": "2026-09-28 06:34:07.676844827 +0000 UTC"
     },
     {
-      "mmsi": "240796900",
-      "name": "SEALINK VII",
-      "lat": 37.862,
-      "lon": 23.744,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-09-28 00:57:09.774137833 +0000 UTC"
+      "mmsi": "316056881",
+      "name": "TYMAC FORCE",
+      "lat": 49.298,
+      "lon": -123.0622,
+      "sog": 38.1,
+      "cog": 280,
+      "nav_status": 0,
+      "last_update": "2026-09-28 06:34:09.077111 +0000 UTC"
+    },
+    {
+      "mmsi": "224781000",
+      "name": "VOLCAN DE TAGORO",
+      "lat": 28.4215,
+      "lon": -16.1477,
+      "sog": 34.1,
+      "cog": 112.2,
+      "nav_status": 9,
+      "last_update": "2026-09-28 06:34:08.209080366 +0000 UTC"
     }
   ]
 }
