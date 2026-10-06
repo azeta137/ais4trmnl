@@ -1,86 +1,66 @@
 {
-  "updated_at": "2026-10-05T21:56:18Z",
-  "count": 4160,
+  "updated_at": "2026-10-06T02:07:53Z",
+  "count": 5851,
   "vessels": [
     {
-      "mmsi": "244951000",
-      "name": "MANTELMEEUW",
-      "lat": 51.4441,
-      "lon": 3.5927,
+      "mmsi": "244010956",
+      "name": "P93",
+      "lat": 51.893,
+      "lon": 4.2306,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-10-05 21:55:08.098632921 +0000 UTC"
+      "last_update": "2026-10-06 02:06:42.152361986 +0000 UTC"
     },
     {
-      "mmsi": "245382000",
-      "name": "KNRM-FRED",
-      "lat": 51.6217,
-      "lon": 3.6877,
+      "mmsi": "244108000",
+      "name": "ZK46 ZEEMEEUW",
+      "lat": 53.3291,
+      "lon": 6.9312,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-05 21:55:09.126293447 +0000 UTC"
+      "last_update": "2026-10-06 02:06:44.97346882 +0000 UTC"
     },
     {
-      "mmsi": "271044493",
-      "name": "MIP-3",
-      "lat": 36.7919,
-      "lon": 34.636,
+      "mmsi": "244003316",
+      "name": "NB1 WATERBUFFEL",
+      "lat": 52.3995,
+      "lon": 4.9,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-05 21:55:12.337009146 +0000 UTC"
+      "last_update": "2026-10-06 02:06:48.62658706 +0000 UTC"
     },
     {
-      "mmsi": "367596940",
-      "name": "CAPT WILLIE LANDERS",
-      "lat": 27.603,
-      "lon": -82.7601,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 11,
-      "last_update": "2026-10-05 21:55:13.854097304 +0000 UTC"
-    },
-    {
-      "mmsi": "224081150",
-      "name": "MARIA DOS ANXOS",
-      "lat": 43.3597,
-      "lon": -8.4004,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 7,
-      "last_update": "2026-10-05 21:55:52.539378763 +0000 UTC"
-    },
-    {
-      "mmsi": "319720000",
-      "name": "STARDUST",
-      "lat": 32.7101,
-      "lon": -117.2336,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-10-05 21:55:21.719059558 +0000 UTC"
-    },
-    {
-      "mmsi": "244615506",
-      "name": "ZUID-HOLLAND-ZUID",
-      "lat": 51.8,
-      "lon": 4.6394,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-10-05 21:55:29.899047235 +0000 UTC"
-    },
-    {
-      "mmsi": "338449112",
-      "name": "BAYWATCH 21",
-      "lat": 33.9682,
-      "lon": -118.448,
+      "mmsi": "477997158",
+      "name": "PORT WORKS 5",
+      "lat": 22.3235,
+      "lon": 114.1415,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-10-05 21:55:38.095644494 +0000 UTC"
+      "last_update": "2026-10-06 02:06:53.396572892 +0000 UTC"
+    },
+    {
+      "mmsi": "263701380",
+      "name": "FERNANDO NAMORA",
+      "lat": 38.6516,
+      "lon": -9.0797,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-10-06 02:07:06.951345025 +0000 UTC"
+    },
+    {
+      "mmsi": "244710626",
+      "name": "BENCKES",
+      "lat": 52.8478,
+      "lon": 5.6749,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-10-06 02:07:08.669180987 +0000 UTC"
     },
     {
       "mmsi": "235060142",
@@ -90,27 +70,17 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-05 21:55:38.932070493 +0000 UTC"
+      "last_update": "2026-10-06 02:07:09.354194719 +0000 UTC"
     },
     {
-      "mmsi": "244003316",
-      "name": "NB1 WATERBUFFEL",
-      "lat": 52.3995,
-      "lon": 4.8999,
+      "mmsi": "319720000",
+      "name": "STARDUST",
+      "lat": 32.7101,
+      "lon": -117.2336,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-05 21:55:38.959140722 +0000 UTC"
-    },
-    {
-      "mmsi": "338088828",
-      "name": "CAMELOT",
-      "lat": 26.1446,
-      "lon": -80.1097,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-10-05 21:55:39.245914201 +0000 UTC"
+      "last_update": "2026-10-06 02:07:12.386133591 +0000 UTC"
     },
     {
       "mmsi": "210920000",
@@ -120,89 +90,117 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-05 21:55:52.68843055 +0000 UTC"
+      "last_update": "2026-10-06 02:07:12.663439509 +0000 UTC"
     },
     {
-      "mmsi": "338093828",
-      "name": "LA FIREBOAT 5",
-      "lat": 33.7273,
-      "lon": -118.2725,
+      "mmsi": "367482990",
+      "name": "YORK",
+      "lat": 40.7148,
+      "lon": -74.0179,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-05 21:55:54.109394059 +0000 UTC"
+      "last_update": "2026-10-06 02:07:16.386062416 +0000 UTC"
     },
     {
-      "mmsi": "368151810",
-      "name": "ENETAI",
-      "lat": 47.5902,
-      "lon": -122.4111,
-      "sog": 29.5,
-      "cog": 225.1,
+      "mmsi": "367646570",
+      "name": "ELECTRA",
+      "lat": 37.9113,
+      "lon": -122.3492,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-05 21:55:42.659716658 +0000 UTC"
+      "last_update": "2026-10-06 02:07:17.226880855 +0000 UTC"
     },
     {
-      "mmsi": "367199310",
-      "name": "CATALINA JET",
-      "ship_type": 40,
-      "destination": "LONG BEACH; AVALON",
-      "lat": 33.5002,
-      "lon": -118.2669,
-      "sog": 27.3,
-      "cog": 197.3,
+      "mmsi": "428067000",
+      "name": "BAT GALIM",
+      "lat": 32.9609,
+      "lon": 34.7416,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 3,
+      "last_update": "2026-10-06 02:07:18.956469067 +0000 UTC"
+    },
+    {
+      "mmsi": "232028036",
+      "name": "GARRION OWL",
+      "lat": 55.8907,
+      "lon": -4.3943,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-10-06 02:07:20.208117269 +0000 UTC"
+    },
+    {
+      "mmsi": "266160000",
+      "name": "VG29 CHRISTINA",
+      "lat": 57.0589,
+      "lon": 12.273,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 7,
+      "last_update": "2026-10-06 02:07:21.287887948 +0000 UTC"
+    },
+    {
+      "mmsi": "428009088",
+      "name": "DANCHOR X",
+      "lat": 31.8242,
+      "lon": 34.6452,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-10-06 02:07:22.725274341 +0000 UTC"
+    },
+    {
+      "mmsi": "271044493",
+      "name": "MIP- 3",
+      "lat": 36.7918,
+      "lon": 34.636,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-10-06 02:07:23.911356067 +0000 UTC"
+    },
+    {
+      "mmsi": "247214700",
+      "name": "BONITA",
+      "lat": 44.4172,
+      "lon": 8.7972,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 3,
+      "last_update": "2026-10-06 02:07:33.290899041 +0000 UTC"
+    },
+    {
+      "mmsi": "338850000",
+      "name": "CG WAESCHE",
+      "lat": 0,
+      "lon": 0,
+      "sog": 102.2,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-10-06 02:07:24.862089698 +0000 UTC"
+    },
+    {
+      "mmsi": "636024193",
+      "name": "MSC TEMA VIII",
+      "lat": 59.8683,
+      "lon": 30.3317,
+      "sog": 52.4,
+      "cog": 319.7,
+      "nav_status": 5,
+      "last_update": "2026-10-06 02:07:26.54515095 +0000 UTC"
+    },
+    {
+      "mmsi": "367347670",
+      "name": "SEASTREAK HIGHLANDS",
+      "lat": 40.6555,
+      "lon": -74.049,
+      "sog": 34.6,
+      "cog": 197.7,
       "nav_status": 15,
-      "last_update": "2026-10-05 21:55:17.703327563 +0000 UTC"
-    },
-    {
-      "mmsi": "368135270",
-      "name": "CURIOSITY",
-      "lat": 40.5642,
-      "lon": -73.9259,
-      "sog": 26.1,
-      "cog": 246.9,
-      "nav_status": 0,
-      "last_update": "2026-10-05 21:55:23.237918935 +0000 UTC"
-    },
-    {
-      "mmsi": "235112741",
-      "name": "GALAXY CLIPPER",
-      "lat": 51.4882,
-      "lon": -0.0032,
-      "sog": 25.7,
-      "cog": 213.5,
-      "nav_status": 0,
-      "last_update": "2026-10-05 21:55:11.742972666 +0000 UTC"
-    },
-    {
-      "mmsi": "369493738",
-      "name": "CG45738",
-      "lat": 32.0377,
-      "lon": -80.8408,
-      "sog": 24.5,
-      "cog": 92.7,
-      "nav_status": 0,
-      "last_update": "2026-10-05 21:55:16.90365602 +0000 UTC"
-    },
-    {
-      "mmsi": "240389000",
-      "name": "BLUE STAR MYCONOS",
-      "lat": 37.4384,
-      "lon": 24.96,
-      "sog": 24.5,
-      "cog": 240.1,
-      "nav_status": 0,
-      "last_update": "2026-10-05 21:55:25.561491058 +0000 UTC"
-    },
-    {
-      "mmsi": "366902320",
-      "name": "ADM RICHARD E BENNIS",
-      "lat": 40.7032,
-      "lon": -74.0228,
-      "sog": 24.5,
-      "cog": 160.3,
-      "nav_status": 0,
-      "last_update": "2026-10-05 21:55:27.984664618 +0000 UTC"
+      "last_update": "2026-10-06 02:06:49.830378303 +0000 UTC"
     }
   ]
 }
