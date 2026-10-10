@@ -1,36 +1,66 @@
 {
-  "updated_at": "2026-10-10T08:59:44Z",
-  "count": 4817,
+  "updated_at": "2026-10-10T15:14:41Z",
+  "count": 4043,
   "vessels": [
     {
-      "mmsi": "266099000",
-      "name": "VY 43 MINDY",
-      "lat": 57.4218,
-      "lon": 18.9157,
+      "mmsi": "235060142",
+      "name": "SEA HAVEN",
+      "lat": 57.1439,
+      "lon": -2.0796,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 7,
-      "last_update": "2026-10-10 08:58:40.383860001 +0000 UTC"
+      "nav_status": 0,
+      "last_update": "2026-10-10 15:13:49.754253792 +0000 UTC"
     },
     {
-      "mmsi": "255915630",
-      "name": "BOTA WIND I",
-      "lat": 54.4361,
-      "lon": 16.3881,
+      "mmsi": "244010956",
+      "name": "P93",
+      "lat": 51.9214,
+      "lon": 4.2494,
       "sog": 102.3,
-      "cog": 254.5,
+      "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-10-10 08:58:45.329425633 +0000 UTC"
+      "last_update": "2026-10-10 15:13:31.890178549 +0000 UTC"
     },
     {
-      "mmsi": "266160000",
-      "name": "VG29 CHRISTINA",
-      "lat": 57.0589,
-      "lon": 12.2731,
+      "mmsi": "367482250",
+      "name": "JERSEY",
+      "lat": 40.7711,
+      "lon": -74.0116,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 7,
-      "last_update": "2026-10-10 08:58:50.062331556 +0000 UTC"
+      "nav_status": 0,
+      "last_update": "2026-10-10 15:13:32.307835581 +0000 UTC"
+    },
+    {
+      "mmsi": "367757690",
+      "name": "ELGERCLIFF",
+      "lat": 39.278,
+      "lon": -81.6493,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-10-10 15:13:38.199785367 +0000 UTC"
+    },
+    {
+      "mmsi": "367482990",
+      "name": "YORK",
+      "lat": 40.7714,
+      "lon": -74.0125,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-10-10 15:13:40.032860546 +0000 UTC"
+    },
+    {
+      "mmsi": "512004996",
+      "name": "PILOTVESSEL WAKATERE",
+      "lat": -36.8432,
+      "lon": 174.776,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 9,
+      "last_update": "2026-10-10 15:13:45.041960581 +0000 UTC"
     },
     {
       "mmsi": "235034368",
@@ -40,57 +70,17 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-10 08:58:50.673742911 +0000 UTC"
+      "last_update": "2026-10-10 15:13:50.754077806 +0000 UTC"
     },
     {
-      "mmsi": "512004996",
-      "name": "PILOTVESSEL WAKATERE",
-      "lat": -36.8432,
-      "lon": 174.7759,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 9,
-      "last_update": "2026-10-10 08:58:54.845028166 +0000 UTC"
-    },
-    {
-      "mmsi": "235107284",
-      "name": "BSC INTREPID",
-      "lat": 51.3296,
-      "lon": 1.4211,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-10-10 08:58:56.990745535 +0000 UTC"
-    },
-    {
-      "mmsi": "368000880",
-      "name": "HEATHER JOE",
-      "lat": 41.6287,
-      "lon": -70.9143,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-10-10 08:59:03.259454981 +0000 UTC"
-    },
-    {
-      "mmsi": "319720000",
-      "name": "STARDUST",
-      "lat": 32.7101,
-      "lon": -117.2336,
+      "mmsi": "210920000",
+      "name": "VTS PENTADAKTYLOS",
+      "lat": 34.7185,
+      "lon": 33.3179,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-10 08:59:03.50154403 +0000 UTC"
-    },
-    {
-      "mmsi": "316009063",
-      "name": "R/V ACHIEVER",
-      "lat": 50.0352,
-      "lon": -125.2438,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-10-10 08:59:04.168807747 +0000 UTC"
+      "last_update": "2026-10-10 15:13:52.131642102 +0000 UTC"
     },
     {
       "mmsi": "263701380",
@@ -100,59 +90,57 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 8,
-      "last_update": "2026-10-10 08:59:04.866513516 +0000 UTC"
+      "last_update": "2026-10-10 15:13:54.332457528 +0000 UTC"
     },
     {
-      "mmsi": "244060365",
-      "name": "KNRM ARBOR VITAE",
-      "ship_type": 51,
-      "destination": "",
-      "lat": 53.4088,
-      "lon": 6.1974,
+      "mmsi": "368410790",
+      "name": "HARBOR CHARGER",
+      "lat": 40.642,
+      "lon": -74.1189,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-10 08:59:15.497859861 +0000 UTC"
+      "last_update": "2026-10-10 15:13:55.682464797 +0000 UTC"
     },
     {
       "mmsi": "245382000",
       "name": "KNRM-FRED",
       "lat": 51.6217,
-      "lon": 3.6879,
+      "lon": 3.6878,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-10 08:59:06.503786554 +0000 UTC"
+      "last_update": "2026-10-10 15:13:55.949391079 +0000 UTC"
     },
     {
-      "mmsi": "352002481",
-      "name": "BARU SIERRA NEVADA",
-      "lat": -22.8484,
-      "lon": -43.1299,
+      "mmsi": "235107284",
+      "name": "BSC INTREPID",
+      "lat": 51.3296,
+      "lon": 1.4211,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-10-10 08:59:06.693419235 +0000 UTC"
+      "nav_status": 5,
+      "last_update": "2026-10-10 15:13:57.01239257 +0000 UTC"
     },
     {
-      "mmsi": "250101900",
-      "name": "GUIDING STAR 2",
-      "lat": 51.6509,
-      "lon": -9.9082,
+      "mmsi": "338088828",
+      "name": "CAMELOT",
+      "lat": 26.1446,
+      "lon": -80.1097,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-10-10 08:59:07.868236455 +0000 UTC"
+      "nav_status": 15,
+      "last_update": "2026-10-10 15:13:59.495721523 +0000 UTC"
     },
     {
-      "mmsi": "244003316",
-      "name": "NB1 WATERBUFFEL",
-      "lat": 52.3994,
-      "lon": 4.9,
+      "mmsi": "316009063",
+      "name": "R/V ACHIEVER",
+      "lat": 50.0352,
+      "lon": -125.2438,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-10-10 08:59:08.348737806 +0000 UTC"
+      "nav_status": 5,
+      "last_update": "2026-10-10 15:14:04.971264867 +0000 UTC"
     },
     {
       "mmsi": "271044493",
@@ -162,47 +150,59 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-10 08:59:12.300021551 +0000 UTC"
+      "last_update": "2026-10-10 15:14:08.747195512 +0000 UTC"
     },
     {
-      "mmsi": "247214700",
-      "name": "BONITA",
-      "lat": 44.3952,
-      "lon": 8.9183,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 3,
-      "last_update": "2026-10-10 08:59:12.749693464 +0000 UTC"
-    },
-    {
-      "mmsi": "261011633",
-      "name": "HYDROCAT MURRAY",
-      "lat": 54.3461,
-      "lon": 18.7893,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-10-10 08:59:15.562684959 +0000 UTC"
-    },
-    {
-      "mmsi": "244615506",
-      "name": "ZUID-HOLLAND-ZUID",
-      "lat": 51.8,
-      "lon": 4.6394,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-10-10 08:59:18.777731425 +0000 UTC"
-    },
-    {
-      "mmsi": "244951000",
-      "name": "MANTELMEEUW",
-      "lat": 51.4441,
-      "lon": 3.5927,
+      "mmsi": "367318760",
+      "name": "BOHEMIA",
+      "lat": 40.6513,
+      "lon": -74.0318,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-10-10 08:59:19.449969373 +0000 UTC"
+      "last_update": "2026-10-10 15:14:14.411974264 +0000 UTC"
+    },
+    {
+      "mmsi": "369713000",
+      "name": "TRIBUTE",
+      "lat": 0,
+      "lon": 0,
+      "sog": 102.2,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-10-10 15:13:51.843662942 +0000 UTC",
+      "ship_type": 30,
+      "destination": ""
+    },
+    {
+      "mmsi": "271048807",
+      "name": "ILGAZ",
+      "lat": -12.0416,
+      "lon": -77.0408,
+      "sog": 102.2,
+      "cog": 187.8,
+      "nav_status": 1,
+      "last_update": "2026-10-10 15:14:18.13271042 +0000 UTC"
+    },
+    {
+      "mmsi": "212912000",
+      "name": "EUROCHAMPION JET",
+      "lat": 37.9158,
+      "lon": 24.4803,
+      "sog": 37,
+      "cog": 287.2,
+      "nav_status": 0,
+      "last_update": "2026-10-10 15:14:07.921716901 +0000 UTC"
+    },
+    {
+      "mmsi": "224388000",
+      "name": "BANADEROS EXPRESS",
+      "lat": 28.4551,
+      "lon": -16.1934,
+      "sog": 33.3,
+      "cog": 130.5,
+      "nav_status": 0,
+      "last_update": "2026-10-10 15:13:43.905111054 +0000 UTC"
     }
   ]
 }
