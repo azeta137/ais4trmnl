@@ -1,46 +1,86 @@
 {
-  "updated_at": "2026-10-14T20:30:51Z",
-  "count": 4016,
+  "updated_at": "2026-10-14T23:27:06Z",
+  "count": 3401,
   "vessels": [
-    {
-      "mmsi": "250002664",
-      "name": "LIDA SUZANNA WD8",
-      "lat": 50.3397,
-      "lon": 0.6453,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 7,
-      "last_update": "2026-10-14 20:29:39.341757215 +0000 UTC"
-    },
-    {
-      "mmsi": "316014014",
-      "name": "TAKAYA",
-      "lat": 49.2863,
-      "lon": -123.1003,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-10-14 20:29:41.007390215 +0000 UTC"
-    },
-    {
-      "mmsi": "319720000",
-      "name": "STARDUST",
-      "lat": 32.71,
-      "lon": -117.2336,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-10-14 20:29:42.779244263 +0000 UTC"
-    },
     {
       "mmsi": "355719000",
       "name": "MARATONA",
-      "lat": 43.1939,
-      "lon": 27.9018,
+      "lat": 43.1938,
+      "lon": 27.9017,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-10-14 20:30:06.152968901 +0000 UTC"
+      "last_update": "2026-10-14 23:26:07.248870737 +0000 UTC"
+    },
+    {
+      "mmsi": "256528000",
+      "name": "SAGITTA",
+      "lat": 39.5613,
+      "lon": 2.629,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-10-14 23:26:11.707097544 +0000 UTC"
+    },
+    {
+      "mmsi": "367388530",
+      "name": "FT BRAGG",
+      "lat": 43.0793,
+      "lon": -70.7573,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-10-14 23:26:16.135808534 +0000 UTC"
+    },
+    {
+      "mmsi": "636011247",
+      "name": "SAGITTA",
+      "lat": 37.9297,
+      "lon": 23.6817,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-10-14 23:26:19.205242133 +0000 UTC"
+    },
+    {
+      "mmsi": "428067000",
+      "name": "BAT GALIM",
+      "lat": 32.8202,
+      "lon": 35.0073,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-10-14 23:26:19.457795767 +0000 UTC"
+    },
+    {
+      "mmsi": "261000590",
+      "name": "PILOT-63",
+      "lat": 54.4372,
+      "lon": 16.3834,
+      "sog": 102.3,
+      "cog": 229.2,
+      "nav_status": 15,
+      "last_update": "2026-10-14 23:26:22.261388552 +0000 UTC"
+    },
+    {
+      "mmsi": "428009088",
+      "name": "DANCHOR X",
+      "lat": 32.8212,
+      "lon": 35.0069,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-10-14 23:26:25.337493376 +0000 UTC"
+    },
+    {
+      "mmsi": "368410790",
+      "name": "HARBOR CHARGER",
+      "lat": 40.6421,
+      "lon": -74.1189,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-10-14 23:26:26.576189885 +0000 UTC"
     },
     {
       "mmsi": "244120000",
@@ -50,157 +90,121 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 11,
-      "last_update": "2026-10-14 20:29:48.401069594 +0000 UTC"
+      "last_update": "2026-10-14 23:26:27.699281473 +0000 UTC",
+      "ship_type": 52,
+      "destination": "DKCPH"
     },
     {
-      "mmsi": "235034368",
-      "name": "MULTI-SURVEY 4",
-      "lat": 51.6213,
-      "lon": 3.6895,
+      "mmsi": "257522600",
+      "name": "FROHAV",
+      "lat": 63.7632,
+      "lon": 8.8611,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-10-14 20:29:52.59116151 +0000 UTC"
+      "nav_status": 7,
+      "last_update": "2026-10-14 23:26:32.325661699 +0000 UTC"
     },
     {
-      "mmsi": "367482250",
-      "name": "JERSEY",
-      "lat": 40.7139,
-      "lon": -74.0319,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-10-14 20:29:53.345329267 +0000 UTC"
-    },
-    {
-      "mmsi": "241903000",
-      "name": "DON'T WORRY",
-      "lat": 37.9409,
-      "lon": 23.6704,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-10-14 20:29:57.050041081 +0000 UTC"
-    },
-    {
-      "mmsi": "338449112",
-      "name": "BAYWATCH 21",
-      "lat": 33.9773,
-      "lon": -118.442,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-10-14 20:30:00.173791722 +0000 UTC"
-    },
-    {
-      "mmsi": "244060365",
-      "name": "KNRM ARBOR VITAE",
-      "lat": 53.4088,
-      "lon": 6.1974,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-10-14 20:30:05.60211629 +0000 UTC"
-    },
-    {
-      "mmsi": "247214700",
-      "name": "BONITA",
-      "lat": 44.4199,
-      "lon": 8.7986,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 3,
-      "last_update": "2026-10-14 20:30:13.097796259 +0000 UTC"
-    },
-    {
-      "mmsi": "563147700",
-      "name": "PSA VISION (NN27)",
-      "lat": 1.2626,
-      "lon": 103.8467,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-10-14 20:30:14.778416473 +0000 UTC"
-    },
-    {
-      "mmsi": "263701380",
-      "name": "FERNANDO NAMORA",
-      "lat": 38.6525,
-      "lon": -9.081,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-10-14 20:30:20.25121755 +0000 UTC"
-    },
-    {
-      "mmsi": "261011633",
-      "name": "HYDROCAT MURRAY",
-      "lat": 54.3461,
-      "lon": 18.7893,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-10-14 20:30:26.083227167 +0000 UTC"
-    },
-    {
-      "mmsi": "244374235",
-      "name": "NT 11 WATERTRAPPER",
-      "lat": 52.3995,
+      "mmsi": "244660532",
+      "name": "SQUARE",
+      "lat": 52.3994,
       "lon": 4.8999,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-14 20:30:29.246703234 +0000 UTC"
+      "last_update": "2026-10-14 23:26:37.912806243 +0000 UTC"
     },
     {
-      "mmsi": "440081950",
-      "name": "KOREA PEACE",
-      "lat": 37.455,
-      "lon": 126.5985,
+      "mmsi": "370579000",
+      "name": "DOA STORY",
+      "lat": 32.8099,
+      "lon": 35.028,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-10-14 20:30:29.408840125 +0000 UTC"
+      "nav_status": 5,
+      "last_update": "2026-10-14 23:26:40.229331211 +0000 UTC"
     },
     {
-      "mmsi": "258999000",
-      "name": "FJORDBRIS",
-      "lat": 59.8021,
-      "lon": 5.6043,
-      "sog": 30.9,
-      "cog": 40.2,
-      "nav_status": 0,
-      "last_update": "2026-10-14 20:29:46.462014065 +0000 UTC"
+      "mmsi": "601126900",
+      "name": "SEA EXPRESS",
+      "lat": -29.8682,
+      "lon": 31.0141,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-10-14 23:26:41.05716768 +0000 UTC"
     },
     {
-      "mmsi": "368013770",
-      "name": "COMMODORE",
-      "lat": 40.6432,
-      "lon": -74.0547,
-      "sog": 30.2,
-      "cog": 359.9,
+      "mmsi": "368206360",
+      "name": "COMMANDER",
+      "lat": 47.654,
+      "lon": -122.4684,
+      "sog": 36.5,
+      "cog": 161,
       "nav_status": 0,
-      "last_update": "2026-10-14 20:30:01.635858935 +0000 UTC"
+      "last_update": "2026-10-14 23:26:05.523121673 +0000 UTC"
     },
     {
-      "mmsi": "367677670",
-      "name": "SANCTUARY",
-      "lat": 42.3277,
-      "lon": -70.997,
-      "sog": 30.1,
-      "cog": 340.6,
+      "mmsi": "368088610",
+      "name": "LYRA",
+      "lat": 38.0507,
+      "lon": -122.2836,
+      "sog": 32,
+      "cog": 246.1,
       "nav_status": 0,
-      "last_update": "2026-10-14 20:30:19.998210603 +0000 UTC"
+      "last_update": "2026-10-14 23:26:04.669656068 +0000 UTC"
     },
     {
-      "mmsi": "512000742",
-      "name": "CLIPPER 2",
-      "lat": -36.8423,
-      "lon": 174.8023,
-      "sog": 28.8,
-      "cog": 91,
+      "mmsi": "512000027",
+      "name": "ADVENTURER",
+      "lat": -36.822,
+      "lon": 174.8581,
+      "sog": 30,
+      "cog": 247.9,
       "nav_status": 0,
-      "last_update": "2026-10-14 20:30:04.562642645 +0000 UTC"
+      "last_update": "2026-10-14 23:26:03.792698947 +0000 UTC"
+    },
+    {
+      "mmsi": "367524060",
+      "name": "AVA PEARL",
+      "lat": 42.3453,
+      "lon": -71.016,
+      "sog": 29.3,
+      "cog": 130.3,
+      "nav_status": 0,
+      "last_update": "2026-10-14 23:26:02.178595617 +0000 UTC"
+    },
+    {
+      "mmsi": "246658000",
+      "name": "ORION (PILOTS)",
+      "lat": 53.5434,
+      "lon": 6.7077,
+      "sog": 28,
+      "cog": 126,
+      "nav_status": 0,
+      "last_update": "2026-10-14 23:26:04.956653397 +0000 UTC"
+    },
+    {
+      "mmsi": "265650970",
+      "name": "VALO",
+      "lat": 57.6537,
+      "lon": 11.8236,
+      "sog": 25.9,
+      "cog": 24.2,
+      "nav_status": 0,
+      "last_update": "2026-10-14 23:26:00.533173259 +0000 UTC"
+    },
+    {
+      "mmsi": "367496240",
+      "name": "PETER R WEISS",
+      "lat": 41.1769,
+      "lon": -73.9322,
+      "sog": 25.9,
+      "cog": 134,
+      "nav_status": 0,
+      "last_update": "2026-10-14 23:26:08.296913398 +0000 UTC",
+      "ship_type": 60,
+      "destination": "NYC"
     }
   ]
 }
