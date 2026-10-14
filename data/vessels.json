@@ -1,146 +1,36 @@
 {
-  "updated_at": "2026-10-14T00:57:48Z",
-  "count": 3985,
+  "updated_at": "2026-10-14T05:59:57Z",
+  "count": 4174,
   "vessels": [
-    {
-      "mmsi": "224015940",
-      "name": "NUEVO BATABANO_PRIME",
-      "lat": 28.4984,
-      "lon": -16.2039,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 7,
-      "last_update": "2026-10-14 00:56:41.656901809 +0000 UTC"
-    },
-    {
-      "mmsi": "235034368",
-      "name": "MULTI-SURVEY 4",
-      "lat": 51.9773,
-      "lon": 4.1219,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-10-14 00:56:42.47925149 +0000 UTC"
-    },
-    {
-      "mmsi": "210588000",
-      "name": "LEDRA PRIDE",
-      "lat": 34.6452,
-      "lon": 33.018,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-10-14 00:56:48.091378885 +0000 UTC"
-    },
-    {
-      "mmsi": "241903000",
-      "name": "DON'T WORRY",
-      "lat": 37.9409,
-      "lon": 23.6704,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-10-14 00:56:48.703615743 +0000 UTC"
-    },
-    {
-      "mmsi": "428009088",
-      "name": "DANCHOR X",
-      "lat": 32.8212,
-      "lon": 35.0069,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-10-14 00:56:56.949175841 +0000 UTC"
-    },
-    {
-      "mmsi": "244003316",
-      "name": "NB1 WATERBUFFEL",
-      "lat": 52.3994,
-      "lon": 4.8999,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-10-14 00:57:18.053381394 +0000 UTC"
-    },
-    {
-      "mmsi": "232028036",
-      "name": "GARRION OWL",
-      "lat": 55.8907,
-      "lon": -4.3943,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-10-14 00:57:00.281246999 +0000 UTC"
-    },
-    {
-      "mmsi": "271044493",
-      "name": "MIP- 3",
-      "lat": 36.7919,
-      "lon": 34.6361,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-10-14 00:57:05.297177662 +0000 UTC"
-    },
-    {
-      "mmsi": "245382000",
-      "name": "KNRM-FRED",
-      "lat": 51.6217,
-      "lon": 3.6879,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-10-14 00:57:11.463162809 +0000 UTC"
-    },
-    {
-      "mmsi": "249698000",
-      "name": "INS LAND",
-      "lat": 44.417,
-      "lon": 8.8402,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-10-14 00:57:11.739645417 +0000 UTC"
-    },
     {
       "mmsi": "477997158",
       "name": "PORT WORKS 5",
-      "lat": 22.318,
-      "lon": 114.1483,
+      "lat": 22.3235,
+      "lon": 114.1415,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-10-14 00:57:13.772073811 +0000 UTC"
+      "last_update": "2026-10-14 05:58:53.343618235 +0000 UTC"
     },
     {
-      "mmsi": "367415390",
-      "name": "EMPIRE STATE",
-      "lat": 40.7351,
-      "lon": -74.0264,
+      "mmsi": "211759880",
+      "name": "FINK",
+      "lat": 49.8358,
+      "lon": 10.2265,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-14 00:57:16.358292345 +0000 UTC"
+      "last_update": "2026-10-14 05:58:57.182432044 +0000 UTC"
     },
     {
       "mmsi": "250101900",
       "name": "GUIDING STAR 2",
-      "lat": 58.6462,
-      "lon": -3.7235,
+      "lat": 58.6115,
+      "lon": -3.5447,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-14 00:57:20.300632404 +0000 UTC"
-    },
-    {
-      "mmsi": "366908680",
-      "name": "",
-      "lat": 27.362,
-      "lon": -90.1814,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-10-14 00:57:18.716495388 +0000 UTC"
+      "last_update": "2026-10-14 05:59:17.120162264 +0000 UTC"
     },
     {
       "mmsi": "240796900",
@@ -150,17 +40,37 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 1,
-      "last_update": "2026-10-14 00:57:19.755715419 +0000 UTC"
+      "last_update": "2026-10-14 05:59:19.981391962 +0000 UTC"
     },
     {
-      "mmsi": "244374235",
-      "name": "NT 11 WATERTRAPPER",
-      "lat": 52.3995,
+      "mmsi": "259473000",
+      "name": "BERGEN KREDS",
+      "lat": 59.6071,
+      "lon": 5.2313,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-10-14 05:59:26.250494935 +0000 UTC"
+    },
+    {
+      "mmsi": "368410790",
+      "name": "HARBOR CHARGER",
+      "lat": 40.642,
+      "lon": -74.1189,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-10-14 05:59:26.600164297 +0000 UTC"
+    },
+    {
+      "mmsi": "244003316",
+      "name": "NB1 WATERBUFFEL",
+      "lat": 52.3994,
       "lon": 4.8999,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-14 00:57:20.183213132 +0000 UTC"
+      "last_update": "2026-10-14 05:59:29.233372505 +0000 UTC"
     },
     {
       "mmsi": "210920000",
@@ -170,37 +80,127 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-14 00:57:21.595429765 +0000 UTC"
+      "last_update": "2026-10-14 05:59:30.741452599 +0000 UTC"
     },
     {
-      "mmsi": "316052439",
-      "name": "SPUHELS",
-      "lat": 49.2966,
-      "lon": -123.457,
-      "sog": 34.7,
-      "cog": 244.3,
-      "nav_status": 9,
-      "last_update": "2026-10-14 00:57:18.936478882 +0000 UTC"
-    },
-    {
-      "mmsi": "368067090",
-      "name": "RELIANCE",
-      "lat": 47.5719,
-      "lon": -122.5346,
-      "sog": 33.5,
-      "cog": 145.9,
+      "mmsi": "367609130",
+      "name": "BELLA K",
+      "lat": 47.663,
+      "lon": -122.3884,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-14 00:57:00.220740103 +0000 UTC"
+      "last_update": "2026-10-14 05:59:33.374193455 +0000 UTC"
     },
     {
-      "mmsi": "367582110",
-      "name": "PROVINCETOWN IV",
-      "lat": 42.3349,
-      "lon": -70.9449,
-      "sog": 31.9,
-      "cog": 297.7,
+      "mmsi": "257433290",
+      "name": "SUNNFJORD",
+      "lat": 60.5149,
+      "lon": 5.2661,
+      "sog": 40.1,
+      "cog": 25.9,
+      "nav_status": 5,
+      "last_update": "2026-10-14 05:58:59.050401613 +0000 UTC"
+    },
+    {
+      "mmsi": "367023320",
+      "name": "SWIFT",
+      "lat": 46.1921,
+      "lon": -123.8298,
+      "sog": 35.1,
+      "cog": 193,
+      "nav_status": 5,
+      "last_update": "2026-10-14 05:59:13.209406247 +0000 UTC"
+    },
+    {
+      "mmsi": "257089390",
+      "name": "FJORDPRINSEN",
+      "lat": 69.0468,
+      "lon": 17.5704,
+      "sog": 33,
+      "cog": 43.9,
       "nav_status": 0,
-      "last_update": "2026-10-14 00:56:56.437616677 +0000 UTC"
+      "last_update": "2026-10-14 05:58:51.919029446 +0000 UTC"
+    },
+    {
+      "mmsi": "477997146",
+      "name": "XIN MING ZHU III",
+      "lat": 22.2845,
+      "lon": 114.095,
+      "sog": 31,
+      "cog": 241.2,
+      "nav_status": 5,
+      "last_update": "2026-10-14 05:59:04.397322006 +0000 UTC"
+    },
+    {
+      "mmsi": "247055900",
+      "name": "ROSARIA LAURO",
+      "lat": 40.7782,
+      "lon": 14.18,
+      "sog": 29.4,
+      "cog": 247.3,
+      "nav_status": 0,
+      "last_update": "2026-10-14 05:59:21.141889622 +0000 UTC"
+    },
+    {
+      "mmsi": "237176400",
+      "name": "DODEKANISOS EXPRESS",
+      "lat": 36.6324,
+      "lon": 27.8429,
+      "sog": 28.9,
+      "cog": 1.8,
+      "nav_status": 0,
+      "last_update": "2026-10-14 05:59:15.209281472 +0000 UTC"
+    },
+    {
+      "mmsi": "477995040",
+      "name": "DISCOVERY BAY3",
+      "lat": 22.2982,
+      "lon": 114.0499,
+      "sog": 28,
+      "cog": 279.5,
+      "nav_status": 0,
+      "last_update": "2026-10-14 05:59:03.119890706 +0000 UTC"
+    },
+    {
+      "mmsi": "235117926",
+      "name": "RED JET 6",
+      "lat": 50.8049,
+      "lon": -1.2919,
+      "sog": 27.7,
+      "cog": 184.5,
+      "nav_status": 0,
+      "last_update": "2026-10-14 05:59:21.282165582 +0000 UTC"
+    },
+    {
+      "mmsi": "477997213",
+      "name": "HKK 5",
+      "lat": 22.2899,
+      "lon": 114.1113,
+      "sog": 26,
+      "cog": 252.3,
+      "nav_status": 15,
+      "last_update": "2026-10-14 05:58:58.826294016 +0000 UTC"
+    },
+    {
+      "mmsi": "232026644",
+      "name": "WINDCAT 46",
+      "lat": 51.468,
+      "lon": 2.8514,
+      "sog": 24.2,
+      "cog": 357,
+      "nav_status": 0,
+      "last_update": "2026-10-14 05:59:00.39341604 +0000 UTC"
+    },
+    {
+      "mmsi": "235117222",
+      "name": "HUMBER SOUNDER",
+      "lat": 53.7096,
+      "lon": -0.4122,
+      "sog": 24.2,
+      "cog": 259.7,
+      "nav_status": 0,
+      "last_update": "2026-10-14 05:59:18.184323983 +0000 UTC"
     }
   ]
 }
