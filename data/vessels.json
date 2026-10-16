@@ -1,26 +1,56 @@
 {
-  "updated_at": "2026-10-16T01:31:07Z",
-  "count": 4335,
+  "updated_at": "2026-10-16T06:21:40Z",
+  "count": 4677,
   "vessels": [
     {
-      "mmsi": "310862000",
-      "name": "URIEL",
-      "lat": 39.5634,
-      "lon": 2.6306,
+      "mmsi": "244615506",
+      "name": "ZUID-HOLLAND-ZUID",
+      "lat": 51.8,
+      "lon": 4.6394,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-10-16 01:30:11.045419802 +0000 UTC"
+      "nav_status": 0,
+      "last_update": "2026-10-16 06:20:29.420932208 +0000 UTC"
     },
     {
-      "mmsi": "477997158",
-      "name": "PORT WORKS 5",
-      "lat": 22.3235,
-      "lon": 114.1415,
+      "mmsi": "368410790",
+      "name": "HARBOR CHARGER",
+      "lat": 40.6421,
+      "lon": -74.1189,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-10-16 01:30:11.608276631 +0000 UTC"
+      "nav_status": 0,
+      "last_update": "2026-10-16 06:20:36.451328815 +0000 UTC"
+    },
+    {
+      "mmsi": "210920000",
+      "name": "VTS PENTADAKTYLOS",
+      "lat": 34.718,
+      "lon": 33.3157,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-10-16 06:20:52.680907713 +0000 UTC"
+    },
+    {
+      "mmsi": "210588000",
+      "name": "LEDRA PRIDE",
+      "lat": 34.6452,
+      "lon": 33.018,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-10-16 06:20:57.561329634 +0000 UTC"
+    },
+    {
+      "mmsi": "257522600",
+      "name": "FROHAV",
+      "lat": 63.7625,
+      "lon": 8.8599,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 7,
+      "last_update": "2026-10-16 06:21:03.013940318 +0000 UTC"
     },
     {
       "mmsi": "367609130",
@@ -30,177 +60,147 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-16 01:30:12.266333431 +0000 UTC"
+      "last_update": "2026-10-16 06:21:03.434614919 +0000 UTC"
     },
     {
-      "mmsi": "266099000",
-      "name": "VY 43 MINDY",
-      "lat": 57.4218,
-      "lon": 18.9157,
+      "mmsi": "244951000",
+      "name": "MANTELMEEUW",
+      "lat": 51.4441,
+      "lon": 3.5927,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 7,
-      "last_update": "2026-10-16 01:30:19.957400357 +0000 UTC"
+      "nav_status": 5,
+      "last_update": "2026-10-16 06:21:10.34503356 +0000 UTC"
     },
     {
-      "mmsi": "213181000",
-      "name": "ELITA",
-      "lat": 41.6531,
-      "lon": 41.6444,
+      "mmsi": "310862000",
+      "name": "URIEL",
+      "lat": 39.5634,
+      "lon": 2.6306,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-10-16 01:30:23.518221665 +0000 UTC"
+      "nav_status": 5,
+      "last_update": "2026-10-16 06:21:15.835451917 +0000 UTC"
     },
     {
-      "mmsi": "261011633",
-      "name": "HYDROCAT MURRAY",
-      "lat": 54.3461,
-      "lon": 18.7893,
+      "mmsi": "355719000",
+      "name": "MARATONA",
+      "lat": 43.1939,
+      "lon": 27.9018,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-10-16 01:30:26.709933304 +0000 UTC"
+      "nav_status": 5,
+      "last_update": "2026-10-16 06:21:16.052483975 +0000 UTC"
     },
     {
-      "mmsi": "428009088",
-      "name": "DANCHOR X",
-      "lat": 32.8212,
-      "lon": 35.007,
+      "mmsi": "710007453",
+      "name": "YASMIN",
+      "lat": 41.5896,
+      "lon": 9.2852,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-10-16 01:30:31.161396706 +0000 UTC"
+      "nav_status": 5,
+      "last_update": "2026-10-16 06:21:17.555926807 +0000 UTC"
     },
     {
-      "mmsi": "244710626",
-      "name": "BENCKES",
-      "lat": 52.0112,
-      "lon": 5.1075,
+      "mmsi": "477997158",
+      "name": "PORT WORKS 5",
+      "lat": 22.3236,
+      "lon": 114.1415,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-10-16 01:30:36.162280196 +0000 UTC"
+      "nav_status": 15,
+      "last_update": "2026-10-16 06:21:19.789987523 +0000 UTC"
     },
     {
       "mmsi": "316014014",
       "name": "TAKAYA",
-      "lat": 49.2863,
-      "lon": -123.1005,
+      "lat": 49.2865,
+      "lon": -123.1006,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 15,
-      "last_update": "2026-10-16 01:30:39.952647687 +0000 UTC"
+      "last_update": "2026-10-16 06:21:21.538637646 +0000 UTC"
     },
     {
-      "mmsi": "367145870",
-      "name": "IYANOUGH",
-      "lat": 41.5909,
-      "lon": -70.2773,
-      "sog": 33.8,
-      "cog": 338.1,
+      "mmsi": "210052000",
+      "name": "EUROCHAMPION JET 2",
+      "lat": 37.516,
+      "lon": 24.2641,
+      "sog": 36.8,
+      "cog": 109.6,
       "nav_status": 0,
-      "last_update": "2026-10-16 01:30:19.339036914 +0000 UTC"
+      "last_update": "2026-10-16 06:20:56.166178348 +0000 UTC"
     },
     {
-      "mmsi": "367347670",
-      "name": "SEASTREAK HIGHLANDS",
-      "lat": 40.4359,
-      "lon": -74.0107,
+      "mmsi": "258352500",
+      "name": "ADMIRALEN",
+      "lat": 60.3925,
+      "lon": 5.2063,
       "sog": 32.4,
-      "cog": 340.8,
-      "nav_status": 15,
-      "last_update": "2026-10-16 01:30:07.376824075 +0000 UTC"
-    },
-    {
-      "mmsi": "368088610",
-      "name": "LYRA",
-      "lat": 38.0159,
-      "lon": -122.3734,
-      "sog": 31.6,
-      "cog": 57.2,
+      "cog": 236.2,
       "nav_status": 0,
-      "last_update": "2026-10-16 01:30:12.179308688 +0000 UTC"
+      "last_update": "2026-10-16 06:21:08.912386231 +0000 UTC"
     },
     {
-      "mmsi": "366989380",
-      "name": "MARE ISLAND",
-      "lat": 37.7322,
-      "lon": -122.6279,
-      "sog": 31.4,
-      "cog": 175.7,
+      "mmsi": "237247600",
+      "name": "F/D ATHINA",
+      "lat": 37.7788,
+      "lon": 23.4335,
+      "sog": 31.7,
+      "cog": 44,
+      "nav_status": 0,
+      "last_update": "2026-10-16 06:21:10.28023044 +0000 UTC"
+    },
+    {
+      "mmsi": "257151900",
+      "name": "VINGTOR",
+      "lat": 60.5171,
+      "lon": 5.2676,
+      "sog": 31.2,
+      "cog": 27.8,
       "nav_status": 5,
-      "last_update": "2026-10-16 01:30:32.946507124 +0000 UTC"
+      "last_update": "2026-10-16 06:20:36.20281392 +0000 UTC"
     },
     {
-      "mmsi": "338464602",
-      "name": "VALKYRIE",
-      "lat": 48.5904,
-      "lon": -123.0011,
-      "sog": 30.1,
-      "cog": 73.3,
+      "mmsi": "247139400",
+      "name": "VITTORIA M",
+      "lat": 38.2917,
+      "lon": 13.9414,
+      "sog": 29.9,
+      "cog": 100.4,
       "nav_status": 0,
-      "last_update": "2026-10-16 01:30:17.77250144 +0000 UTC"
+      "last_update": "2026-10-16 06:20:28.818111232 +0000 UTC"
     },
     {
-      "mmsi": "366857070",
-      "name": "JET CAT EXPRESS",
-      "lat": 33.5544,
-      "lon": -118.2406,
-      "sog": 29.4,
-      "cog": 195.2,
-      "nav_status": 5,
-      "last_update": "2026-10-16 01:30:43.499984945 +0000 UTC"
-    },
-    {
-      "mmsi": "338224000",
-      "name": "DOC MAYNARD",
-      "lat": 47.5917,
-      "lon": -122.3655,
-      "sog": 28.3,
-      "cog": 77.6,
+      "mmsi": "247128500",
+      "name": "SNAV ORION",
+      "lat": 40.6534,
+      "lon": 14.2592,
+      "sog": 29.6,
+      "cog": 5.6,
       "nav_status": 0,
-      "last_update": "2026-10-16 01:30:25.208914693 +0000 UTC"
+      "last_update": "2026-10-16 06:21:13.195261012 +0000 UTC"
     },
     {
-      "mmsi": "477995039",
-      "name": "DISCOVERY BAY 2",
-      "lat": 22.2999,
-      "lon": 114.0389,
-      "sog": 26.9,
-      "cog": 273.4,
+      "mmsi": "247087600",
+      "name": "FEDERICA M",
+      "lat": 37.9806,
+      "lon": 12.4471,
+      "sog": 29.5,
+      "cog": 239.4,
       "nav_status": 0,
-      "last_update": "2026-10-16 01:30:23.475723857 +0000 UTC"
+      "last_update": "2026-10-16 06:20:34.332728619 +0000 UTC"
     },
     {
-      "mmsi": "368018070",
-      "name": "ARGO",
-      "lat": 37.7895,
-      "lon": -122.3727,
-      "sog": 26.6,
-      "cog": 118.9,
+      "mmsi": "257175000",
+      "name": "RYGERFONN",
+      "lat": 60.3837,
+      "lon": 5.1878,
+      "sog": 29.5,
+      "cog": 50,
       "nav_status": 0,
-      "last_update": "2026-10-16 01:30:35.003497137 +0000 UTC"
-    },
-    {
-      "mmsi": "367380880",
-      "name": "GEMINI",
-      "lat": 37.8529,
-      "lon": -122.3888,
-      "sog": 26.4,
-      "cog": 169.4,
-      "nav_status": 0,
-      "last_update": "2026-10-16 01:30:09.282874934 +0000 UTC"
-    },
-    {
-      "mmsi": "367782940",
-      "name": "GLORY",
-      "lat": 42.2899,
-      "lon": -70.9587,
-      "sog": 26.3,
-      "cog": 320.4,
-      "nav_status": 0,
-      "last_update": "2026-10-16 01:30:10.7296587 +0000 UTC"
+      "last_update": "2026-10-16 06:21:03.770374443 +0000 UTC"
     }
   ]
 }
