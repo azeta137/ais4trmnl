@@ -1,158 +1,28 @@
 {
-  "updated_at": "2026-10-17T23:14:17Z",
-  "count": 4237,
+  "updated_at": "2026-10-18T01:12:10Z",
+  "count": 3957,
   "vessels": [
     {
-      "mmsi": "601126900",
-      "name": "SEA EXPRESS",
-      "lat": -29.8682,
-      "lon": 31.0141,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-10-17 23:13:07.893904549 +0000 UTC"
-    },
-    {
-      "mmsi": "244003316",
-      "name": "NB1 WATERBUFFEL",
-      "lat": 52.3994,
-      "lon": 4.8999,
+      "mmsi": "257052800",
+      "name": "TORNEROSE",
+      "lat": 59.833,
+      "lon": 5.7218,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-17 23:13:08.240164148 +0000 UTC"
+      "last_update": "2026-10-18 01:10:59.41671498 +0000 UTC"
     },
     {
-      "mmsi": "367646570",
-      "name": "ELECTRA",
-      "lat": 37.7934,
-      "lon": -122.277,
+      "mmsi": "244374235",
+      "name": "NT 11 WATERTRAPPER",
+      "lat": 52.3995,
+      "lon": 4.8998,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-17 23:13:09.044517448 +0000 UTC"
-    },
-    {
-      "mmsi": "266099000",
-      "name": "VY 43 MINDY",
-      "lat": 57.4218,
-      "lon": 18.9157,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 7,
-      "last_update": "2026-10-17 23:13:10.86618048 +0000 UTC"
-    },
-    {
-      "mmsi": "316029092",
-      "name": "MARINE 1",
-      "lat": 43.3947,
-      "lon": -79.7021,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-10-17 23:13:12.112096372 +0000 UTC"
-    },
-    {
-      "mmsi": "219385000",
-      "name": "BJOERNSHOLM",
-      "ship_type": 60,
-      "destination": "COPENHAGEN",
-      "lat": 55.6793,
-      "lon": 12.593,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-10-17 23:13:35.803543048 +0000 UTC"
-    },
-    {
-      "mmsi": "244108000",
-      "name": "ZK46 ZEEMEEUW",
-      "lat": 53.3303,
-      "lon": 6.9319,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-10-17 23:13:22.626365632 +0000 UTC"
-    },
-    {
-      "mmsi": "210920000",
-      "name": "VTS PENTADAKTYLOS",
-      "lat": 34.7185,
-      "lon": 33.3177,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-10-17 23:13:23.217980486 +0000 UTC"
-    },
-    {
-      "mmsi": "229360000",
-      "name": "ERMIS2",
-      "lat": 37.9625,
-      "lon": 23.5726,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-10-17 23:13:41.374986812 +0000 UTC"
-    },
-    {
-      "mmsi": "319279200",
-      "name": "IRON GRYPHON",
-      "lat": 26.7035,
-      "lon": -80.0455,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-10-17 23:13:48.117890746 +0000 UTC"
-    },
-    {
-      "mmsi": "367755350",
-      "name": "OFF THE CHARTS",
-      "lat": 26.0874,
-      "lon": -80.1847,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-10-17 23:13:48.542817285 +0000 UTC"
-    },
-    {
-      "mmsi": "338093828",
-      "name": "LA FIREBOAT 5",
-      "lat": 33.7171,
-      "lon": -118.2767,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-10-17 23:13:59.255572186 +0000 UTC"
-    },
-    {
-      "mmsi": "244951000",
-      "name": "MANTELMEEUW",
-      "lat": 51.4441,
-      "lon": 3.5927,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-10-17 23:13:59.517220253 +0000 UTC"
-    },
-    {
-      "mmsi": "428009088",
-      "name": "DANCHOR X",
-      "lat": 32.8213,
-      "lon": 35.007,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-10-17 23:14:00.841654089 +0000 UTC"
-    },
-    {
-      "mmsi": "210588000",
-      "name": "LEDRA PRIDE",
-      "lat": 34.6452,
-      "lon": 33.018,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-10-17 23:14:02.460960147 +0000 UTC"
+      "last_update": "2026-10-18 01:11:00.343508782 +0000 UTC",
+      "ship_type": 99,
+      "destination": "AMSTERDAM"
     },
     {
       "mmsi": "244060365",
@@ -162,47 +32,179 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-17 23:14:02.465833877 +0000 UTC"
+      "last_update": "2026-10-18 01:11:00.963106663 +0000 UTC"
     },
     {
       "mmsi": "316014014",
       "name": "TAKAYA",
       "lat": 49.2863,
-      "lon": -123.1005,
-      "sog": 102.2,
+      "lon": -123.1006,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-10-18 01:11:01.941244802 +0000 UTC"
+    },
+    {
+      "mmsi": "368037750",
+      "name": "MINELESS",
+      "lat": 26.3016,
+      "lon": -80.0847,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-10-18 01:11:05.647907133 +0000 UTC"
+    },
+    {
+      "mmsi": "219385000",
+      "name": "BJOERNSHOLM",
+      "lat": 55.6793,
+      "lon": 12.593,
+      "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-17 23:13:12.016611515 +0000 UTC"
+      "last_update": "2026-10-18 01:11:07.598947501 +0000 UTC"
     },
     {
-      "mmsi": "512003229",
-      "name": "CLIPPER IV",
-      "lat": -36.8865,
-      "lon": 174.9772,
-      "sog": 27.5,
-      "cog": 284.4,
+      "mmsi": "244615506",
+      "name": "ZUID-HOLLAND-ZUID",
+      "lat": 51.8,
+      "lon": 4.6394,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-17 23:13:21.799518492 +0000 UTC"
+      "last_update": "2026-10-18 01:11:09.197973606 +0000 UTC"
     },
     {
-      "mmsi": "246657000",
-      "name": "DRACO (PILOT VESSEL)",
-      "lat": 52.0122,
-      "lon": 3.9613,
-      "sog": 27.5,
-      "cog": 130.3,
+      "mmsi": "368410790",
+      "name": "HARBOR CHARGER",
+      "lat": 40.642,
+      "lon": -74.1189,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-17 23:13:48.322697094 +0000 UTC"
+      "last_update": "2026-10-18 01:11:25.562160197 +0000 UTC"
     },
     {
-      "mmsi": "366943960",
-      "name": "CATALINA EXPRESS",
-      "lat": 33.5307,
-      "lon": -118.2587,
-      "sog": 25.6,
-      "cog": 197.5,
+      "mmsi": "319279200",
+      "name": "IRON GRYPHON",
+      "lat": 26.7035,
+      "lon": -80.0455,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-17 23:13:35.521926016 +0000 UTC"
+      "last_update": "2026-10-18 01:11:37.572317614 +0000 UTC"
+    },
+    {
+      "mmsi": "244710626",
+      "name": "BENCKES",
+      "lat": 52.0646,
+      "lon": 5.0947,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-10-18 01:11:37.757110056 +0000 UTC"
+    },
+    {
+      "mmsi": "601126900",
+      "name": "SEA EXPRESS",
+      "lat": -29.8681,
+      "lon": 31.0141,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-10-18 01:11:38.289174193 +0000 UTC"
+    },
+    {
+      "mmsi": "370031000",
+      "name": "DSL MARINER",
+      "lat": 25.2971,
+      "lon": 55.3304,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-10-18 01:11:40.564310485 +0000 UTC"
+    },
+    {
+      "mmsi": "249698000",
+      "name": "INS LAND",
+      "lat": 44.4172,
+      "lon": 8.8402,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-10-18 01:11:41.690840127 +0000 UTC"
+    },
+    {
+      "mmsi": "428067000",
+      "name": "BAT GALIM",
+      "lat": 32.8202,
+      "lon": 35.0073,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-10-18 01:11:42.791967293 +0000 UTC"
+    },
+    {
+      "mmsi": "210920000",
+      "name": "VTS PENTADAKTYLOS",
+      "lat": 34.7185,
+      "lon": 33.3178,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-10-18 01:11:44.154749959 +0000 UTC",
+      "ship_type": 36,
+      "destination": "OPL LIMASSOL"
+    },
+    {
+      "mmsi": "367131000",
+      "name": "ALASKA",
+      "lat": 29.7483,
+      "lon": -93.8942,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-10-18 01:11:54.4057706 +0000 UTC"
+    },
+    {
+      "mmsi": "244108000",
+      "name": "ZK46 ZEEMEEUW",
+      "lat": 53.3303,
+      "lon": 6.9319,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-10-18 01:11:55.0745164 +0000 UTC"
+    },
+    {
+      "mmsi": "366771550",
+      "name": "NAPA",
+      "lat": 37.9324,
+      "lon": -122.4805,
+      "sog": 33.9,
+      "cog": 114.4,
+      "nav_status": 0,
+      "last_update": "2026-10-18 01:11:36.614737403 +0000 UTC"
+    },
+    {
+      "mmsi": "368013770",
+      "name": "COMMODORE",
+      "lat": 40.7371,
+      "lon": -73.9683,
+      "sog": 31.7,
+      "cog": 356,
+      "nav_status": 0,
+      "last_update": "2026-10-18 01:11:27.910954238 +0000 UTC"
+    },
+    {
+      "mmsi": "367199310",
+      "name": "CATALINA JET",
+      "lat": 33.7196,
+      "lon": -118.1859,
+      "sog": 29.1,
+      "cog": 196,
+      "nav_status": 15,
+      "last_update": "2026-10-18 01:11:17.207399927 +0000 UTC"
     }
   ]
 }
