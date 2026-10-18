@@ -1,108 +1,26 @@
 {
-  "updated_at": "2026-10-18T20:18:14Z",
-  "count": 4107,
+  "updated_at": "2026-10-18T22:29:32Z",
+  "count": 4146,
   "vessels": [
     {
-      "mmsi": "366969970",
-      "name": "SONOMA",
-      "lat": 37.8561,
-      "lon": -122.4778,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-10-18 20:17:11.845717586 +0000 UTC",
-      "ship_type": 60,
-      "destination": "XX XXX>US^0VC6"
-    },
-    {
-      "mmsi": "367609130",
-      "name": "BELLA K",
-      "lat": 47.663,
-      "lon": -122.3884,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-10-18 20:17:03.933996625 +0000 UTC"
-    },
-    {
-      "mmsi": "352002481",
-      "name": "BARU SIERRA NEVADA",
-      "lat": -22.8476,
-      "lon": -43.1297,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-10-18 20:17:08.322661017 +0000 UTC"
-    },
-    {
-      "mmsi": "428009088",
-      "name": "DANCHOR X",
-      "lat": 32.8213,
-      "lon": 35.007,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-10-18 20:17:10.042984483 +0000 UTC"
-    },
-    {
-      "mmsi": "338449111",
-      "name": "BAYWATCH 20",
-      "lat": 33.9829,
-      "lon": -118.4767,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-10-18 20:17:19.191214479 +0000 UTC"
-    },
-    {
-      "mmsi": "244060365",
-      "name": "KNRM ARBOR VITAE",
-      "lat": 53.4088,
-      "lon": 6.1973,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-10-18 20:17:21.815943607 +0000 UTC"
-    },
-    {
       "mmsi": "271044493",
-      "name": "MIP-3",
+      "name": "MIP- 3",
       "lat": 36.7919,
       "lon": 34.636,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-18 20:17:25.033910103 +0000 UTC"
+      "last_update": "2026-10-18 22:28:35.72572469 +0000 UTC"
     },
     {
-      "mmsi": "263701380",
-      "name": "FERNANDO NAMORA",
-      "lat": 38.6526,
-      "lon": -9.081,
+      "mmsi": "261011633",
+      "name": "HYDROCAT MURRAY",
+      "lat": 54.3461,
+      "lon": 18.7893,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 8,
-      "last_update": "2026-10-18 20:17:26.977210276 +0000 UTC"
-    },
-    {
-      "mmsi": "369020000",
-      "name": "TINA PYNE",
-      "lat": 27.5931,
-      "lon": -83.1508,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-10-18 20:17:30.833387786 +0000 UTC"
-    },
-    {
-      "mmsi": "210588000",
-      "name": "LEDRA PRIDE",
-      "lat": 34.6452,
-      "lon": 33.018,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-10-18 20:17:31.45837402 +0000 UTC"
+      "last_update": "2026-10-18 22:28:36.832342336 +0000 UTC"
     },
     {
       "mmsi": "247214700",
@@ -112,7 +30,77 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 3,
-      "last_update": "2026-10-18 20:17:43.098051942 +0000 UTC"
+      "last_update": "2026-10-18 22:28:53.473235006 +0000 UTC"
+    },
+    {
+      "mmsi": "229360000",
+      "name": "ERMIS2",
+      "lat": 37.9625,
+      "lon": 23.5727,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-10-18 22:28:46.404171798 +0000 UTC"
+    },
+    {
+      "mmsi": "210920000",
+      "name": "VTS PENTADAKTYLOS",
+      "lat": 34.7184,
+      "lon": 33.3183,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-10-18 22:29:00.344390183 +0000 UTC"
+    },
+    {
+      "mmsi": "244374235",
+      "name": "NT 11 WATERTRAPPER",
+      "lat": 52.3995,
+      "lon": 4.8998,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-10-18 22:29:00.710417576 +0000 UTC"
+    },
+    {
+      "mmsi": "367755350",
+      "name": "OFF THE CHARTS",
+      "lat": 26.0874,
+      "lon": -80.1848,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-10-18 22:28:54.062732095 +0000 UTC"
+    },
+    {
+      "mmsi": "210588000",
+      "name": "LEDRA PRIDE",
+      "lat": 34.6452,
+      "lon": 33.018,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-10-18 22:28:57.088006319 +0000 UTC"
+    },
+    {
+      "mmsi": "367609130",
+      "name": "BELLA K",
+      "lat": 47.663,
+      "lon": -122.3884,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-10-18 22:29:03.292245477 +0000 UTC"
+    },
+    {
+      "mmsi": "244710626",
+      "name": "BENCKES",
+      "lat": 53.1833,
+      "lon": 5.8024,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-10-18 22:29:05.369070368 +0000 UTC"
     },
     {
       "mmsi": "244615506",
@@ -122,17 +110,47 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-18 20:17:59.05737603 +0000 UTC"
+      "last_update": "2026-10-18 22:29:08.359969803 +0000 UTC"
     },
     {
-      "mmsi": "428067000",
-      "name": "BAT GALIM",
-      "lat": 32.8098,
-      "lon": 34.9107,
+      "mmsi": "367377380",
+      "name": "FREEDOM",
+      "lat": 42.3857,
+      "lon": -71.0506,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-10-18 22:29:09.367289229 +0000 UTC"
+    },
+    {
+      "mmsi": "244951000",
+      "name": "MANTELMEEUW",
+      "lat": 51.4441,
+      "lon": 3.5927,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-10-18 22:29:10.215184445 +0000 UTC"
+    },
+    {
+      "mmsi": "319720000",
+      "name": "STARDUST",
+      "lat": 32.71,
+      "lon": -117.2336,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-18 20:17:54.311841025 +0000 UTC"
+      "last_update": "2026-10-18 22:29:12.694904392 +0000 UTC"
+    },
+    {
+      "mmsi": "244045000",
+      "name": "HEBO-CAT 15",
+      "lat": 51.8715,
+      "lon": 4.311,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-10-18 22:29:15.498281593 +0000 UTC"
     },
     {
       "mmsi": "235034368",
@@ -142,67 +160,47 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-18 20:17:57.531608591 +0000 UTC"
+      "last_update": "2026-10-18 22:29:18.019069574 +0000 UTC"
     },
     {
-      "mmsi": "244003316",
-      "name": "NB1 WATERBUFFEL",
-      "lat": 52.3994,
-      "lon": 4.8999,
+      "mmsi": "266099000",
+      "name": "VY 43 MINDY",
+      "lat": 57.4218,
+      "lon": 18.9157,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 7,
+      "last_update": "2026-10-18 22:29:20.252124436 +0000 UTC"
+    },
+    {
+      "mmsi": "235008011",
+      "name": "VERONICA D",
+      "lat": 51.7183,
+      "lon": -2.4779,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-18 20:17:58.242111416 +0000 UTC"
+      "last_update": "2026-10-18 22:29:27.005890704 +0000 UTC"
     },
     {
-      "mmsi": "316014014",
-      "name": "TAKAYA",
-      "lat": 49.2863,
-      "lon": -123.1004,
-      "sog": 102.2,
+      "mmsi": "601126900",
+      "name": "SEA EXPRESS",
+      "lat": -29.8681,
+      "lon": 31.0141,
+      "sog": 102.3,
       "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-10-18 20:17:30.400045454 +0000 UTC"
+      "nav_status": 8,
+      "last_update": "2026-10-18 22:29:28.721053925 +0000 UTC"
     },
     {
-      "mmsi": "224984000",
-      "name": "VOLCAN DE TAIDIA",
-      "lat": 28.361,
-      "lon": -15.9559,
-      "sog": 33.5,
-      "cog": 111.6,
+      "mmsi": "247151800",
+      "name": "ERACLIDE",
+      "lat": 40.7529,
+      "lon": 13.9546,
+      "sog": 35.8,
+      "cog": 60.7,
       "nav_status": 0,
-      "last_update": "2026-10-18 20:18:01.344764446 +0000 UTC"
-    },
-    {
-      "mmsi": "224781000",
-      "name": "VOLCAN DE TAGORO",
-      "lat": 28.3419,
-      "lon": -15.7808,
-      "sog": 33.4,
-      "cog": 294.3,
-      "nav_status": 9,
-      "last_update": "2026-10-18 20:17:50.173159344 +0000 UTC"
-    },
-    {
-      "mmsi": "367145870",
-      "name": "IYANOUGH",
-      "lat": 41.614,
-      "lon": -70.2899,
-      "sog": 32.8,
-      "cog": 337.1,
-      "nav_status": 0,
-      "last_update": "2026-10-18 20:17:37.476680789 +0000 UTC"
-    },
-    {
-      "mmsi": "232015629",
-      "name": "RED JET 7",
-      "lat": 50.8295,
-      "lon": -1.3131,
-      "sog": 31.7,
-      "cog": 137.8,
-      "nav_status": 0,
-      "last_update": "2026-10-18 20:17:12.190726894 +0000 UTC"
+      "last_update": "2026-10-18 22:29:03.779171867 +0000 UTC"
     }
   ]
 }
