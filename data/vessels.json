@@ -1,98 +1,26 @@
 {
-  "updated_at": "2026-10-24T01:29:13Z",
-  "count": 3949,
+  "updated_at": "2026-10-24T06:28:07Z",
+  "count": 4602,
   "vessels": [
     {
-      "mmsi": "266099000",
-      "name": "VY 43 MINDY",
-      "lat": 57.4218,
-      "lon": 18.9157,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 7,
-      "last_update": "2026-10-24 01:28:01.905543539 +0000 UTC"
-    },
-    {
-      "mmsi": "657155200",
-      "name": "ENEOVAI",
-      "ship_type": 52,
-      "destination": "ONNE PORT",
-      "lat": 4.6927,
-      "lon": 7.1636,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-10-24 01:28:21.807196025 +0000 UTC"
-    },
-    {
-      "mmsi": "232028036",
-      "name": "GARRION OWL",
-      "lat": 55.8932,
-      "lon": -4.4007,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-10-24 01:28:06.754433761 +0000 UTC"
-    },
-    {
-      "mmsi": "250002664",
-      "name": "LIDA SUZANNA WD8",
-      "lat": 50.7923,
-      "lon": -1.1055,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-10-24 01:28:11.680048223 +0000 UTC"
-    },
-    {
-      "mmsi": "250101900",
-      "name": "GUIDING STAR 2",
-      "lat": 51.6999,
-      "lon": -8.5173,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-10-24 01:28:11.832275484 +0000 UTC"
-    },
-    {
-      "mmsi": "244108000",
-      "name": "ZK46 ZEEMEEUW",
-      "lat": 53.3316,
-      "lon": 6.9317,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-10-24 01:28:17.365210454 +0000 UTC"
-    },
-    {
-      "mmsi": "257522600",
-      "name": "FROHAV",
-      "lat": 63.7625,
-      "lon": 8.86,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 7,
-      "last_update": "2026-10-24 01:28:18.379395434 +0000 UTC"
-    },
-    {
-      "mmsi": "235054653",
-      "name": "CATHARINA OF LADRAM",
-      "lat": 50.3991,
-      "lon": -3.5114,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 7,
-      "last_update": "2026-10-24 01:28:18.841109764 +0000 UTC"
-    },
-    {
-      "mmsi": "244003316",
-      "name": "NB1 WATERBUFFEL",
+      "mmsi": "244374235",
+      "name": "NT 11 WATERTRAPPER",
       "lat": 52.3995,
-      "lon": 4.9,
+      "lon": 4.8999,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-24 01:28:19.146766484 +0000 UTC"
+      "last_update": "2026-10-24 06:27:00.528657363 +0000 UTC"
+    },
+    {
+      "mmsi": "249749000",
+      "name": "MOSS",
+      "lat": 36.4501,
+      "lon": 28.2277,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-10-24 06:27:03.648906867 +0000 UTC"
     },
     {
       "mmsi": "271044493",
@@ -102,57 +30,99 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-24 01:28:19.513956966 +0000 UTC"
+      "last_update": "2026-10-24 06:27:46.072712797 +0000 UTC"
     },
     {
-      "mmsi": "244615506",
-      "name": "ZUID-HOLLAND-ZUID",
-      "lat": 51.8,
-      "lon": 4.6394,
+      "mmsi": "352002481",
+      "name": "BARU SIERRA NEVADA",
+      "lat": -22.8493,
+      "lon": -43.1301,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 1,
+      "last_update": "2026-10-24 06:27:08.529850656 +0000 UTC"
+    },
+    {
+      "mmsi": "367609130",
+      "name": "BELLA K",
+      "lat": 47.663,
+      "lon": -122.3884,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-24 01:28:19.620922087 +0000 UTC"
+      "last_update": "2026-10-24 06:27:13.771061721 +0000 UTC"
     },
     {
-      "mmsi": "244374235",
-      "name": "NT 11 WATERTRAPPER",
-      "lat": 52.3995,
-      "lon": 4.8998,
+      "mmsi": "210588000",
+      "name": "LEDRA PRIDE",
+      "lat": 34.6498,
+      "lon": 33.0254,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-10-24 06:27:16.706324452 +0000 UTC"
+    },
+    {
+      "mmsi": "244108000",
+      "name": "ZK46 ZEEMEEUW",
+      "lat": 53.3316,
+      "lon": 6.9317,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-24 01:28:20.796580543 +0000 UTC"
+      "last_update": "2026-10-24 06:27:17.60510446 +0000 UTC",
+      "ship_type": 30,
+      "destination": "LAUWERSOOG"
     },
     {
-      "mmsi": "235034368",
-      "name": "MULTI-SURVEY 4",
-      "lat": 51.6212,
-      "lon": 3.6895,
+      "mmsi": "205545000",
+      "name": "VB PANDA",
+      "lat": 51.3301,
+      "lon": 3.197,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-24 01:28:24.457771566 +0000 UTC"
+      "last_update": "2026-10-24 06:27:24.430762636 +0000 UTC"
     },
     {
-      "mmsi": "428074453",
-      "name": "HADAR II",
-      "lat": 32.8221,
-      "lon": 35.008,
+      "mmsi": "319720000",
+      "name": "STARDUST",
+      "lat": 32.71,
+      "lon": -117.2336,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-10-24 06:27:33.525033902 +0000 UTC"
+    },
+    {
+      "mmsi": "244710626",
+      "name": "BENCKES",
+      "lat": 53.1881,
+      "lon": 5.7637,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-10-24 06:27:34.434186411 +0000 UTC"
+    },
+    {
+      "mmsi": "367131000",
+      "name": "ALASKA",
+      "lat": 29.7483,
+      "lon": -93.8941,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-10-24 01:28:31.566828296 +0000 UTC"
+      "last_update": "2026-10-24 06:27:35.597032458 +0000 UTC"
     },
     {
-      "mmsi": "503000080",
-      "name": "MANNING",
-      "lat": -33.8624,
-      "lon": 151.2272,
+      "mmsi": "219002586",
+      "name": "HG 80 BEATRIX",
+      "lat": 57.5919,
+      "lon": 9.9537,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-10-24 01:28:46.873911055 +0000 UTC"
+      "nav_status": 7,
+      "last_update": "2026-10-24 06:27:36.663149619 +0000 UTC"
     },
     {
       "mmsi": "701000870",
@@ -162,47 +132,79 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-24 01:28:47.047764126 +0000 UTC"
+      "last_update": "2026-10-24 06:27:43.912862908 +0000 UTC"
     },
     {
-      "mmsi": "210588000",
-      "name": "LEDRA PRIDE",
-      "lat": 34.4972,
-      "lon": 33.2594,
+      "mmsi": "259046050",
+      "name": "FREMAD",
+      "lat": 66.3729,
+      "lon": 12.361,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-10-24 01:28:47.231220685 +0000 UTC"
+      "nav_status": 0,
+      "last_update": "2026-10-24 06:27:44.318290406 +0000 UTC"
     },
     {
-      "mmsi": "366970020",
-      "name": "MENDOCINO",
-      "lat": 37.8786,
-      "lon": -122.4256,
-      "sog": 36,
-      "cog": 150,
+      "mmsi": "244060365",
+      "name": "KNRM ARBOR VITAE",
+      "lat": 53.4088,
+      "lon": 6.1974,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-24 01:28:07.613157867 +0000 UTC"
+      "last_update": "2026-10-24 06:27:50.2160765 +0000 UTC"
     },
     {
-      "mmsi": "366989360",
-      "name": "INTINTOLI",
-      "lat": 37.977,
-      "lon": -122.4254,
-      "sog": 34.4,
-      "cog": 45.3,
+      "mmsi": "235034368",
+      "name": "MULTI-SURVEY 4",
+      "lat": 51.6213,
+      "lon": 3.6895,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-24 01:28:08.129394987 +0000 UTC"
+      "last_update": "2026-10-24 06:27:53.249684827 +0000 UTC"
     },
     {
-      "mmsi": "368151810",
-      "name": "ENETAI",
-      "lat": 47.5667,
-      "lon": -122.4391,
-      "sog": 27.3,
-      "cog": 211,
+      "mmsi": "316014014",
+      "name": "TAKAYA",
+      "lat": 49.2863,
+      "lon": -123.1005,
+      "sog": 102.2,
+      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-24 01:28:13.648318002 +0000 UTC"
+      "last_update": "2026-10-24 06:27:00.56995059 +0000 UTC"
+    },
+    {
+      "mmsi": "566029000",
+      "name": "CS STRATOS",
+      "lat": 60.1164,
+      "lon": 31.4023,
+      "sog": 53.1,
+      "cog": 246.6,
+      "nav_status": 5,
+      "last_update": "2026-10-24 06:27:42.780962906 +0000 UTC"
+    },
+    {
+      "mmsi": "209653000",
+      "name": "CHAMPION JET 3",
+      "lat": 37.6364,
+      "lon": 24.9899,
+      "sog": 35.7,
+      "cog": 136.8,
+      "nav_status": 0,
+      "last_update": "2026-10-24 06:27:11.538251556 +0000 UTC"
+    },
+    {
+      "mmsi": "209074000",
+      "name": "CHAMPION JET 2",
+      "lat": 37.7538,
+      "lon": 23.6632,
+      "sog": 35.1,
+      "cog": 156.3,
+      "nav_status": 0,
+      "last_update": "2026-10-24 06:27:04.1140577 +0000 UTC",
+      "ship_type": 40,
+      "destination": "P-S-S-M-S-S-P"
     }
   ]
 }
