@@ -1,16 +1,78 @@
 {
-  "updated_at": "2026-10-25T05:49:02Z",
-  "count": 3876,
+  "updated_at": "2026-10-25T10:58:42Z",
+  "count": 3524,
   "vessels": [
     {
-      "mmsi": "244003316",
-      "name": "NB1 WATERBUFFEL",
-      "lat": 52.3995,
-      "lon": 4.8999,
+      "mmsi": "250101900",
+      "name": "GUIDING STAR 2",
+      "lat": 51.6999,
+      "lon": -8.5173,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-25 05:47:59.443598331 +0000 UTC"
+      "last_update": "2026-10-25 10:58:01.935243448 +0000 UTC",
+      "ship_type": 30,
+      "destination": "CASTLETOWNBERE"
+    },
+    {
+      "mmsi": "368410790",
+      "name": "HARBOR CHARGER",
+      "lat": 40.642,
+      "lon": -74.1189,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-10-25 10:57:36.318202478 +0000 UTC"
+    },
+    {
+      "mmsi": "620800072",
+      "name": "PRINCESS WAFYA",
+      "lat": 33.65,
+      "lon": 34.157,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-10-25 10:57:38.034587786 +0000 UTC"
+    },
+    {
+      "mmsi": "235034368",
+      "name": "MULTI-SURVEY 4",
+      "lat": 51.6212,
+      "lon": 3.6895,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-10-25 10:57:44.432832445 +0000 UTC"
+    },
+    {
+      "mmsi": "428067000",
+      "name": "BAT GALIM",
+      "lat": 32.8202,
+      "lon": 35.0073,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-10-25 10:57:46.898644357 +0000 UTC"
+    },
+    {
+      "mmsi": "250002664",
+      "name": "LIDA SUZANNA WD8",
+      "lat": 50.7923,
+      "lon": -1.1054,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-10-25 10:57:58.311252987 +0000 UTC"
+    },
+    {
+      "mmsi": "352002481",
+      "name": "BARU SIERRA NEVADA",
+      "lat": -22.8482,
+      "lon": -43.13,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 1,
+      "last_update": "2026-10-25 10:57:58.536813008 +0000 UTC"
     },
     {
       "mmsi": "245382000",
@@ -20,187 +82,129 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-25 05:48:00.635281345 +0000 UTC"
+      "last_update": "2026-10-25 10:58:01.326355418 +0000 UTC"
     },
     {
-      "mmsi": "257052800",
-      "name": "TORNEROSE",
-      "lat": 59.833,
-      "lon": 5.7218,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-10-25 05:48:13.805466952 +0000 UTC"
-    },
-    {
-      "mmsi": "205545000",
-      "name": "VB PANDA",
-      "lat": 51.33,
-      "lon": 3.1971,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-10-25 05:48:25.064816932 +0000 UTC"
-    },
-    {
-      "mmsi": "271044493",
-      "name": "MIP-3",
-      "lat": 36.7916,
-      "lon": 34.636,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-10-25 05:48:25.567598845 +0000 UTC"
-    },
-    {
-      "mmsi": "367609130",
-      "name": "BELLA K",
-      "lat": 47.663,
-      "lon": -122.3884,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-10-25 05:48:33.17728237 +0000 UTC"
-    },
-    {
-      "mmsi": "211270850",
-      "name": "PIONIER",
-      "lat": 53.6766,
-      "lon": 7.5738,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-10-25 05:48:39.85919442 +0000 UTC"
-    },
-    {
-      "mmsi": "367131000",
-      "name": "ALASKA",
-      "lat": 29.7483,
-      "lon": -93.8941,
+      "mmsi": "241903000",
+      "name": "DON'T WORRY",
+      "lat": 37.9409,
+      "lon": 23.6704,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-10-25 05:48:40.831656791 +0000 UTC"
+      "last_update": "2026-10-25 10:58:02.34448902 +0000 UTC"
+    },
+    {
+      "mmsi": "244374235",
+      "name": "NT 11 WATERTRAPPER",
+      "lat": 52.3995,
+      "lon": 4.8999,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-10-25 10:58:03.785063466 +0000 UTC"
     },
     {
       "mmsi": "316014014",
       "name": "TAKAYA",
-      "lat": 49.2862,
+      "lat": 49.2863,
       "lon": -123.1005,
       "sog": 102.2,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-25 05:48:41.801569128 +0000 UTC"
+      "last_update": "2026-10-25 10:58:01.04150051 +0000 UTC"
     },
     {
-      "mmsi": "247151800",
-      "name": "ERACLIDE",
-      "lat": 40.7799,
-      "lon": 14.1438,
-      "sog": 35.5,
-      "cog": 100.2,
+      "mmsi": "219018172",
+      "name": "EXPRESS 2",
+      "lat": 55.9679,
+      "lon": 10.9075,
+      "sog": 34.6,
+      "cog": 291.2,
       "nav_status": 0,
-      "last_update": "2026-10-25 05:48:40.844218629 +0000 UTC"
+      "last_update": "2026-10-25 10:57:41.638081964 +0000 UTC"
     },
     {
-      "mmsi": "248015000",
-      "name": "SAINT JOHN PAUL II",
-      "lat": 36.0944,
-      "lon": 14.4834,
-      "sog": 29.8,
-      "cog": 35.3,
+      "mmsi": "338569482",
+      "name": "TOWBOATUS",
+      "lat": 41.4721,
+      "lon": -70.3522,
+      "sog": 32.3,
+      "cog": 236.5,
       "nav_status": 0,
-      "last_update": "2026-10-25 05:48:04.625131613 +0000 UTC"
+      "last_update": "2026-10-25 10:57:32.045629311 +0000 UTC"
     },
     {
-      "mmsi": "512006003",
-      "name": "KEKENO",
-      "lat": -36.8184,
-      "lon": 174.8661,
-      "sog": 29.6,
-      "cog": 248.2,
+      "mmsi": "224388000",
+      "name": "BANADEROS EXPRESS",
+      "lat": 28.3579,
+      "lon": -16.059,
+      "sog": 31.2,
+      "cog": 127.4,
       "nav_status": 0,
-      "last_update": "2026-10-25 05:48:34.455847429 +0000 UTC"
+      "last_update": "2026-10-25 10:58:01.633221901 +0000 UTC",
+      "ship_type": 40,
+      "destination": "AGA-TCI-AGA"
     },
     {
-      "mmsi": "261008236",
-      "name": "PILOT20",
-      "lat": 54.4373,
-      "lon": 18.8541,
-      "sog": 25.7,
-      "cog": 267,
-      "nav_status": 15,
-      "last_update": "2026-10-25 05:48:01.710510295 +0000 UTC"
-    },
-    {
-      "mmsi": "512005706",
-      "name": "KORORA",
-      "lat": -36.8302,
-      "lon": 174.8364,
-      "sog": 25.5,
-      "cog": 69,
+      "mmsi": "224131000",
+      "name": "BAJAMAR EXPRESS",
+      "lat": 28.2611,
+      "lon": -15.935,
+      "sog": 31.1,
+      "cog": 308.5,
       "nav_status": 0,
-      "last_update": "2026-10-25 05:47:56.431708501 +0000 UTC"
+      "last_update": "2026-10-25 10:57:54.940643641 +0000 UTC"
     },
     {
-      "mmsi": "477997211",
-      "name": "XIN MING ZHU XI",
-      "lat": 22.2956,
-      "lon": 114.1399,
-      "sog": 23.5,
-      "cog": 266.7,
+      "mmsi": "240313300",
+      "name": "SPEED CAT 1",
+      "lat": 37.6537,
+      "lon": 23.5676,
+      "sog": 29.3,
+      "cog": 3.3,
       "nav_status": 0,
-      "last_update": "2026-10-25 05:48:31.487468547 +0000 UTC"
+      "last_update": "2026-10-25 10:58:01.042461862 +0000 UTC"
     },
     {
-      "mmsi": "477997138",
-      "name": "HKK32",
-      "lat": 22.2907,
-      "lon": 114.1267,
-      "sog": 23,
-      "cog": 81.5,
+      "mmsi": "338926055",
+      "name": "CG32155",
+      "lat": 33.0504,
+      "lon": -117.4244,
+      "sog": 29.2,
+      "cog": 162.6,
       "nav_status": 0,
-      "last_update": "2026-10-25 05:48:36.863864395 +0000 UTC"
+      "last_update": "2026-10-25 10:57:34.393348581 +0000 UTC"
     },
     {
-      "mmsi": "263671850",
-      "name": "TORRE DE BELEM",
-      "lat": 38.6576,
-      "lon": -9.3248,
-      "sog": 22.1,
-      "cog": 237.6,
+      "mmsi": "241804000",
+      "name": "AERO 3 HIGHSPEED",
+      "lat": 37.7489,
+      "lon": 23.4169,
+      "sog": 29,
+      "cog": 318,
       "nav_status": 0,
-      "last_update": "2026-10-25 05:48:23.644633847 +0000 UTC"
+      "last_update": "2026-10-25 10:57:33.194280405 +0000 UTC"
     },
     {
-      "mmsi": "276829000",
-      "name": "MEGASTAR",
-      "lat": 59.977,
-      "lon": 24.8938,
-      "sog": 21.8,
-      "cog": 191.1,
-      "nav_status": 0,
-      "last_update": "2026-10-25 05:48:24.274954352 +0000 UTC"
+      "mmsi": "477997053",
+      "name": "XIN MING ZHU II",
+      "lat": 22.286,
+      "lon": 114.1033,
+      "sog": 27,
+      "cog": 63.9,
+      "nav_status": 1,
+      "last_update": "2026-10-25 10:57:40.386933328 +0000 UTC"
     },
     {
-      "mmsi": "235076854",
-      "name": "SP PATHFINDER",
-      "lat": 50.8506,
-      "lon": -1.3347,
-      "sog": 21.6,
-      "cog": 311.7,
+      "mmsi": "225342000",
+      "name": "ILLETAS JET",
+      "lat": 38.8869,
+      "lon": 1.4303,
+      "sog": 26.8,
+      "cog": 30.9,
       "nav_status": 0,
-      "last_update": "2026-10-25 05:48:37.063917948 +0000 UTC"
-    },
-    {
-      "mmsi": "219281000",
-      "name": "HUMBRIA SEAWAYS",
-      "lat": 53.218,
-      "lon": 4.538,
-      "sog": 21.5,
-      "cog": 29.6,
-      "nav_status": 0,
-      "last_update": "2026-10-25 05:48:34.322236254 +0000 UTC"
+      "last_update": "2026-10-25 10:57:54.831371102 +0000 UTC"
     }
   ]
 }
