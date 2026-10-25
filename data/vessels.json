@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-25T14:56:34Z",
-  "count": 4080,
+  "updated_at": "2026-10-25T18:15:56Z",
+  "count": 4023,
   "vessels": [
+    {
+      "mmsi": "257522600",
+      "name": "FROHAV",
+      "lat": 63.7625,
+      "lon": 8.8599,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 7,
+      "last_update": "2026-10-25 18:14:49.554841739 +0000 UTC"
+    },
+    {
+      "mmsi": "250002664",
+      "name": "LIDA SUZANNA WD8",
+      "lat": 50.7923,
+      "lon": -1.1054,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-10-25 18:14:49.74072096 +0000 UTC"
+    },
+    {
+      "mmsi": "273356730",
+      "name": "ORIENTAL",
+      "lat": 46.6829,
+      "lon": 142.5668,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 1,
+      "last_update": "2026-10-25 18:14:52.179382674 +0000 UTC"
+    },
     {
       "mmsi": "367609130",
       "name": "BELLA K",
@@ -10,17 +40,7 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-25 14:55:33.010763169 +0000 UTC"
-    },
-    {
-      "mmsi": "620800072",
-      "name": "PRINCESS WAFYA",
-      "lat": 34.1515,
-      "lon": 34.4854,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-10-25 14:55:34.868051746 +0000 UTC"
+      "last_update": "2026-10-25 18:15:33.684669301 +0000 UTC"
     },
     {
       "mmsi": "245382000",
@@ -30,37 +50,7 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-25 14:55:41.906249732 +0000 UTC"
-    },
-    {
-      "mmsi": "563147700",
-      "name": "PSA VISION (NN27)",
-      "lat": 1.2552,
-      "lon": 103.7857,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-10-25 14:55:46.312964971 +0000 UTC"
-    },
-    {
-      "mmsi": "244108000",
-      "name": "ZK46 ZEEMEEUW",
-      "lat": 53.3316,
-      "lon": 6.9317,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-10-25 14:55:48.27526028 +0000 UTC"
-    },
-    {
-      "mmsi": "240796900",
-      "name": "SEALINK VII",
-      "lat": 37.862,
-      "lon": 23.7439,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-10-25 14:55:53.723419148 +0000 UTC"
+      "last_update": "2026-10-25 18:14:54.392629928 +0000 UTC"
     },
     {
       "mmsi": "368410790",
@@ -70,47 +60,47 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-25 14:55:56.391985993 +0000 UTC"
+      "last_update": "2026-10-25 18:14:55.899435201 +0000 UTC"
     },
     {
-      "mmsi": "261011633",
-      "name": "HYDROCAT MURRAY",
-      "lat": 54.3461,
-      "lon": 18.7893,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-10-25 14:55:56.616976588 +0000 UTC"
-    },
-    {
-      "mmsi": "367415390",
-      "name": "EMPIRE STATE",
-      "lat": 40.6866,
-      "lon": -74.0164,
+      "mmsi": "244003316",
+      "name": "NB1 WATERBUFFEL",
+      "lat": 52.3994,
+      "lon": 4.9,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-25 14:55:56.652141523 +0000 UTC"
+      "last_update": "2026-10-25 18:14:58.151129399 +0000 UTC"
     },
     {
-      "mmsi": "273429690",
-      "name": "GESPER",
-      "lat": 54.0946,
-      "lon": 38.2332,
+      "mmsi": "316014014",
+      "name": "TAKAYA",
+      "lat": 49.2863,
+      "lon": -123.1005,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-10-25 18:15:01.901248883 +0000 UTC"
+    },
+    {
+      "mmsi": "620800072",
+      "name": "PRINCESS WAFYA",
+      "lat": 34.5133,
+      "lon": 34.8238,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-25 14:56:00.667963676 +0000 UTC"
+      "last_update": "2026-10-25 18:15:25.830804635 +0000 UTC"
     },
     {
-      "mmsi": "247214700",
-      "name": "BONITA",
-      "lat": 44.4179,
-      "lon": 8.7973,
+      "mmsi": "219002586",
+      "name": "HG 80 BEATRIX",
+      "lat": 57.5919,
+      "lon": 9.9537,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-10-25 14:56:03.098754002 +0000 UTC"
+      "nav_status": 7,
+      "last_update": "2026-10-25 18:15:37.521811627 +0000 UTC"
     },
     {
       "mmsi": "244615506",
@@ -120,87 +110,99 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-25 14:56:18.251449915 +0000 UTC"
+      "last_update": "2026-10-25 18:15:40.381071614 +0000 UTC"
     },
     {
-      "mmsi": "316014014",
-      "name": "TAKAYA",
-      "lat": 49.2862,
-      "lon": -123.1005,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-10-25 14:56:20.445703907 +0000 UTC"
-    },
-    {
-      "mmsi": "210588000",
-      "name": "LEDRA PRIDE",
-      "lat": 34.6452,
-      "lon": 33.0179,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-10-25 14:56:25.879014939 +0000 UTC"
-    },
-    {
-      "mmsi": "271044493",
-      "name": "MIP-3",
-      "lat": 36.7916,
-      "lon": 34.636,
+      "mmsi": "367415390",
+      "name": "EMPIRE STATE",
+      "lat": 40.6925,
+      "lon": -74.0021,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-25 14:56:27.38540195 +0000 UTC"
+      "last_update": "2026-10-25 18:15:42.17680492 +0000 UTC"
     },
     {
-      "mmsi": "257522600",
-      "name": "FROHAV",
-      "lat": 63.7625,
-      "lon": 8.86,
-      "sog": 102.3,
+      "mmsi": "369713000",
+      "name": "TRIBUTE",
+      "lat": 0,
+      "lon": 0,
+      "sog": 102.2,
       "cog": 360,
-      "nav_status": 7,
-      "last_update": "2026-10-25 14:56:29.544671953 +0000 UTC"
-    },
-    {
-      "mmsi": "273356450",
-      "name": "FORT",
-      "lat": 54.0936,
-      "lon": 38.2347,
-      "sog": 69.7,
-      "cog": 134.9,
-      "nav_status": 10,
-      "last_update": "2026-10-25 14:56:04.865316248 +0000 UTC"
-    },
-    {
-      "mmsi": "219018172",
-      "name": "EXPRESS 2",
-      "lat": 55.9675,
-      "lon": 10.9275,
-      "sog": 35.7,
-      "cog": 292.8,
       "nav_status": 0,
-      "last_update": "2026-10-25 14:55:37.793175726 +0000 UTC"
+      "last_update": "2026-10-25 18:15:35.283345238 +0000 UTC",
+      "ship_type": 30,
+      "destination": ""
     },
     {
-      "mmsi": "367447520",
-      "name": "SALACIA",
-      "lat": 42.4659,
-      "lon": -70.8306,
-      "sog": 33.6,
-      "cog": 196.6,
+      "mmsi": "212859000",
+      "name": "MERCEDES PINTO",
+      "lat": 28.415,
+      "lon": -16.0463,
+      "sog": 31.7,
+      "cog": 109.3,
       "nav_status": 0,
-      "last_update": "2026-10-25 14:56:16.433349049 +0000 UTC"
+      "last_update": "2026-10-25 18:15:31.978408141 +0000 UTC"
     },
     {
-      "mmsi": "257304900",
-      "name": "TRONDHEIMSFJORD 1",
-      "lat": 59.8071,
-      "lon": 5.7594,
-      "sog": 32.2,
-      "cog": 303.7,
+      "mmsi": "224441000",
+      "name": "BENCHIJIGUA EXPRESS",
+      "lat": 28.0231,
+      "lon": -16.7376,
+      "sog": 31.5,
+      "cog": 42.6,
+      "nav_status": 0,
+      "last_update": "2026-10-25 18:14:50.956437067 +0000 UTC"
+    },
+    {
+      "mmsi": "224836000",
+      "name": "VOLCAN DE TIRAJANA",
+      "lat": 27.9903,
+      "lon": -16.8628,
+      "sog": 30.3,
+      "cog": 290.1,
+      "nav_status": 0,
+      "last_update": "2026-10-25 18:14:51.993299025 +0000 UTC"
+    },
+    {
+      "mmsi": "247058800",
+      "name": "SNAV ALTAIR",
+      "lat": 40.777,
+      "lon": 14.1746,
+      "sog": 29.3,
+      "cog": 80.6,
+      "nav_status": 0,
+      "last_update": "2026-10-25 18:14:54.025491054 +0000 UTC"
+    },
+    {
+      "mmsi": "247058700",
+      "name": "SNAV ALCIONE",
+      "lat": 40.7978,
+      "lon": 14.2408,
+      "sog": 25.9,
+      "cog": 246.5,
+      "nav_status": 0,
+      "last_update": "2026-10-25 18:15:19.800314403 +0000 UTC"
+    },
+    {
+      "mmsi": "503000241",
+      "name": "SPIRIT OF TASMANIA 4",
+      "lat": -40.7226,
+      "lon": 146.1158,
+      "sog": 24.6,
+      "cog": 153.5,
       "nav_status": 5,
-      "last_update": "2026-10-25 14:55:39.436919011 +0000 UTC"
+      "last_update": "2026-10-25 18:15:01.808754873 +0000 UTC"
+    },
+    {
+      "mmsi": "431018431",
+      "name": "FERRY FUKUOKA",
+      "lat": 34.0811,
+      "lon": 132.8153,
+      "sog": 23.7,
+      "cog": 218.4,
+      "nav_status": 0,
+      "last_update": "2026-10-25 18:15:13.188158883 +0000 UTC"
     }
   ]
 }
