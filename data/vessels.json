@@ -1,36 +1,26 @@
 {
-  "updated_at": "2026-10-25T00:55:28Z",
-  "count": 4093,
+  "updated_at": "2026-10-25T05:49:02Z",
+  "count": 3876,
   "vessels": [
     {
-      "mmsi": "368410790",
-      "name": "HARBOR CHARGER",
-      "lat": 40.642,
-      "lon": -74.1189,
+      "mmsi": "244003316",
+      "name": "NB1 WATERBUFFEL",
+      "lat": 52.3995,
+      "lon": 4.8999,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-25 00:54:16.188848562 +0000 UTC"
+      "last_update": "2026-10-25 05:47:59.443598331 +0000 UTC"
     },
     {
-      "mmsi": "244615506",
-      "name": "ZUID-HOLLAND-ZUID",
-      "lat": 51.7999,
-      "lon": 4.6394,
+      "mmsi": "245382000",
+      "name": "KNRM-FRED",
+      "lat": 51.6217,
+      "lon": 3.6879,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-25 00:54:19.977443408 +0000 UTC"
-    },
-    {
-      "mmsi": "367609130",
-      "name": "BELLA K",
-      "lat": 47.663,
-      "lon": -122.3884,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-10-25 00:54:23.852548072 +0000 UTC"
+      "last_update": "2026-10-25 05:48:00.635281345 +0000 UTC"
     },
     {
       "mmsi": "257052800",
@@ -40,89 +30,7 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-25 00:54:24.395742953 +0000 UTC"
-    },
-    {
-      "mmsi": "232028036",
-      "name": "GARRION OWL",
-      "lat": 55.8932,
-      "lon": -4.4007,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-10-25 00:54:28.353721667 +0000 UTC"
-    },
-    {
-      "mmsi": "245382000",
-      "name": "KNRM-FRED",
-      "lat": 51.6217,
-      "lon": 3.6878,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-10-25 00:54:31.091634973 +0000 UTC"
-    },
-    {
-      "mmsi": "240796900",
-      "name": "SEALINK VII",
-      "lat": 37.862,
-      "lon": 23.744,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-10-25 00:54:33.314431071 +0000 UTC"
-    },
-    {
-      "mmsi": "241903000",
-      "name": "DON'T WORRY",
-      "ship_type": 37,
-      "destination": "PIRAEUS",
-      "lat": 37.9409,
-      "lon": 23.6704,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-10-25 00:54:58.968117439 +0000 UTC"
-    },
-    {
-      "mmsi": "210920000",
-      "name": "VTS PENTADAKTYLOS",
-      "lat": 34.7185,
-      "lon": 33.3178,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-10-25 00:54:44.028236749 +0000 UTC"
-    },
-    {
-      "mmsi": "370610000",
-      "name": "CROWN IRIS",
-      "lat": 33.1174,
-      "lon": 34.7214,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-10-25 00:54:51.459884492 +0000 UTC"
-    },
-    {
-      "mmsi": "235034368",
-      "name": "MULTI-SURVEY 4",
-      "lat": 51.6212,
-      "lon": 3.6895,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-10-25 00:54:54.023581254 +0000 UTC"
-    },
-    {
-      "mmsi": "259046050",
-      "name": "FREMAD",
-      "lat": 66.3729,
-      "lon": 12.361,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-10-25 00:54:54.450305162 +0000 UTC"
+      "last_update": "2026-10-25 05:48:13.805466952 +0000 UTC"
     },
     {
       "mmsi": "205545000",
@@ -132,77 +40,167 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-25 00:54:54.853137854 +0000 UTC"
+      "last_update": "2026-10-25 05:48:25.064816932 +0000 UTC"
     },
     {
       "mmsi": "271044493",
-      "name": "MIP- 3",
+      "name": "MIP-3",
       "lat": 36.7916,
       "lon": 34.636,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-25 00:54:56.63163586 +0000 UTC"
+      "last_update": "2026-10-25 05:48:25.567598845 +0000 UTC"
     },
     {
-      "mmsi": "367415390",
-      "name": "EMPIRE STATE",
-      "lat": 40.7716,
-      "lon": -74.0109,
+      "mmsi": "367609130",
+      "name": "BELLA K",
+      "lat": 47.663,
+      "lon": -122.3884,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-25 00:55:02.961431511 +0000 UTC"
+      "last_update": "2026-10-25 05:48:33.17728237 +0000 UTC"
     },
     {
-      "mmsi": "244108000",
-      "name": "ZK46 ZEEMEEUW",
-      "lat": 53.3316,
-      "lon": 6.9317,
+      "mmsi": "211270850",
+      "name": "PIONIER",
+      "lat": 53.6766,
+      "lon": 7.5738,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-25 00:55:07.505048111 +0000 UTC"
+      "last_update": "2026-10-25 05:48:39.85919442 +0000 UTC"
     },
     {
-      "mmsi": "211337780",
-      "name": "ATALANTA",
-      "lat": 53.8988,
-      "lon": 11.4513,
+      "mmsi": "367131000",
+      "name": "ALASKA",
+      "lat": 29.7483,
+      "lon": -93.8941,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-10-25 00:55:08.363336746 +0000 UTC"
+      "last_update": "2026-10-25 05:48:40.831656791 +0000 UTC"
     },
     {
-      "mmsi": "230937480",
-      "name": "RESCUE RIMIC",
-      "lat": 60.208,
-      "lon": 21.9041,
-      "sog": 33,
-      "cog": 331.6,
+      "mmsi": "316014014",
+      "name": "TAKAYA",
+      "lat": 49.2862,
+      "lon": -123.1005,
+      "sog": 102.2,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-10-25 05:48:41.801569128 +0000 UTC"
+    },
+    {
+      "mmsi": "247151800",
+      "name": "ERACLIDE",
+      "lat": 40.7799,
+      "lon": 14.1438,
+      "sog": 35.5,
+      "cog": 100.2,
+      "nav_status": 0,
+      "last_update": "2026-10-25 05:48:40.844218629 +0000 UTC"
+    },
+    {
+      "mmsi": "248015000",
+      "name": "SAINT JOHN PAUL II",
+      "lat": 36.0944,
+      "lon": 14.4834,
+      "sog": 29.8,
+      "cog": 35.3,
+      "nav_status": 0,
+      "last_update": "2026-10-25 05:48:04.625131613 +0000 UTC"
+    },
+    {
+      "mmsi": "512006003",
+      "name": "KEKENO",
+      "lat": -36.8184,
+      "lon": 174.8661,
+      "sog": 29.6,
+      "cog": 248.2,
+      "nav_status": 0,
+      "last_update": "2026-10-25 05:48:34.455847429 +0000 UTC"
+    },
+    {
+      "mmsi": "261008236",
+      "name": "PILOT20",
+      "lat": 54.4373,
+      "lon": 18.8541,
+      "sog": 25.7,
+      "cog": 267,
       "nav_status": 15,
-      "last_update": "2026-10-25 00:54:34.908215195 +0000 UTC"
+      "last_update": "2026-10-25 05:48:01.710510295 +0000 UTC"
     },
     {
-      "mmsi": "366960920",
-      "name": "",
-      "lat": 41.5503,
-      "lon": -82.9147,
-      "sog": 32.9,
-      "cog": 25.7,
+      "mmsi": "512005706",
+      "name": "KORORA",
+      "lat": -36.8302,
+      "lon": 174.8364,
+      "sog": 25.5,
+      "cog": 69,
       "nav_status": 0,
-      "last_update": "2026-10-25 00:54:33.361510785 +0000 UTC"
+      "last_update": "2026-10-25 05:47:56.431708501 +0000 UTC"
     },
     {
-      "mmsi": "369990460",
-      "name": "",
-      "lat": 32.7731,
-      "lon": -79.9492,
-      "sog": 32.5,
-      "cog": 78.7,
+      "mmsi": "477997211",
+      "name": "XIN MING ZHU XI",
+      "lat": 22.2956,
+      "lon": 114.1399,
+      "sog": 23.5,
+      "cog": 266.7,
       "nav_status": 0,
-      "last_update": "2026-10-25 00:54:41.447855661 +0000 UTC"
+      "last_update": "2026-10-25 05:48:31.487468547 +0000 UTC"
+    },
+    {
+      "mmsi": "477997138",
+      "name": "HKK32",
+      "lat": 22.2907,
+      "lon": 114.1267,
+      "sog": 23,
+      "cog": 81.5,
+      "nav_status": 0,
+      "last_update": "2026-10-25 05:48:36.863864395 +0000 UTC"
+    },
+    {
+      "mmsi": "263671850",
+      "name": "TORRE DE BELEM",
+      "lat": 38.6576,
+      "lon": -9.3248,
+      "sog": 22.1,
+      "cog": 237.6,
+      "nav_status": 0,
+      "last_update": "2026-10-25 05:48:23.644633847 +0000 UTC"
+    },
+    {
+      "mmsi": "276829000",
+      "name": "MEGASTAR",
+      "lat": 59.977,
+      "lon": 24.8938,
+      "sog": 21.8,
+      "cog": 191.1,
+      "nav_status": 0,
+      "last_update": "2026-10-25 05:48:24.274954352 +0000 UTC"
+    },
+    {
+      "mmsi": "235076854",
+      "name": "SP PATHFINDER",
+      "lat": 50.8506,
+      "lon": -1.3347,
+      "sog": 21.6,
+      "cog": 311.7,
+      "nav_status": 0,
+      "last_update": "2026-10-25 05:48:37.063917948 +0000 UTC"
+    },
+    {
+      "mmsi": "219281000",
+      "name": "HUMBRIA SEAWAYS",
+      "lat": 53.218,
+      "lon": 4.538,
+      "sog": 21.5,
+      "cog": 29.6,
+      "nav_status": 0,
+      "last_update": "2026-10-25 05:48:34.322236254 +0000 UTC"
     }
   ]
 }
