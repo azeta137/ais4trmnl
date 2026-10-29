@@ -1,56 +1,16 @@
 {
-  "updated_at": "2026-10-29T13:42:41Z",
-  "count": 3048,
+  "updated_at": "2026-10-29T19:28:00Z",
+  "count": 3102,
   "vessels": [
-    {
-      "mmsi": "240796900",
-      "name": "SEALINK VII",
-      "lat": 37.862,
-      "lon": 23.744,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-10-29 13:42:14.965070033 +0000 UTC"
-    },
-    {
-      "mmsi": "368485570",
-      "name": "BM1 WEBBER",
-      "lat": 29.7675,
-      "lon": -93.9241,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-10-29 13:41:46.528666843 +0000 UTC"
-    },
-    {
-      "mmsi": "244374235",
-      "name": "NT 11 WATERTRAPPER",
-      "lat": 52.3753,
-      "lon": 4.8447,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-10-29 13:41:47.206655539 +0000 UTC"
-    },
-    {
-      "mmsi": "316014014",
-      "name": "TAKAYA",
-      "lat": 49.2863,
-      "lon": -123.1005,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-10-29 13:41:51.684811068 +0000 UTC"
-    },
     {
       "mmsi": "668116278",
       "name": "NORTHSTAR INNOVATOR",
       "lat": 8.3384,
-      "lon": -62.8095,
+      "lon": -62.8096,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-29 13:42:01.807587253 +0000 UTC"
+      "last_update": "2026-10-29 19:26:51.057911962 +0000 UTC"
     },
     {
       "mmsi": "269057220",
@@ -60,147 +20,191 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-10-29 13:42:03.601707303 +0000 UTC"
+      "last_update": "2026-10-29 19:26:53.469911822 +0000 UTC"
     },
     {
-      "mmsi": "219385000",
-      "name": "BJOERNSHOLM",
-      "lat": 55.6793,
-      "lon": 12.593,
+      "mmsi": "210920000",
+      "name": "VTS PENTADAKTYLOS",
+      "lat": 34.7185,
+      "lon": 33.3178,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-29 13:42:17.184208712 +0000 UTC"
+      "last_update": "2026-10-29 19:26:56.050933395 +0000 UTC"
     },
     {
-      "mmsi": "525110616",
-      "name": "BMU 001",
-      "lat": -2.1303,
-      "lon": 105.015,
+      "mmsi": "234781000",
+      "name": "ILLUSTRIS B119",
+      "lat": 54.4564,
+      "lon": -5.4381,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 7,
+      "last_update": "2026-10-29 19:27:10.073341311 +0000 UTC"
+    },
+    {
+      "mmsi": "305620000",
+      "name": "KAILI",
+      "lat": 54.6897,
+      "lon": 16.2393,
+      "sog": 102.3,
+      "cog": 60.2,
+      "nav_status": 0,
+      "last_update": "2026-10-29 19:27:12.803631222 +0000 UTC"
+    },
+    {
+      "mmsi": "247214700",
+      "name": "BONITA",
+      "lat": 44.4183,
+      "lon": 8.7973,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 3,
+      "last_update": "2026-10-29 19:27:13.07001242 +0000 UTC"
+    },
+    {
+      "mmsi": "601126900",
+      "name": "SEA EXPRESS",
+      "lat": -29.8681,
+      "lon": 31.0141,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-10-29 19:27:20.840704187 +0000 UTC"
+    },
+    {
+      "mmsi": "367638260",
+      "name": "TITLETOWN U.S.A.",
+      "lat": 39.0728,
+      "lon": -84.6186,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 12,
+      "last_update": "2026-10-29 19:27:21.500928285 +0000 UTC",
+      "ship_type": 57,
+      "destination": "US^0CPK>0R6X"
+    },
+    {
+      "mmsi": "367609130",
+      "name": "BELLA K",
+      "lat": 47.663,
+      "lon": -122.3884,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-10-29 19:27:23.612341628 +0000 UTC",
+      "ship_type": 30,
+      "destination": "SEATTLE"
+    },
+    {
+      "mmsi": "240796900",
+      "name": "SEALINK VII",
+      "lat": 37.862,
+      "lon": 23.744,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 1,
-      "last_update": "2026-10-29 13:42:21.133417888 +0000 UTC"
+      "last_update": "2026-10-29 19:27:34.831867316 +0000 UTC"
     },
     {
-      "mmsi": "273396190",
-      "name": "ALTAIR",
-      "lat": 54.093,
-      "lon": 38.241,
-      "sog": 75.9,
-      "cog": 60,
+      "mmsi": "368410790",
+      "name": "HARBOR CHARGER",
+      "lat": 40.6421,
+      "lon": -74.1189,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-29 13:42:24.670266283 +0000 UTC"
+      "last_update": "2026-10-29 19:27:36.969205278 +0000 UTC"
     },
     {
-      "mmsi": "369990459",
-      "name": "29459",
-      "lat": 32.768,
-      "lon": -79.9673,
-      "sog": 39.8,
-      "cog": 263.6,
+      "mmsi": "367434220",
+      "name": "YOGI BERRA",
+      "lat": 40.7715,
+      "lon": -74.0118,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-29 13:41:54.634863392 +0000 UTC"
+      "last_update": "2026-10-29 19:27:45.24990305 +0000 UTC"
     },
     {
-      "mmsi": "368206360",
-      "name": "COMMANDER",
-      "lat": 47.6219,
-      "lon": -122.4291,
-      "sog": 37.8,
-      "cog": 313.2,
-      "nav_status": 0,
-      "last_update": "2026-10-29 13:42:15.330302853 +0000 UTC"
+      "mmsi": "261011633",
+      "name": "HYDROCAT MURRAY",
+      "lat": 54.3461,
+      "lon": 18.7893,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-10-29 19:27:45.630799941 +0000 UTC"
     },
     {
-      "mmsi": "366989360",
-      "name": "INTINTOLI",
-      "lat": 37.8888,
-      "lon": -122.419,
-      "sog": 35.2,
-      "cog": 171.7,
-      "nav_status": 0,
-      "last_update": "2026-10-29 13:42:20.50928057 +0000 UTC"
-    },
-    {
-      "mmsi": "368088610",
-      "name": "LYRA",
-      "lat": 37.8335,
-      "lon": -122.3941,
+      "mmsi": "368457860",
+      "name": "EMERALD CLIPPER",
+      "lat": 47.7491,
+      "lon": -122.4288,
       "sog": 34.5,
-      "cog": 343.3,
+      "cog": 5.5,
       "nav_status": 0,
-      "last_update": "2026-10-29 13:41:38.280177391 +0000 UTC"
+      "last_update": "2026-10-29 19:27:13.880691909 +0000 UTC"
     },
     {
-      "mmsi": "240313300",
-      "name": "SPEED CAT 1",
-      "lat": 37.3214,
-      "lon": 23.3436,
-      "sog": 32.3,
-      "cog": 247,
-      "nav_status": 0,
-      "last_update": "2026-10-29 13:42:26.918779946 +0000 UTC"
+      "mmsi": "257605000",
+      "name": "FROYA",
+      "lat": 60.4749,
+      "lon": 5.2522,
+      "sog": 33.5,
+      "cog": 167.7,
+      "nav_status": 9,
+      "last_update": "2026-10-29 19:27:21.027164925 +0000 UTC"
     },
     {
-      "mmsi": "241804000",
-      "name": "AERO 3 HIGHSPEED",
-      "lat": 37.7966,
-      "lon": 23.4671,
-      "sog": 29.4,
-      "cog": 54,
+      "mmsi": "232015629",
+      "name": "RED JET 7",
+      "lat": 50.8249,
+      "lon": -1.3047,
+      "sog": 32.5,
+      "cog": 325.9,
       "nav_status": 0,
-      "last_update": "2026-10-29 13:42:19.652691186 +0000 UTC"
+      "last_update": "2026-10-29 19:27:00.719705205 +0000 UTC"
     },
     {
-      "mmsi": "261004168",
-      "name": "ARES",
-      "lat": 54.3994,
-      "lon": 18.6964,
-      "sog": 29,
-      "cog": 77.2,
+      "mmsi": "368013770",
+      "name": "COMMODORE",
+      "lat": 40.4803,
+      "lon": -74.0291,
+      "sog": 32.2,
+      "cog": 187.1,
       "nav_status": 0,
-      "last_update": "2026-10-29 13:41:51.979932081 +0000 UTC"
+      "last_update": "2026-10-29 19:27:11.948218498 +0000 UTC"
     },
     {
-      "mmsi": "367524060",
-      "name": "AVA PEARL",
-      "lat": 42.3463,
-      "lon": -70.938,
-      "sog": 28.9,
-      "cog": 211.3,
+      "mmsi": "257095920",
+      "name": "FJORDJARL",
+      "lat": 69.1093,
+      "lon": 17.5708,
+      "sog": 31.3,
+      "cog": 65.8,
       "nav_status": 0,
-      "last_update": "2026-10-29 13:41:49.742172492 +0000 UTC"
+      "last_update": "2026-10-29 19:27:11.706470739 +0000 UTC"
     },
     {
-      "mmsi": "316016131",
-      "name": "PACIFIC GUARDIAN",
-      "lat": 48.4071,
-      "lon": -123.3949,
-      "sog": 26.5,
-      "cog": 175.7,
+      "mmsi": "368063440",
+      "name": "CARINA",
+      "lat": 37.7821,
+      "lon": -122.3585,
+      "sog": 28.7,
+      "cog": 119.2,
       "nav_status": 0,
-      "last_update": "2026-10-29 13:42:03.284688364 +0000 UTC"
+      "last_update": "2026-10-29 19:27:15.642551174 +0000 UTC"
     },
     {
-      "mmsi": "246936000",
-      "name": "MAUD (PILOTS)",
-      "lat": 52.4732,
-      "lon": 4.4951,
-      "sog": 26,
-      "cog": 259.5,
+      "mmsi": "512005085",
+      "name": "CLIPPER 5",
+      "lat": -36.8826,
+      "lon": 174.9678,
+      "sog": 28.2,
+      "cog": 297.6,
       "nav_status": 0,
-      "last_update": "2026-10-29 13:42:04.127042204 +0000 UTC"
-    },
-    {
-      "mmsi": "477995038",
-      "name": "DISCOVERY BAY 1",
-      "lat": 22.2939,
-      "lon": 114.1082,
-      "sog": 23.9,
-      "cog": 290.5,
-      "nav_status": 0,
-      "last_update": "2026-10-29 13:42:06.139700708 +0000 UTC"
+      "last_update": "2026-10-29 19:27:11.416449429 +0000 UTC"
     }
   ]
 }
