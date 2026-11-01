@@ -1,76 +1,46 @@
 {
-  "updated_at": "2026-10-31T21:12:00Z",
-  "count": 2643,
+  "updated_at": "2026-11-01T00:13:34Z",
+  "count": 2882,
   "vessels": [
+    {
+      "mmsi": "247091500",
+      "name": "GRANDE SAN PAOLO",
+      "lat": 51.2786,
+      "lon": 4.2184,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-11-01 00:12:23.145226164 +0000 UTC"
+    },
+    {
+      "mmsi": "316014014",
+      "name": "TAKAYA",
+      "lat": 49.2863,
+      "lon": -123.1006,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-11-01 00:12:40.890746528 +0000 UTC"
+    },
+    {
+      "mmsi": "247214700",
+      "name": "BONITA",
+      "lat": 44.4179,
+      "lon": 8.7973,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 3,
+      "last_update": "2026-11-01 00:13:03.099681464 +0000 UTC"
+    },
     {
       "mmsi": "244003316",
       "name": "NB1 WATERBUFFEL",
-      "lat": 52.3995,
-      "lon": 4.9,
+      "lat": 52.3994,
+      "lon": 4.8999,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-31 21:10:49.226668179 +0000 UTC"
-    },
-    {
-      "mmsi": "367609130",
-      "name": "BELLA K",
-      "lat": 47.663,
-      "lon": -122.3884,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-10-31 21:10:53.319148458 +0000 UTC"
-    },
-    {
-      "mmsi": "316046329",
-      "name": "PITT KNIGHT",
-      "lat": 49.2312,
-      "lon": -122.7713,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-10-31 21:11:05.948594135 +0000 UTC"
-    },
-    {
-      "mmsi": "269057220",
-      "name": "VIKING ROTA",
-      "lat": 52.5181,
-      "lon": 5.4359,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-10-31 21:11:11.833117225 +0000 UTC"
-    },
-    {
-      "mmsi": "210588000",
-      "name": "LEDRA PRIDE",
-      "lat": 34.6452,
-      "lon": 33.018,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-10-31 21:11:27.023671095 +0000 UTC"
-    },
-    {
-      "mmsi": "249310000",
-      "name": "TAKE IT EASIER",
-      "lat": 37.0158,
-      "lon": 27.4407,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-10-31 21:11:28.569438951 +0000 UTC"
-    },
-    {
-      "mmsi": "428067000",
-      "name": "BAT GALIM",
-      "lat": 32.8202,
-      "lon": 35.0073,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-10-31 21:11:29.244807661 +0000 UTC"
+      "last_update": "2026-11-01 00:12:48.53350708 +0000 UTC"
     },
     {
       "mmsi": "244374235",
@@ -80,129 +50,159 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-31 21:11:34.901102676 +0000 UTC"
+      "last_update": "2026-11-01 00:12:53.991989661 +0000 UTC",
+      "ship_type": 99,
+      "destination": "AMSTERDAM"
     },
     {
-      "mmsi": "231309000",
-      "name": "BJORGVIN",
-      "lat": 62.2308,
-      "lon": -6.59,
+      "mmsi": "247436000",
+      "name": "ICHNUSA",
+      "lat": 44.402,
+      "lon": 8.9283,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-31 21:11:37.264306337 +0000 UTC"
+      "last_update": "2026-11-01 00:13:13.578038389 +0000 UTC"
     },
     {
-      "mmsi": "255915630",
-      "name": "BOTA WIND I",
-      "lat": 54.436,
-      "lon": 16.3881,
+      "mmsi": "235001256",
+      "name": "LYNN PRINCESS",
+      "lat": 52.7532,
+      "lon": 0.3924,
       "sog": 102.3,
-      "cog": 222.5,
-      "nav_status": 5,
-      "last_update": "2026-10-31 21:11:37.758089285 +0000 UTC"
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-11-01 00:13:13.834431813 +0000 UTC"
     },
     {
-      "mmsi": "368224850",
-      "name": "COURAGEOUS",
-      "lat": 41.1346,
-      "lon": -73.8927,
-      "sog": 33.4,
-      "cog": 166.6,
+      "mmsi": "268267001",
+      "name": "SUUS  (GUARD VESSEL)",
+      "lat": 53.6794,
+      "lon": 8.0729,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-10-31 21:11:14.991233676 +0000 UTC"
+      "last_update": "2026-11-01 00:13:18.593853913 +0000 UTC"
     },
     {
-      "mmsi": "235070199",
-      "name": "MANANNAN",
-      "lat": 54.0809,
-      "lon": -4.3314,
-      "sog": 31.3,
-      "cog": 312.1,
+      "mmsi": "368395270",
+      "name": "KARL",
+      "lat": 37.7926,
+      "lon": -122.3077,
+      "sog": 33.6,
+      "cog": 101.1,
       "nav_status": 0,
-      "last_update": "2026-10-31 21:11:38.369091466 +0000 UTC"
+      "last_update": "2026-11-01 00:12:42.206844894 +0000 UTC"
     },
     {
-      "mmsi": "338519000",
-      "name": "SWIFTSURE",
-      "lat": 48.3153,
-      "lon": -122.7861,
-      "sog": 27.5,
-      "cog": 299.2,
+      "mmsi": "512008121",
+      "name": "IKA KAKAHI",
+      "lat": -36.7872,
+      "lon": 174.9441,
+      "sog": 29.1,
+      "cog": 254.4,
       "nav_status": 0,
-      "last_update": "2026-10-31 21:10:57.208180046 +0000 UTC"
+      "last_update": "2026-11-01 00:13:10.215970979 +0000 UTC"
     },
     {
-      "mmsi": "235003348",
-      "name": "SUN CLIPPER",
-      "lat": 51.5112,
-      "lon": 0.0974,
-      "sog": 27.1,
-      "cog": 87,
+      "mmsi": "246658000",
+      "name": "ORION (PILOTS)",
+      "lat": 53.5683,
+      "lon": 6.6494,
+      "sog": 28.9,
+      "cog": 127.3,
       "nav_status": 0,
-      "last_update": "2026-10-31 21:11:20.028558485 +0000 UTC"
+      "last_update": "2026-11-01 00:12:49.57232076 +0000 UTC"
     },
     {
-      "mmsi": "239710000",
-      "name": "BLUE STAR 1",
-      "lat": 37.8773,
-      "lon": 23.638,
-      "sog": 25.9,
-      "cog": 333,
+      "mmsi": "316028008",
+      "name": "CATALINA ADVENTURE",
+      "lat": 49.2978,
+      "lon": -122.9942,
+      "sog": 27.3,
+      "cog": 259.1,
       "nav_status": 0,
-      "last_update": "2026-10-31 21:10:59.372064979 +0000 UTC"
+      "last_update": "2026-11-01 00:12:25.936608978 +0000 UTC"
     },
     {
-      "mmsi": "235096547",
-      "name": "ESTUARY ELITE",
-      "lat": 51.3608,
-      "lon": 1.4552,
-      "sog": 25.4,
-      "cog": 190.7,
+      "mmsi": "367425520",
+      "name": "SCORPIO",
+      "lat": 37.8636,
+      "lon": -122.3933,
+      "sog": 27.3,
+      "cog": 350.6,
       "nav_status": 0,
-      "last_update": "2026-10-31 21:11:06.932684615 +0000 UTC"
+      "last_update": "2026-11-01 00:12:59.448330082 +0000 UTC"
     },
     {
-      "mmsi": "366902570",
-      "name": "TAMPA",
-      "ship_type": 50,
-      "destination": "@@@@@@@@@@@@@@@@@@",
-      "lat": 27.6795,
-      "lon": -82.7366,
-      "sog": 23.8,
-      "cog": 50.5,
+      "mmsi": "413217080",
+      "name": "XUNLONG10",
+      "lat": 22.3215,
+      "lon": 114.1091,
+      "sog": 27.2,
+      "cog": 95.4,
       "nav_status": 0,
-      "last_update": "2026-10-31 21:11:29.840347386 +0000 UTC"
+      "last_update": "2026-11-01 00:12:44.834254242 +0000 UTC"
     },
     {
-      "mmsi": "672269000",
-      "name": "CARTHAGE",
-      "lat": 42.8001,
-      "lon": 9.6454,
-      "sog": 22.1,
-      "cog": 178.4,
+      "mmsi": "503039480",
+      "name": "RESCUE 1",
+      "lat": -35.1272,
+      "lon": 117.9229,
+      "sog": 26.3,
+      "cog": 276.6,
       "nav_status": 0,
-      "last_update": "2026-10-31 21:10:52.297428329 +0000 UTC"
+      "last_update": "2026-11-01 00:13:16.295221211 +0000 UTC"
     },
     {
-      "mmsi": "367347430",
-      "name": "BOARDWALK BEAST",
-      "lat": 29.5429,
-      "lon": -95.003,
-      "sog": 22.1,
-      "cog": 98,
+      "mmsi": "316016131",
+      "name": "PACIFIC GUARDIAN",
+      "lat": 48.3886,
+      "lon": -123.3532,
+      "sog": 25.7,
+      "cog": 341.9,
       "nav_status": 0,
-      "last_update": "2026-10-31 21:11:22.307478859 +0000 UTC"
+      "last_update": "2026-11-01 00:12:36.966805795 +0000 UTC"
     },
     {
-      "mmsi": "367797260",
-      "name": "SPRING MALLARD",
-      "lat": 40.7637,
-      "lon": -73.9457,
-      "sog": 21.9,
-      "cog": 210.4,
+      "mmsi": "477997138",
+      "name": "HKK32",
+      "lat": 22.2756,
+      "lon": 114.0438,
+      "sog": 25,
+      "cog": 266.7,
       "nav_status": 0,
-      "last_update": "2026-10-31 21:10:56.436341826 +0000 UTC"
+      "last_update": "2026-11-01 00:13:16.370828898 +0000 UTC"
+    },
+    {
+      "mmsi": "257961900",
+      "name": "RYGERFJORD",
+      "lat": 59.0072,
+      "lon": 5.8174,
+      "sog": 23.7,
+      "cog": 202.1,
+      "nav_status": 0,
+      "last_update": "2026-11-01 00:12:46.012430942 +0000 UTC"
+    },
+    {
+      "mmsi": "209106000",
+      "name": "NAPOLES",
+      "lat": 35.9135,
+      "lon": -5.4973,
+      "sog": 22.9,
+      "cog": 44.1,
+      "nav_status": 0,
+      "last_update": "2026-11-01 00:13:05.384993915 +0000 UTC"
+    },
+    {
+      "mmsi": "477995072",
+      "name": "PARK ISLAND 7",
+      "lat": 22.3202,
+      "lon": 114.1085,
+      "sog": 22.3,
+      "cog": 85,
+      "nav_status": 0,
+      "last_update": "2026-11-01 00:12:38.180988617 +0000 UTC"
     }
   ]
 }
