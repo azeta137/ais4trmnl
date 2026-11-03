@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-03T09:11:03Z",
-  "count": 2957,
+  "updated_at": "2026-11-03T17:10:23Z",
+  "count": 2878,
   "vessels": [
     {
       "mmsi": "367609130",
@@ -10,117 +10,57 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-11-03 09:10:32.32362098 +0000 UTC"
+      "last_update": "2026-11-03 17:09:13.638447851 +0000 UTC"
     },
     {
-      "mmsi": "368392620",
-      "name": "JACKIE ROBINSON",
-      "lat": 40.7712,
-      "lon": -74.0113,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-11-03 09:09:58.16616242 +0000 UTC"
-    },
-    {
-      "mmsi": "271044493",
-      "name": "MIP- 3",
-      "lat": 36.7916,
-      "lon": 34.636,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-11-03 09:09:58.471307722 +0000 UTC"
-    },
-    {
-      "mmsi": "244951000",
-      "name": "MANTELMEEUW",
-      "lat": 51.4441,
-      "lon": 3.5927,
+      "mmsi": "310862000",
+      "name": "URIEL",
+      "lat": 39.5634,
+      "lon": 2.6306,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-11-03 09:10:00.126925169 +0000 UTC"
+      "last_update": "2026-11-03 17:09:18.8189222 +0000 UTC"
     },
     {
-      "mmsi": "230988890",
-      "name": "PILOT L138",
-      "lat": 63.8384,
-      "lon": 23.0321,
+      "mmsi": "244004102",
+      "name": "",
+      "lat": 52.7696,
+      "lon": 5.1062,
       "sog": 102.3,
-      "cog": 360,
+      "cog": 6.7,
       "nav_status": 15,
-      "last_update": "2026-11-03 09:10:00.355669511 +0000 UTC"
+      "last_update": "2026-11-03 17:09:35.60010358 +0000 UTC"
     },
     {
-      "mmsi": "244108000",
-      "name": "ZK46 ZEEMEEUW",
-      "lat": 53.3147,
-      "lon": 7.0683,
+      "mmsi": "244374235",
+      "name": "NT 11 WATERTRAPPER",
+      "lat": 52.3995,
+      "lon": 4.8999,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-11-03 09:10:36.286572654 +0000 UTC"
+      "nav_status": 5,
+      "last_update": "2026-11-03 17:09:45.03197873 +0000 UTC"
+    },
+    {
+      "mmsi": "235070403",
+      "name": "WINDCAT 14",
+      "lat": 57.1435,
+      "lon": -2.0901,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 9,
+      "last_update": "2026-11-03 17:09:46.209290817 +0000 UTC"
     },
     {
       "mmsi": "244003316",
       "name": "NB1 WATERBUFFEL",
-      "lat": 52.367,
-      "lon": 4.926,
+      "lat": 52.3995,
+      "lon": 4.9,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-11-03 09:10:08.592428553 +0000 UTC"
-    },
-    {
-      "mmsi": "367388530",
-      "name": "FT BRAGG",
-      "lat": 43.0793,
-      "lon": -70.7573,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-11-03 09:10:14.243704525 +0000 UTC"
-    },
-    {
-      "mmsi": "636011247",
-      "name": "SAGITTA",
-      "lat": 37.9297,
-      "lon": 23.6815,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-11-03 09:10:17.777557332 +0000 UTC"
-    },
-    {
-      "mmsi": "205545000",
-      "name": "VB PANDA",
-      "lat": 51.33,
-      "lon": 3.1971,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-11-03 09:10:18.970321439 +0000 UTC"
-    },
-    {
-      "mmsi": "367482990",
-      "name": "YORK",
-      "lat": 40.7717,
-      "lon": -74.011,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-11-03 09:10:23.42226174 +0000 UTC"
-    },
-    {
-      "mmsi": "211270850",
-      "name": "PIONIER",
-      "lat": 53.7253,
-      "lon": 7.4954,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-11-03 09:10:30.368987005 +0000 UTC"
+      "last_update": "2026-11-03 17:09:47.764832145 +0000 UTC"
     },
     {
       "mmsi": "266099000",
@@ -130,77 +70,137 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 7,
-      "last_update": "2026-11-03 09:10:31.135765915 +0000 UTC"
+      "last_update": "2026-11-03 17:09:50.200246831 +0000 UTC"
     },
     {
-      "mmsi": "210920000",
-      "name": "VTS PENTADAKTYLOS",
-      "lat": 34.7185,
-      "lon": 33.3178,
+      "mmsi": "247436000",
+      "name": "ICHNUSA",
+      "lat": 44.402,
+      "lon": 8.9283,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-11-03 09:10:43.050679753 +0000 UTC"
+      "last_update": "2026-11-03 17:09:52.111970793 +0000 UTC"
     },
     {
-      "mmsi": "369713000",
-      "name": "TRIBUTE",
-      "lat": 0,
-      "lon": 0,
-      "sog": 102.2,
+      "mmsi": "269057220",
+      "name": "VIKING HAKI",
+      "lat": 52.5169,
+      "lon": 5.4366,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-11-03 17:09:52.573444822 +0000 UTC"
+    },
+    {
+      "mmsi": "366651000",
+      "name": "HENRY HUDSON",
+      "lat": 40.7609,
+      "lon": -74.0038,
+      "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-11-03 09:10:20.126246882 +0000 UTC"
+      "last_update": "2026-11-03 17:09:58.16645095 +0000 UTC"
     },
     {
-      "mmsi": "224781000",
-      "name": "VOLCAN DE TAGORO",
-      "lat": 28.1621,
-      "lon": -15.384,
-      "sog": 32.1,
-      "cog": 199.8,
-      "nav_status": 9,
-      "last_update": "2026-11-03 09:10:00.155028306 +0000 UTC"
-    },
-    {
-      "mmsi": "477997211",
-      "name": "XIN MING ZHU XI",
-      "lat": 22.2909,
-      "lon": 114.1203,
-      "sog": 27.4,
-      "cog": 77.5,
+      "mmsi": "366969970",
+      "name": "SONOMA",
+      "lat": 37.8403,
+      "lon": -122.4164,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-11-03 09:09:51.84687926 +0000 UTC"
+      "last_update": "2026-11-03 17:09:58.497740895 +0000 UTC"
     },
     {
-      "mmsi": "266444000",
-      "name": "GOTLAND",
-      "lat": 58.8493,
-      "lon": 18.0564,
-      "sog": 27,
-      "cog": 337.2,
+      "mmsi": "271044493",
+      "name": "MIP- 3",
+      "lat": 36.7916,
+      "lon": 34.636,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-11-03 09:10:16.433729508 +0000 UTC"
+      "last_update": "2026-11-03 17:10:07.110455014 +0000 UTC"
     },
     {
-      "mmsi": "503106690",
-      "name": "CHERYL SALISBURY",
-      "lat": -33.8596,
-      "lon": 151.2537,
-      "sog": 25.5,
-      "cog": 306.8,
+      "mmsi": "367638980",
+      "name": "NYPD353",
+      "lat": 40.7072,
+      "lon": -73.9823,
+      "sog": 36.3,
+      "cog": 269.4,
       "nav_status": 0,
-      "last_update": "2026-11-03 09:10:19.914821247 +0000 UTC"
+      "last_update": "2026-11-03 17:10:01.661168685 +0000 UTC"
     },
     {
-      "mmsi": "235057012",
-      "name": "TORNADO CLIPPER",
-      "lat": 51.4846,
-      "lon": -0.0134,
-      "sog": 25.5,
-      "cog": 293.4,
+      "mmsi": "367347670",
+      "name": "SEASTREAK HIGHLANDS",
+      "lat": 40.4278,
+      "lon": -74.0072,
+      "sog": 35.4,
+      "cog": 164.1,
+      "nav_status": 15,
+      "last_update": "2026-11-03 17:09:28.573159311 +0000 UTC"
+    },
+    {
+      "mmsi": "366989360",
+      "name": "INTINTOLI",
+      "lat": 37.815,
+      "lon": -122.3926,
+      "sog": 33.1,
+      "cog": 150.3,
       "nav_status": 0,
-      "last_update": "2026-11-03 09:10:36.991578186 +0000 UTC"
+      "last_update": "2026-11-03 17:09:22.921868263 +0000 UTC"
+    },
+    {
+      "mmsi": "265650800",
+      "name": "RESCUE HANDELSB. LIV",
+      "lat": 59.3746,
+      "lon": 18.7201,
+      "sog": 32,
+      "cog": 290.5,
+      "nav_status": 0,
+      "last_update": "2026-11-03 17:09:54.962682138 +0000 UTC"
+    },
+    {
+      "mmsi": "224388000",
+      "name": "BANADEROS EXPRESS",
+      "lat": 28.1161,
+      "lon": -15.7511,
+      "sog": 31.8,
+      "cog": 123,
+      "nav_status": 0,
+      "last_update": "2026-11-03 17:09:41.497312407 +0000 UTC"
+    },
+    {
+      "mmsi": "247679000",
+      "name": "FIAMMETTA M",
+      "lat": 37.9968,
+      "lon": 12.4821,
+      "sog": 30.6,
+      "cog": 244.9,
+      "nav_status": 0,
+      "last_update": "2026-11-03 17:09:42.105199136 +0000 UTC"
+    },
+    {
+      "mmsi": "338224000",
+      "name": "DOC MAYNARD",
+      "lat": 47.5203,
+      "lon": -122.4639,
+      "sog": 29.6,
+      "cog": 193.7,
+      "nav_status": 0,
+      "last_update": "2026-11-03 17:09:35.442724378 +0000 UTC"
+    },
+    {
+      "mmsi": "257125290",
+      "name": "FREDRIKKE T-OLSEN",
+      "lat": 66.3809,
+      "lon": 12.6541,
+      "sog": 29.2,
+      "cog": 264.5,
+      "nav_status": 0,
+      "last_update": "2026-11-03 17:10:08.680214973 +0000 UTC"
     }
   ]
 }
