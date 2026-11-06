@@ -1,206 +1,206 @@
 {
-  "updated_at": "2026-11-05T21:08:41Z",
-  "count": 2851,
+  "updated_at": "2026-11-06T01:39:02Z",
+  "count": 2766,
   "vessels": [
-    {
-      "mmsi": "247214700",
-      "name": "BONITA",
-      "lat": 44.4176,
-      "lon": 8.7975,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 3,
-      "last_update": "2026-11-05 21:07:33.560032019 +0000 UTC"
-    },
-    {
-      "mmsi": "601126900",
-      "name": "SEA EXPRESS",
-      "lat": -29.8681,
-      "lon": 31.0142,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-11-05 21:07:36.8461195 +0000 UTC"
-    },
     {
       "mmsi": "269057220",
       "name": "VIKING HAKI",
-      "lat": 52.5181,
+      "lat": 52.5182,
       "lon": 5.4359,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-11-05 21:07:42.641268907 +0000 UTC"
+      "last_update": "2026-11-06 01:38:03.649850651 +0000 UTC"
     },
     {
-      "mmsi": "367482990",
-      "name": "YORK",
-      "lat": 40.7147,
-      "lon": -74.0179,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-11-05 21:07:43.133178135 +0000 UTC"
-    },
-    {
-      "mmsi": "268267001",
-      "name": "SUUS  (GUARD VESSEL)",
-      "lat": 53.6667,
-      "lon": 8.1234,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-11-05 21:07:55.540482515 +0000 UTC"
-    },
-    {
-      "mmsi": "273311760",
-      "name": "DIABAZ",
-      "lat": 46.6258,
-      "lon": 142.7658,
+      "mmsi": "244951000",
+      "name": "MANTELMEEUW",
+      "lat": 51.4441,
+      "lon": 3.5927,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-11-05 21:08:05.357174748 +0000 UTC"
+      "last_update": "2026-11-06 01:38:10.439327906 +0000 UTC"
     },
     {
-      "mmsi": "255915630",
-      "name": "BOTA WIND I",
-      "lat": 54.4361,
-      "lon": 16.3881,
+      "mmsi": "247214700",
+      "name": "BONITA",
+      "lat": 44.4176,
+      "lon": 8.7974,
       "sog": 102.3,
-      "cog": 163.6,
-      "nav_status": 5,
-      "last_update": "2026-11-05 21:08:06.014375173 +0000 UTC"
+      "cog": 360,
+      "nav_status": 3,
+      "last_update": "2026-11-06 01:38:12.386406357 +0000 UTC"
     },
     {
-      "mmsi": "210588000",
-      "name": "LEDRA PRIDE",
-      "lat": 34.6452,
-      "lon": 33.018,
+      "mmsi": "428067000",
+      "name": "BAT GALIM",
+      "lat": 32.8202,
+      "lon": 35.0073,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-11-06 01:38:30.046149821 +0000 UTC"
+    },
+    {
+      "mmsi": "244374235",
+      "name": "NT 11 WATERTRAPPER",
+      "lat": 52.3995,
+      "lon": 4.8999,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-11-06 01:38:34.155459289 +0000 UTC"
+    },
+    {
+      "mmsi": "261011633",
+      "name": "HYDROCAT MURRAY",
+      "lat": 54.3461,
+      "lon": 18.7893,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 8,
-      "last_update": "2026-11-05 21:08:07.532309363 +0000 UTC"
+      "last_update": "2026-11-06 01:38:46.069726623 +0000 UTC"
     },
     {
-      "mmsi": "352002481",
-      "name": "BARU SIERRA NEVADA",
-      "lat": -22.8477,
-      "lon": -43.13,
-      "sog": 102.3,
-      "cog": 360,
+      "mmsi": "477937200",
+      "name": "THE VENETIAN",
+      "lat": 22.2922,
+      "lon": 114.1132,
+      "sog": 34.4,
+      "cog": 267.1,
+      "nav_status": 9,
+      "last_update": "2026-11-06 01:38:09.180075281 +0000 UTC"
+    },
+    {
+      "mmsi": "367720690",
+      "name": "GREY LADY IV",
+      "lat": 41.3712,
+      "lon": -70.1504,
+      "sog": 31.3,
+      "cog": 327.9,
+      "nav_status": 0,
+      "last_update": "2026-11-06 01:37:49.434250504 +0000 UTC"
+    },
+    {
+      "mmsi": "512005085",
+      "name": "CLIPPER 5",
+      "lat": -36.8408,
+      "lon": 174.8779,
+      "sog": 30.7,
+      "cog": 281.2,
+      "nav_status": 0,
+      "last_update": "2026-11-06 01:37:38.760481579 +0000 UTC"
+    },
+    {
+      "mmsi": "366778450",
+      "name": "GOLDEN GATE",
+      "lat": 37.8634,
+      "lon": -122.4049,
+      "sog": 28,
+      "cog": 327.7,
+      "nav_status": 0,
+      "last_update": "2026-11-06 01:38:25.430455846 +0000 UTC"
+    },
+    {
+      "mmsi": "369494592",
+      "name": "CG33151",
+      "lat": 47.933,
+      "lon": -122.6327,
+      "sog": 27.4,
+      "cog": 348.1,
+      "nav_status": 0,
+      "last_update": "2026-11-06 01:38:41.190685145 +0000 UTC"
+    },
+    {
+      "mmsi": "368144140",
+      "name": "FINEST",
+      "lat": 47.8598,
+      "lon": -122.3964,
+      "sog": 27,
+      "cog": 203.7,
+      "nav_status": 0,
+      "last_update": "2026-11-06 01:38:09.432743413 +0000 UTC"
+    },
+    {
+      "mmsi": "367782940",
+      "name": "GLORY",
+      "lat": 42.3404,
+      "lon": -70.9883,
+      "sog": 25.3,
+      "cog": 94.4,
+      "nav_status": 0,
+      "last_update": "2026-11-06 01:38:44.59396858 +0000 UTC"
+    },
+    {
+      "mmsi": "368116140",
+      "name": "SIGNS TO LIBERTY",
+      "lat": 40.584,
+      "lon": -73.8496,
+      "sog": 25.3,
+      "cog": 267.3,
+      "nav_status": 0,
+      "last_update": "2026-11-06 01:37:46.74106072 +0000 UTC"
+    },
+    {
+      "mmsi": "368081150",
+      "name": "UNITY",
+      "lat": 40.5686,
+      "lon": -74.0094,
+      "sog": 24.4,
+      "cog": 94.1,
+      "nav_status": 0,
+      "last_update": "2026-11-06 01:38:27.917849582 +0000 UTC"
+    },
+    {
+      "mmsi": "261351000",
+      "name": "SG-213",
+      "lat": 54.4192,
+      "lon": 18.7066,
+      "sog": 23.9,
+      "cog": 103.4,
+      "nav_status": 9,
+      "last_update": "2026-11-06 01:38:36.248995979 +0000 UTC"
+    },
+    {
+      "mmsi": "366576000",
+      "name": "RJ PFEIFFER",
+      "lat": 48.5758,
+      "lon": -126.1493,
+      "sog": 22.3,
+      "cog": 272.6,
+      "nav_status": 0,
+      "last_update": "2026-11-06 01:38:21.951116052 +0000 UTC"
+    },
+    {
+      "mmsi": "525016277",
+      "name": "EXPRESS BAHARI 3C",
+      "lat": -6.4766,
+      "lon": 110.6106,
+      "sog": 20.7,
+      "cog": 345.7,
+      "nav_status": 0,
+      "last_update": "2026-11-06 01:38:35.926022628 +0000 UTC"
+    },
+    {
+      "mmsi": "316001251",
+      "name": "QUEEN OF COWICHAN",
+      "lat": 49.4238,
+      "lon": -123.4171,
+      "sog": 20.3,
+      "cog": 271.4,
+      "nav_status": 0,
+      "last_update": "2026-11-06 01:37:48.28989124 +0000 UTC"
+    },
+    {
+      "mmsi": "701001114",
+      "name": "IGUAZU",
+      "lat": -32.7268,
+      "lon": -60.7256,
+      "sog": 19.7,
+      "cog": 176.2,
       "nav_status": 1,
-      "last_update": "2026-11-05 21:08:08.608997642 +0000 UTC"
-    },
-    {
-      "mmsi": "246812000",
-      "name": "SC FALCON",
-      "lat": 54.6384,
-      "lon": 11.3735,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-11-05 21:08:10.294293981 +0000 UTC"
-    },
-    {
-      "mmsi": "316014014",
-      "name": "TAKAYA",
-      "lat": 49.2863,
-      "lon": -123.1005,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-11-05 21:08:10.954237821 +0000 UTC"
-    },
-    {
-      "mmsi": "244060365",
-      "name": "KNRM ARBOR VITAE",
-      "lat": 53.4088,
-      "lon": 6.1974,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-11-05 21:08:14.962378105 +0000 UTC"
-    },
-    {
-      "mmsi": "368410790",
-      "name": "HARBOR CHARGER",
-      "lat": 40.6934,
-      "lon": -74.0148,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-11-05 21:08:26.04226219 +0000 UTC"
-    },
-    {
-      "mmsi": "636021231",
-      "name": "MSC LILA F",
-      "lat": 40.5178,
-      "lon": 13.8078,
-      "sog": 102.2,
-      "cog": 294.7,
-      "nav_status": 0,
-      "last_update": "2026-11-05 21:07:45.72797276 +0000 UTC"
-    },
-    {
-      "mmsi": "273388930",
-      "name": "MIRAX A",
-      "lat": 54.0959,
-      "lon": 38.2329,
-      "sog": 43.6,
-      "cog": 134.9,
-      "nav_status": 0,
-      "last_update": "2026-11-05 21:07:48.552567298 +0000 UTC"
-    },
-    {
-      "mmsi": "257054190",
-      "name": "VARG",
-      "lat": 60.334,
-      "lon": 5.2421,
-      "sog": 35.4,
-      "cog": 175.2,
-      "nav_status": 0,
-      "last_update": "2026-11-05 21:07:56.660399614 +0000 UTC"
-    },
-    {
-      "mmsi": "257089390",
-      "name": "FJORDPRINSEN",
-      "lat": 69.6225,
-      "lon": 18.9225,
-      "sog": 32,
-      "cog": 35.2,
-      "nav_status": 0,
-      "last_update": "2026-11-05 21:07:33.771809446 +0000 UTC"
-    },
-    {
-      "mmsi": "368013770",
-      "name": "COMMODORE",
-      "lat": 40.455,
-      "lon": -74.0299,
-      "sog": 31,
-      "cog": 356.4,
-      "nav_status": 0,
-      "last_update": "2026-11-05 21:07:42.274648162 +0000 UTC"
-    },
-    {
-      "mmsi": "368227490",
-      "name": "CONSTITUTION II",
-      "lat": 29.7769,
-      "lon": -93.3434,
-      "sog": 28.5,
-      "cog": 284,
-      "nav_status": 0,
-      "last_update": "2026-11-05 21:07:34.471331807 +0000 UTC"
-    },
-    {
-      "mmsi": "232002440",
-      "name": "RNLI LIFEBOAT 17-05",
-      "lat": 54.8269,
-      "lon": -1.058,
-      "sog": 25.8,
-      "cog": 303.4,
-      "nav_status": 0,
-      "last_update": "2026-11-05 21:07:52.979209089 +0000 UTC"
+      "last_update": "2026-11-06 01:37:38.452197113 +0000 UTC"
     }
   ]
 }
