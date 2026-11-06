@@ -1,40 +1,56 @@
 {
-  "updated_at": "2026-11-06T16:15:23Z",
-  "count": 2710,
+  "updated_at": "2026-11-06T21:37:34Z",
+  "count": 2401,
   "vessels": [
     {
       "mmsi": "247436000",
       "name": "ICHNUSA",
-      "ship_type": 69,
-      "destination": "FRBON>ITGOA",
       "lat": 44.402,
       "lon": 8.9283,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-11-06 16:14:43.215857475 +0000 UTC"
+      "last_update": "2026-11-06 21:36:22.539184266 +0000 UTC"
     },
     {
-      "mmsi": "601126900",
-      "name": "SEA EXPRESS",
-      "lat": -29.8682,
-      "lon": 31.0141,
+      "mmsi": "316046329",
+      "name": "PITT KNIGHT",
+      "lat": 49.2311,
+      "lon": -122.7713,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-11-06 16:14:27.787732487 +0000 UTC"
+      "nav_status": 0,
+      "last_update": "2026-11-06 21:36:25.254284054 +0000 UTC"
     },
     {
-      "mmsi": "244951000",
-      "name": "MANTELMEEUW",
-      "ship_type": 99,
-      "destination": "",
-      "lat": 51.4441,
-      "lon": 3.5927,
+      "mmsi": "257052800",
+      "name": "TORNEROSE",
+      "lat": 59.833,
+      "lon": 5.7218,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-11-06 16:15:10.375511392 +0000 UTC"
+      "nav_status": 0,
+      "last_update": "2026-11-06 21:36:37.909349782 +0000 UTC"
+    },
+    {
+      "mmsi": "244615506",
+      "name": "ZUID-HOLLAND-ZUID",
+      "lat": 51.8,
+      "lon": 4.6394,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-11-06 21:36:38.130825208 +0000 UTC"
+    },
+    {
+      "mmsi": "636017622",
+      "name": "HIGH CHALLENGE",
+      "lat": 29.417,
+      "lon": -93.6932,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 1,
+      "last_update": "2026-11-06 21:36:45.998358847 +0000 UTC"
     },
     {
       "mmsi": "269057220",
@@ -44,37 +60,49 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-11-06 16:14:43.068814799 +0000 UTC"
+      "last_update": "2026-11-06 21:36:52.767086075 +0000 UTC"
     },
     {
-      "mmsi": "636017622",
-      "name": "HIGH CHALLENGE",
-      "lat": 29.4166,
-      "lon": -93.6933,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-11-06 16:15:07.890448546 +0000 UTC"
-    },
-    {
-      "mmsi": "316046329",
-      "name": "PITT KNIGHT",
-      "lat": 49.2311,
-      "lon": -122.7714,
+      "mmsi": "319192300",
+      "name": "DESTINATION",
+      "lat": 26.1218,
+      "lon": -80.1076,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-11-06 16:15:14.638043853 +0000 UTC"
+      "last_update": "2026-11-06 21:36:59.667670008 +0000 UTC"
     },
     {
-      "mmsi": "244108000",
-      "name": "ZK46 ZEEMEEUW",
-      "lat": 53.3303,
-      "lon": 6.9319,
+      "mmsi": "247214700",
+      "name": "BONITA",
+      "lat": 44.4186,
+      "lon": 8.7976,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 3,
+      "last_update": "2026-11-06 21:37:02.621328903 +0000 UTC"
+    },
+    {
+      "mmsi": "244834000",
+      "name": "SC ONYX",
+      "lat": 55.4724,
+      "lon": 8.4264,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-11-06 16:15:14.793510169 +0000 UTC"
+      "last_update": "2026-11-06 21:37:03.333926103 +0000 UTC"
+    },
+    {
+      "mmsi": "470016000",
+      "name": "DXB",
+      "ship_type": 37,
+      "destination": "GENOA",
+      "lat": 44.3995,
+      "lon": 8.9265,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-11-06 21:37:07.771268192 +0000 UTC"
     },
     {
       "mmsi": "311001763",
@@ -84,135 +112,97 @@
       "sog": 38.9,
       "cog": 183.6,
       "nav_status": 5,
-      "last_update": "2026-11-06 16:15:08.451166124 +0000 UTC",
-      "ship_type": 79,
-      "destination": "PTLEI"
+      "last_update": "2026-11-06 21:36:38.540854509 +0000 UTC"
     },
     {
-      "mmsi": "367347670",
-      "name": "SEASTREAK HIGHLANDS",
-      "lat": 40.7364,
-      "lon": -73.9666,
-      "sog": 32.6,
-      "cog": 349,
-      "nav_status": 15,
-      "last_update": "2026-11-06 16:14:58.506858774 +0000 UTC"
-    },
-    {
-      "mmsi": "259257000",
-      "name": "GODOEY",
-      "lat": 62.4274,
-      "lon": 6.0404,
-      "sog": 32,
-      "cog": 0.7,
+      "mmsi": "512005085",
+      "name": "CLIPPER 5",
+      "lat": -36.8631,
+      "lon": 174.946,
+      "sog": 25.4,
+      "cog": 306.7,
       "nav_status": 0,
-      "last_update": "2026-11-06 16:14:21.390313614 +0000 UTC",
-      "ship_type": 40,
-      "destination": "AALESUND-HAREID"
+      "last_update": "2026-11-06 21:36:27.413714018 +0000 UTC"
     },
     {
-      "mmsi": "368341690",
-      "name": "DELPHINUS",
-      "lat": 37.7874,
-      "lon": -122.3546,
-      "sog": 32,
-      "cog": 261.5,
+      "mmsi": "259030580",
+      "name": "NAMDALINGEN",
+      "lat": 64.8477,
+      "lon": 11.2702,
+      "sog": 24.2,
+      "cog": 14.1,
       "nav_status": 0,
-      "last_update": "2026-11-06 16:15:13.324262835 +0000 UTC"
+      "last_update": "2026-11-06 21:36:26.668821985 +0000 UTC"
     },
     {
-      "mmsi": "319352600",
-      "name": "GOLDENEYE",
-      "ship_type": 37,
-      "destination": "PALM BEACH",
-      "lat": 26.1254,
-      "lon": -80.0442,
-      "sog": 31.3,
-      "cog": 83.1,
-      "nav_status": 5,
-      "last_update": "2026-11-06 16:14:22.474375178 +0000 UTC"
-    },
-    {
-      "mmsi": "368206360",
-      "name": "COMMANDER",
-      "lat": 47.7136,
-      "lon": -122.4754,
-      "sog": 31.3,
-      "cog": 345,
+      "mmsi": "367367430",
+      "name": "GENE FLATOW",
+      "lat": 40.7106,
+      "lon": -74.0208,
+      "sog": 23.6,
+      "cog": 219.7,
       "nav_status": 0,
-      "last_update": "2026-11-06 16:14:47.946495323 +0000 UTC"
+      "last_update": "2026-11-06 21:37:07.665460115 +0000 UTC"
     },
     {
-      "mmsi": "366778450",
-      "name": "GOLDEN GATE",
-      "lat": 37.8839,
-      "lon": -122.4233,
-      "sog": 29.6,
-      "cog": 324.6,
+      "mmsi": "366902360",
+      "name": "CONG ROBERT A ROE",
+      "lat": 40.7005,
+      "lon": -74.0052,
+      "sog": 22.1,
+      "cog": 187.5,
       "nav_status": 0,
-      "last_update": "2026-11-06 16:14:53.135070884 +0000 UTC"
+      "last_update": "2026-11-06 21:36:39.652495784 +0000 UTC"
     },
     {
-      "mmsi": "367447520",
-      "name": "SALACIA",
-      "lat": 42.2836,
-      "lon": -70.9522,
-      "sog": 29,
-      "cog": 313.8,
+      "mmsi": "367345040",
+      "name": "SUN FIGHTER",
+      "lat": 29.7035,
+      "lon": -93.848,
+      "sog": 22.1,
+      "cog": 327,
       "nav_status": 0,
-      "last_update": "2026-11-06 16:14:49.241025288 +0000 UTC"
+      "last_update": "2026-11-06 21:36:51.822921555 +0000 UTC"
     },
     {
-      "mmsi": "368151810",
-      "name": "ENETAI",
-      "ship_type": 40,
-      "destination": "WSFSW>USSEA>WSFSW",
-      "lat": 47.6046,
-      "lon": -122.3798,
-      "sog": 26.9,
-      "cog": 260.1,
+      "mmsi": "230153880",
+      "name": "L247",
+      "lat": 61.1105,
+      "lon": 21.3884,
+      "sog": 21.5,
+      "cog": 243.8,
       "nav_status": 0,
-      "last_update": "2026-11-06 16:15:03.907378462 +0000 UTC"
+      "last_update": "2026-11-06 21:36:25.481225881 +0000 UTC"
     },
     {
-      "mmsi": "366983830",
-      "name": "PERALTA",
-      "lat": 37.7511,
-      "lon": -122.3052,
-      "sog": 26.8,
-      "cog": 130.1,
+      "mmsi": "205572390",
+      "name": "AQUA PEARL",
+      "lat": 51.2377,
+      "lon": 4.3825,
+      "sog": 21.4,
+      "cog": 92.6,
       "nav_status": 0,
-      "last_update": "2026-11-06 16:14:20.948903719 +0000 UTC"
+      "last_update": "2026-11-06 21:36:38.283992751 +0000 UTC"
     },
     {
-      "mmsi": "273390190",
-      "name": "ALIOT",
-      "lat": 54.0949,
-      "lon": 38.2345,
-      "sog": 26.7,
-      "cog": 135.4,
+      "mmsi": "563183100",
+      "name": "LEEVSTEN",
+      "lat": 42.716,
+      "lon": 9.6894,
+      "sog": 21.2,
+      "cog": 172,
       "nav_status": 0,
-      "last_update": "2026-11-06 16:15:16.635321877 +0000 UTC"
+      "last_update": "2026-11-06 21:36:59.808732313 +0000 UTC"
     },
     {
-      "mmsi": "257011900",
-      "name": "HELGOEY TIND",
-      "lat": 59.0821,
-      "lon": 5.7965,
-      "sog": 26.3,
-      "cog": 350.6,
+      "mmsi": "368129810",
+      "name": "PURPOSE",
+      "lat": 40.5681,
+      "lon": -73.9083,
+      "sog": 21.2,
+      "cog": 253.5,
       "nav_status": 0,
-      "last_update": "2026-11-06 16:15:11.043615334 +0000 UTC"
-    },
-    {
-      "mmsi": "369493743",
-      "name": "",
-      "lat": 32.0343,
-      "lon": -80.8271,
-      "sog": 26.2,
-      "cog": 285.9,
-      "nav_status": 0,
-      "last_update": "2026-11-06 16:14:55.119678129 +0000 UTC"
+      "last_update": "2026-11-06 21:37:06.171185359 +0000 UTC"
     }
   ]
 }
