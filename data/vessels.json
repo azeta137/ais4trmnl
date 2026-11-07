@@ -1,206 +1,210 @@
 {
-  "updated_at": "2026-11-07T14:12:01Z",
-  "count": 2638,
+  "updated_at": "2026-11-07T18:52:05Z",
+  "count": 2643,
   "vessels": [
     {
-      "mmsi": "244108000",
-      "name": "ZK46 ZEEMEEUW",
-      "lat": 53.3303,
-      "lon": 6.9319,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-11-07 14:10:53.787864632 +0000 UTC"
-    },
-    {
-      "mmsi": "244090000",
-      "name": "SEMPER FIDELIS ZK-16",
-      "lat": 53.3302,
-      "lon": 6.9318,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 7,
-      "last_update": "2026-11-07 14:11:01.236435358 +0000 UTC"
-    },
-    {
-      "mmsi": "367415390",
-      "name": "EMPIRE STATE",
-      "lat": 40.761,
-      "lon": -74.0038,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-11-07 14:11:03.614815037 +0000 UTC"
-    },
-    {
-      "mmsi": "273311760",
-      "name": "DIABAZ",
-      "lat": 46.6258,
-      "lon": 142.7658,
+      "mmsi": "367131000",
+      "name": "ALASKA",
+      "ship_type": 33,
+      "destination": "PORT ARTHUR, TX",
+      "lat": 29.7483,
+      "lon": -93.8942,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-11-07 14:11:07.037359688 +0000 UTC"
+      "last_update": "2026-11-07 18:51:40.081104821 +0000 UTC"
     },
     {
-      "mmsi": "273429690",
-      "name": "GESPER",
-      "lat": 54.0931,
-      "lon": 38.2409,
+      "mmsi": "244834000",
+      "name": "SC ONYX",
+      "lat": 55.4724,
+      "lon": 8.4264,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-11-07 14:11:33.126895402 +0000 UTC"
+      "last_update": "2026-11-07 18:51:04.064017339 +0000 UTC"
     },
     {
-      "mmsi": "352002481",
-      "name": "BARU SIERRA NEVADA",
-      "lat": -22.8477,
-      "lon": -43.1297,
+      "mmsi": "368410790",
+      "name": "HARBOR CHARGER",
+      "lat": 40.6934,
+      "lon": -74.0148,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-11-07 14:11:47.658223213 +0000 UTC"
-    },
-    {
-      "mmsi": "257605000",
-      "name": "FROYA",
-      "lat": 60.7244,
-      "lon": 5.0426,
-      "sog": 34,
-      "cog": 343.1,
-      "nav_status": 9,
-      "last_update": "2026-11-07 14:11:36.239040165 +0000 UTC"
-    },
-    {
-      "mmsi": "257086180",
-      "name": "FJORDDRONNINGEN",
-      "lat": 69.5971,
-      "lon": 18.8642,
-      "sog": 32.2,
-      "cog": 216.7,
       "nav_status": 0,
-      "last_update": "2026-11-07 14:11:21.849773133 +0000 UTC"
+      "last_update": "2026-11-07 18:51:17.13473011 +0000 UTC"
     },
     {
-      "mmsi": "259257000",
-      "name": "GODOEY",
-      "lat": 62.4317,
-      "lon": 6.0394,
-      "sog": 29.9,
-      "cog": 193.8,
+      "mmsi": "367739710",
+      "name": "HURON SPIRIT",
+      "lat": 43.0749,
+      "lon": -82.4146,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-11-07 14:11:07.420192241 +0000 UTC"
+      "last_update": "2026-11-07 18:51:43.573062483 +0000 UTC"
     },
     {
-      "mmsi": "563269100",
-      "name": "STELLAR OF MAJESTIC",
-      "lat": 1.1965,
-      "lon": 103.957,
-      "sog": 27.4,
-      "cog": 86.6,
-      "nav_status": 9,
-      "last_update": "2026-11-07 14:11:10.415808736 +0000 UTC"
-    },
-    {
-      "mmsi": "477997112",
-      "name": "XIN MING ZHU VI",
-      "lat": 22.2893,
-      "lon": 114.1232,
-      "sog": 26.8,
-      "cog": 79.1,
+      "mmsi": "310862000",
+      "name": "URIEL",
+      "lat": 39.5634,
+      "lon": 2.6306,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-11-07 14:11:19.987066335 +0000 UTC"
+      "last_update": "2026-11-07 18:51:43.810117482 +0000 UTC"
     },
     {
-      "mmsi": "247097400",
-      "name": "ACHERNAR",
-      "lat": 40.7659,
-      "lon": 14.1736,
-      "sog": 24.7,
-      "cog": 262,
+      "mmsi": "367609130",
+      "name": "BELLA K",
+      "lat": 47.663,
+      "lon": -122.3884,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-11-07 14:10:56.52333471 +0000 UTC"
+      "last_update": "2026-11-07 18:51:43.936617314 +0000 UTC"
     },
     {
-      "mmsi": "368164540",
-      "name": "ANGELS NAVIGATOR",
-      "lat": 33.6917,
-      "lon": -118.2451,
-      "sog": 22.6,
-      "cog": 347.1,
-      "nav_status": 0,
-      "last_update": "2026-11-07 14:11:03.739865454 +0000 UTC"
-    },
-    {
-      "mmsi": "232064591",
-      "name": "SATURN CLIPPER",
-      "lat": 51.4902,
-      "lon": -0.027,
-      "sog": 22.5,
-      "cog": 321.8,
-      "nav_status": 0,
-      "last_update": "2026-11-07 14:11:35.768705457 +0000 UTC"
-    },
-    {
-      "mmsi": "235103844",
-      "name": "BSC RANGER",
-      "lat": 51.3294,
-      "lon": 1.4951,
-      "sog": 21.9,
-      "cog": 259.8,
-      "nav_status": 0,
-      "last_update": "2026-11-07 14:10:54.094808092 +0000 UTC"
-    },
-    {
-      "mmsi": "368091960",
-      "name": "JEWEL OF THE HARBOR",
-      "lat": 40.8014,
-      "lon": -73.8888,
-      "sog": 21.8,
-      "cog": 285.4,
-      "nav_status": 0,
-      "last_update": "2026-11-07 14:10:58.096950229 +0000 UTC"
-    },
-    {
-      "mmsi": "239924000",
-      "name": "BLUE STAR PAROS",
-      "lat": 37.5145,
-      "lon": 25.1074,
-      "sog": 21.4,
-      "cog": 241,
-      "nav_status": 0,
-      "last_update": "2026-11-07 14:10:50.694510213 +0000 UTC"
-    },
-    {
-      "mmsi": "235105315",
-      "name": "OCEAN WARRIOR",
-      "lat": 51.746,
-      "lon": 1.0444,
-      "sog": 21,
-      "cog": 317,
-      "nav_status": 0,
-      "last_update": "2026-11-07 14:11:40.987938032 +0000 UTC"
-    },
-    {
-      "mmsi": "503170350",
-      "name": "PARKER",
-      "lat": -32.0802,
-      "lon": 115.703,
-      "sog": 21,
-      "cog": 172,
-      "nav_status": 12,
-      "last_update": "2026-11-07 14:11:45.297301269 +0000 UTC"
-    },
-    {
-      "mmsi": "367438000",
-      "name": "MAUNAWILI",
-      "lat": 48.2024,
-      "lon": -122.9257,
-      "sog": 20.7,
-      "cog": 274.3,
+      "mmsi": "247455200",
+      "name": "CAPTAIN CAT",
+      "lat": 45.6571,
+      "lon": 13.7665,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-11-07 14:10:55.577712526 +0000 UTC"
+      "last_update": "2026-11-07 18:51:47.136508144 +0000 UTC"
+    },
+    {
+      "mmsi": "316014014",
+      "name": "TAKAYA",
+      "lat": 49.2862,
+      "lon": -123.1003,
+      "sog": 102.2,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-11-07 18:51:21.530616857 +0000 UTC"
+    },
+    {
+      "mmsi": "367720690",
+      "name": "GREY LADY IV",
+      "lat": 41.4793,
+      "lon": -70.1982,
+      "sog": 31.1,
+      "cog": 330.5,
+      "nav_status": 0,
+      "last_update": "2026-11-07 18:51:23.320429136 +0000 UTC"
+    },
+    {
+      "mmsi": "224388000",
+      "name": "BANADEROS EXPRESS",
+      "lat": 28.383,
+      "lon": -16.0828,
+      "sog": 31,
+      "cog": 312.1,
+      "nav_status": 0,
+      "last_update": "2026-11-07 18:50:53.375116089 +0000 UTC"
+    },
+    {
+      "mmsi": "244830800",
+      "name": "MSTX 8",
+      "ship_type": 49,
+      "destination": "ROTTERDAM",
+      "lat": 51.9021,
+      "lon": 4.4715,
+      "sog": 28.2,
+      "cog": 241.9,
+      "nav_status": 0,
+      "last_update": "2026-11-07 18:51:36.055151627 +0000 UTC"
+    },
+    {
+      "mmsi": "265036400",
+      "name": "PILOT220SE",
+      "lat": 57.641,
+      "lon": 11.7136,
+      "sog": 26.2,
+      "cog": 30.4,
+      "nav_status": 0,
+      "last_update": "2026-11-07 18:50:58.269206087 +0000 UTC"
+    },
+    {
+      "mmsi": "235096547",
+      "name": "ESTUARY ELITE",
+      "lat": 51.3847,
+      "lon": 1.4594,
+      "sog": 25.4,
+      "cog": 172.4,
+      "nav_status": 0,
+      "last_update": "2026-11-07 18:51:46.428136775 +0000 UTC"
+    },
+    {
+      "mmsi": "276829000",
+      "name": "MEGASTAR",
+      "lat": 59.9696,
+      "lon": 24.8923,
+      "sog": 24.3,
+      "cog": 12.6,
+      "nav_status": 0,
+      "last_update": "2026-11-07 18:51:28.086264133 +0000 UTC"
+    },
+    {
+      "mmsi": "367192970",
+      "name": "CAT EXPRESS",
+      "lat": 33.4229,
+      "lon": -118.3952,
+      "sog": 23.9,
+      "cog": 295.9,
+      "nav_status": 15,
+      "last_update": "2026-11-07 18:51:01.91105133 +0000 UTC"
+    },
+    {
+      "mmsi": "368063930",
+      "name": "RAINBOW CRUISE",
+      "lat": 40.5662,
+      "lon": -73.974,
+      "sog": 23.1,
+      "cog": 94.3,
+      "nav_status": 0,
+      "last_update": "2026-11-07 18:51:38.63397564 +0000 UTC"
+    },
+    {
+      "mmsi": "369285000",
+      "name": "NORTH STAR",
+      "lat": 48.4394,
+      "lon": -124.4787,
+      "sog": 21.7,
+      "cog": 289.9,
+      "nav_status": 0,
+      "last_update": "2026-11-07 18:51:17.952745468 +0000 UTC"
+    },
+    {
+      "mmsi": "367153690",
+      "name": "SUN RAY",
+      "lat": 29.5732,
+      "lon": -93.8,
+      "sog": 21.6,
+      "cog": 344.9,
+      "nav_status": 5,
+      "last_update": "2026-11-07 18:51:47.367937046 +0000 UTC"
+    },
+    {
+      "mmsi": "276859000",
+      "name": "MYSTAR",
+      "lat": 59.6222,
+      "lon": 24.6678,
+      "sog": 21.3,
+      "cog": 191.1,
+      "nav_status": 0,
+      "last_update": "2026-11-07 18:51:27.357639521 +0000 UTC"
+    },
+    {
+      "mmsi": "247546000",
+      "name": "ISOLA DI PROCIDA",
+      "lat": 40.5682,
+      "lon": 14.2639,
+      "sog": 20,
+      "cog": 220.4,
+      "nav_status": 0,
+      "last_update": "2026-11-07 18:50:53.387626277 +0000 UTC"
     }
   ]
 }
