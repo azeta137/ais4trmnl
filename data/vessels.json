@@ -1,46 +1,16 @@
 {
-  "updated_at": "2026-11-07T07:18:34Z",
-  "count": 2488,
+  "updated_at": "2026-11-07T14:12:01Z",
+  "count": 2638,
   "vessels": [
     {
-      "mmsi": "428067000",
-      "name": "BAT GALIM",
-      "lat": 32.8202,
-      "lon": 35.0073,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-11-07 07:17:35.234656031 +0000 UTC"
-    },
-    {
-      "mmsi": "210588000",
-      "name": "LEDRA PRIDE",
-      "lat": 34.6451,
-      "lon": 33.018,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-11-07 07:17:48.67597869 +0000 UTC"
-    },
-    {
-      "mmsi": "368410790",
-      "name": "HARBOR CHARGER",
-      "lat": 40.6934,
-      "lon": -74.0149,
+      "mmsi": "244108000",
+      "name": "ZK46 ZEEMEEUW",
+      "lat": 53.3303,
+      "lon": 6.9319,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-11-07 07:17:55.50627021 +0000 UTC"
-    },
-    {
-      "mmsi": "271044493",
-      "name": "",
-      "lat": 36.7915,
-      "lon": 34.636,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-11-07 07:18:01.166557659 +0000 UTC"
+      "last_update": "2026-11-07 14:10:53.787864632 +0000 UTC"
     },
     {
       "mmsi": "244090000",
@@ -50,157 +20,187 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 7,
-      "last_update": "2026-11-07 07:18:10.92345819 +0000 UTC"
+      "last_update": "2026-11-07 14:11:01.236435358 +0000 UTC"
     },
     {
-      "mmsi": "257052800",
-      "name": "TORNEROSE",
-      "lat": 59.833,
-      "lon": 5.7218,
+      "mmsi": "367415390",
+      "name": "EMPIRE STATE",
+      "lat": 40.761,
+      "lon": -74.0038,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-11-07 07:18:20.609786115 +0000 UTC"
+      "last_update": "2026-11-07 14:11:03.614815037 +0000 UTC"
     },
     {
-      "mmsi": "245819000",
-      "name": "NOORDZEE",
-      "lat": 5.8983,
-      "lon": 5.3522,
+      "mmsi": "273311760",
+      "name": "DIABAZ",
+      "lat": 46.6258,
+      "lon": 142.7658,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-11-07 07:18:22.262909538 +0000 UTC"
+      "last_update": "2026-11-07 14:11:07.037359688 +0000 UTC"
     },
     {
-      "mmsi": "636017622",
-      "name": "HIGH CHALLENGE",
-      "lat": 29.4161,
-      "lon": -93.6931,
+      "mmsi": "273429690",
+      "name": "GESPER",
+      "lat": 54.0931,
+      "lon": 38.2409,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-11-07 14:11:33.126895402 +0000 UTC"
+    },
+    {
+      "mmsi": "352002481",
+      "name": "BARU SIERRA NEVADA",
+      "lat": -22.8477,
+      "lon": -43.1297,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 1,
-      "last_update": "2026-11-07 07:18:26.705323595 +0000 UTC"
+      "last_update": "2026-11-07 14:11:47.658223213 +0000 UTC"
     },
     {
-      "mmsi": "257151900",
-      "name": "VINGTOR",
-      "lat": 59.822,
-      "lon": 5.2794,
-      "sog": 31.6,
-      "cog": 359.5,
+      "mmsi": "257605000",
+      "name": "FROYA",
+      "lat": 60.7244,
+      "lon": 5.0426,
+      "sog": 34,
+      "cog": 343.1,
       "nav_status": 9,
-      "last_update": "2026-11-07 07:18:12.675665915 +0000 UTC"
+      "last_update": "2026-11-07 14:11:36.239040165 +0000 UTC"
     },
     {
-      "mmsi": "212561000",
-      "name": "CEUTA JET",
-      "lat": 35.9734,
-      "lon": -5.359,
-      "sog": 29.4,
-      "cog": 142,
+      "mmsi": "257086180",
+      "name": "FJORDDRONNINGEN",
+      "lat": 69.5971,
+      "lon": 18.8642,
+      "sog": 32.2,
+      "cog": 216.7,
       "nav_status": 0,
-      "last_update": "2026-11-07 07:17:54.273501453 +0000 UTC"
+      "last_update": "2026-11-07 14:11:21.849773133 +0000 UTC"
     },
     {
-      "mmsi": "512005706",
-      "name": "KORORA",
-      "lat": -36.8153,
-      "lon": 174.8746,
-      "sog": 28.1,
-      "cog": 246.2,
+      "mmsi": "259257000",
+      "name": "GODOEY",
+      "lat": 62.4317,
+      "lon": 6.0394,
+      "sog": 29.9,
+      "cog": 193.8,
       "nav_status": 0,
-      "last_update": "2026-11-07 07:17:49.679256056 +0000 UTC"
+      "last_update": "2026-11-07 14:11:07.420192241 +0000 UTC"
     },
     {
-      "mmsi": "247058800",
-      "name": "SNAV ALTAIR",
-      "lat": 40.6167,
-      "lon": 14.2654,
-      "sog": 27.9,
-      "cog": 5.5,
+      "mmsi": "563269100",
+      "name": "STELLAR OF MAJESTIC",
+      "lat": 1.1965,
+      "lon": 103.957,
+      "sog": 27.4,
+      "cog": 86.6,
+      "nav_status": 9,
+      "last_update": "2026-11-07 14:11:10.415808736 +0000 UTC"
+    },
+    {
+      "mmsi": "477997112",
+      "name": "XIN MING ZHU VI",
+      "lat": 22.2893,
+      "lon": 114.1232,
+      "sog": 26.8,
+      "cog": 79.1,
+      "nav_status": 5,
+      "last_update": "2026-11-07 14:11:19.987066335 +0000 UTC"
+    },
+    {
+      "mmsi": "247097400",
+      "name": "ACHERNAR",
+      "lat": 40.7659,
+      "lon": 14.1736,
+      "sog": 24.7,
+      "cog": 262,
       "nav_status": 0,
-      "last_update": "2026-11-07 07:17:48.823737987 +0000 UTC"
+      "last_update": "2026-11-07 14:10:56.52333471 +0000 UTC"
     },
     {
-      "mmsi": "477995041",
-      "name": "DISCOVERY BAY 5",
-      "lat": 22.2899,
-      "lon": 114.1212,
-      "sog": 26.7,
-      "cog": 79.7,
+      "mmsi": "368164540",
+      "name": "ANGELS NAVIGATOR",
+      "lat": 33.6917,
+      "lon": -118.2451,
+      "sog": 22.6,
+      "cog": 347.1,
       "nav_status": 0,
-      "last_update": "2026-11-07 07:17:50.114407572 +0000 UTC"
+      "last_update": "2026-11-07 14:11:03.739865454 +0000 UTC"
     },
     {
-      "mmsi": "232053452",
-      "name": "WINDCAT 57",
-      "lat": 52.267,
-      "lon": 4.0779,
-      "sog": 23.2,
-      "cog": 335.1,
+      "mmsi": "232064591",
+      "name": "SATURN CLIPPER",
+      "lat": 51.4902,
+      "lon": -0.027,
+      "sog": 22.5,
+      "cog": 321.8,
       "nav_status": 0,
-      "last_update": "2026-11-07 07:17:50.41630842 +0000 UTC"
+      "last_update": "2026-11-07 14:11:35.768705457 +0000 UTC"
     },
     {
-      "mmsi": "219770000",
-      "name": "DEFENDER",
-      "lat": 51.5735,
-      "lon": 3.2412,
-      "sog": 22.2,
-      "cog": 271,
+      "mmsi": "235103844",
+      "name": "BSC RANGER",
+      "lat": 51.3294,
+      "lon": 1.4951,
+      "sog": 21.9,
+      "cog": 259.8,
       "nav_status": 0,
-      "last_update": "2026-11-07 07:17:49.597333499 +0000 UTC"
+      "last_update": "2026-11-07 14:10:54.094808092 +0000 UTC"
     },
     {
-      "mmsi": "316011408",
-      "name": "COASTAL INSPIRATION",
-      "lat": 49.1554,
-      "lon": -123.5673,
-      "sog": 22,
-      "cog": 298.7,
-      "nav_status": 0,
-      "last_update": "2026-11-07 07:17:52.877063252 +0000 UTC"
-    },
-    {
-      "mmsi": "232027488",
-      "name": "NJORD ZUIDER",
-      "lat": 53.9402,
-      "lon": 6.4046,
+      "mmsi": "368091960",
+      "name": "JEWEL OF THE HARBOR",
+      "lat": 40.8014,
+      "lon": -73.8888,
       "sog": 21.8,
-      "cog": 1.9,
+      "cog": 285.4,
       "nav_status": 0,
-      "last_update": "2026-11-07 07:18:13.075475208 +0000 UTC"
+      "last_update": "2026-11-07 14:10:58.096950229 +0000 UTC"
     },
     {
-      "mmsi": "244780504",
-      "name": "FOSTABORG",
-      "lat": 53.3922,
-      "lon": 5.8595,
-      "sog": 21.5,
-      "cog": 260,
+      "mmsi": "239924000",
+      "name": "BLUE STAR PAROS",
+      "lat": 37.5145,
+      "lon": 25.1074,
+      "sog": 21.4,
+      "cog": 241,
       "nav_status": 0,
-      "last_update": "2026-11-07 07:18:01.503214135 +0000 UTC"
+      "last_update": "2026-11-07 14:10:50.694510213 +0000 UTC"
     },
     {
-      "mmsi": "228424700",
-      "name": "INNO'VENT",
-      "lat": 47.2798,
-      "lon": -2.6064,
-      "sog": 20.9,
-      "cog": 183,
+      "mmsi": "235105315",
+      "name": "OCEAN WARRIOR",
+      "lat": 51.746,
+      "lon": 1.0444,
+      "sog": 21,
+      "cog": 317,
       "nav_status": 0,
-      "last_update": "2026-11-07 07:17:37.986814218 +0000 UTC"
+      "last_update": "2026-11-07 14:11:40.987938032 +0000 UTC"
     },
     {
-      "mmsi": "258005680",
-      "name": "PORT BANDIT",
-      "lat": 58.9992,
-      "lon": 5.7066,
-      "sog": 20.4,
-      "cog": 356.7,
-      "nav_status": 0,
-      "last_update": "2026-11-07 07:18:07.860462021 +0000 UTC"
+      "mmsi": "503170350",
+      "name": "PARKER",
+      "lat": -32.0802,
+      "lon": 115.703,
+      "sog": 21,
+      "cog": 172,
+      "nav_status": 12,
+      "last_update": "2026-11-07 14:11:45.297301269 +0000 UTC"
+    },
+    {
+      "mmsi": "367438000",
+      "name": "MAUNAWILI",
+      "lat": 48.2024,
+      "lon": -122.9257,
+      "sog": 20.7,
+      "cog": 274.3,
+      "nav_status": 5,
+      "last_update": "2026-11-07 14:10:55.577712526 +0000 UTC"
     }
   ]
 }
