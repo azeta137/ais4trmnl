@@ -1,206 +1,210 @@
 {
-  "updated_at": "2026-11-08T01:48:39Z",
-  "count": 2827,
+  "updated_at": "2026-11-08T08:44:10Z",
+  "count": 2820,
   "vessels": [
     {
-      "mmsi": "246812000",
-      "name": "SC FALCON",
-      "lat": 54.6384,
-      "lon": 11.3735,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-11-08 01:47:25.455737796 +0000 UTC"
-    },
-    {
-      "mmsi": "245382000",
-      "name": "KNRM-FRED",
-      "lat": 51.6218,
-      "lon": 3.6878,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-11-08 01:47:27.282799878 +0000 UTC"
-    },
-    {
-      "mmsi": "304642000",
-      "name": "MIRIAM BORCHARD",
-      "lat": 41.1851,
-      "lon": -8.7012,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-11-08 01:47:38.428591419 +0000 UTC"
-    },
-    {
-      "mmsi": "210920000",
-      "name": "VTS PENTADAKTYLOS",
-      "lat": 34.7185,
-      "lon": 33.3178,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-11-08 01:47:43.207381295 +0000 UTC"
-    },
-    {
-      "mmsi": "367609130",
-      "name": "BELLA K",
-      "lat": 47.663,
-      "lon": -122.3884,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-11-08 01:47:52.831866468 +0000 UTC"
-    },
-    {
-      "mmsi": "273429690",
-      "name": "GESPER",
-      "lat": 53.7532,
-      "lon": 38.3928,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-11-08 01:47:54.813443861 +0000 UTC"
-    },
-    {
-      "mmsi": "244108000",
-      "name": "ZK46 ZEEMEEUW",
-      "lat": 53.3303,
-      "lon": 6.9319,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-11-08 01:47:54.861196107 +0000 UTC"
-    },
-    {
-      "mmsi": "316014014",
-      "name": "TAKAYA",
-      "lat": 49.2864,
-      "lon": -123.1006,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-11-08 01:48:01.481427396 +0000 UTC"
-    },
-    {
       "mmsi": "271044493",
-      "name": "MIP- 3",
+      "name": "",
       "lat": 36.7916,
       "lon": 34.636,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-11-08 01:48:11.416095648 +0000 UTC"
+      "last_update": "2026-11-08 08:43:20.69272109 +0000 UTC"
     },
     {
-      "mmsi": "369990124",
-      "name": "CG29124",
-      "lat": 33.7098,
-      "lon": -118.3434,
-      "sog": 37.7,
-      "cog": 111.6,
+      "mmsi": "368410790",
+      "name": "HARBOR CHARGER",
+      "lat": 40.6934,
+      "lon": -74.0148,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-11-08 01:47:36.124505889 +0000 UTC"
+      "last_update": "2026-11-08 08:43:25.3441523 +0000 UTC",
+      "ship_type": 60,
+      "destination": "NYC"
     },
     {
-      "mmsi": "566357000",
-      "name": "MV BATAMFAST 18",
-      "lat": 1.1987,
-      "lon": 104.0241,
-      "sog": 30.4,
-      "cog": 274.7,
-      "nav_status": 8,
-      "last_update": "2026-11-08 01:48:10.84365739 +0000 UTC"
-    },
-    {
-      "mmsi": "431017055",
-      "name": "SOLEIL",
-      "lat": 33.4067,
-      "lon": 135.8757,
-      "sog": 29.3,
-      "cog": 66.2,
+      "mmsi": "235034368",
+      "name": "MULTI-SURVEY 4",
+      "lat": 51.6212,
+      "lon": 3.6895,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-11-08 01:47:39.027283816 +0000 UTC"
+      "last_update": "2026-11-08 08:43:41.717040673 +0000 UTC"
+    },
+    {
+      "mmsi": "269057220",
+      "name": "VIKING HAKI",
+      "lat": 52.5182,
+      "lon": 5.4359,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-11-08 08:43:42.34009733 +0000 UTC"
+    },
+    {
+      "mmsi": "316046329",
+      "name": "PITT KNIGHT",
+      "lat": 49.2312,
+      "lon": -122.7713,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-11-08 08:43:44.308383139 +0000 UTC"
+    },
+    {
+      "mmsi": "247151800",
+      "name": "ERACLIDE",
+      "lat": 40.7967,
+      "lon": 14.2499,
+      "sog": 36.1,
+      "cog": 63.1,
+      "nav_status": 0,
+      "last_update": "2026-11-08 08:43:09.737732989 +0000 UTC"
+    },
+    {
+      "mmsi": "247112500",
+      "name": "TREMITI JET",
+      "lat": 40.6389,
+      "lon": 14.3619,
+      "sog": 28.5,
+      "cog": 91,
+      "nav_status": 0,
+      "last_update": "2026-11-08 08:43:57.424030328 +0000 UTC",
+      "ship_type": 69,
+      "destination": "ITRRO ITPRJ"
     },
     {
       "mmsi": "563341900",
       "name": "MAJESTIC ENCORE",
-      "lat": 1.2687,
-      "lon": 103.9899,
-      "sog": 28.1,
-      "cog": 332,
+      "lat": 1.1852,
+      "lon": 104.0546,
+      "sog": 27.6,
+      "cog": 331,
       "nav_status": 8,
-      "last_update": "2026-11-08 01:48:10.856591238 +0000 UTC"
+      "last_update": "2026-11-08 08:43:22.972028425 +0000 UTC"
     },
     {
-      "mmsi": "244860892",
-      "name": "LESATH (PILOTS)",
-      "lat": 51.4469,
-      "lon": 3.5514,
-      "sog": 27.3,
-      "cog": 296.2,
-      "nav_status": 0,
-      "last_update": "2026-11-08 01:48:13.996851358 +0000 UTC"
-    },
-    {
-      "mmsi": "563350200",
-      "name": "MAJESTIC MAGIC",
-      "lat": 1.2051,
-      "lon": 103.9274,
-      "sog": 27.2,
-      "cog": 271.1,
+      "mmsi": "477997112",
+      "name": "XIN MING ZHU VI",
+      "lat": 22.2736,
+      "lon": 114.0469,
+      "sog": 27.4,
+      "cog": 250.6,
       "nav_status": 5,
-      "last_update": "2026-11-08 01:47:54.977741541 +0000 UTC"
+      "last_update": "2026-11-08 08:44:06.541221528 +0000 UTC"
     },
     {
-      "mmsi": "244780375",
-      "name": "LYNX (PILOTS)",
-      "lat": 52.0192,
-      "lon": 3.7637,
-      "sog": 23,
-      "cog": 259,
+      "mmsi": "266444000",
+      "name": "GOTLAND",
+      "lat": 58.7163,
+      "lon": 18.1102,
+      "sog": 27,
+      "cog": 351.8,
       "nav_status": 0,
-      "last_update": "2026-11-08 01:48:13.54435518 +0000 UTC"
+      "last_update": "2026-11-08 08:43:47.2404897 +0000 UTC"
     },
     {
-      "mmsi": "261080070",
-      "name": "PILOT 23",
-      "lat": 54.4276,
-      "lon": 18.788,
+      "mmsi": "563088620",
+      "name": "NOVA WAVE",
+      "lat": 1.2028,
+      "lon": 103.9285,
+      "sog": 26.6,
+      "cog": 267.7,
+      "nav_status": 0,
+      "last_update": "2026-11-08 08:43:28.01071273 +0000 UTC"
+    },
+    {
+      "mmsi": "512005155",
+      "name": "D7",
+      "lat": -36.8122,
+      "lon": 174.6845,
+      "sog": 26.4,
+      "cog": 158.2,
+      "nav_status": 15,
+      "last_update": "2026-11-08 08:43:18.187567015 +0000 UTC"
+    },
+    {
+      "mmsi": "261001520",
+      "name": "PILOT 24",
+      "lat": 54.3976,
+      "lon": 18.742,
+      "sog": 25.3,
+      "cog": 96.8,
+      "nav_status": 15,
+      "last_update": "2026-11-08 08:43:39.685308952 +0000 UTC"
+    },
+    {
+      "mmsi": "477995039",
+      "name": "DISCOVERY BAY 2",
+      "lat": 22.2933,
+      "lon": 114.0935,
+      "sog": 24.3,
+      "cog": 99.9,
+      "nav_status": 0,
+      "last_update": "2026-11-08 08:43:56.94830819 +0000 UTC"
+    },
+    {
+      "mmsi": "265610960",
+      "name": "PILOT 212 SE",
+      "lat": 58.6119,
+      "lon": 17.4422,
+      "sog": 24,
+      "cog": 115.4,
+      "nav_status": 0,
+      "last_update": "2026-11-08 08:44:05.192901185 +0000 UTC"
+    },
+    {
+      "mmsi": "219026261",
+      "name": "LILLEOERE",
+      "lat": 56.0929,
+      "lon": 10.3525,
+      "sog": 23.3,
+      "cog": 329.2,
+      "nav_status": 5,
+      "last_update": "2026-11-08 08:43:45.246475713 +0000 UTC"
+    },
+    {
+      "mmsi": "477995072",
+      "name": "PARK ISLAND 7",
+      "lat": 22.3218,
+      "lon": 114.1075,
       "sog": 22.9,
-      "cog": 83.8,
+      "cog": 271,
       "nav_status": 0,
-      "last_update": "2026-11-08 01:47:54.817138912 +0000 UTC"
+      "last_update": "2026-11-08 08:43:30.665883539 +0000 UTC"
     },
     {
-      "mmsi": "368164540",
-      "name": "ANGELS NAVIGATOR",
-      "lat": 33.6682,
-      "lon": -118.2313,
-      "sog": 22.8,
-      "cog": 147.7,
-      "nav_status": 0,
-      "last_update": "2026-11-08 01:47:22.189945312 +0000 UTC"
+      "mmsi": "565925000",
+      "name": "HORIZON 7",
+      "lat": 1.1799,
+      "lon": 103.9276,
+      "sog": 22.4,
+      "cog": 290,
+      "nav_status": 8,
+      "last_update": "2026-11-08 08:43:48.668780862 +0000 UTC"
     },
     {
-      "mmsi": "219022257",
-      "name": "DANPILOT BRAVO",
-      "lat": 57.7139,
-      "lon": 10.6023,
-      "sog": 22.1,
-      "cog": 240.7,
+      "mmsi": "258092000",
+      "name": "SUPERSPEED 2",
+      "lat": 58.3356,
+      "lon": 10.0263,
+      "sog": 21.9,
+      "cog": 181.5,
       "nav_status": 0,
-      "last_update": "2026-11-08 01:48:18.461383118 +0000 UTC"
+      "last_update": "2026-11-08 08:43:41.309058067 +0000 UTC"
     },
     {
-      "mmsi": "368141540",
-      "name": "CITY FISHY",
-      "lat": 40.5839,
-      "lon": -73.8489,
-      "sog": 22,
-      "cog": 99.5,
+      "mmsi": "366902570",
+      "name": "TAMPA",
+      "lat": 27.6425,
+      "lon": -82.827,
+      "sog": 21.3,
+      "cog": 57.4,
       "nav_status": 0,
-      "last_update": "2026-11-08 01:48:23.052162344 +0000 UTC"
+      "last_update": "2026-11-08 08:43:32.3067999 +0000 UTC"
     }
   ]
 }
