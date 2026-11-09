@@ -1,46 +1,56 @@
 {
-  "updated_at": "2026-11-09T14:02:51Z",
-  "count": 2812,
+  "updated_at": "2026-11-09T23:29:11Z",
+  "count": 2932,
   "vessels": [
     {
-      "mmsi": "269057220",
-      "name": "VIKING HAKI",
-      "lat": 52.5182,
-      "lon": 5.4359,
+      "mmsi": "512004996",
+      "name": "PILOTVESSEL WAKATERE",
+      "lat": -36.8432,
+      "lon": 174.776,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 9,
+      "last_update": "2026-11-09 23:28:00.429811619 +0000 UTC"
+    },
+    {
+      "mmsi": "247130800",
+      "name": "SVEZIA",
+      "lat": 44.4111,
+      "lon": 8.9207,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-11-09 14:01:53.493433522 +0000 UTC"
+      "last_update": "2026-11-09 23:28:12.033303091 +0000 UTC"
     },
     {
-      "mmsi": "601126900",
-      "name": "SEA EXPRESS",
-      "lat": -29.8682,
-      "lon": 31.0142,
+      "mmsi": "244090000",
+      "name": "SEMPER FIDELIS ZK-16",
+      "lat": 53.3294,
+      "lon": 6.9313,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-11-09 14:01:54.726832051 +0000 UTC"
+      "nav_status": 7,
+      "last_update": "2026-11-09 23:28:15.266640218 +0000 UTC"
     },
     {
-      "mmsi": "247091500",
-      "name": "GRANDE SAN PAOLO",
-      "lat": 42.2336,
-      "lon": -8.7471,
+      "mmsi": "245819000",
+      "name": "NOORDZEE",
+      "lat": 5.8983,
+      "lon": 5.3522,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-11-09 14:02:03.42484994 +0000 UTC"
+      "nav_status": 5,
+      "last_update": "2026-11-09 23:28:23.241453499 +0000 UTC"
     },
     {
-      "mmsi": "244060365",
-      "name": "KNRM ARBOR VITAE",
-      "lat": 53.4088,
-      "lon": 6.1974,
+      "mmsi": "249698000",
+      "name": "INS LAND",
+      "lat": 44.4199,
+      "lon": 8.8472,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-11-09 14:02:04.457041798 +0000 UTC"
+      "nav_status": 5,
+      "last_update": "2026-11-09 23:28:27.551836592 +0000 UTC"
     },
     {
       "mmsi": "244951000",
@@ -50,157 +60,147 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-11-09 14:02:19.171161901 +0000 UTC"
+      "last_update": "2026-11-09 23:28:30.320852938 +0000 UTC"
     },
     {
-      "mmsi": "263701380",
-      "name": "FERNANDO NAMORA",
-      "lat": 38.6516,
-      "lon": -9.0797,
+      "mmsi": "636017622",
+      "name": "HIGH CHALLENGE",
+      "lat": 29.4171,
+      "lon": -93.6934,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-11-09 14:02:26.971610813 +0000 UTC"
+      "nav_status": 1,
+      "last_update": "2026-11-09 23:28:33.876275587 +0000 UTC"
     },
     {
-      "mmsi": "241903000",
-      "name": "DON'T WORRY",
-      "lat": 37.9409,
-      "lon": 23.6704,
+      "mmsi": "219385000",
+      "name": "BJOERNSHOLM",
+      "lat": 55.6793,
+      "lon": 12.593,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-11-09 14:02:43.308191096 +0000 UTC"
+      "nav_status": 0,
+      "last_update": "2026-11-09 23:28:36.720705767 +0000 UTC"
     },
     {
-      "mmsi": "244002399",
-      "name": "PROVIDER",
-      "lat": 52.3952,
-      "lon": 4.8223,
+      "mmsi": "316014014",
+      "name": "TAKAYA",
+      "lat": 49.2862,
+      "lon": -123.1005,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-11-09 14:02:44.45407119 +0000 UTC"
+      "nav_status": 15,
+      "last_update": "2026-11-09 23:28:39.506787434 +0000 UTC"
     },
     {
-      "mmsi": "219705000",
-      "name": "EXPRESS 4",
-      "lat": 56.0339,
-      "lon": 10.7402,
-      "sog": 36.5,
-      "cog": 103.5,
-      "nav_status": 9,
-      "last_update": "2026-11-09 14:02:18.965767674 +0000 UTC"
-    },
-    {
-      "mmsi": "247679000",
-      "name": "FIAMMETTA M",
-      "lat": 37.9808,
-      "lon": 12.4396,
-      "sog": 32.3,
-      "cog": 246.8,
+      "mmsi": "368067090",
+      "name": "RELIANCE",
+      "lat": 47.6078,
+      "lon": -122.3983,
+      "sog": 32.1,
+      "cog": 58,
       "nav_status": 0,
-      "last_update": "2026-11-09 14:02:06.243921264 +0000 UTC"
+      "last_update": "2026-11-09 23:28:38.72173733 +0000 UTC"
     },
     {
-      "mmsi": "563230100",
-      "name": "UNITY OF MAJESTIC",
-      "lat": 1.2663,
-      "lon": 103.9962,
-      "sog": 32.3,
-      "cog": 318.1,
-      "nav_status": 8,
-      "last_update": "2026-11-09 14:02:28.044678593 +0000 UTC"
-    },
-    {
-      "mmsi": "232015629",
-      "name": "RED JET 7",
-      "lat": 50.8497,
-      "lon": -1.34,
-      "sog": 31.8,
-      "cog": 131.5,
+      "mmsi": "368395270",
+      "name": "KARL",
+      "lat": 37.7945,
+      "lon": -122.3812,
+      "sog": 31,
+      "cog": 284.3,
       "nav_status": 0,
-      "last_update": "2026-11-09 14:02:23.814370494 +0000 UTC"
+      "last_update": "2026-11-09 23:28:35.719792259 +0000 UTC"
     },
     {
-      "mmsi": "240383000",
-      "name": "DODEKANISOS PRIDE",
-      "lat": 36.6421,
-      "lon": 27.7625,
-      "sog": 30,
-      "cog": 90,
+      "mmsi": "503067750",
+      "name": "CORAL COAST",
+      "lat": -17.0845,
+      "lon": 145.9918,
+      "sog": 25.9,
+      "cog": 107.9,
       "nav_status": 0,
-      "last_update": "2026-11-09 14:02:41.741950406 +0000 UTC"
+      "last_update": "2026-11-09 23:28:35.629760154 +0000 UTC"
     },
     {
-      "mmsi": "241803000",
-      "name": "AERO 2 HIGHSPEED",
-      "lat": 37.9138,
-      "lon": 23.5932,
-      "sog": 28.7,
-      "cog": 37.3,
+      "mmsi": "512000741",
+      "name": "CLIPPER 3",
+      "lat": -36.8424,
+      "lon": 174.8031,
+      "sog": 25.4,
+      "cog": 99.1,
       "nav_status": 0,
-      "last_update": "2026-11-09 14:01:57.477808667 +0000 UTC"
+      "last_update": "2026-11-09 23:28:36.696875089 +0000 UTC"
     },
     {
-      "mmsi": "257089530",
-      "name": "LOS 135",
-      "lat": 59.0892,
-      "lon": 10.5263,
-      "sog": 24,
-      "cog": 269.5,
+      "mmsi": "210563000",
+      "name": "SPECTRUM OF THE SEAS",
+      "lat": 25.3404,
+      "lon": 121.4351,
+      "sog": 25.1,
+      "cog": 249.5,
       "nav_status": 0,
-      "last_update": "2026-11-09 14:02:16.876432837 +0000 UTC"
+      "last_update": "2026-11-09 23:28:25.368357016 +0000 UTC"
     },
     {
-      "mmsi": "238165110",
-      "name": "JAZINE",
-      "lat": 42.9532,
-      "lon": 17.1902,
-      "sog": 23.7,
-      "cog": 308.7,
-      "nav_status": 9,
-      "last_update": "2026-11-09 14:01:49.672511947 +0000 UTC"
-    },
-    {
-      "mmsi": "232051639",
-      "name": "MO10",
-      "lat": 51.5064,
-      "lon": 3.0019,
-      "sog": 22.8,
-      "cog": 71.5,
+      "mmsi": "366970910",
+      "name": "LAKE CHARLES",
+      "lat": 29.6705,
+      "lon": -93.3239,
+      "sog": 23.9,
+      "cog": 346.1,
       "nav_status": 0,
-      "last_update": "2026-11-09 14:02:04.609994668 +0000 UTC"
+      "last_update": "2026-11-09 23:28:37.187726051 +0000 UTC"
     },
     {
-      "mmsi": "368248520",
-      "name": "DORADO",
-      "lat": 37.7732,
-      "lon": -122.3222,
-      "sog": 22.6,
-      "cog": 230.7,
+      "mmsi": "235088423",
+      "name": "PL ST CHRISTOPHER",
+      "lat": 51.9028,
+      "lon": 1.484,
+      "sog": 22.9,
+      "cog": 306.4,
       "nav_status": 0,
-      "last_update": "2026-11-09 14:02:20.043506962 +0000 UTC"
+      "last_update": "2026-11-09 23:28:36.109638624 +0000 UTC"
     },
     {
-      "mmsi": "566994000",
-      "name": "QUEEN STAR 3",
-      "lat": 1.1877,
-      "lon": 104.0532,
-      "sog": 21.9,
-      "cog": 139.9,
+      "mmsi": "219027298",
+      "name": "MASTER",
+      "lat": 55.4703,
+      "lon": 8.3395,
+      "sog": 22.4,
+      "cog": 45.6,
       "nav_status": 0,
-      "last_update": "2026-11-09 14:01:55.442000902 +0000 UTC"
+      "last_update": "2026-11-09 23:28:04.4750311 +0000 UTC"
     },
     {
-      "mmsi": "503170350",
-      "name": "PARKER",
-      "lat": -31.953,
-      "lon": 115.6456,
-      "sog": 21.8,
-      "cog": 147,
-      "nav_status": 12,
-      "last_update": "2026-11-09 14:01:52.303072365 +0000 UTC"
+      "mmsi": "224637000",
+      "name": "MARTIN I SOLER",
+      "lat": 39.2667,
+      "lon": 0.108,
+      "sog": 21.3,
+      "cog": 117.5,
+      "nav_status": 0,
+      "last_update": "2026-11-09 23:28:00.959429929 +0000 UTC"
+    },
+    {
+      "mmsi": "477995436",
+      "name": "SEA SUMMIT",
+      "lat": 22.29,
+      "lon": 114.1272,
+      "sog": 21.2,
+      "cog": 230.8,
+      "nav_status": 0,
+      "last_update": "2026-11-09 23:28:38.21960985 +0000 UTC"
+    },
+    {
+      "mmsi": "271000623",
+      "name": "GALLIPOLI SEAWAYS",
+      "lat": 45.1864,
+      "lon": 13.0802,
+      "sog": 19.9,
+      "cog": 163.7,
+      "nav_status": 0,
+      "last_update": "2026-11-09 23:28:15.403888034 +0000 UTC"
     }
   ]
 }
