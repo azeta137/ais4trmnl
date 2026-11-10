@@ -1,57 +1,7 @@
 {
-  "updated_at": "2026-11-09T23:29:11Z",
-  "count": 2932,
+  "updated_at": "2026-11-10T04:48:12Z",
+  "count": 2436,
   "vessels": [
-    {
-      "mmsi": "512004996",
-      "name": "PILOTVESSEL WAKATERE",
-      "lat": -36.8432,
-      "lon": 174.776,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 9,
-      "last_update": "2026-11-09 23:28:00.429811619 +0000 UTC"
-    },
-    {
-      "mmsi": "247130800",
-      "name": "SVEZIA",
-      "lat": 44.4111,
-      "lon": 8.9207,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-11-09 23:28:12.033303091 +0000 UTC"
-    },
-    {
-      "mmsi": "244090000",
-      "name": "SEMPER FIDELIS ZK-16",
-      "lat": 53.3294,
-      "lon": 6.9313,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 7,
-      "last_update": "2026-11-09 23:28:15.266640218 +0000 UTC"
-    },
-    {
-      "mmsi": "245819000",
-      "name": "NOORDZEE",
-      "lat": 5.8983,
-      "lon": 5.3522,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-11-09 23:28:23.241453499 +0000 UTC"
-    },
-    {
-      "mmsi": "249698000",
-      "name": "INS LAND",
-      "lat": 44.4199,
-      "lon": 8.8472,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-11-09 23:28:27.551836592 +0000 UTC"
-    },
     {
       "mmsi": "244951000",
       "name": "MANTELMEEUW",
@@ -60,147 +10,197 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-11-09 23:28:30.320852938 +0000 UTC"
+      "last_update": "2026-11-10 04:46:59.973616094 +0000 UTC"
     },
     {
-      "mmsi": "636017622",
-      "name": "HIGH CHALLENGE",
-      "lat": 29.4171,
-      "lon": -93.6934,
+      "mmsi": "268267001",
+      "name": "SUUS  (GUARD VESSEL)",
+      "lat": 53.6603,
+      "lon": 8.0967,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-11-10 04:47:06.440536842 +0000 UTC"
+    },
+    {
+      "mmsi": "247214700",
+      "name": "BONITA",
+      "lat": 44.4186,
+      "lon": 8.7976,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 3,
+      "last_update": "2026-11-10 04:47:11.792597828 +0000 UTC"
+    },
+    {
+      "mmsi": "601126900",
+      "name": "SEA EXPRESS",
+      "lat": -29.8681,
+      "lon": 31.0141,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-11-10 04:47:14.254707507 +0000 UTC"
+    },
+    {
+      "mmsi": "211270850",
+      "name": "PIONIER",
+      "lat": 53.677,
+      "lon": 7.5737,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-11-10 04:47:14.982883635 +0000 UTC"
+    },
+    {
+      "mmsi": "512004996",
+      "name": "PILOTVESSEL WAKATERE",
+      "lat": -36.8432,
+      "lon": 174.776,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 9,
+      "last_update": "2026-11-10 04:47:19.465064019 +0000 UTC"
+    },
+    {
+      "mmsi": "271044493",
+      "name": "",
+      "lat": 36.7916,
+      "lon": 34.636,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-11-10 04:47:20.608836329 +0000 UTC"
+    },
+    {
+      "mmsi": "503201330",
+      "name": "RUWI",
+      "lat": -31.9689,
+      "lon": 115.5204,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 1,
-      "last_update": "2026-11-09 23:28:33.876275587 +0000 UTC"
+      "last_update": "2026-11-10 04:47:26.396074563 +0000 UTC"
     },
     {
-      "mmsi": "219385000",
-      "name": "BJOERNSHOLM",
-      "lat": 55.6793,
-      "lon": 12.593,
+      "mmsi": "245382000",
+      "name": "",
+      "lat": 51.6217,
+      "lon": 3.688,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-11-09 23:28:36.720705767 +0000 UTC"
+      "last_update": "2026-11-10 04:47:29.690776271 +0000 UTC"
     },
     {
-      "mmsi": "316014014",
-      "name": "TAKAYA",
-      "lat": 49.2862,
-      "lon": -123.1005,
+      "mmsi": "235034368",
+      "name": "MULTI-SURVEY 4",
+      "lat": 51.6211,
+      "lon": 3.6899,
       "sog": 102.3,
       "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-11-10 04:47:34.638603019 +0000 UTC"
+    },
+    {
+      "mmsi": "244615506",
+      "name": "ZUID-HOLLAND-ZUID",
+      "lat": 51.8,
+      "lon": 4.6394,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-11-10 04:47:39.013888608 +0000 UTC"
+    },
+    {
+      "mmsi": "241803000",
+      "name": "AERO 2 HIGHSPEED",
+      "lat": 37.8778,
+      "lon": 23.5673,
+      "sog": 29.5,
+      "cog": 212,
+      "nav_status": 0,
+      "last_update": "2026-11-10 04:47:25.194851074 +0000 UTC"
+    },
+    {
+      "mmsi": "367380880",
+      "name": "GEMINI",
+      "lat": 37.8344,
+      "lon": -122.3866,
+      "sog": 28.9,
+      "cog": 171.2,
+      "nav_status": 0,
+      "last_update": "2026-11-10 04:47:24.576124459 +0000 UTC"
+    },
+    {
+      "mmsi": "244140114",
+      "name": "LUNA (PILOTS)",
+      "lat": 52.0523,
+      "lon": 3.8688,
+      "sog": 27.8,
+      "cog": 256.4,
+      "nav_status": 0,
+      "last_update": "2026-11-10 04:47:41.866018809 +0000 UTC"
+    },
+    {
+      "mmsi": "512000344",
+      "name": "PILOT VESSEL AKARANA",
+      "lat": -36.8401,
+      "lon": 174.7948,
+      "sog": 25.5,
+      "cog": 276,
+      "nav_status": 0,
+      "last_update": "2026-11-10 04:47:31.157701404 +0000 UTC"
+    },
+    {
+      "mmsi": "512005085",
+      "name": "CLIPPER 5",
+      "lat": -36.8401,
+      "lon": 174.7926,
+      "sog": 24.9,
+      "cog": 295.5,
+      "nav_status": 0,
+      "last_update": "2026-11-10 04:47:38.500088828 +0000 UTC"
+    },
+    {
+      "mmsi": "247255200",
+      "name": "ALE M",
+      "lat": 38.1804,
+      "lon": 15.6214,
+      "sog": 23.6,
+      "cog": 155,
+      "nav_status": 0,
+      "last_update": "2026-11-10 04:47:01.021750936 +0000 UTC"
+    },
+    {
+      "mmsi": "564330000",
+      "name": "ASEAN RAIDER 1",
+      "lat": 1.2001,
+      "lon": 103.9375,
+      "sog": 22.3,
+      "cog": 275.9,
+      "nav_status": 0,
+      "last_update": "2026-11-10 04:47:00.722161036 +0000 UTC"
+    },
+    {
+      "mmsi": "227409420",
+      "name": "PILOT BOAT 114",
+      "lat": 43.3418,
+      "lon": 5.3168,
+      "sog": 21.7,
+      "cog": 172,
       "nav_status": 15,
-      "last_update": "2026-11-09 23:28:39.506787434 +0000 UTC"
+      "last_update": "2026-11-10 04:47:28.823109548 +0000 UTC"
     },
     {
-      "mmsi": "368067090",
-      "name": "RELIANCE",
-      "lat": 47.6078,
-      "lon": -122.3983,
-      "sog": 32.1,
-      "cog": 58,
-      "nav_status": 0,
-      "last_update": "2026-11-09 23:28:38.72173733 +0000 UTC"
-    },
-    {
-      "mmsi": "368395270",
-      "name": "KARL",
-      "lat": 37.7945,
-      "lon": -122.3812,
-      "sog": 31,
-      "cog": 284.3,
-      "nav_status": 0,
-      "last_update": "2026-11-09 23:28:35.719792259 +0000 UTC"
-    },
-    {
-      "mmsi": "503067750",
-      "name": "CORAL COAST",
-      "lat": -17.0845,
-      "lon": 145.9918,
-      "sog": 25.9,
-      "cog": 107.9,
-      "nav_status": 0,
-      "last_update": "2026-11-09 23:28:35.629760154 +0000 UTC"
-    },
-    {
-      "mmsi": "512000741",
-      "name": "CLIPPER 3",
-      "lat": -36.8424,
-      "lon": 174.8031,
-      "sog": 25.4,
-      "cog": 99.1,
-      "nav_status": 0,
-      "last_update": "2026-11-09 23:28:36.696875089 +0000 UTC"
-    },
-    {
-      "mmsi": "210563000",
-      "name": "SPECTRUM OF THE SEAS",
-      "lat": 25.3404,
-      "lon": 121.4351,
-      "sog": 25.1,
-      "cog": 249.5,
-      "nav_status": 0,
-      "last_update": "2026-11-09 23:28:25.368357016 +0000 UTC"
-    },
-    {
-      "mmsi": "366970910",
-      "name": "LAKE CHARLES",
-      "lat": 29.6705,
-      "lon": -93.3239,
-      "sog": 23.9,
-      "cog": 346.1,
-      "nav_status": 0,
-      "last_update": "2026-11-09 23:28:37.187726051 +0000 UTC"
-    },
-    {
-      "mmsi": "235088423",
-      "name": "PL ST CHRISTOPHER",
-      "lat": 51.9028,
-      "lon": 1.484,
-      "sog": 22.9,
-      "cog": 306.4,
-      "nav_status": 0,
-      "last_update": "2026-11-09 23:28:36.109638624 +0000 UTC"
-    },
-    {
-      "mmsi": "219027298",
-      "name": "MASTER",
-      "lat": 55.4703,
-      "lon": 8.3395,
-      "sog": 22.4,
-      "cog": 45.6,
-      "nav_status": 0,
-      "last_update": "2026-11-09 23:28:04.4750311 +0000 UTC"
-    },
-    {
-      "mmsi": "224637000",
-      "name": "MARTIN I SOLER",
-      "lat": 39.2667,
-      "lon": 0.108,
-      "sog": 21.3,
-      "cog": 117.5,
-      "nav_status": 0,
-      "last_update": "2026-11-09 23:28:00.959429929 +0000 UTC"
-    },
-    {
-      "mmsi": "477995436",
-      "name": "SEA SUMMIT",
-      "lat": 22.29,
-      "lon": 114.1272,
-      "sog": 21.2,
-      "cog": 230.8,
-      "nav_status": 0,
-      "last_update": "2026-11-09 23:28:38.21960985 +0000 UTC"
-    },
-    {
-      "mmsi": "271000623",
-      "name": "GALLIPOLI SEAWAYS",
-      "lat": 45.1864,
-      "lon": 13.0802,
-      "sog": 19.9,
-      "cog": 163.7,
-      "nav_status": 0,
-      "last_update": "2026-11-09 23:28:15.403888034 +0000 UTC"
+      "mmsi": "525801420",
+      "name": "CITRA LEGACY 5",
+      "lat": 1.3655,
+      "lon": 104.0352,
+      "sog": 21.6,
+      "cog": 129.6,
+      "nav_status": 8,
+      "last_update": "2026-11-10 04:47:16.332928764 +0000 UTC"
     }
   ]
 }
