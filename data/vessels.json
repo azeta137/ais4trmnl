@@ -1,78 +1,36 @@
 {
-  "updated_at": "2026-11-12T03:08:57Z",
-  "count": 2785,
+  "updated_at": "2026-11-12T11:30:27Z",
+  "count": 2689,
   "vessels": [
     {
-      "mmsi": "368410790",
-      "name": "HARBOR CHARGER",
-      "lat": 40.6934,
-      "lon": -74.0148,
+      "mmsi": "353121000",
+      "name": "MARISKA-G",
+      "lat": 10.6813,
+      "lon": -61.606,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-11-12 03:07:56.438698316 +0000 UTC"
+      "last_update": "2026-11-12 11:29:17.760113979 +0000 UTC"
     },
     {
-      "mmsi": "244615506",
-      "name": "ZUID-HOLLAND-ZUID",
-      "lat": 51.8,
-      "lon": 4.6394,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-11-12 03:08:49.643370252 +0000 UTC"
-    },
-    {
-      "mmsi": "246812000",
-      "name": "SC FALCON",
-      "lat": 54.6384,
-      "lon": 11.3735,
+      "mmsi": "503201330",
+      "name": "RUWI",
+      "lat": -32.0399,
+      "lon": 115.7518,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-11-12 03:08:01.27841284 +0000 UTC"
+      "last_update": "2026-11-12 11:29:18.633007431 +0000 UTC"
     },
     {
-      "mmsi": "269057220",
-      "name": "VIKING HAKI",
-      "lat": 52.5182,
-      "lon": 5.4361,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-11-12 03:08:02.823759951 +0000 UTC",
-      "ship_type": 69,
-      "destination": "LELYSTAD"
-    },
-    {
-      "mmsi": "244374235",
-      "name": "NT 11 WATERTRAPPER",
-      "lat": 52.3996,
-      "lon": 4.8998,
+      "mmsi": "244045000",
+      "name": "HEBO-CAT 15",
+      "lat": 51.8762,
+      "lon": 4.3102,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-11-12 03:08:03.734483552 +0000 UTC"
-    },
-    {
-      "mmsi": "668116278",
-      "name": "NORTHSTAR INNOVATOR",
-      "lat": 8.3358,
-      "lon": -62.8048,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-11-12 03:08:08.229208836 +0000 UTC"
-    },
-    {
-      "mmsi": "235034368",
-      "name": "MULTI-SURVEY 4",
-      "lat": 51.6213,
-      "lon": 3.6896,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-11-12 03:08:08.26740098 +0000 UTC"
+      "last_update": "2026-11-12 11:30:01.008220994 +0000 UTC"
     },
     {
       "mmsi": "247214700",
@@ -82,19 +40,7 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 3,
-      "last_update": "2026-11-12 03:08:21.660280152 +0000 UTC",
-      "ship_type": 33,
-      "destination": "ITGOA"
-    },
-    {
-      "mmsi": "244951000",
-      "name": "MANTELMEEUW",
-      "lat": 51.4441,
-      "lon": 3.5927,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-11-12 03:08:29.547378826 +0000 UTC"
+      "last_update": "2026-11-12 11:29:23.553484045 +0000 UTC"
     },
     {
       "mmsi": "339000222",
@@ -104,107 +50,159 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-11-12 03:08:34.184057166 +0000 UTC"
+      "last_update": "2026-11-12 11:29:33.392516333 +0000 UTC"
     },
     {
-      "mmsi": "250126460",
-      "name": "DEVOTION",
-      "lat": 53.5714,
-      "lon": -10.3655,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 3,
-      "last_update": "2026-11-12 03:08:34.978791021 +0000 UTC"
-    },
-    {
-      "mmsi": "244003316",
-      "name": "NB1 WATERBUFFEL",
-      "lat": 52.3995,
-      "lon": 4.9,
+      "mmsi": "368410790",
+      "name": "",
+      "lat": 40.6934,
+      "lon": -74.0148,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-11-12 03:08:48.422133902 +0000 UTC"
+      "last_update": "2026-11-12 11:29:36.064816078 +0000 UTC"
     },
     {
-      "mmsi": "366889830",
-      "name": "LEGACY        ?",
-      "lat": 0,
-      "lon": 0,
-      "sog": 102.2,
+      "mmsi": "244120000",
+      "name": "ANTEOS",
+      "lat": 52.0991,
+      "lon": 4.2627,
+      "sog": 102.3,
       "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-11-12 03:08:18.31791246 +0000 UTC"
-    },
-    {
-      "mmsi": "636024736",
-      "name": "MSC ROUEN",
-      "lat": 59.9076,
-      "lon": 30.3677,
-      "sog": 51.1,
-      "cog": 322.7,
       "nav_status": 5,
-      "last_update": "2026-11-12 03:08:07.641457409 +0000 UTC"
+      "last_update": "2026-11-12 11:29:38.378437812 +0000 UTC"
     },
     {
-      "mmsi": "431602169",
-      "name": "SEVENISLAND TAIRYO",
-      "lat": 35.5141,
-      "lon": 139.8236,
-      "sog": 41.7,
-      "cog": 15.1,
+      "mmsi": "257052800",
+      "name": "TORNEROSE",
+      "lat": 59.833,
+      "lon": 5.7218,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-11-12 03:08:12.15250907 +0000 UTC"
+      "last_update": "2026-11-12 11:29:44.574058673 +0000 UTC"
     },
     {
-      "mmsi": "412479780",
-      "name": "JIN ZHU HU",
-      "lat": 22.319,
-      "lon": 114.1162,
-      "sog": 30.4,
-      "cog": 116.3,
+      "mmsi": "271044493",
+      "name": "",
+      "lat": 36.7916,
+      "lon": 34.636,
+      "sog": 102.3,
+      "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-11-12 03:08:15.989022303 +0000 UTC"
+      "last_update": "2026-11-12 11:29:50.820116929 +0000 UTC"
     },
     {
-      "mmsi": "367380880",
-      "name": "GEMINI",
-      "lat": 37.8568,
-      "lon": -122.3875,
-      "sog": 27,
-      "cog": 336.1,
+      "mmsi": "414534000",
+      "name": "XIN HAI TONG 25",
+      "lat": 54.0967,
+      "lon": 38.2255,
+      "sog": 53.8,
+      "cog": 47.3,
+      "nav_status": 5,
+      "last_update": "2026-11-12 11:29:52.779870821 +0000 UTC"
+    },
+    {
+      "mmsi": "271053066",
+      "name": "NAIM TUGAY",
+      "lat": 36.604,
+      "lon": 28.2707,
+      "sog": 35.5,
+      "cog": 194,
       "nav_status": 0,
-      "last_update": "2026-11-12 03:07:54.899555301 +0000 UTC"
+      "last_update": "2026-11-12 11:30:07.363374499 +0000 UTC"
     },
     {
-      "mmsi": "431015964",
-      "name": "HAMAYU",
-      "lat": 33.6792,
-      "lon": 136.6177,
-      "sog": 26.1,
-      "cog": 66.4,
+      "mmsi": "257605000",
+      "name": "FROYA",
+      "lat": 61.8654,
+      "lon": 5.2653,
+      "sog": 34.5,
+      "cog": 282.1,
       "nav_status": 0,
-      "last_update": "2026-11-12 03:08:22.257583127 +0000 UTC"
+      "last_update": "2026-11-12 11:29:21.532579669 +0000 UTC"
     },
     {
-      "mmsi": "565263000",
-      "name": "HORIZON 9",
-      "lat": 1.2017,
-      "lon": 103.8841,
-      "sog": 22.8,
-      "cog": 293,
-      "nav_status": 15,
-      "last_update": "2026-11-12 03:08:30.045757218 +0000 UTC"
-    },
-    {
-      "mmsi": "503164160",
-      "name": "JOHN NUTT",
-      "lat": -33.8451,
-      "lon": 151.1776,
-      "sog": 21.9,
-      "cog": 264.2,
+      "mmsi": "362063000",
+      "name": "PARIA BULLET",
+      "lat": 10.5448,
+      "lon": -61.5397,
+      "sog": 34,
+      "cog": 179.9,
       "nav_status": 0,
-      "last_update": "2026-11-12 03:08:14.732224544 +0000 UTC"
+      "last_update": "2026-11-12 11:29:52.769901292 +0000 UTC"
+    },
+    {
+      "mmsi": "316016131",
+      "name": "PACIFIC GUARDIAN",
+      "lat": 48.3902,
+      "lon": -123.3814,
+      "sog": 29.3,
+      "cog": 155.5,
+      "nav_status": 0,
+      "last_update": "2026-11-12 11:29:21.217179678 +0000 UTC"
+    },
+    {
+      "mmsi": "244150561",
+      "name": "MSTX 13",
+      "lat": 51.9028,
+      "lon": 4.474,
+      "sog": 28.3,
+      "cog": 236.9,
+      "nav_status": 0,
+      "last_update": "2026-11-12 11:29:47.014494953 +0000 UTC",
+      "ship_type": 49,
+      "destination": "ROTTERDAM"
+    },
+    {
+      "mmsi": "525110463",
+      "name": "MV KEPRI CORAL JAYA",
+      "lat": 1.194,
+      "lon": 103.9057,
+      "sog": 25.5,
+      "cog": 86,
+      "nav_status": 0,
+      "last_update": "2026-11-12 11:29:45.967011157 +0000 UTC"
+    },
+    {
+      "mmsi": "368302170",
+      "name": "PV GOLDEN GATE",
+      "lat": 37.8184,
+      "lon": -122.474,
+      "sog": 25.2,
+      "cog": 101.1,
+      "nav_status": 0,
+      "last_update": "2026-11-12 11:29:40.948423591 +0000 UTC"
+    },
+    {
+      "mmsi": "503016390",
+      "name": "FANTOME CAT",
+      "lat": -19.2361,
+      "lon": 146.8353,
+      "sog": 24,
+      "cog": 16.2,
+      "nav_status": 0,
+      "last_update": "2026-11-12 11:30:05.823461444 +0000 UTC"
+    },
+    {
+      "mmsi": "244040060",
+      "name": "BLUE SINGAPORE",
+      "lat": 51.8954,
+      "lon": 4.5939,
+      "sog": 23.2,
+      "cog": 310,
+      "nav_status": 0,
+      "last_update": "2026-11-12 11:29:32.353116566 +0000 UTC"
+    },
+    {
+      "mmsi": "477995028",
+      "name": "FIRST FERRY VI",
+      "lat": 22.283,
+      "lon": 114.0995,
+      "sog": 21.7,
+      "cog": 238.2,
+      "nav_status": 0,
+      "last_update": "2026-11-12 11:30:12.241997874 +0000 UTC"
     }
   ]
 }
