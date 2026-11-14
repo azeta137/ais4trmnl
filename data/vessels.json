@@ -1,36 +1,56 @@
 {
-  "updated_at": "2026-11-14T20:06:01Z",
-  "count": 2560,
+  "updated_at": "2026-11-14T23:59:42Z",
+  "count": 2721,
   "vessels": [
     {
-      "mmsi": "244951000",
-      "name": "MANTELMEEUW",
-      "lat": 51.4441,
-      "lon": 3.5927,
+      "mmsi": "244120000",
+      "name": "ANTEOS",
+      "lat": 52.0991,
+      "lon": 4.2627,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-11-14 20:05:20.163656425 +0000 UTC"
+      "last_update": "2026-11-14 23:58:40.334049585 +0000 UTC"
     },
     {
-      "mmsi": "367133910",
-      "name": "FIREBOAT 4",
-      "lat": 33.6911,
-      "lon": -118.3047,
+      "mmsi": "613751607",
+      "name": "OAK I",
+      "lat": 32.8892,
+      "lon": 35.0072,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-11-14 20:05:29.545661423 +0000 UTC"
+      "last_update": "2026-11-14 23:58:46.205372548 +0000 UTC"
     },
     {
-      "mmsi": "213181000",
-      "name": "ELITA",
-      "lat": 41.6532,
-      "lon": 41.6444,
+      "mmsi": "512004996",
+      "name": "PILOTVESSEL WAKATERE",
+      "lat": -36.8432,
+      "lon": 174.776,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 9,
+      "last_update": "2026-11-14 23:58:48.061147589 +0000 UTC"
+    },
+    {
+      "mmsi": "367745820",
+      "name": "COOPER MORAN",
+      "lat": 32.082,
+      "lon": -81.0637,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-11-14 20:05:32.535142311 +0000 UTC"
+      "last_update": "2026-11-14 23:58:51.258694567 +0000 UTC"
+    },
+    {
+      "mmsi": "245578000",
+      "name": "SCHIPPERSGRACHT",
+      "lat": 53.451,
+      "lon": 6.8301,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-11-14 23:58:51.41747565 +0000 UTC"
     },
     {
       "mmsi": "367609130",
@@ -40,37 +60,47 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-11-14 20:05:33.842124619 +0000 UTC"
+      "last_update": "2026-11-14 23:59:03.199035363 +0000 UTC"
     },
     {
-      "mmsi": "244003316",
-      "name": "NB1 WATERBUFFEL",
-      "lat": 52.3994,
-      "lon": 4.8999,
+      "mmsi": "368410790",
+      "name": "HARBOR CHARGER",
+      "lat": 40.6934,
+      "lon": -74.0148,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-11-14 20:05:38.294248425 +0000 UTC"
+      "last_update": "2026-11-14 23:59:06.706848364 +0000 UTC"
     },
     {
-      "mmsi": "244615506",
-      "name": "ZUID-HOLLAND-ZUID",
-      "lat": 51.8,
-      "lon": 4.6394,
+      "mmsi": "244740285",
+      "name": "ANNA",
+      "lat": 5.243,
+      "lon": 5.3522,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-11-14 23:59:06.941679028 +0000 UTC"
+    },
+    {
+      "mmsi": "244710626",
+      "name": "BENCKES",
+      "lat": 52.3707,
+      "lon": 4.9972,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-11-14 20:05:39.160136629 +0000 UTC"
+      "last_update": "2026-11-14 23:59:08.151616856 +0000 UTC"
     },
     {
-      "mmsi": "316014014",
-      "name": "TAKAYA",
-      "lat": 49.2863,
-      "lon": -123.1005,
+      "mmsi": "235087611",
+      "name": "ARGYLL FLYER",
+      "lat": 55.9445,
+      "lon": -4.7322,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 15,
-      "last_update": "2026-11-14 20:05:43.968330415 +0000 UTC"
+      "nav_status": 5,
+      "last_update": "2026-11-14 23:59:23.965671682 +0000 UTC"
     },
     {
       "mmsi": "244834000",
@@ -80,129 +110,97 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-11-14 20:05:47.83825218 +0000 UTC"
+      "last_update": "2026-11-14 23:59:26.736226259 +0000 UTC"
     },
     {
-      "mmsi": "235034368",
-      "name": "MULTI-SURVEY 4",
-      "lat": 51.6213,
-      "lon": 3.6896,
+      "mmsi": "244003316",
+      "name": "NB1 WATERBUFFEL",
+      "lat": 52.3994,
+      "lon": 4.8999,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-11-14 20:05:48.004346409 +0000 UTC"
+      "last_update": "2026-11-14 23:59:27.780450034 +0000 UTC"
     },
     {
-      "mmsi": "244120000",
-      "name": "ANTEOS",
-      "lat": 52.0991,
-      "lon": 4.2627,
+      "mmsi": "245382000",
+      "name": "KNRM-FRED",
+      "lat": 51.6217,
+      "lon": 3.6879,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-11-14 20:05:50.906015102 +0000 UTC",
-      "ship_type": 52,
-      "destination": "NLSCE"
+      "nav_status": 0,
+      "last_update": "2026-11-14 23:59:32.706181786 +0000 UTC"
     },
     {
-      "mmsi": "369713000",
-      "name": "TRIBUTE",
-      "lat": 0,
-      "lon": 0,
+      "mmsi": "244090000",
+      "name": "SEMPER FIDELIS ZK-16",
+      "lat": 53.4092,
+      "lon": 6.205,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 7,
+      "last_update": "2026-11-14 23:59:34.694265909 +0000 UTC"
+    },
+    {
+      "mmsi": "316014014",
+      "name": "TAKAYA",
+      "lat": 49.2863,
+      "lon": -123.1005,
       "sog": 102.2,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-11-14 20:05:28.532357772 +0000 UTC"
+      "last_update": "2026-11-14 23:59:14.517734174 +0000 UTC"
     },
     {
-      "mmsi": "224781000",
-      "name": "VOLCAN DE TAGORO",
-      "lat": 28.3063,
-      "lon": -15.7667,
-      "sog": 35.3,
-      "cog": 288.5,
-      "nav_status": 9,
-      "last_update": "2026-11-14 20:05:22.727562996 +0000 UTC"
+      "mmsi": "431014933",
+      "name": "SEVEN ISLAND YUI",
+      "lat": 35.4448,
+      "lon": 139.8002,
+      "sog": 39.8,
+      "cog": 205.9,
+      "nav_status": 0,
+      "last_update": "2026-11-14 23:59:20.049107067 +0000 UTC"
     },
     {
-      "mmsi": "368053730",
-      "name": "PYXIS",
-      "lat": 38.0133,
-      "lon": -122.3874,
+      "mmsi": "366970020",
+      "name": "MENDOCINO",
+      "lat": 37.8934,
+      "lon": -122.4318,
       "sog": 33.6,
-      "cog": 53,
+      "cog": 323.3,
       "nav_status": 0,
-      "last_update": "2026-11-14 20:05:09.776159486 +0000 UTC"
+      "last_update": "2026-11-14 23:59:14.495072306 +0000 UTC"
     },
     {
-      "mmsi": "210049000",
-      "name": "ELEANOR ROOSEVELT",
-      "lat": 39.2948,
-      "lon": 2.2988,
-      "sog": 31.8,
-      "cog": 56.6,
+      "mmsi": "368023510",
+      "name": "SARATOGA",
+      "lat": 48.1159,
+      "lon": -122.7421,
+      "sog": 26.8,
+      "cog": 243,
       "nav_status": 0,
-      "last_update": "2026-11-14 20:05:35.381923115 +0000 UTC"
+      "last_update": "2026-11-14 23:59:33.682572468 +0000 UTC"
     },
     {
-      "mmsi": "244407000",
-      "name": "MIRA (PILOTS)",
-      "lat": 53.3116,
-      "lon": 5.0078,
-      "sog": 29.2,
-      "cog": 95.3,
+      "mmsi": "244830800",
+      "name": "MSTX 8",
+      "lat": 51.9012,
+      "lon": 4.4734,
+      "sog": 26,
+      "cog": 62.5,
       "nav_status": 0,
-      "last_update": "2026-11-14 20:05:40.40474874 +0000 UTC"
+      "last_update": "2026-11-14 23:59:26.467718589 +0000 UTC"
     },
     {
-      "mmsi": "368063930",
-      "name": "RAINBOW CRUISE",
-      "lat": 40.7363,
-      "lon": -73.9716,
-      "sog": 25.5,
-      "cog": 194.4,
+      "mmsi": "230151590",
+      "name": "L246",
+      "lat": 60.1865,
+      "lon": 25.6046,
+      "sog": 20.9,
+      "cog": 14.3,
       "nav_status": 0,
-      "last_update": "2026-11-14 20:05:55.000052892 +0000 UTC"
-    },
-    {
-      "mmsi": "244870167",
-      "name": "MSTX 10",
-      "lat": 51.9151,
-      "lon": 4.4912,
-      "sog": 24.9,
-      "cog": 223.6,
-      "nav_status": 0,
-      "last_update": "2026-11-14 20:04:58.14738287 +0000 UTC"
-    },
-    {
-      "mmsi": "244129776",
-      "name": "MSTX 15",
-      "lat": 51.9137,
-      "lon": 4.4881,
-      "sog": 23.6,
-      "cog": 222.3,
-      "nav_status": 2,
-      "last_update": "2026-11-14 20:05:08.402983114 +0000 UTC"
-    },
-    {
-      "mmsi": "209106000",
-      "name": "NAPOLES",
-      "lat": 36.0668,
-      "lon": -5.4029,
-      "sog": 22.1,
-      "cog": 204.3,
-      "nav_status": 0,
-      "last_update": "2026-11-14 20:05:23.971577327 +0000 UTC"
-    },
-    {
-      "mmsi": "369285000",
-      "name": "NORTH STAR",
-      "lat": 49.0,
-      "lon": -126.1057,
-      "sog": 21.2,
-      "cog": 306.2,
-      "nav_status": 0,
-      "last_update": "2026-11-14 20:05:00.312106416 +0000 UTC"
+      "last_update": "2026-11-14 23:59:34.485839595 +0000 UTC"
     }
   ]
 }
