@@ -1,206 +1,210 @@
 {
-  "updated_at": "2026-11-17T22:40:55Z",
-  "count": 2411,
+  "updated_at": "2026-11-18T03:54:00Z",
+  "count": 2543,
   "vessels": [
     {
-      "mmsi": "244108000",
-      "name": "ZK46 ZEEMEEUW",
-      "lat": 53.4095,
-      "lon": 6.2048,
+      "mmsi": "268267001",
+      "name": "SUUS  (GUARD VESSEL)",
+      "lat": 53.6657,
+      "lon": 8.1266,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-11-17 22:40:15.584146921 +0000 UTC"
+      "last_update": "2026-11-18 03:52:55.735261464 +0000 UTC"
+    },
+    {
+      "mmsi": "244374235",
+      "name": "NT 11 WATERTRAPPER",
+      "lat": 52.3995,
+      "lon": 4.8999,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-11-18 03:52:57.581054385 +0000 UTC",
+      "ship_type": 99,
+      "destination": "AMSTERDAM"
+    },
+    {
+      "mmsi": "244951000",
+      "name": "MANTELMEEUW",
+      "lat": 51.4441,
+      "lon": 3.5927,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-11-18 03:53:00.103977961 +0000 UTC"
+    },
+    {
+      "mmsi": "244003316",
+      "name": "NB1 WATERBUFFEL",
+      "lat": 52.3995,
+      "lon": 4.8999,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-11-18 03:53:13.869131647 +0000 UTC"
+    },
+    {
+      "mmsi": "263701380",
+      "name": "FERNANDO NAMORA",
+      "lat": 38.6514,
+      "lon": -9.0789,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 8,
+      "last_update": "2026-11-18 03:53:22.249952609 +0000 UTC"
+    },
+    {
+      "mmsi": "367609130",
+      "name": "BELLA K",
+      "lat": 47.663,
+      "lon": -122.3884,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-11-18 03:53:23.810459686 +0000 UTC"
+    },
+    {
+      "mmsi": "245382000",
+      "name": "KNRM-FRED",
+      "lat": 51.6217,
+      "lon": 3.688,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-11-18 03:53:24.187773479 +0000 UTC"
     },
     {
       "mmsi": "316014014",
       "name": "TAKAYA",
       "lat": 49.2862,
-      "lon": -123.1005,
-      "sog": 102.2,
+      "lon": -123.1006,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 15,
+      "last_update": "2026-11-18 03:53:25.888206638 +0000 UTC"
+    },
+    {
+      "mmsi": "247214700",
+      "name": "",
+      "lat": 44.4177,
+      "lon": 8.7974,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-11-18 03:53:33.609435446 +0000 UTC"
+    },
+    {
+      "mmsi": "246812000",
+      "name": "SC FALCON",
+      "lat": 54.6384,
+      "lon": 11.3735,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-11-18 03:53:40.912134532 +0000 UTC"
+    },
+    {
+      "mmsi": "250101900",
+      "name": "GUIDING STAR 2",
+      "lat": 51.9002,
+      "lon": -8.4582,
+      "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-11-17 22:40:35.146191609 +0000 UTC"
+      "last_update": "2026-11-18 03:53:44.135771337 +0000 UTC"
     },
     {
-      "mmsi": "667002349",
-      "name": "KAPITAN MASLOV",
-      "lat": 59.8659,
-      "lon": 30.3624,
-      "sog": 52.5,
-      "cog": 290.4,
+      "mmsi": "241590000",
+      "name": "ERMIONI",
+      "lat": 37.9134,
+      "lon": 23.0843,
+      "sog": 61.1,
+      "cog": 255,
+      "nav_status": 1,
+      "last_update": "2026-11-18 03:53:39.909023421 +0000 UTC"
+    },
+    {
+      "mmsi": "413492410",
+      "name": "XIN HAI SHAN",
+      "lat": 22.295,
+      "lon": 114.137,
+      "sog": 33.1,
+      "cog": 267.6,
       "nav_status": 0,
-      "last_update": "2026-11-17 22:40:29.632863061 +0000 UTC"
+      "last_update": "2026-11-18 03:53:21.408683791 +0000 UTC"
     },
     {
-      "mmsi": "338925360",
-      "name": "",
-      "lat": 45.6382,
-      "lon": -122.7258,
-      "sog": 35.8,
-      "cog": 305,
-      "nav_status": 15,
-      "last_update": "2026-11-17 22:40:36.348348186 +0000 UTC"
-    },
-    {
-      "mmsi": "366989360",
-      "name": "INTINTOLI",
-      "lat": 37.9345,
-      "lon": -122.4448,
-      "sog": 34.6,
-      "cog": 10,
+      "mmsi": "368088590",
+      "name": "VELA",
+      "lat": 37.8702,
+      "lon": -122.4191,
+      "sog": 32.4,
+      "cog": 148.8,
       "nav_status": 0,
-      "last_update": "2026-11-17 22:40:17.349036953 +0000 UTC"
+      "last_update": "2026-11-18 03:52:59.892495375 +0000 UTC"
     },
     {
-      "mmsi": "367347130",
-      "name": "SEASTREAK NEW YORK",
-      "lat": 40.5611,
-      "lon": -74.0361,
-      "sog": 33.7,
-      "cog": 176.1,
-      "nav_status": 15,
-      "last_update": "2026-11-17 22:40:28.996572521 +0000 UTC"
-    },
-    {
-      "mmsi": "368067090",
-      "name": "RELIANCE",
-      "lat": 47.5993,
-      "lon": -122.4167,
-      "sog": 30.6,
-      "cog": 248,
+      "mmsi": "368053730",
+      "name": "PYXIS",
+      "lat": 37.9585,
+      "lon": -122.4425,
+      "sog": 30.8,
+      "cog": 14.5,
       "nav_status": 0,
-      "last_update": "2026-11-17 22:40:10.736465069 +0000 UTC"
+      "last_update": "2026-11-18 03:53:06.482331739 +0000 UTC"
     },
     {
-      "mmsi": "367447520",
-      "name": "SALACIA",
-      "lat": 42.328,
-      "lon": -70.9971,
-      "sog": 29.5,
-      "cog": 341.3,
+      "mmsi": "525901751",
+      "name": "OCEANNA23",
+      "lat": 1.1799,
+      "lon": 103.8779,
+      "sog": 26.2,
+      "cog": 78.6,
       "nav_status": 0,
-      "last_update": "2026-11-17 22:40:23.216118151 +0000 UTC"
+      "last_update": "2026-11-18 03:52:51.067029207 +0000 UTC"
     },
     {
-      "mmsi": "368018070",
-      "name": "ARGO",
-      "lat": 37.7852,
-      "lon": -122.3665,
-      "sog": 28.5,
-      "cog": 106.1,
+      "mmsi": "525901489",
+      "name": "OCEANNA INDAH",
+      "lat": 1.1603,
+      "lon": 103.9722,
+      "sog": 24.6,
+      "cog": 106,
       "nav_status": 0,
-      "last_update": "2026-11-17 22:40:28.78856876 +0000 UTC"
+      "last_update": "2026-11-18 03:53:11.440162613 +0000 UTC"
     },
     {
-      "mmsi": "367638970",
-      "name": "NYPD 352",
-      "lat": 40.7928,
-      "lon": -73.9314,
-      "sog": 24.7,
-      "cog": 229.4,
+      "mmsi": "503106690",
+      "name": "CHERYL SALISBURY",
+      "lat": -33.8435,
+      "lon": 151.1562,
+      "sog": 24.3,
+      "cog": 352.6,
       "nav_status": 0,
-      "last_update": "2026-11-17 22:40:08.283165341 +0000 UTC"
+      "last_update": "2026-11-18 03:53:11.970209655 +0000 UTC"
     },
     {
-      "mmsi": "246657000",
-      "name": "DRACO (PILOT VESSEL)",
-      "lat": 51.9621,
-      "lon": 4.0891,
-      "sog": 24.5,
-      "cog": 357.5,
+      "mmsi": "265650950",
+      "name": "RIVO",
+      "lat": 57.6175,
+      "lon": 11.8025,
+      "sog": 23.8,
+      "cog": 67.3,
       "nav_status": 0,
-      "last_update": "2026-11-17 22:40:22.078721143 +0000 UTC"
+      "last_update": "2026-11-18 03:53:32.572195893 +0000 UTC",
+      "ship_type": 40,
+      "destination": "STYRSOBOLAGET"
     },
     {
-      "mmsi": "367434210",
-      "name": "FIORELLO LAGUARDIA",
-      "lat": 40.6862,
-      "lon": -74.037,
-      "sog": 23.1,
-      "cog": 202,
+      "mmsi": "512468000",
+      "name": "TUHI RAPA",
+      "lat": -36.8287,
+      "lon": 174.7458,
+      "sog": 23.6,
+      "cog": 117.6,
       "nav_status": 0,
-      "last_update": "2026-11-17 22:40:05.474638561 +0000 UTC"
-    },
-    {
-      "mmsi": "237611000",
-      "name": "KYDON PALACE",
-      "lat": 36.7695,
-      "lon": 24.3812,
-      "sog": 22.8,
-      "cog": 146.7,
-      "nav_status": 0,
-      "last_update": "2026-11-17 22:39:59.472869606 +0000 UTC"
-    },
-    {
-      "mmsi": "503106790",
-      "name": "BALMORAL",
-      "lat": -33.8562,
-      "lon": 151.2495,
-      "sog": 21,
-      "cog": 65.9,
-      "nav_status": 9,
-      "last_update": "2026-11-17 22:40:38.07169891 +0000 UTC"
-    },
-    {
-      "mmsi": "503799900",
-      "name": "PARANGOOL",
-      "lat": -23.8006,
-      "lon": 151.2189,
-      "sog": 20.8,
-      "cog": 306.8,
-      "nav_status": 0,
-      "last_update": "2026-11-17 22:40:10.690269077 +0000 UTC"
-    },
-    {
-      "mmsi": "431007905",
-      "name": "FERRY DOUGO",
-      "lat": 33.5955,
-      "lon": 136.2394,
-      "sog": 19.8,
-      "cog": 247.5,
-      "nav_status": 0,
-      "last_update": "2026-11-17 22:39:47.961891675 +0000 UTC"
-    },
-    {
-      "mmsi": "277548000",
-      "name": "TULIPA SEAWAYS",
-      "lat": 52.0532,
-      "lon": 3.6681,
-      "sog": 19.6,
-      "cog": 274.8,
-      "nav_status": 0,
-      "last_update": "2026-11-17 22:39:44.585463164 +0000 UTC"
-    },
-    {
-      "mmsi": "605046150",
-      "name": "TASSILI II",
-      "lat": 37.3724,
-      "lon": -1.2221,
-      "sog": 19.6,
-      "cog": 250.3,
-      "nav_status": 0,
-      "last_update": "2026-11-17 22:40:37.401639594 +0000 UTC"
-    },
-    {
-      "mmsi": "636023858",
-      "name": "ATLANTIC KLIPPER",
-      "lat": -34.2041,
-      "lon": 18.2352,
-      "sog": 19.3,
-      "cog": 176.2,
-      "nav_status": 0,
-      "last_update": "2026-11-17 22:40:38.16825832 +0000 UTC"
-    },
-    {
-      "mmsi": "368070380",
-      "name": "TOKITAE",
-      "lat": 45.6388,
-      "lon": -122.7444,
-      "sog": 18.9,
-      "cog": 138.9,
-      "nav_status": 0,
-      "last_update": "2026-11-17 22:40:05.846865939 +0000 UTC"
+      "last_update": "2026-11-18 03:53:14.116789891 +0000 UTC"
     }
   ]
 }
