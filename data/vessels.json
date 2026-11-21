@@ -1,58 +1,120 @@
 {
-  "updated_at": "2026-11-21T14:47:54Z",
-  "count": 2555,
+  "updated_at": "2026-11-21T20:49:47Z",
+  "count": 2312,
   "vessels": [
     {
-      "mmsi": "244951000",
-      "name": "MANTELMEEUW",
-      "lat": 51.4441,
-      "lon": 3.5927,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-11-21 14:47:00.159744363 +0000 UTC"
-    },
-    {
-      "mmsi": "205599090",
-      "name": "OMERTA",
-      "ship_type": 79,
-      "destination": "AMAZONEHAVEN",
-      "lat": 51.9531,
-      "lon": 4.0769,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-11-21 14:47:49.085813794 +0000 UTC"
-    },
-    {
-      "mmsi": "244740285",
-      "name": "ANNA",
-      "lat": 5.243,
-      "lon": 5.3522,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-11-21 14:47:07.679702794 +0000 UTC"
-    },
-    {
-      "mmsi": "235034368",
-      "name": "MULTI-SURVEY 4",
-      "lat": 51.9773,
-      "lon": 4.1219,
+      "mmsi": "338329000",
+      "name": "KINGS POINT",
+      "ship_type": 0,
+      "destination": "US^11XZ>0YRY",
+      "lat": 39.2436,
+      "lon": -76.569,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-11-21 14:47:09.381484929 +0000 UTC"
+      "last_update": "2026-11-21 20:48:45.861432965 +0000 UTC"
     },
     {
-      "mmsi": "250101900",
-      "name": "GUIDING STAR 2",
-      "lat": 51.9002,
-      "lon": -8.4582,
+      "mmsi": "247214700",
+      "name": "BONITA",
+      "lat": 44.4179,
+      "lon": 8.7973,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-11-21 20:48:52.090326968 +0000 UTC"
+    },
+    {
+      "mmsi": "241903000",
+      "name": "DON'T WORRY",
+      "ship_type": 37,
+      "destination": "PIRAEUS",
+      "lat": 37.9409,
+      "lon": 23.6704,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-11-21 20:49:01.769016093 +0000 UTC"
+    },
+    {
+      "mmsi": "244090000",
+      "name": "SEMPER FIDELIS ZK-16",
+      "lat": 53.4092,
+      "lon": 6.2051,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 7,
+      "last_update": "2026-11-21 20:48:56.432212314 +0000 UTC"
+    },
+    {
+      "mmsi": "246087000",
+      "name": "KNRM-WATERSPORT",
+      "lat": 52.7023,
+      "lon": 5.2987,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-11-21 14:47:13.792562432 +0000 UTC"
+      "last_update": "2026-11-21 20:49:02.037886459 +0000 UTC"
+    },
+    {
+      "mmsi": "268267001",
+      "name": "SUUS  (GUARD VESSEL)",
+      "lat": 53.7211,
+      "lon": 8.0746,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-11-21 20:49:05.156035465 +0000 UTC"
+    },
+    {
+      "mmsi": "261182000",
+      "name": "ST-PERUN",
+      "lat": 53.1069,
+      "lon": 8.741,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-11-21 20:49:06.7797418 +0000 UTC"
+    },
+    {
+      "mmsi": "257432460",
+      "name": "GJERT WILHELMSEN II",
+      "lat": 71.0381,
+      "lon": 27.849,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-11-21 20:49:07.282384612 +0000 UTC"
+    },
+    {
+      "mmsi": "503745900",
+      "name": "EGS INDEPENDENCE",
+      "lat": -32.0641,
+      "lon": 115.7472,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-11-21 20:49:08.037498307 +0000 UTC"
+    },
+    {
+      "mmsi": "431001416",
+      "name": "HEISEIMARU NO.2",
+      "lat": 35.6756,
+      "lon": 139.9715,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 0,
+      "last_update": "2026-11-21 20:49:12.522465678 +0000 UTC"
+    },
+    {
+      "mmsi": "503000080",
+      "name": "MANNING",
+      "lat": -33.8671,
+      "lon": 151.2228,
+      "sog": 102.3,
+      "cog": 360,
+      "nav_status": 5,
+      "last_update": "2026-11-21 20:49:16.758371947 +0000 UTC"
     },
     {
       "mmsi": "503201330",
@@ -62,147 +124,89 @@
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-11-21 14:47:14.219868549 +0000 UTC"
+      "last_update": "2026-11-21 20:49:22.726427925 +0000 UTC"
     },
     {
-      "mmsi": "244834000",
-      "name": "SC ONYX",
-      "lat": 55.4724,
-      "lon": 8.4264,
+      "mmsi": "367609130",
+      "name": "BELLA K",
+      "lat": 47.663,
+      "lon": -122.3884,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-11-21 14:47:17.04867301 +0000 UTC"
+      "last_update": "2026-11-21 20:49:23.848770015 +0000 UTC"
     },
     {
-      "mmsi": "601126900",
-      "name": "SEA EXPRESS",
-      "lat": -29.8682,
-      "lon": 31.0142,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-11-21 14:47:22.536976039 +0000 UTC"
-    },
-    {
-      "mmsi": "244615506",
-      "name": "ZUID-HOLLAND-ZUID",
-      "lat": 51.8,
-      "lon": 4.6394,
-      "sog": 102.3,
-      "cog": 360,
+      "mmsi": "111219517",
+      "name": "M 517",
+      "lat": 55.307,
+      "lon": 9.8634,
+      "sog": 102.2,
+      "cog": 254.8,
       "nav_status": 0,
-      "last_update": "2026-11-21 14:47:39.502866721 +0000 UTC"
+      "last_update": "2026-11-21 20:49:02.089036539 +0000 UTC"
     },
     {
-      "mmsi": "428067000",
-      "name": "BAT GALIM",
-      "lat": 32.8202,
-      "lon": 35.0073,
-      "sog": 102.3,
-      "cog": 360,
+      "mmsi": "244020742",
+      "name": "MSTX 12",
+      "ship_type": 49,
+      "destination": "ROTTERDAM",
+      "lat": 51.8933,
+      "lon": 4.3254,
+      "sog": 28.8,
+      "cog": 86.6,
       "nav_status": 0,
-      "last_update": "2026-11-21 14:47:44.394708888 +0000 UTC"
+      "last_update": "2026-11-21 20:49:09.998388601 +0000 UTC"
     },
     {
-      "mmsi": "369990460",
-      "name": "CG29460",
-      "lat": 32.7594,
-      "lon": -79.8733,
-      "sog": 36.1,
-      "cog": 58.3,
+      "mmsi": "259257000",
+      "name": "GODOEY",
+      "lat": 62.4594,
+      "lon": 6.0703,
+      "sog": 27.5,
+      "cog": 35.9,
       "nav_status": 0,
-      "last_update": "2026-11-21 14:47:14.146024132 +0000 UTC"
+      "last_update": "2026-11-21 20:49:25.399925468 +0000 UTC"
     },
     {
-      "mmsi": "367145870",
-      "name": "IYANOUGH",
-      "lat": 41.3598,
-      "lon": -70.1276,
-      "sog": 32.7,
-      "cog": 335.7,
+      "mmsi": "369493667",
+      "name": "CG45667",
+      "lat": 37.7887,
+      "lon": -122.382,
+      "sog": 25.5,
+      "cog": 2.4,
       "nav_status": 0,
-      "last_update": "2026-11-21 14:47:09.161516536 +0000 UTC"
+      "last_update": "2026-11-21 20:48:39.244115177 +0000 UTC"
     },
     {
-      "mmsi": "247413000",
-      "name": "ADRIANA M",
-      "lat": 37.9766,
-      "lon": 12.4306,
-      "sog": 31.2,
-      "cog": 244.8,
+      "mmsi": "244780375",
+      "name": "LYNX (PILOTS)",
+      "lat": 52.0435,
+      "lon": 3.8559,
+      "sog": 24.7,
+      "cog": 241,
       "nav_status": 0,
-      "last_update": "2026-11-21 14:47:02.99262134 +0000 UTC"
+      "last_update": "2026-11-21 20:49:17.29870658 +0000 UTC"
     },
     {
-      "mmsi": "369990185",
-      "name": "CG29185",
-      "lat": 42.3365,
-      "lon": -70.9568,
-      "sog": 31,
-      "cog": 263,
+      "mmsi": "257055660",
+      "name": "LOS 134",
+      "lat": 59.1593,
+      "lon": 5.5066,
+      "sog": 23.1,
+      "cog": 350.1,
       "nav_status": 0,
-      "last_update": "2026-11-21 14:47:28.014512789 +0000 UTC"
+      "last_update": "2026-11-21 20:48:37.928634745 +0000 UTC"
     },
     {
-      "mmsi": "240383000",
-      "name": "DODEKANISOS PRIDE",
-      "lat": 36.5187,
-      "lon": 28.0588,
-      "sog": 29.4,
-      "cog": 116.9,
+      "mmsi": "247279000",
+      "name": "EXCELLENT",
+      "lat": 43.3873,
+      "lon": 7.4137,
+      "sog": 20.3,
+      "cog": 230.6,
       "nav_status": 0,
-      "last_update": "2026-11-21 14:47:25.918477982 +0000 UTC"
-    },
-    {
-      "mmsi": "265628500",
-      "name": "RESCUE TJUSTBANKEN",
-      "lat": 57.8684,
-      "lon": 16.7327,
-      "sog": 28.9,
-      "cog": 78.6,
-      "nav_status": 0,
-      "last_update": "2026-11-21 14:47:17.472985941 +0000 UTC"
-    },
-    {
-      "mmsi": "212769000",
-      "name": "MAGIC 3",
-      "lat": 37.8109,
-      "lon": 23.5975,
-      "sog": 27.7,
-      "cog": 352.5,
-      "nav_status": 0,
-      "last_update": "2026-11-21 14:47:30.644150138 +0000 UTC"
-    },
-    {
-      "mmsi": "219033377",
-      "name": "DC GROENEWIND",
-      "lat": 51.3246,
-      "lon": 2.878,
-      "sog": 26.9,
-      "cog": 163.9,
-      "nav_status": 0,
-      "last_update": "2026-11-21 14:47:49.255542068 +0000 UTC"
-    },
-    {
-      "mmsi": "232039514",
-      "name": "WINDCAT 50",
-      "lat": 52.3982,
-      "lon": 4.3132,
-      "sog": 25.4,
-      "cog": 65.5,
-      "nav_status": 0,
-      "last_update": "2026-11-21 14:47:27.93273277 +0000 UTC"
-    },
-    {
-      "mmsi": "257333000",
-      "name": "KLEPPESTO",
-      "lat": 60.4031,
-      "lon": 5.2531,
-      "sog": 25.2,
-      "cog": 96.3,
-      "nav_status": 0,
-      "last_update": "2026-11-21 14:47:17.155473203 +0000 UTC"
+      "last_update": "2026-11-21 20:48:42.017437446 +0000 UTC"
     }
   ]
 }
