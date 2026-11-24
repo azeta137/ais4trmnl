@@ -1,206 +1,208 @@
 {
-  "updated_at": "2026-11-23T11:15:56Z",
-  "count": 2785,
+  "updated_at": "2026-11-24T06:50:49Z",
+  "count": 2661,
   "vessels": [
     {
-      "mmsi": "601126900",
-      "name": "SEA EXPRESS",
-      "lat": -29.8682,
-      "lon": 31.0141,
+      "mmsi": "368433760",
+      "name": "DEBORAH H VALENTINE",
+      "lat": 29.9192,
+      "lon": -93.8838,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-11-23 11:14:55.988086247 +0000 UTC"
+      "nav_status": 12,
+      "last_update": "2026-11-24 06:49:49.946948162 +0000 UTC"
     },
     {
-      "mmsi": "428067000",
-      "name": "BAT GALIM",
-      "lat": 32.8202,
-      "lon": 35.0073,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-11-23 11:15:03.298803057 +0000 UTC"
-    },
-    {
-      "mmsi": "205545000",
-      "name": "VB PANDA",
-      "lat": 51.33,
-      "lon": 3.1971,
+      "mmsi": "240597300",
+      "name": "ADARA",
+      "ship_type": 37,
+      "destination": "",
+      "lat": 37.9118,
+      "lon": 23.7018,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 5,
-      "last_update": "2026-11-23 11:15:04.450807991 +0000 UTC"
+      "last_update": "2026-11-24 06:50:40.009480678 +0000 UTC"
     },
     {
-      "mmsi": "372077000",
-      "name": "EAST WIND I",
-      "lat": 37.8809,
-      "lon": 23.545,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 1,
-      "last_update": "2026-11-23 11:15:05.078206979 +0000 UTC"
-    },
-    {
-      "mmsi": "368392620",
-      "name": "JACKIE ROBINSON",
-      "lat": 40.7712,
-      "lon": -74.0113,
+      "mmsi": "244108000",
+      "name": "ZK46 ZEEMEEUW",
+      "lat": 53.4477,
+      "lon": 5.9478,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-11-23 11:15:11.083758002 +0000 UTC"
+      "last_update": "2026-11-24 06:50:08.756895771 +0000 UTC"
     },
     {
-      "mmsi": "261011633",
-      "name": "HYDROCAT MURRAY",
-      "lat": 54.3461,
-      "lon": 18.7893,
+      "mmsi": "244615506",
+      "name": "ZUID-HOLLAND-ZUID",
+      "lat": 51.8,
+      "lon": 4.6394,
       "sog": 102.3,
       "cog": 360,
-      "nav_status": 8,
-      "last_update": "2026-11-23 11:15:16.165075774 +0000 UTC"
+      "nav_status": 0,
+      "last_update": "2026-11-24 06:50:18.868584664 +0000 UTC"
     },
     {
-      "mmsi": "235054653",
-      "name": "CATHARINA OF LADRAM",
-      "lat": 50.3986,
-      "lon": -3.5109,
+      "mmsi": "266099000",
+      "name": "VY 43 MINDY",
+      "lat": 57.4218,
+      "lon": 18.9157,
       "sog": 102.3,
       "cog": 360,
       "nav_status": 7,
-      "last_update": "2026-11-23 11:15:36.378148146 +0000 UTC"
+      "last_update": "2026-11-24 06:50:41.115421733 +0000 UTC"
     },
     {
-      "mmsi": "244951000",
-      "name": "MANTELMEEUW",
-      "lat": 51.4441,
-      "lon": 3.5927,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-11-23 11:15:40.141662988 +0000 UTC"
-    },
-    {
-      "mmsi": "211511260",
-      "name": "SPEYER",
-      "lat": 49.3198,
-      "lon": 8.4484,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-11-23 11:15:40.375890129 +0000 UTC"
-    },
-    {
-      "mmsi": "244850108",
-      "name": "RIO GRANDE",
-      "lat": 52.4563,
-      "lon": 5.8233,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 5,
-      "last_update": "2026-11-23 11:15:42.034548113 +0000 UTC"
-    },
-    {
-      "mmsi": "367609130",
-      "name": "BELLA K",
-      "lat": 47.663,
-      "lon": -122.3885,
-      "sog": 102.3,
-      "cog": 360,
-      "nav_status": 0,
-      "last_update": "2026-11-23 11:15:53.03708275 +0000 UTC"
-    },
-    {
-      "mmsi": "367400840",
-      "name": "DRY TORTUGAS",
-      "lat": 38.321,
-      "lon": -76.4531,
+      "mmsi": "369713000",
+      "name": "TRIBUTE",
+      "lat": 0,
+      "lon": 0,
       "sog": 102.2,
       "cog": 360,
       "nav_status": 0,
-      "last_update": "2026-11-23 11:15:23.986473795 +0000 UTC"
+      "last_update": "2026-11-24 06:50:13.488349463 +0000 UTC"
     },
     {
-      "mmsi": "232067832",
-      "name": "ARTEMIS",
-      "lat": 54.6127,
-      "lon": -5.8941,
-      "sog": 33.9,
-      "cog": 41.3,
+      "mmsi": "247151800",
+      "name": "ERACLIDE",
+      "lat": 40.7821,
+      "lon": 14.1772,
+      "sog": 36.2,
+      "cog": 264,
       "nav_status": 0,
-      "last_update": "2026-11-23 11:15:36.12763632 +0000 UTC"
+      "last_update": "2026-11-24 06:50:30.611928486 +0000 UTC"
     },
     {
-      "mmsi": "258352500",
-      "name": "ADMIRALEN",
-      "lat": 60.4023,
-      "lon": 5.2999,
-      "sog": 31.6,
-      "cog": 282.9,
-      "nav_status": 9,
-      "last_update": "2026-11-23 11:15:28.764020932 +0000 UTC"
-    },
-    {
-      "mmsi": "477997220",
-      "name": "XIN MING ZHU XII",
-      "lat": 22.2471,
-      "lon": 114.0642,
-      "sog": 29.5,
-      "cog": 46.9,
-      "nav_status": 5,
-      "last_update": "2026-11-23 11:15:19.481015596 +0000 UTC"
-    },
-    {
-      "mmsi": "258289500",
-      "name": "FJORDGLIMT",
-      "lat": 63.4508,
-      "lon": 10.3379,
-      "sog": 29.1,
-      "cog": 124.1,
+      "mmsi": "257433290",
+      "name": "SUNNFJORD",
+      "lat": 60.4468,
+      "lon": 5.2661,
+      "sog": 31.2,
+      "cog": 345.3,
       "nav_status": 0,
-      "last_update": "2026-11-23 11:15:23.639375377 +0000 UTC"
+      "last_update": "2026-11-24 06:49:51.98317586 +0000 UTC"
     },
     {
-      "mmsi": "265048080",
-      "name": "RESCUE D ROSENBLAD",
-      "lat": 59.7648,
-      "lon": 19.0807,
-      "sog": 29,
-      "cog": 140.5,
+      "mmsi": "512000741",
+      "name": "CLIPPER 3",
+      "lat": -36.8406,
+      "lon": 174.8146,
+      "sog": 29.7,
+      "cog": 82.1,
       "nav_status": 0,
-      "last_update": "2026-11-23 11:14:54.468545958 +0000 UTC"
+      "last_update": "2026-11-24 06:50:05.102548357 +0000 UTC"
     },
     {
-      "mmsi": "477997251",
-      "name": "XIN MING ZHU XIII",
-      "lat": 22.2886,
-      "lon": 114.1016,
-      "sog": 28.4,
-      "cog": 252.2,
-      "nav_status": 5,
-      "last_update": "2026-11-23 11:15:07.876653081 +0000 UTC"
-    },
-    {
-      "mmsi": "241804000",
-      "name": "AERO 3 HIGHSPEED",
-      "lat": 37.8607,
-      "lon": 23.5548,
-      "sog": 27.4,
-      "cog": 33.4,
+      "mmsi": "244615779",
+      "name": "TIGER",
+      "lat": 53.1784,
+      "lon": 5.3921,
+      "sog": 29.3,
+      "cog": 99.5,
       "nav_status": 0,
-      "last_update": "2026-11-23 11:15:44.994491993 +0000 UTC"
+      "last_update": "2026-11-24 06:50:21.207434047 +0000 UTC"
     },
     {
-      "mmsi": "257011900",
-      "name": "HELGOEY TIND",
-      "lat": 58.9563,
-      "lon": 5.9519,
-      "sog": 25.3,
-      "cog": 303.8,
+      "mmsi": "477997211",
+      "name": "XIN MING ZHU XI",
+      "lat": 22.2725,
+      "lon": 114.0513,
+      "sog": 28.5,
+      "cog": 250.7,
       "nav_status": 0,
-      "last_update": "2026-11-23 11:15:12.701235138 +0000 UTC"
+      "last_update": "2026-11-24 06:50:16.488100209 +0000 UTC"
+    },
+    {
+      "mmsi": "241803000",
+      "name": "AERO 2 HIGHSPEED",
+      "lat": 37.7446,
+      "lon": 23.5645,
+      "sog": 28.3,
+      "cog": 23.6,
+      "nav_status": 0,
+      "last_update": "2026-11-24 06:50:41.188891062 +0000 UTC"
+    },
+    {
+      "mmsi": "244150562",
+      "name": "MSTX 14",
+      "lat": 51.9002,
+      "lon": 4.4633,
+      "sog": 27.7,
+      "cog": 277.5,
+      "nav_status": 0,
+      "last_update": "2026-11-24 06:49:49.388361488 +0000 UTC"
+    },
+    {
+      "mmsi": "227658910",
+      "name": "LE CHATELET",
+      "lat": 46.8052,
+      "lon": -2.2753,
+      "sog": 26.1,
+      "cog": 213,
+      "nav_status": 0,
+      "last_update": "2026-11-24 06:49:52.873185551 +0000 UTC"
+    },
+    {
+      "mmsi": "512000465",
+      "name": "DISCOVERY 5",
+      "lat": -36.8377,
+      "lon": 174.8145,
+      "sog": 24.9,
+      "cog": 250.3,
+      "nav_status": 0,
+      "last_update": "2026-11-24 06:49:54.347896981 +0000 UTC"
+    },
+    {
+      "mmsi": "239918000",
+      "name": "SUPERFAST XI",
+      "lat": 36.4912,
+      "lon": 28.0178,
+      "sog": 24.4,
+      "cog": 92,
+      "nav_status": 0,
+      "last_update": "2026-11-24 06:50:29.00113436 +0000 UTC"
+    },
+    {
+      "mmsi": "477997138",
+      "name": "HKK32",
+      "lat": 22.2766,
+      "lon": 114.0592,
+      "sog": 24,
+      "cog": 262.2,
+      "nav_status": 0,
+      "last_update": "2026-11-24 06:50:08.586661397 +0000 UTC"
+    },
+    {
+      "mmsi": "232024430",
+      "name": "WINDCAT 45",
+      "lat": 51.4423,
+      "lon": 2.8414,
+      "sog": 23,
+      "cog": 348.4,
+      "nav_status": 0,
+      "last_update": "2026-11-24 06:49:48.633121555 +0000 UTC"
+    },
+    {
+      "mmsi": "241087000",
+      "name": "BLUE STAR DELOS",
+      "lat": 37.178,
+      "lon": 25.4474,
+      "sog": 22.6,
+      "cog": 230.7,
+      "nav_status": 0,
+      "last_update": "2026-11-24 06:49:51.787624555 +0000 UTC"
+    },
+    {
+      "mmsi": "219001061",
+      "name": "DANPILOT MERKUR",
+      "lat": 54.9363,
+      "lon": 10.8867,
+      "sog": 22.6,
+      "cog": 27.7,
+      "nav_status": 0,
+      "last_update": "2026-11-24 06:50:38.884297685 +0000 UTC"
     }
   ]
 }
